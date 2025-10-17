@@ -15,6 +15,7 @@ namespace Fylt.Infrastructure.Context.Configurations
             builder.Property(x => x.IdLista).HasColumnName("id_lista");
             builder.Property(x => x.IdPelicula).HasColumnName("id_pelicula");
 
+            // Relaciones
             builder.HasOne(x => x.Lista)
                 .WithMany(x => x.Peliculas)
                 .HasForeignKey(x => x.IdLista)

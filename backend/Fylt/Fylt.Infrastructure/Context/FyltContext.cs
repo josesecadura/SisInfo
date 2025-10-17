@@ -5,6 +5,7 @@ namespace Fylt.Infrastructure.Context
 {
     public class FyltContext : DbContext
     {
+        // Definir el contexto de la base de datos para poder usarla
         public FyltContext(DbContextOptions<FyltContext> options) : base(options) { }
 
         // DbSets
@@ -23,9 +24,9 @@ namespace Fylt.Infrastructure.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("sisinf_p3");
+            modelBuilder.HasDefaultSchema("sisinf_p3"); // Establecer el esquema por defecto
 
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(FyltContext).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(FyltContext).Assembly); // Aplicar configuraciones
 
             base.OnModelCreating(modelBuilder);
         }

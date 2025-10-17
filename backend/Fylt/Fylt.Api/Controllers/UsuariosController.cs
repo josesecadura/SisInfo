@@ -9,18 +9,19 @@ namespace Fylt.Api.Controllers
     [Route("[controller]")]
     public class UsuariosController : ControllerBase
     {
-        private readonly IUsuariosService _usuarioService;
-        private readonly ILogger<UsuariosController> _logger;
+        private readonly IUsuariosService _usuarioService; // Servicio inyectado para manejar la lógica de usuarios
+        private readonly ILogger<UsuariosController> _logger; // Logger para registrar eventos y errores
 
-        public UsuariosController(IUsuariosService usuariosService, ILogger<UsuariosController> logger)
+        public UsuariosController(IUsuariosService usuariosService, ILogger<UsuariosController> logger) // Constructor del controlador (con inyección de dependencias)
         {
             _usuarioService = usuariosService;
             _logger = logger;
         }
 
-        [HttpGet("users")]
-        [ProducesResponseType(typeof(ApiResponseBase), 200)]
-        [ProducesResponseType(typeof(ApiResponseBase), 404)]
+        // Métodos CRUD para usuarios
+        [HttpGet("users")] // ruta: GET /usuarios/users
+        [ProducesResponseType(typeof(ApiResponseBase), 200)] // Indica que la respuesta exitosa devolverá un ApiResponseBase
+        [ProducesResponseType(typeof(ApiResponseBase), 404)] // Indica que la respuesta error devolverá un ApiResponseBase
         public async Task<IActionResult> GetAll(CancellationToken ct)
         {
             var usuarios = await _usuarioService.GetAll();

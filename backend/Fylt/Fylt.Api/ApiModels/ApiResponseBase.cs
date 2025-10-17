@@ -7,7 +7,7 @@
         public string? Message { get; set; }
         public object? Data { get; set; }
 
-        // ✅ Métodos de ayuda para crear respuestas estándar
+        // ✅ Métodos de ayuda para crear respuestas estándar (Llamadas que hacen lo mismo pero cambia el Data)
         public static ApiResponseBase Ok(object? data = null, string? message = "Operación exitosa", int statusCode = 200)
         {
             return new ApiResponseBase

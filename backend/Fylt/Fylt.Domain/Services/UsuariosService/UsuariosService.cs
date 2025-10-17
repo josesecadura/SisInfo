@@ -32,9 +32,9 @@ namespace Fylt.Domain.Services.UsuariosService
 
         public async Task<int> CrearUsuarioAsync(CreateUsuarioVO vo)
         {
-            var entity = UsuariosMappers.ToEntity(vo);
-            _fyltContext.Usuarios.Add(entity);
-            await _fyltContext.SaveChangesAsync();
+            var entity = UsuariosMappers.ToEntity(vo); // Mapea el VO a una entidad (tipo Usuario)
+            _fyltContext.Usuarios.Add(entity); // Ve a la tabla Usuarios y añade la nueva entidad
+            await _fyltContext.SaveChangesAsync(); // Guarda los cambios en la base de datos
             return entity.Id;
         }
 

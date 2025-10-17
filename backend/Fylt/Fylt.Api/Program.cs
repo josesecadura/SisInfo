@@ -1,30 +1,30 @@
 using Fylt.Domain;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args); //Crear builder
 
 // Add services to the container.
 
-builder.Services.AddControllers();
-builder.Services.AddDomain();
-builder.Services.AddPersistence(builder.Configuration);
+builder.Services.AddControllers(); //Buscar controladores
+builder.Services.AddDomain(); //Agregar capa de dominio
+builder.Services.AddPersistence(builder.Configuration); //Agregar capa de persistencia
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddEndpointsApiExplorer(); //Explorador de endpoints
+builder.Services.AddSwaggerGen(); //Generador de Swagger
 
 
-var app = builder.Build();
+var app = builder.Build(); //Construir app
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+// Configure the HTTP request pipeline.Si la aplicacion esta en desarrollo que use el swagger 
+if (app.Environment.IsDevelopment()) 
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); //Redireccionar a HTTPS
 
-app.UseAuthorization();
+app.UseAuthorization(); //Usar autorizacion
 
-app.MapControllers();
+app.MapControllers(); //Mapear controladores
 
-app.Run();
+app.Run(); //Correr app
