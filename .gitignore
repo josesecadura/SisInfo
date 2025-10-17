@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/backend/Fylt/.vs
+/backend/Fylt/Fylt.Api/bin/Debug/net9.0
+/backend/Fylt/Fylt.Api/obj
+/backend/Fylt/Fylt.Domain/bin/Debug/net9.0
+/backend/Fylt/Fylt.Domain/obj
+/backend/Fylt/Fylt.Infrastructure/bin/Debug/net9.0
+/backend/Fylt/Fylt.Infrastructure/obj
