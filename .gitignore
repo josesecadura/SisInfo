@@ -10,3 +10,12 @@
 /backend/Fylt/Fylt.Domain/obj
 /backend/Fylt/Fylt.Infrastructure/bin/Debug/net9.0
 /backend/Fylt/Fylt.Infrastructure/obj
+
+
+# Archivos generados por Visual Studio dentro de .vs
+/backend/.vs/**/*.json
+/backend/.vs/**/*.sqlite
+/backend/.vs/**/*.wsuo
+/backend/.vs/**/*.vsidx
+/backend/.vs/**/SemanticSymbols.db
+/backend/.vs/**/CodeChunks.db
