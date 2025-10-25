@@ -20,7 +20,7 @@ namespace Fylt.Infrastructure.DAOs
 
         // Relaciones
         public List<Encuesta>? EncuestasCreadas { get; set; }
-        public Actividades? Actividades { get; set; }
+        public Actividad? Actividades { get; set; }
         public List<UsuarioLista>? UsuarioListas { get; set; }
         public List<UsuarioSeguidor>? SeguidoresUsuarios { get; set; }
     }

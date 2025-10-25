@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Fylt.Domain.VOs.ActividadesVOs
 {
-    internal class ActividadesVO
+    public class CreateActividadVO
     {
+        public int IdUser { get; set; }
+        public string? Genero { get; set; }
+        public string? Actor { get; set; }
     }
 }

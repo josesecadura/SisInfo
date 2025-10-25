@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Fylt.Domain.VOs.ComentarioVOs
 {
-    internal class CreateComentarioVO
+    public class CreateComentarioVO
     {
+        public int IdUser { get; set; }
+        public int IdPelicula { get; set; }
+        public string? Descripcion { get; set; }
+        public int NumLikes { get; set; } = 0;
     }
 }

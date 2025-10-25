@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fylt.Domain.VOs.Api_keyVOs
+namespace Fylt.Domain.VOs.ApiKeyVOs
 {
-    internal class Api_keyVO
+    public class CreateApiKeyVO
     {
+        public string Direccion { get; set; } = null!;
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fylt.Infrastructure.DAOs
 {
-    public class Actividades
+    public class Actividad
     {
         public int IdUser { get; set; }
         public string? Genero { get; set; }

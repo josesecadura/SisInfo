@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Fylt.Infrastructure.Context.Configurations
 {
-    public class ActividadesConfiguration : IEntityTypeConfiguration<Actividades>
+    public class ActividadesConfiguration : IEntityTypeConfiguration<Actividad>
     {
-        public void Configure(EntityTypeBuilder<Actividades> builder)
+        public void Configure(EntityTypeBuilder<Actividad> builder)
         {
             builder.ToTable("actividades");
 
@@ -18,7 +18,7 @@ namespace Fylt.Infrastructure.Context.Configurations
 
             builder.HasOne(x => x.Usuario)
                 .WithOne(x => x.Actividades)
-                .HasForeignKey<Actividades>(x => x.IdUser)
+                .HasForeignKey<Actividad>(x => x.IdUser)
                 .OnDelete(DeleteBehavior.Cascade);
         }
     }

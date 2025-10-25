@@ -1,12 +1,14 @@
-﻿using System;
+﻿using Fylt.Domain.VOs.ComentarioVOs;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Fylt.Domain.Services.ComentarioService
 {
-    internal interface IComentarioService
+    public interface IComentarioService
     {
+        Task<List<ComentarioVO>> GetAll();
+        Task<int> CrearComentarioAsync(CreateComentarioVO vo);
+        Task<bool> UpdateComentarioAsync(ComentarioVO vo);
+        Task<bool> DeleteComentarioAsync(int id);
     }
 }

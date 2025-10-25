@@ -17,7 +17,7 @@ namespace Fylt.Infrastructure.Context
         public DbSet<UsuarioLista> UsuarioListas { get; set; }
         public DbSet<ListaPelicula> ListaPeliculas { get; set; }
         public DbSet<UsuarioSeguidor> UsuarioSeguidores { get; set; }
-        public DbSet<Actividades> Actividades { get; set; }
+        public DbSet<Actividad> Actividades { get; set; }
         public DbSet<Ranking> Rankings { get; set; }
         public DbSet<RankingItem> RankingItems { get; set; }
         public DbSet<ApiKey> ApiKeys { get; set; }

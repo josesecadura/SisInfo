@@ -1,4 +1,8 @@
 ﻿using Fylt.Domain.Services.UsuariosService;
+using Fylt.Domain.Services.ActividadesService;
+using Fylt.Domain.Services.ApiKeyService;
+using Fylt.Domain.Services.EncuestaService;
+using Fylt.Domain.Services.ComentarioService;
 using Fylt.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -13,6 +17,10 @@ namespace Fylt.Domain
         {
             // registra servicios de dominio puros una sola vez (validadores, reglas, etc.)
             services.AddScoped<IUsuariosService, UsuariosService>();
+            services.AddScoped<IActividadService, ActividadService>();
+            services.AddScoped<IApiKeyService, ApiKeyService>();
+            services.AddScoped<IEncuestaService, EncuestaService>();
+            services.AddScoped<IComentarioService, ComentarioService>();
 
             return services;
         }
