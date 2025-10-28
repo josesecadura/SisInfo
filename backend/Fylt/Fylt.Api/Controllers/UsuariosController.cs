@@ -9,19 +9,19 @@ namespace Fylt.Api.Controllers
     [Route("[controller]")]
     public class UsuariosController : ControllerBase
     {
-        private readonly IUsuariosService _usuarioService; // Servicio inyectado para manejar la lógica de usuarios
+        private readonly IUsuariosService _usuarioService; // Servicio inyectado para manejar la lï¿½gica de usuarios
         private readonly ILogger<UsuariosController> _logger; // Logger para registrar eventos y errores
 
-        public UsuariosController(IUsuariosService usuariosService, ILogger<UsuariosController> logger) // Constructor del controlador (con inyección de dependencias)
+        public UsuariosController(IUsuariosService usuariosService, ILogger<UsuariosController> logger) // Constructor del controlador (con inyecciï¿½n de dependencias)
         {
             _usuarioService = usuariosService;
             _logger = logger;
         }
 
-        // Métodos CRUD para usuarios
+        // Mï¿½todos CRUD para usuarios
         [HttpGet("users")] // ruta: GET /usuarios/users
-        [ProducesResponseType(typeof(ApiResponseBase), 200)] // Indica que la respuesta exitosa devolverá un ApiResponseBase
-        [ProducesResponseType(typeof(ApiResponseBase), 404)] // Indica que la respuesta error devolverá un ApiResponseBase
+        [ProducesResponseType(typeof(ApiResponseBase), 200)] // Indica que la respuesta exitosa devolverï¿½ un ApiResponseBase
+        [ProducesResponseType(typeof(ApiResponseBase), 404)] // Indica que la respuesta error devolverï¿½ un ApiResponseBase
         public async Task<IActionResult> GetAll(CancellationToken ct)
         {
             var usuarios = await _usuarioService.GetAll();
@@ -38,7 +38,7 @@ namespace Fylt.Api.Controllers
             var all = await _usuarioService.GetAll();
             var usuario = all.FirstOrDefault(u => u.Id == id);
             if (usuario is null)
-                return NotFound(ApiResponseBase.NotFound($"No se encontró el usuario con ID {id}."));
+                return NotFound(ApiResponseBase.NotFound($"No se encontrï¿½ el usuario con ID {id}."));
             return Ok(ApiResponseBase.Ok(usuario, "Usuario obtenido correctamente."));
         }
 
@@ -78,7 +78,7 @@ namespace Fylt.Api.Controllers
 
             var ok = await _usuarioService.UpdateUsuarioAsync(usuario);
             if (!ok)
-                return NotFound(ApiResponseBase.NotFound($"No se encontró el usuario con ID {id} para actualizar."));
+                return NotFound(ApiResponseBase.NotFound($"No se encontrï¿½ el usuario con ID {id} para actualizar."));
             return Ok(ApiResponseBase.Ok(true, "Usuario actualizado correctamente."));
         }
 
@@ -89,7 +89,7 @@ namespace Fylt.Api.Controllers
         {
             var ok = await _usuarioService.DeleteUsuarioAsync(id);
             if (!ok)
-                return NotFound(ApiResponseBase.NotFound($"No se encontró el usuario con ID {id} para eliminar."));
+                return NotFound(ApiResponseBase.NotFound($"No se encontrï¿½ el usuario con ID {id} para eliminar."));
             return Ok(ApiResponseBase.Ok(true, "Usuario eliminado correctamente."));
         }
     }

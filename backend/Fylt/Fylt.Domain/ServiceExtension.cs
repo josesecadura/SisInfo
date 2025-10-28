@@ -1,4 +1,8 @@
-﻿using Fylt.Domain.Services.UsuariosService;
+﻿using Fylt.Domain.Services.ListasService;
+using Fylt.Domain.Services.PeliculasService;
+using Fylt.Domain.Services.RankingItemsService;
+using Fylt.Domain.Services.RankingsService;
+using Fylt.Domain.Services.UsuariosService;
 using Fylt.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -13,6 +17,10 @@ namespace Fylt.Domain
         {
             // registra servicios de dominio puros una sola vez (validadores, reglas, etc.)
             services.AddScoped<IUsuariosService, UsuariosService>();
+            services.AddScoped<IPeliculasService, PeliculasService>();
+            services.AddScoped<IListasService, ListasService>();
+            services.AddScoped<IRankingItemsService, RankingItemsService>();
+            services.AddScoped<IRankingsService, RankingsService>();
 
             return services;
         }
