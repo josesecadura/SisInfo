@@ -1,0 +1,23 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Fylt.Api/bin/Debug/net9.0
+/Fylt.Api/obj
+/Fylt.Domain/bin/Debug
+/Fylt.Domain/obj
+/Fylt.Infrastructure/bin/Debug/net9.0
+/Fylt.Infrastructure/obj
+/TestProject1/obj/Debug/net9.0/TestProject1.AssemblyInfo.cs
+/TestProject1/obj/Debug/net9.0/TestProject1.AssemblyInfoInputs.cache
+/TestProject1/obj/Debug/net9.0/TestProject1.assets.cache
+/TestProject1/obj/Debug/net9.0/TestProject1.csproj.AssemblyReference.cache
+/TestProject1/obj/Debug/net9.0/TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+/TestProject1/bin/Debug/net9.0/.msCoverageSourceRootsMapping_TestProject1
+/TestProject1/bin/Debug/net9.0/CoverletSourceRootsMapping_TestProject1
+/Fylt.Api/bin/Release/net9.0
+/Fylt.Domain/bin/Release/net9.0
+/Fylt.Infrastructure/bin/Release/net9.0
+/TestProject1/bin/Release/net9.0
+/TestProject1/obj/Release/net9.0
