@@ -1,0 +1,2 @@
+Backend: https://github.com/sercolo111/backend-sisinfo
+Frontend: https://github.com/sercolo111/frontend-sisinfo
