@@ -1,0 +1,785 @@
+Noticias sobre Covid-19 y 2019-nCoV
+en medios de comunicación de España:
+el papel de los medios digitales en
+tiempos de confinamiento
+News on Covid-19 and 2019-nCoV in Spanish media:
+The role of digital media in times of confinement
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+Cómo citar este artículo:
+Lázaro-Rodríguez, Pedro; Herrera-Viedma, Enrique (2020). “Noticias sobre Covid-19 y 2019-nCoV en medios
+de comunicación de España: el papel de los medios digitales en tiempos de confinamiento”. El profesional de
+la información, v. 29, n. 3, e290302.
+https://doi.org/10.3145/epi.2020.may.02
+Artículo recibido el 15-04-2020
+Aceptación definitiva: 28-04-2020
+
+Pedro Lázaro-Rodríguez *
+
+Enrique Herrera-Viedma
+
+https://orcid.org/0000-0002-8756-0507
+
+https://orcid.org/0000-0002-7922-4984
+
+Universidad de Granada
+Departamento de Información y
+Comunicación
+Campus Universitario de Cartuja
+Edificio Máximo. 18071 Granada, España
+pedrolr@ugr.es
+
+Universidad de Granada
+Departamento de Ciencias de la
+Computación e Inteligencia Artificial
+Periodista Daniel Saucedo Aranda, s/n.
+18071 Granada, España
+viedma@decsai.ugr.es
+
+Resumen
+Se analiza la producción de noticias en medios de comunicación de España sobre el coronavirus 2019-nCoV y la enfermedad Covid-19 desde el inicio del brote. Para ello se utilizan noticias recuperadas de la base de datos My news. Se analiza
+el total de noticias en medios de comunicación españoles por tipo de medio; la evolución de la publicación en medios
+digitales considerando períodos de tiempo de cinco días y en dos períodos en base al decreto del estado de alarma (antes y durante); y el volumen de noticias de los principales medios digitales de España. Los resultados muestran que los
+medios digitales son los más usados para publicar sobre el tema, con un aumento claro desde el decreto del estado de
+alarma. Se reflexiona sobre la función de dicho tipo de medio en el confinamiento y sobre el papel esencial que pueden
+tener a la hora de cubrir las necesidades de información de la población. Los medios digitales con mayor número de noticias son abc.es, 20minutos.es y elconfidencial.com. Como aporte final al valor de este trabajo, hay que decir que puede
+servir de base y punto de partida a otros en los que se planteen análisis de contenido de noticias sobre el tema, tratando
+las de un medio concreto o comparando las de varios de ellos.
+
+Palabras clave
+Covid-19; 2019-nCoV; SARS-CoV-2; Pandemias; Crisis sanitarias; Comunicación de salud; Medios digitales; Prensa; Medios de comunicación; Diarios; Periodismo digital; My news; Estado de alarma; Confinamiento; España.
+
+Abstract
+This paper analyses the news on Covid-19 and 2019-nCoV in the Spanish media. This is done by using news retrieved
+from My news database. The analysis includes the total amount of news in Spanish media by type of media; the evolution of the publication in digital media considering various periods of time, and the volume of news in the most used
+Spanish digital media. The results show that digital media are the most used among other types to publish on the topic,
+with a significant increase since the beginning of the alarm state. In this sense, some arguments on the function and
+Financiación
+Este trabajo está soportado por el proyecto Feder de Referencia TIN2016-75850-R.
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+1
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+
+utility of this type of media during the confinement are exposed. Also, the essential role of digital media covering the
+population’s information needs is discussed. The digital media with the largest number publications are abc.es, 20minutos.es, and elconfidencial.com. The value of this work is that it can serve as starting point for others in order to carry out
+content analysis on the subject considering different channels and digital media.
+
+Keywords
+Covid-19; 2019-nCoV; SARS-CoV-2; Pandemics; Health crisis; Health communication; Digital media; Press; Media; Newspapers; Digital journalism; My news; State of Alarm; Confinement; Lockdown; Spain.
+
+1. Introducción
+A finales del mes de enero de 2020 la Organización Mundial de la Salud (WHO por sus siglas en inglés) declaró el brote
+de coronavirus 2019-nCoV como emergencia de salud pública de interés internacional (WHO, 2020a). El día 11 de marzo
+y tras la evaluación permanente del brote y los alarmantes niveles de propagación, gravedad e inacción, la WHO declaró
+a la enfermedad Covid-19 producida por el nuevo coronavirus como pandemia (WHO, 2020b).
+En España esto derivó en la publicación del Real decreto 463/2020, de 14 de marzo, por el que se declaró el estado de
+alarma para la gestión de la situación de crisis sanitaria ocasionada por el 2019-nCoV y Covid-19 (España, 2020a). Desde
+entonces y hasta la fecha de elaboración de este trabajo se han ejecutado 2 prórrogas de dicho estado de alarma los
+días 27 de marzo (España, 2020b) y 10 de abril (España, 2020c), extendiéndolo al menos hasta las 00:00 horas del día
+26 de abril de 2020.
+Ante tal situación la producción científica sobre el tema ha experimentado un alto crecimiento desde múltiples disciplinas. Torres-Salinas (2020) afirma que estamos asistiendo a una gran concentración de recursos científicos para la resolución de un problema concreto, calificando el aumento en la producción como fenómeno clásico bibliométrico de crecimiento exponencial. El carácter multidisciplinar de la investigación desarrollada puede apreciarse en diversos campos,
+con investigaciones sobre la importancia de la implementación y la integración de la telemedicina en los varios países
+(Ohannessian; Duong; Odone, 2020), o en el campo de las ciencias de la computación aplicando técnicas basadas de big
+data, minería de datos e inteligencia artificial, para mejorar la detección del Covid-19 y los efectos adversos que genera
+(Alimadadi et al., 2020; Wang; Ng; Brook, 2020; Yassine; Shah, 2020). También se han llevado a cabo estudios
+Además del valor de la información cienanalizando las implicaciones que la geolocalización puetífica, también cabe destacar el papel de
+de tener en relación con la privacidad de las personas
+la información difundida por medios de
+(Kamel-Boulos; Geraghty, 2020; Ienca; Vayena, 2020;
+difusión impresos y digitales
+McKendry et al. 2020), o análisis temáticos concretos en
+redes sociales como Twitter (Thelwall; Levitt, 2020).
+El valor de la información científica generada se reconoce como fuente de conocimiento en tiempos del 2019-nCoV y el
+Covid-19 especialmente por su intención de mejorar la situación. Pero también cabe destacar el papel de la información
+difundida por medios de difusión impresos y digitales. La importancia de estos medios en España en la situación actual
+se puede entender desde el Real Decreto 463/2020 mencionado anteriormente (España, 2020a). En el apartado 1 del
+Artículo 10 se decreta la suspensión de la apertura al público de locales y establecimientos minoristas, a excepción de algunos establecimientos como los de alimentación, bebidas, etc., y también los relacionados con la papelería y la prensa.
+En la bibliografía científica se reconoce la utilidad para la misma ciencia y la sociedad de llevar a cabo estudios sobre la
+difusión de noticias en medios impresos o digitales. Por ejemplo, existen diversos trabajos que utilizan la base de datos
+My news para analizar temas concretos en esos tipos de medios. Esta base de datos se lanzó en 1995 con el objetivo de
+convertirse en la hemeroteca digital de los diarios impresos de España (Grau-Moracho; Guallar, 2004, p. 468), contando
+actualmente con más de 1.400 fuentes o medios disponibles (My news, 2020a). Es así como se ha convertido en la herramienta de documentación periodística más utilizada entre los profesionales de la información en España (My news,
+2020b). Ejemplos de estudios llevados a cabo utilizando My news analizan las noticias generadas sobre:
+- rankings universitarios en la prensa española (González-Riaño; Repiso; Delgado-López-Cózar, 2014);
+- noticias de la Jornada Mundial de la Salud de 2011 (Repiso; Rodríguez-Pinto; García-García, 2013);
+- agrupación de universidades españolas (Repiso; Merino-Arribas; Chaparro-Domínguez, 2016);
+- visibilidad de las bibliotecas públicas y la lectura en medios de comunicación españoles (Lázaro-Rodríguez; LópezGijón; Herrera-Viedma, 2018);
+- comparación de la prensa digital con la tradicional (Mancinas-Chávez et al., 2019).
+La introducción llevada a cabo desde la producción científica sobre Covid-19 y la importancia de las noticias en medios
+de comunicación, permite definir la realización de un nuevo estudio, a saber, el del análisis del volumen de las noticias
+sobre Covid-19 y 2019-nCoV en medios de comunicación. Un análisis tal puede plantearse en noticias de medios españoles utilizando la base de datos My news, con una atención específica al papel de los medios digitales en tiempos del
+confinamiento actual.
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+2
+
+Noticias sobre Covid-19 y 2019-nCoV en medios de comunicación de España: el papel de los
+medios digitales en tiempos de confinamiento
+
+El principal objetivo de este trabajo es analizar el volumen de noticias generadas en medios de comunicación españoles
+con atención especial al papel que los medios digitales pueden estar teniendo. El análisis que se propone es de base
+cuantitativa y estadística. No obstante, las búsquedas y materiales empleados podrán servir de base y ser usadas en trabajos futuros que se planteen analizar el contenido de las noticias sin ceñirse tan sólo a lo cuantitativo. Ese es también
+un objetivo de este trabajo. Los resultados incluyen:
+- el total de noticias en torno a 2019-nCoV y Covid-19 en medios de comunicación españoles por tipo de medio;
+- la evolución de la publicación en medios digitales en base a diversos períodos de tiempo (considerando intervalos de
+cinco días y también en base a los dos períodos que marcó el decreto del estado de alarma);
+- el volumen de noticias de algunos de los principales medios digitales de España.
+Para ello, el artículo se estructura en cuatro secciones además de esta introducción. En la segunda sección se plantea
+una revisión de la bibliografía científica a modo de marco teórico de referencia para el tema de este trabajo. La revisión
+planteada incluye estudios sobre el papel de los medios de comunicación en situaciones de epidemia o pandemia anteriores y otras enfermedades de gran impacto en la sociedad. La siguiente sección se dedica a los materiales y método
+empleados, seguida de una cuarta para los resultados. La quinta y última es para las consideraciones finales incluyendo
+también una discusión sobre los resultados alcanzados.
+
+2. Marco teórico de referencia
+El papel que pueden desempeñar los medios de comunicación en situaciones de crisis médicas ha sido tratado en numerosos trabajos científicos. Lubens (2015) plantea que los periodistas y los profesionales de la salud comparten una relación de simbiosis durante el brote de una enfermedad, desempeñando ambos grupos un papel relevante con respecto
+a la información, las percepciones de la población, y en lo que a toma de decisiones de los agentes políticos se refiere.
+También afirma que el objetivo de los periodistas es el de informar con responsabilidad para mejorar en la prevención
+de las enfermedades reduciendo el incremento de la ansiedad y el pánico. Por último, plantea como reto del periodismo
+el adelantarse a los hechos lidiando con la rapidez de difusión digital de información errónea y trabajando por mejorar
+la relación entre los medios de comunicación y la ciencia.
+Westlund y Ghersetti (2015) tratan sobre el protagonismo de los medios en tiempos de crisis médicas como las pandemias. Los autores afirman que en situaciones de alerta general generadas por pandemias, terremotos o atentados
+terroristas, aumenta el interés por la información y por las noticias sobre dichos acontecimientos. Todo ello causa una
+alteración en la utilización de medios de comunicación. En su análisis estadístico para la modelización del uso de medios
+de comunicación, los autores concluyen que todas las generaciones de usuarios diarios y también los menos frecuentes
+se plantean recurrir a ellos durante situaciones de crisis como las mencionadas.
+Desde ahí se puede plantear la importancia de los medios digitales en situaciones de crisis de salud pública. Fernández-Luque y Bau (2015) plantean la relación entre temas de salud y medios sociales, resaltando la cantidad de búsquedas y publicaciones sobre salud que se producen en internet. Los autores defienden la necesidad de llevar a cabo investigaciones multidisciplinares para aprender a utilizar las redes sociales. Todo en favor de la salud pública y desarrollando
+herramientas que ayuden en la toma de decisiones por parte de las autoridades sanitarias a todos los niveles.
+En base a la relevancia de los medios de comunicación digitales del mundo actual, cabe destacar el trabajo de Lewison
+(2008). El autor analiza la forma en que se publicó sobre los riesgos del síndrome agudo respiratorio grave (SARS) de
+2003. El análisis se llevó a cabo en medios de siete países, concluyendo una mayor cantidad de publicaciones de noticias
+y con un tono mayor de amenaza en las primeras semanas, y un descenso en las publicaciones y con un cambio de tono
+de moderación en las últimas al empezar a conocer y controlar la forma de contener la enfermedad.
+En 2009 se produjo un brote de pandemia de gripe A (H1N1), conocida también como gripe porcina. Davis et al. (2014)
+exponen cómo se abordó el tema de la pandemia a través de los medios de comunicación. Los gobiernos hicieron uso
+de medios impresos, de radiodifusión y de medios digitales para aconsejar a la población sobre la adopción de prácticas
+de higiene y el cumplimiento del aislamiento social. No obstante a ello, los autores exponen que la población restó gravedad a la pandemia incluso antes de que se supieran con seguridad sus consecuencias definitivas. Los resultados del
+estudio confirmaron la conciencia crítica de la población frente a la narrativa sobre el brote.
+Por su lado, Tausczik et al. (2012) analizan la respuesta de la población al mismo brote de gripe A. En este caso los
+autores comienzan mostrando que los blogs que mencionaban esa gripe incluían en mayor cantidad conceptos como
+ansiedad, salud y muerte, y en menor medida conceptos relacionados con emociones positivas. Concluyen también que
+los cambios en el tono de las publicaciones en los blogs coincidían con los cambios en el tono del uso del lenguaje en la
+cobertura de los periódicos para cada día analizado, confirmando la influencia de estos medios en la población.
+En referencia a la gripe A, cabe destacar también la existencia de estudios utilizando Twitter para analizar el uso de
+términos relacionados con el brote (Chew; Eysenbach, 2010). Los autores plantean un análisis del contenido de tweets,
+validando así a Twitter como instrumento de seguimiento de las tendencias de contenido, sentimiento y atención del
+público en tiempo real durante crisis sanitarias.
+Por último, también en 2009 pero en referencia a la pandemia del dengue en Argentina, Drovetta y Eynard (2011) anae290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+3
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+
+lizaron la construcción mediática del discurso de la versión digital de un medio de comunicación argentino. El análisis
+se llevó a cabo en relación con los diversos significados que circularon en torno a la enfermedad, centrándose en cómo
+fueron entendidos por medio de las noticias los hechos referidos a la enfermedad misma, a los afectados por la enfermedad y al estado y su rol.
+El análisis de los medios de comunicación en situaciones de emergencia y crisis sanitarias también se ha planteado con
+respecto a la epidemia de Ébola de 2014. Towers et al. (2015) plantean el concepto de contagio del miedo estudiando el
+tratamiento del brote de la epidemia en medios de comunicación de Estados Unidos. Los autores afirman que la cobertura
+del brote dominó los medios de comunicación de una forma muy desproporcionada con respecto a la amenaza real que
+podía suponer. Ese hecho es el que toman como base para reflexionar sobre cómo los medios de comunicación pueden
+impulsar tendencias en la percepción de la población sobre temas de salud. En referencia también a medios de comunicación de Estados Unidos, Ihekweazu (2017) argumenta sobre la forma en que los medios pueden influir en la población
+con elementos específicos de la cobertura de las crisis de salud pública tales como el sensacionalismo. En ese sentido, cabe
+destacar también el papel que los medios pueden tener de cara a la difusión de los peligros y la transmisión de los brotes en
+epidemias. Así, resulta relevante la cuestión sobre si una cobertura anticipada de los medios de comunicación a los hechos
+puede conseguir evitar o reducir las consecuencias que los brotes pueden provocar (Fahri, 2014).
+En referencia a redes sociales, también se dispone de estudios sobre su papel en la difusión de información durante la
+epidemia de Ébola en 2014. Oyeyemi, Gabarron y Wynn (2014) analizan los tweets con términos relacionados con dicha
+epidemia en los países de Guinea, Liberia y Nigeria. Lo
+interesante de este estudio es que se analizó la informaLa mayoría de los tweets publicados
+ción clasificándola en cuanto a su corrección o correscontenían información errónea, y éstos
+pondencia con la realidad, llegando a la conclusión de
+tenían mayor alcance y repercusión en
+que la mayoría de los tweets publicados contenían inforcomparación con la correcta
+mación errónea, y de que esta información tenía mayor
+alcance y repercusión en comparación con la correcta.
+Utilizando Twitter se han llevado a cabo también estudios sobre los actores clave en la difusión de información del brote
+del virus Zika de 2015-2016 (Vijaykumar et al., 2018). En dicho estudio se plantea la idea de que el análisis de las redes
+sociales puede permitir a las instituciones de salud pública conocer rápidamente qué información se está difundiendo y
+por quién. Eso serviría para saber con quién colaborar para garantizar la veracidad de la información a difundir.
+En un sentido similar, pero con un análisis en Reddit, Kilgo, Yoo y Johnson (2019) concluyen que las noticias compartidas
+en dicho medio amplificaron el pánico y la incertidumbre en torno al Ébola, algo que no sucedía en la cobertura hecha
+desde los periódicos. Los autores subrayan el hecho de que en épocas de crisis las organizaciones tradicionales de noticias han contribuido al temor y al pánico del público al hacer hincapié especialmente en riesgos e incertidumbres.
+En España, se cuenta también con publicaciones analizando la utilización de las posibilidades transmedia de medios
+digitales en la cobertura del brote de Ébola de 2014 (Costa-Sánchez; Rodríguez-Vázquez; López-García, 2015). En este
+caso, los autores se marcaron el objetivo de analizar si el medio digital Elpaís.com utilizó las posibilidades transmedia
+de su plataforma en la cobertura del primer contagio de Ébola en España. Los resultados confirmaron que el medio no
+realizó una producción periodística transmedia en la cobertura informativa de dicho caso.
+Por último, de máxima actualidad es el trabajo de Casero-Ripollés (2020) sobre el impacto del Covid-19 en el sistema
+de medios con un análisis de las consecuencias comunicativas y democráticas del consumo de noticias durante el brote
+de dicho virus. El autor plantea que las noticias se conciben como un importante recurso para la población en la actual
+crisis sanitaria. Con todo, los resultados del estudio apuntan a la vuelta a medios tradicionales como la televisión y, aún
+más importante, la vuelta al consumo de noticias por parte de la población que con anterioridad a la crisis estaba más
+alejada de la información.
+El marco teórico de referencia planteado sienta las bases del estudio propuesto y la consecución de los objetivos expuestos en la introducción.
+
+3. Materiales y método
+El trabajo se basa en el análisis de noticias en medios de comunicación españoles sobre lo generado en torno al coronavirus 2019-nCoV y a la enfermedad Covid-19. Para recuperarlas se ha utilizado la base de datos My news1.
+Como primera aproximación a la mejor estrategia o ecuación de búsqueda a utilizar, se llevó a cabo una serie de búsquedas avanzadas utilizando los términos siguientes: “coronavirus”, “covid-19”, “2019-nCoV”, “SARS-CoV-2”, y “CoV-SARS-2”.
+Se cruzaron dichos términos especificándolos en el campo de título o subtítulo de las noticias. Aunque lo relacionado al
+2019-nCoV y el Covid-19 surgió a finales del año 2019, sobre coronavirus existe bibliografía general y publicada en forma
+de noticias en medios españoles en años anteriores por ser el 2019-nCoV un tipo de coronavirus. Por ejemplo, el 11 de
+noviembre de 2019, el medio okdiario.com publicó una noticia relacionada con enfermedades de perros y coronavirus,
+pero sin ser específicamente del 2019-nCoV o Covid-19 (okdiario.com, 2020). El tanteo de estos resultados marcó la
+necesidad de tener que delimitar la ventana temporal de las búsquedas a realizar.
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+4
+
+Noticias sobre Covid-19 y 2019-nCoV en medios de comunicación de España: el papel de los
+medios digitales en tiempos de confinamiento
+
+Tras un análisis de los resultados obtenidos en las búsSe detectaron dos noticias de los medios
+quedas generales anteriores, se detectaron dos noticias
+digitales larazon.es y abc.es del día 9 de
+de los medios digitales larazon.es y abc.es del día 9 de
+enero de 2020 que trataban ya de 2019enero de 2020. Ambas tratan ya del 2019-nCoV y el ConCoV y de Covid-19
+vid-19, titulándose la primera “Coronavirus, ¿una nueva
+epidemia amenaza a China? (Pérez, 2020), y la segunda
+“China identifica como un nuevo coronavirus al responsable de la misteriosa neumonía” (abc.es, 2020).
+Tras este primer acercamiento a las búsquedas, se determinó que la ventana temporal de las mismas abarcase desde el
+9 de enero de 2020 hasta el 10 de abril de 2020. Se decidió utilizar la búsqueda profesional de My news mejorando la
+estrategia primera de la búsqueda avanzada lanzando la siguiente ecuación de búsqueda:
+(coronavirus OR “covid-19” OR “2019-nCoV” OR “SARS-CoV-2” OR “CoV-SARS-2” OR koronabirus) &xoptions=contentfields=title:subtitle
+
+A dicha ecuación se añadieron los filtros adicionales de cobertura regional, local y nacional. Cabe señalar que, aunque
+es posible que haya noticias sobre coronavirus no referidas al 2019-nCoV y el Covid-19 desde el día 9 de enero de 2020,
+se asume que si existiesen estarían relacionadas con ambos hechos. Otro aspecto a matizar de la ecuación empleada
+es que se definió en base al precepto de exhaustividad y precisión, contemplando diversas formas de referirse al coronavirus y también en lenguas como el catalán, valenciano, gallego y euskera, para recuperar noticias en medios que las
+utilicen. Por último, las búsquedas que se mencionan en este trabajo fueron realizadas el día 11 de abril de 2020.
+En cuanto al método, se trata de un análisis de base cuantitativa y estadística. Los resultados incluyen:
+- el total de noticias en torno al 2019-nCoV y el Covid-19 en medios de comunicación españoles presentándolas también por tipo de medio (medios digitales, prensa impresa y otros);
+- la evolución de las noticias en medios digitales en períodos de cinco días desde el 9 de enero de 2020, y en base a dos
+períodos de tiempo delimitados por el decreto del estado de alarma en España (desde el 9 de enero de 2020 hasta el
+13 de marzo de 2020, y desde el 14 de marzo de 2020 hasta el 10 de abril de 2020);
+- las noticias publicadas en base a los mismos dos períodos de tiempo anteriores por los principales medios digitales de
+España.
+
+4. Resultados
+El total de noticias recuperadas en torno al 2019-nCoV y
+el Covid-19 y por tipo de medio se muestra en la tabla 1.
+
+Tabla 1. Total de noticias por tipo de medio
+Tipo de medio
+
+El total de noticias publicadas fue de 432.058. Por tipo
+Medios digitales
+de medio 288.78 fueron publicadas en medios digitales
+Prensa impresa
+(66,84%), y 72.273 en prensa impresa (16,73%). El resto
+Otros
+de las noticias fueron publicadas en otros medios (71.004
+Total
+en total representando el 16,43%). De todo ello se puede
+concluir que los medios digitales copan la difusión de noticias sobre el 2019-nCoV y el Covid-19 frente a la prensa impresa y otros medios.
+
+Resultados
+
+Porcentaje
+
+288.781
+
+66,84%
+
+72.273
+
+16,73%
+
+71.004
+
+16,43%
+
+432.058
+
+100,00%
+
+Este hecho es significativo y puede ponerse en relación con el confinamiento actual de la mayoría de las personas en sus
+domicilios decretado desde el 14 de marzo de 2020 en España. Aunque tal y como se comentó en la introducción, los
+servicios y comercios de prensa pudieron seguir con su actividad, en base a estos resultados resulta coherente marcar la
+hipótesis de que el consumo de noticias en medios digitales pudo ser superior al consumo de prensa impresa, habiéndose incrementado dada la situación de confinamiento. No obstante, cabe señalar que el número de noticias publicadas
+no es lo mismo que el consumo que pueda hacerse de las mismas. Pero todo lo anterior sí que fortalece la posibilidad
+de la hipótesis de que los medios digitales estuvieran intentando cubrir las necesidades de información de la población
+desde el decreto de estado de alarma aumentando su número y publicaciones.
+Debido al alto porcentaje de noticias en medios digitales
+sobre 2019-nCoV y Covid-19 respecto del total de noticias (66,84%), en el gráfico 1 se muestra la evolución de
+las noticias en medios digitales por períodos de cinco
+días desde el 9 de enero hasta el 10 de abril de 2020.
+
+El total de noticias recuperadas en torno a 2019-nCoV y Covid-19 resultó de
+432.058, siendo 288.781 en medios digitales (66,84%)
+
+Se aprecia con claridad el incremento constante del volumen de noticias hasta el período que va desde el día 14 al 19 de
+marzo de 2020, en el que se alcanzan las 45.294 noticias. Lo que también se observa es que desde el 9 de marzo hasta
+el 31 del mismo mes, el volumen de noticias es el más denso en comparación con los restantes períodos. Este conjunto
+de períodos es el que coincide con el decreto del estado de alarma en España señalado también en el gráfico. Así, se
+comprueba que el volumen de noticias fue mayor desde dicho decreto, algo que se puede relacionar de nuevo con la
+función de los medios en relación con cubrir las necesidades de información de la población en tiempos de crisis de
+salud pública.
+
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+5
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+
+Gráfico 1. Evolución de noticias en medios digitales por período
+
+Además, tomando como punto de referencia el total de
+En un mes desde el decreto del estado
+noticias publicadas a principios de marzo (15.434 entre el
+de alarma, se publicaron casi el doble de
+26 de febrero y el 2 de marzo de 2020), se puede comprobar el incremento en los períodos desde el 9 de marzo en
+noticias que en los dos meses anteriores
+adelante. En los períodos comprendidos entre el 9 y el 31
+a dicho decreto
+de marzo, el volumen de noticias se dobla con respecto
+al de inicios del mes, quedando cerca de triplicarse en algún caso. Por ejemplo, entre el 14 y el 19 de marzo, se publicaron
+45.294 noticias, lo que supone un incremento de casi el triple de noticias más que con respecto a las 15.434 de principios
+de marzo (concretamente las noticias se multiplican por 2,93). En los últimos períodos que van desde el 1 al 10 de abril, el
+volumen de noticias publicadas decreció, pero aún así seguía quedando cerca de doblar al de inicios de marzo (las noticias
+se multiplicaron respecto de las 15.434 de inicios de marzo por 1,87 entre el 1 y 5 de abril, y por 1,82 entre el 6 y 10 de abril).
+Resulta de especial interés la coincidencia entre el aumento del número de noticias y el decreto de estado de alarma en
+España. En el marco teórico de referencia se señalaron trabajos que trataban sobre cómo los medios podrían estar generando y transfiriendo sensaciones negativas relacionadas con la amenaza, el pánico y el miedo (Lewison, 2008; Tausczik
+et al., 2012; Towers et al., 2015; Kilgo; Yoo; Johnson, 2019). Eso mismo puede plantearse como posibilidad de lo que
+sucedió en el caso analizado en España. No obstante, también puede tratarse de que en tiempos de crisis sanitarias crece el interés por la información y las noticias (Westlund; Ghersetti, 2015), y en ese sentido el aumento del volumen de
+noticias publicadas podría ser consecuencia de una mayor demanda de consumo por parte de la población.
+En cuanto al volumen de noticias según los dos períodos delimitados por el decreto del estado de alarma en España, en
+la tabla 2 se muestran los resultados de las noticias recuperadas.
+Como se observa, desde el decreto del estado de alarma del 14 de marzo se publicaron 184.057 noticias, lo que suTabla 2. Noticias recuperadas según períodos de estado de pre-alarma y alarma
+pone un 63,74% del total. En ese sentido, hay
+que ser conscientes también de que entre el 9
+Período (2020)
+Resultados
+Porcentaje
+de enero y el 13 de marzo de 2020, o estado
+Estado de pre-alarma (09/01-13/03)
+104.724
+36,26%
+de pre-alarma, transcurren algo más de 2 meEstado de alarma (14/03-10/04)
+184.057
+63,74%
+ses. El período de alarma contemplado hasta
+Total
+288.781
+100%
+la elaboración de este trabajo, va desde el 14
+de marzo hasta el 10 de abril de 2020, período
+que no llega al mes. Es decir, en un mes desde el decreto del estado de alarma, se publicaron casi el doble de noticias
+que en los dos meses anteriores a dicho decreto. Con todo, el incremento de las noticias entre los períodos es de 1,76
+veces más, resultado de dividir las 184.057 noticias en el estado de alarma entre las 104.724 publicadas en el denominado estado de pre-alarma.
+Un último paso en los resultados es el del análisis del volumen de las noticias publicadas por los principales medios digitales de España. Para establecer una lista de estos medios, se ha recurrido a los resultados del informe de 2019 sobre
+noticias digitales del Reuters Institute de la Universidad de Oxford (Newman et al., 2019). En dicho informe se constata
+que los medios digitales online más usados en España y relacionados con la prensa son (por orden): El país, El mundo,
+Eldiario.es, 20 minutos, El confidencial, La vanguardia, OKdiario, ABC, y Público. En la tabla 3 se muestran las noticias
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+6
+
+Noticias sobre Covid-19 y 2019-nCoV en medios de comunicación de España: el papel de los
+medios digitales en tiempos de confinamiento
+
+recuperadas en My news según los dos períodos que
+marca el decreto de estado de alarma del 14 de marzo
+(estado de pre-alarma y de alarma) para dichos medios
+digitales españoles.
+
+Resulta de especial interés la coincidencia entre el aumento del número de noticias y el decreto de estado de alarma
+
+Tabla 3. Noticias recuperadas según medios digitales españoles
+Noticias
+Medio digital
+
+Estado pre-alarma
+(09/01/2020-13/03/20)
+
+Estado alarma
+(14/03/20-10/04/20)
+
+Totales
+
+Incremento
+(estado alarma/pre-alarma)
+
+elpais.com
+
+621
+
+1.108
+
+1.729
+
+1,78
+
+elmundo.es
+
+1.040
+
+1.759
+
+2.799
+
+1,69
+
+eldiario.es
+20minutos.es
+
+984
+
+2.070
+
+3.054
+
+2,10
+
+2.376
+
+6.153
+
+8.529
+
+2,59
+
+elconfidencial.com
+
+3.321
+
+4.540
+
+7.861
+
+1,37
+
+lavanguardia.com
+
+1.482
+
+2.068
+
+3.550
+
+1,40
+
+okdiario.com
+
+1.128
+
+2.133
+
+3.261
+
+1,89
+
+abc.es
+
+3.220
+
+5.383
+
+8.603
+
+1,67
+
+elperiodico.com
+
+1.054
+
+1.418
+
+2.472
+
+1,35
+
+899
+
+1.291
+
+2.190
+
+1,44
+
+publico.es
+
+Nota: las búsquedas se llevaron a cabo en la base de datos My news especificando el campo fecha según cada período y seleccionando el medio digital
+concreto. Se realizaron el 11 de abril de 2020 y se revisaron el 29 de abril de 2020. Al respecto, se detectó una pequeña diferencia en el volumen de
+resultados en el período calificado como “estado de pre-alarma” para los medios 20minutos.es y lavanguardia.com: el 11 de abril para 20minutos.es
+se recuperaron 2.437 noticias, y para lavanguardia.com, 1.516. En la tabla se incluyen los resultados revisados del 29 de abril de 2020.
+
+Tal y como se observa, el medio digital con mayor volumen total de noticias es abc.es (8.603), seguido de 20minutos.
+es (8.529) y elconfidencial.com (7.861). En base a la columna sobre el incremento de cada medio en noticias publicadas
+antes y durante el estado de alarma, se aprecia que dicho incremento fue mayor en 20minutos.es, con un incremento del
+2,59 (en el estado de pre-alarma publicó 2.376 noticias, mientras que en el estado de alarma la cifra asciende a 6.153).
+El incremento también destaca por alcanzar el doble
+Entre el 14 y el 19 de marzo, se publicaen el caso de eldiario.es con un incremento del 2,10 (se
+ron 45.294 noticias en medios digitales,
+publicaron 984 en los dos meses previos al estado de
+alarma y 2.070 durante el mes del estado de alarma).
+lo que supone un incremento de casi el
+Por último, okdiario.com también queda cerca de doblar
+triple de noticias más que con respecto a
+el volumen de noticias en el estado de alarma, con un
+las 15.434 de principios de marzo
+incremento del 1,89.
+
+5. Consideraciones finales
+En este trabajo se ha llevado a cabo un análisis de las noticias en medios españoles en torno a 2019-nCoV y Covid-19.
+Para ello, se han utilizado las noticias indexadas en la base de datos My news. El principal objetivo marcado fue el de
+analizar el volumen de noticias sobre el tema en España con atención especial al caso de las publicadas en medios digitales. Por un lado, se ha presentado información en relación con el total de noticias en torno al 2019-nCoV y el Covid-19
+en medios de comunicación españoles por tipo de medio. Por otro lado, se ha mostrado información sobre la evolución
+de la publicación en medios digitales en base a períodos de cinco días desde el 9 de enero y hasta el 10 de abril de 2020
+(fecha en que se inició este estudio), junto con una visión general del volumen de noticias generadas en los períodos de
+antes al decreto del estado de alarma y durante el mismo (hasta el día 13 de marzo y desde el 14 del mismo mes). Por
+último, se ha presentado información sobre el volumen de noticias de los principales medios digitales españoles.
+Se ha constatado que del total de noticias publicadas sobre 2019-nCoV y Covid-19, un alto porcentaje corresponde a
+medios digitales (el 66,84%). En cuanto al incremento del volumen de noticias por períodos, cabe destacar que en los períodos próximos al decreto del estado de alarma, se llega hasta casi triplicar el número de noticias respecto de períodos
+anteriores a dicho decreto. Por otro lado, el volumen de las noticias en medios digitales en España aumentó considerablemente desde el decreto del estado de alarma, representando este conjunto un 63,74% en el total del tiempo analizado. Al respecto hay que tener en cuenta que el período anterior al estado de alarma comprende más de dos meses
+(desde el 9 de enero hasta el 13 de marzo), mientras que el referido al estado de alarma no llega a un mes (desde el 14
+de marzo hasta el 10 de abril). En ese sentido, el papel de los medios digitales puede ser considerado de protagonista en
+lo que a difusión de noticias sobre 2019-nCoV y Covid-19 se refiere.
+Aunque en la introducción se expuso que los servicios y comercios de prensa han podido seguir abiertos durante lo que
+se lleva de estado de alarma, los resultados obtenidos en relación con el volumen de noticias digitales pueden aportar
+valor a este tipo de medio de comunicación, especialmente en tiempos de crisis sanitarias. Además, se ha constatado
+que los medios digitales con mayor volumen de publicación son abc.es, 20minutos.es y elconfidencial.com. Por último,
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+7
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+
+los medios digitales españoles donde se produce el mayor incremento superando el doble de noticias entre el
+estado de alarma y el denominado como pre-alarma son
+20minutos.es y eldiario.es.
+
+El medio con mayor volumen de noticias total fue abc.es (8.603), seguido de
+20minutos.es (8.529) y elconfidencial.
+com (7.861)
+
+En la segunda sección del trabajo se recurrió a otros estudios llevados a cabo con anterioridad para el marco
+teórico de referencia. Estos trabajos analizaban el papel de los medios de comunicación en otras situaciones de crisis
+sanitarias como el SARS de 2003, la gripe A de 2009 o el brote de epidemia de Ébola de 2014. Aunque puede resultar
+complicado discutir los resultados del actual trabajo con los incluidos en la sección mencionada por el hecho de no referirse a los mismos medios de comunicación ni a las mismas crisis sanitarias, sí que se pueden relacionar ciertos aspectos.
+Westlund y Ghersetti (2015) planteaban el protagonismo de los medios en tiempos de crisis médicas con un aumento en
+su uso. Los resultados del presente trabajo muestran que algo similar ha sucedido con los medios españoles en lo que a
+producción de noticias se refiere. Se ha detectado un aumento significativo de su volumen en los períodos cercanos al
+decreto del estado de alarma en España del 14 de marzo. En un sentido similar, Lewison (2008) también constataba un
+aumento de las noticias en las primeras semanas respecto del SARS en 2003, con un descenso en las últimas semanas
+del brote. Aunque aún es pronto para relacionar esos resultados con los del actual trabajo, la evolución del volumen
+de noticias en España confirmó un ligero descenso en su volumen desde principios de abril y tras el gran aumento de
+mediados de marzo.
+El análisis propuesto en este trabajo centrado en los medios digitales confirma la importancia y protagonismo que pueden tener en el consumo de noticias, algo también planteado por Fernández-Luque y Bau (2015). Todo ello se puede
+relacionar también con la dirección marcada por Casero-Ripolles (2020) acerca de que las noticias se conciben como un
+importante recurso para la población en la actual crisis sanitaria. En cuanto a los medios digitales, destacan también los
+análisis en Twitter y Reddit mencionados en referencia a otras situaciones de crisis sanitarias (Chew; Eysenbach, 2010;
+Oyeyemi; Gabarron; Wynn, 2014; Vijaykumar et al., 2018; Kilgo; Yoo; Johnson, 2019). En ese sentido, cabe resaltar que
+ya se han llevado a cabo investigaciones similares en relación con 2019-nCoV y Covid-19 (Thelwall; Levitt, 2020).
+El segundo objetivo marcado en este trabajo fue el de que pueda servir como punto de partida de otros futuros gracias
+a las búsquedas empleadas y resultados alcanzados sin limitarlos tan sólo a análisis cuantitativos de la producción de
+noticias. Utilizando la base de datos My news y las búsquedas aquí expuestas, podrán plantearse estudios basados en
+análisis de contenido de noticias de medios digitales concretos. Se podrían estudiar las tendencias y el tono de las noticias de un mismo medio analizando su evolución e incluso comparándolas con otros medios. Resulta sugerente plantear
+en futuros estudios la comparación del tratamiento y redacción de las noticias en torno al 2019-nCoV y el Covid-19 en
+medios con ideologías políticas diversas.
+Para futuros trabajos basados en el análisis de contenido, se puede seguir el ejemplo de algunos de los incluidos en el
+marco teórico de referencia para analizar el tono de las noticias y la construcción mediática sobre la crisis sanitaria en
+España (Drovetta; Eynard, 2011). En dicho marco teórico se añadieron también diversos estudios que trataban sobre
+cómo los medios pueden generar y transmitir sensaciones negativas relacionadas con la amenaza, el pánico y el miedo
+(Lewison, 2008; Tausczik et al., 2012; Towers et al., 2015; Kilgo; Yoo; Johnson, 2019).
+Al respecto, en los resultados del trabajo desarrollado
+se trató sobre el interés de la coincidencia del aumenResulta muy sugerente plantear en futo del número de noticias con el decreto de estado de
+turos estudios la comparación del traalarma del 14 de marzo en España, llegando casi a triplitamiento y redacción de las noticias en
+carse su volumen. Desde ahí pueden plantearse estudios
+torno a 2019-nCoV y Covid-19 en meanalizando la utilización de conceptos negativos y posidios con ideologías políticas diversas
+tivos en los medios españoles. Por otro lado, el estudio
+de Davis et al. (2014) y el de Ihekweazu (2017) pueden
+considerarse respectivamente para el análisis de la conciencia crítica de la población ante las noticias publicadas y el
+sensacionalismo con que se publica. Por último, el de Fahri (2014) puede ser el punto de partida para analizar si la publicación de noticias con celeridad y con la idea de anticiparse a los hechos puede reducir las consecuencias e incluso
+evitar nuevos brotes de enfermedades.
+Lo más importante de todo ello y que añade valor a este trabajo, es que los posibles trabajos que puedan plantearse
+sobre medios de comunicación y la situación de la crisis generada por 2019-nCoV y Covid-19 pueden tomar a éste como
+punto de partida para alcanzar los fines que se propongan.
+
+6. Notas
+1. Acceso desde la biblioteca electrónica de la Universidad de los autores.
+
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+8
+
+Noticias sobre Covid-19 y 2019-nCoV en medios de comunicación de España: el papel de los
+medios digitales en tiempos de confinamiento
+
+7. Bibliografía
+abc.es (2020). “China identifica como un nuevo coronavirus al responsable de la misteriosa neumonía”. abc.es, 9 enero.
+https://www.abc.es/sociedad/abci-china-identifica-como-nuevo-coronavirus-responsable-misteriosaneumonia-202001091511_noticia.html
+Alimadadi, Ahmad; Aryal, Sachin; Manandhar, Ishan; Munroe, Patricia B.; Joe, Bina; Cheng, Xi (2020). “Artificial intelligence and machine learning to fight Covid-19”. Physiological genomics, v. 52, n. 4, pp. 200-202.
+https://doi.org/10.1152/physiolgenomics.00029.2020
+Casero-Ripollés, Andreu (2020). “Impact of Covid-19 on the media system. Communicative and democratic consequences of news consumption during the outbreak”. El profesional de la información, v. 29, n. 2, e290223.
+https://doi.org/10.3145/epi.2020.mar.23
+Chew, Cynthia; Eysenbach, Gunther (2010). “Pandemics in the age of Twitter: Content analysis of tweets during the
+2009 H1N1 outbreak”. PLoS one, v. 5, n. 11, e14118.
+https://doi.org/10.1371/journal.pone.0014118
+Costa-Sánchez, Carmen; Rodríguez-Vázquez, Ana-Isabel; López-García, Xosé (2015). “Del periodismo transmedia al replicante. Cobertura informativa del contagio de Ébola en España por Elpais.com”. El profesional de la información, v. 24,
+n. 3, pp. 282-290.
+https://doi.org/10.3145/epi.2015.may.08
+Davis, Mark; Lohm, Davina; Flowers, Paul; Waller, Emily; Stephenson, Niamh (2014). “‘We became sceptics’: Fear and
+media hype in general public narrative on the advent of pandemic influenza”. Sociological inquiry, v. 84, n. 4, pp. 499-518.
+https://doi.org/10.1111/soin.12058
+Drovetta, Raquel-Irene; Eynard, Martín (2011). “La construcción de metáforas y adjetivaciones sobre la enfermedad en la
+prensa escrita: el caso de la epidemia de dengue en Córdoba durante abril de 2009”. Saúde e sociedade, v. 20, n. 1, pp. 241-256.
+https://doi.org/10.1590/S0104-12902011000100024
+España (2020a). “Real decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestion de la
+situación de crisis sanitaria ocasionada por el Covid-19”. BOE, n. 67, 14 marzo, pp. 25390-25400.
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3692
+España (2020b). “Orden INT/226/2020, de 15 de marzo, por la que se establecen criterios de actuación para las Fuerzas y
+Cuerpos de Seguridad en relación con el Real decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestion de la situación de crisis sanitaria ocasionada por el Covid-19”. BOE, n. 68, 15 marzo, pp. 25404-25413.
+https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3694
+España (2020c). “Real decreto 487/2020, de 10 de abril, por el que se prorroga el estado de alarma declarado por el
+Real decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestion de la situación de crisis
+sanitaria ocasionada por el Covid-19”. BOE, n. 101, 11 abril, pp. 28858-28861.
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4413
+Fahri, Paul (2014). “If the media had covered ebola sooner, could latest outbreak have been contained?”. Washington
+post, 16 October.
+https://www.washingtonpost.com/lifestyle/style/if-news-media-had-covered-ebola-sooner-could-latest-outbreak-havebeen-contained/2014/10/15/a0db8bea-534c-11e4-809b-8cc0a295c773_story.html
+Fernández-Luque, Luis; Bau, Teresa (2015). “Health and social media: Perfect storm of information”. Healthcare informatics research, v. 21, n. 2, pp. 67-73.
+https://doi.org/10.4258/hir.2015.21.2.67
+González-Riaño, María-Guadalupe; Repiso, Rafael; Delgado-López-Cózar, Emilio (2014). “Repercusión de los rankings
+universitarios en la prensa española”. Revista española de documentación científica, v. 37, n. 3, p. 055.
+https://doi.org/10.3989/redc.2014.3.1128
+Grau-Moracho, Jordi; Guallar, Javier (2004). “My news, la hemeroteca digital de la prensa española”. El profesional de
+la información, v. 13, n. 6, pp. 466-476.
+http://www.elprofesionaldelainformacion.com/contenidos/2004/noviembre/7.pdf
+Ienca, Marcello; Vayena, Effy (2020). “On the responsible use of digital data to tackle the Covid-19 pandemic”. Nature
+medicine, v. 26, n. 4, pp. 463-464.
+https://doi.org/10.1038/s41591-020-0832-5
+Ihekweazu, Chioma (2017). “Ebola in prime time: A content analysis of sensationalism and efficacy information in U.S.
+nightly news coverage of the ebola outbreaks”. Health communication, v. 32, n. 6, pp. 741-748.
+https://doi.org/10.1080/10410236.2016.1172287
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+9
+
+Pedro Lázaro-Rodríguez; Enrique Herrera-Viedma
+
+Kamel-Boulos, Maged N.; Geraghty, Estella M. (2020). “Geographical tracking and mapping of coronavirus disease
+Covid-19/severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) epidemic and associated events around the
+world: How 21st century GIS technologies are supporting the global fight against outbreaks and epidemics”. International
+journal of health geographics, v. 19, n. 1.
+https://doi.org/10.1186/s12942-020-00202-8
+Kilgo, Danielle K.; Yoo, Joseph; Johnson, Thomas J. (2019). “Spreading ebola panic: Newspaper and social media coverage of the 2014 ebola health crisis”. Health communication, v. 34, n. 8, pp. 811-817.
+https://doi.org/10.1080/10410236.2018.1437524
+Lázaro-Rodríguez, Pedro; López-Gijón, Javier; Herrera-Viedma, Enrique (2018). “Visibilidad de las bibliotecas públicas y
+la lectura en medios de comunicación españoles frente a otros hechos de la cultura y relación con su uso: medidas para
+su mayor promoción y difusión”. BiD: textos universitaris de biblioteconomia i documentació, n. 40.
+https://dx.doi.org/10.1344/BiD2018.40.7
+Lewison, Grant (2008). “The reporting of the risks from severe acute respiratory syndrome (SARS) in the news media,
+2003-2004”. Health, risk and society, v. 10, n. 3, pp. 241-262.
+https://doi.org/10.1080/13698570802160962
+Lubens, Pauline (2015). “Journalists and public health professionals: Challenges of a symbiotic relationship”. Disaster
+medicine and public health preparedness, v. 9, n. 1, pp. 59-63.
+https://doi.org/10.1017/dmp.2014.127
+Mancinas-Chávez, Rosalba; Moreno-Cabezudo, José-Antonio; Ruiz-Alba, Noelia (2019): “Liderazgo de la prensa nativa
+digital frente a la prensa de referencia en España. El caso Cifuentes en Eldiario.es, El Confidencial, El País y El Mundo”.
+Revista latina de comunicación social, n. 74, pp. 1434-1451.
+http://doi.org/10.4185/RLCS-2019-1392
+McKendry, Rachel A.; Rees, Geraint; Cox, Ingemar J.; Johnson, Anne; Edelstein, Michael; Eland, Andrew; Stevens, Molly M.; Heymann, David (2020). “Share mobile and social-media data to curb Covid-19”. Nature, v. 580, n. 7801.
+https://doi.org/10.1038/d41586-020-00908-6
+My news (2020a). My news: La hemeroteca digital de prensa escrita moderna de los periódicos españoles.
+http://hemeroteca.mynews.es
+My news (2020b). Qué es My news hemeroteca.
+http://hemeroteca.mynews.es/about
+Newman, Nic; Fletcher, Richard; Kalogeropoulos, Antonis; Nielsen, Rasmus-Kleis (2019). Reuters institute. Digital news
+report 2019. Reuters Institute for the Study of Journalism.
+https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2019-06/DNR_2019_FINAL_0.pdf
+Ohannessian, Robin; Duong, Tu-Anh; Odone, Anna (2020). “Global telemedicine implementation and integration within
+health systems to fight the Covid-19 pandemic: A call to action”. JMIR public health and surveillance, v. 6, n. 2, e18810.
+https://doi.org/10.2196/18810
+okdiario.com (2019). “Enfermedades de perros: el coronavirus”. okdiario.com, 9 enero.
+https://okdiario.com/mascotas/enfermedades-perros-coronavirus-4826709
+Oyeyemi, Sunday-Oluwafemi; Gabarron, Elia; Wynn, Rolf (2014). “Ebola, Twitter, and misinformation: A dangerous
+combination?”. BMJ, v. 349.
+https://doi.org/10.1136/bmj.g6178
+Pérez, Pilar (2020). “Coronavirus, ¿una nueva epidemia amenaza a China?”. La razón, 9 enero.
+https://www.larazon.es/salud/20200109/ibb2zxm2kzhf3azdsonxeuzbf4.html
+Repiso, Rafael; Merino-Arribas, Adoración; Chaparro-Domínguez, María-Ángeles (2016). “Agrupación de las universidades españolas en la prensa impresa nacional”. Revista española de documentación científica, v. 39, n. 2, p. 131.
+https://doi.org/10.3989/redc.2016.2.1292
+Repiso, Rafael; Rodríguez-Pinto, Miguel-Ángel; García-García, Francisco (2013). “Posicionamiento y agrupación de la
+prensa española: análisis de contenido de las noticias generadas en la Jornada Mundial de la Juventud 2011”. Estudios
+sobre el mensaje periodístico, v. 19, n. 2, pp. 1091-1106.
+https://doi.org/10.5209/rev_ESMP.2013.v19.n2.43490
+Tausczik, Yla; Faasse, Kate; Pennebaker, James W.; Petrie, Keith J. (2012). “Public anxiety and information seeking following
+the H1N1 outbreak: Blogs, newspaper articles, and Wikipedia visits”. Health communication, v. 27, n. 2, pp. 179-185.
+https://doi.org/10.1080/10410236.2011.571759
+
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+10
+
+Noticias sobre Covid-19 y 2019-nCoV en medios de comunicación de España: el papel de los
+medios digitales en tiempos de confinamiento
+
+Thelwall, Mike; Levitt, Jonathan M. (2020). “Retweeting Covid-19 disability issues: Risks, support and outrage”. El profesional de la información, v. 29, n. 2, e290216.
+https://doi.org/10.3145/epi.2020.mar.16
+Torres-Salinas, Daniel (2020). “Ritmo de crecimiento diario de la producción científica sobre Covid-19. Análisis en bases
+de datos y repositorios en acceso abierto”. El profesional de la información, v. 29, n. 2, e290215.
+https://doi.org/10.3145/epi.2020.mar.15
+Towers, Sherry; Afzal, Shehzad; Bernal, Gilbert; Bliss, Nadya; Brown, Shala; Espinoza, Baltazar; Jackson, Jasmine; Judson-Garcia, Julia; Khan, Maryam; Lin, Michael; Mamada, Robert; Moreno, Victor M.; Nazari, Fereshteh; Okuneye, Kamaldeen; Ross, Mary L.; Rodríguez, Claudia; Medlock, Jan; Ebeert, David; Castillo-Chávez, Carlos (2015). “Mass media
+and the contagion of fear: The case of ebola in America”. PLoS one, v. 10, n. 6, e0129179.
+https://doi.org/10.1371/journal.pone.0129179
+Vijaykumar, Santosh; Nowak, Glen; Himelboim, Itai; Jin, Yan (2018). “Virtual Zika transmission after the first U.S. case:
+Who said what and how it spread on Twitter”. American journal of infection control, v. 46, n. 5, pp. 549-557.
+https://doi.org/10.1016/j.ajic.2017.10.015
+Wang, C. Jason; Ng, Chun Y.; Brook, Robert H. (2020). “Response to Covid-19 in Taiwan: Big data analytics, new technology, and proactive testing”. Jama, v. 323, n. 14, pp. 1341-1342.
+https://doi.org/10.1001/jama.2020.3151
+Westlund, Oscar; Ghersetti, Marina (2015). “Modelling news media use. Positing and applying the GC/MC model to the
+analysis of media use in everyday life and crisis situations”. Journalism studies, v. 16, n. 2, pp. 133-151.
+https://doi.org/10.1080/1461670X.2013.868139
+WHO (2020a). 2019-nCoV outbreak is an emergency of international concern. World Health Organization.
+http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/01/2019-ncovoutbreak-is-an-emergency-of-international-concern
+WHO (2020b). Alocución de apertura del Director General de la OMS en la rueda de prensa sobre la Covid-19 celebrada
+el 11 de marzo de 2020. World Health Organization.
+https://www.who.int/es/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid19---11-march-2020
+Yassine, Hadi M.; Shah, Zubair (2020). “How could artificial intelligence aid in the fight against coronavirus?”. Expert
+review of anti-infective therapy, 29 March.
+https://doi.org/10.1080/14787210.2020.1744275
+
+https://www.rediris.es/list/info/iwetel.html
+Con unos 6.000 miembros, IweTel es la mayor lista de distribución en castellano para debatir y estar al
+día sobre temas de biblioteconomía y documentación.
+Fue creada en 1993 por Tomàs Baiget, como complemento de Information World en Español (IWE), revista
+que en 1999 pasó a denominarse El profesional de la información (EPI).
+Desde 1998 IweTel está alojada en el servicio de listas de RedIRIS, siendo posible consultar en sus archivos estos 18 años de la historia de la documentación en España:
+https://listserv.rediris.es/cgi-bin/wa?A0=IWETEL
+La lista cuenta con 4 moderadores que permanentemente filtran los mensajes para evitar spam, mensajes inapropiados, anuncios, mensajes repetidos, etc.:
+
+David Gómez (Observatorio de la Infancia de Andalucía),
+Isabel Olea (EPI, León),
+Julio Alonso-Arévalo (Universidad de Salamanca),
+Tomàs Baiget (EPI, Barcelona).
+Puedes suscribirte a IweTel en:
+https://listserv.rediris.es/cgi-bin/wa?SUBED1=IWETEL&A=1
+e290302
+
+El profesional de la información, 2020, v. 29, n. 3. e-ISSN: 1699-2407
+
+11
+
+

@@ -1,0 +1,1291 @@
+ESTRATEGIA DE DETECCIÓN PRECOZ, VIGILANCIA Y
+CONTROL DE COVID-19
+
+Actualizado 12 de noviembre de 2020
+
+Este documento ha sido revisado por la Ponencia de Alertas y Planes de Preparación y Respuesta y
+por la Comisión de Salud Pública del Consejo Interterritorial y presentado al Consejo Interterritorial
+del Sistema Nacional de Salud.
+
+En las recomendaciones de utilización de las diferentes pruebas diagnósticas ha participado la Sociedad de Enfermedades
+Infeccionsas y Microbiología Clínica (SEIMC)
+
+Este documento está en revisión permanente en función de la evolución y nueva información que se disponga de la infección
+por el nuevo coronavirus (SARS-CoV-2).
+
+1
+
+Contenido:
+A. CONTEXTO Y JUSTIFICACIÓN .................................................................................................................. 3
+1.
+
+Objetivo .......................................................................................................................................... 4
+
+B. DETECCIÓN DE CASOS DE INFECCIÓN ACTIVA POR SARS-CoV-2 ........................................................... 4
+1.
+
+Detección de casos de COVID-19 ................................................................................................... 4
+
+2.
+
+Definición y clasificación de los casos ............................................................................................ 5
+
+3.
+
+Estrategias diagnósticas frente a COVID-19 ................................................................................... 6
+
+C. NOTIFICACIÓN Y MANEJO DE CASOS CON INFECCIÓN ACTIVA POR SARS-CoV-2.................................. 9
+1.
+
+Procedimiento de notificación de casos y brotes .......................................................................... 9
+
+2.
+
+Manejo de los casos de COVID-19 con infección activa ............................................................... 10
+Ámbito de atención primaria ........................................................................................................... 10
+Ámbito hospitalario .......................................................................................................................... 10
+Residencias para mayores y otros centros socio sanitarios ............................................................. 10
+Centros penitenciarios y otras instituciones cerradas ..................................................................... 11
+Ámbito laboral .................................................................................................................................. 11
+
+3.
+
+Manejo de casos sintomáticos con nueva PCR positiva y antecedentes de infección resuelta .. 12
+
+D. ESTUDIO Y MANEJO DE CONTACTOS ................................................................................................... 13
+1. Definición de contacto ..................................................................................................................... 13
+2. Manejo de los contactos .................................................................................................................. 13
+E. ESTUDIOS DE CRIBADO ......................................................................................................................... 17
+F. INTERPRETACIÓN DE LAS PRUEBAS SEROLÓGICAS .............................................................................. 19
+G. ANEXOS: ............................................................................................................................................... 21
+Anexo 1. Encuesta para notificación de casos confirmados de covid-19 a nivel estatal ..................... 21
+Anexo 2. Información epidemiológica a notificar de forma agregada ................................................. 23
+Anexo 3. Técnicas diagnósticas de COVID-19. Estado actual ............................................................... 24
+Anexo 4. Ejemplo de hoja de información para el contacto en seguimiento y cuarentena ................ 28
+Anexo 5. Declaración responsable para personas que se desplazan para completar la cuarentena en
+sus lugares de residencia habitual ....................................................................................................... 29
+Anexo 6. Entrevista para los contactos detectados por RADAR-COVID............................................... 30
+
+2
+
+A. CONTEXTO Y JUSTIFICACIÓN
+La detección precoz de todos los casos compatibles con COVID-19 es uno los puntos clave para controlar
+la transmisión. Esto pasa por reforzar los equipos de profesionales de la Atención Primaria (AP)
+garantizando la capacidad diagnóstica y de manejo de casos desde este nivel, asegurando la
+disponibilidad del material necesario para ello, así como la disponibilidad de equipos de protección
+personal. Desde las comunidades autónomas (CC.AA.) se debe garantizar este diagnóstico y reforzar los
+centros de salud para el manejo y seguimiento de los casos. Asimismo, la realización de Pruebas
+Diagnósticas de Infección Activa por SARS-CoV-2 (de ahora en adelante PDIA) debe estar dirigida
+fundamentalmente a la detección precoz de los casos con capacidad de transmisión, priorizándose esta
+utilización frente a otras estrategias.
+La monitorización de la epidemia exige sistemas de información epidemiológica que proporcionen
+información diaria para la toma de decisiones. Para ello, deben hacerse las adaptaciones en los sistemas
+de información sanitaria y de vigilancia epidemiológica que permitan a la Red Nacional de Vigilancia
+Epidemiológica (RENAVE) disponer de la información necesaria, con un nivel de desagregación y detalle
+adecuado, para garantizar una capacidad de reacción rápida que lleve a la adopción de las medidas
+oportunas de control. Así, cada componente de la RENAVE, a nivel de CC.AA. y el nivel nacional (tanto el
+Ministerio de Sanidad como el Centro Nacional de Epidemiología del ISCIII) debe disponer de los recursos
+humanos, especialmente en las unidades de vigilancia epidemiológica, y de los desarrollos tecnológicos
+e informáticos necesarios para la obtención y análisis continuo de los casos y para la gestión adecuada
+de los contactos.
+El seguimiento del nivel de transmisión de la epidemia debe hacerse compaginando la información
+obtenida de distintos niveles, incluyendo centros sanitarios y sociosanitarios tanto públicos como
+privados, laboratorios y servicios de prevención de riesgos laborales. Para ello, los Servicios de Salud de
+las CC.AA. y los servicios asistenciales tanto de la sanidad pública como de las entidades privadas
+adecuarán sus sistemas informáticos para posibilitar la obtención de la información mínima exigida en
+el tiempo y forma indicados en las correspondientes protocolos de actuación y aplicaciones informáticas
+establecidas.
+Es previsible un aumento de las necesidades diagnósticas debido al incremento habitual de las
+infecciones respiratorias, como es el caso de la gripe, en los meses de otoño e invierno, así como a la
+necesidad de poner en marcha estrategias de vigilancia en entornos críticos como son los centros
+educativos. El diagnóstico diferencial en las personas con síntomas respiratorios será clave para
+identificar los casos de COVID-19 y tomar las medidas pertinentes.
+Para hacer frente a este aumento de las necesidades es necesario que las comunidades autónomas
+cuenten con recursos humanos y materiales suficientes. Ante los distintos escenarios que pueden surgir,
+es además importante acordar objetivos comunes en cuanto a las estrategias de diagnóstico, que
+permitan poner en marcha las medidas más oportunas para el control.
+Las CC.AA., con el apoyo de las administración central, deben contar con estrategias ágiles y flexibles
+que permitan adaptarse a la situación epidemiológica y a los recursos disponibles en cada momento y
+3
+
+que garantice la capacidad diagnóstica ante un probable aumento de la demanda. Deben definirse las
+capacidades actualmente disponibles y la forma de aumentar estas capacidades según la evolución
+epidemiológica del COVID-19 y la necesidad de diagnóstico diferencial con las infecciones respiratorias
+agudas.
+Como parte de esta estrategia, de forma continua, las CC.AA. deben revisar el volumen de pruebas
+diagnósticas que se están realizando en cada momento y ajustar sus reservas de material, asegurando
+la disponibilidad de suficientes recursos para evitar roturas de stock, como mínimo de 8 semanas de
+trabajo. Este material debe incluir lo necesario para la realizacón de las pruebas diagnósticas (kits de
+PCR, torundas, medios de transporte para la toma de muestras, soluciones de inactivación, reactivos de
+extracción de ácidos nucleicos, pruebas rápidas de antígenos…) y los equipos de protección personal
+necesarios para realizarlas. Se debe contar con un mecanismo que asegure en épocas de escasez de
+material la prioridad del envío de los mismos hacia los laboratorios que realizan diagnóstico clínico en
+centros sanitarios.
+
+1. Objetivo
+Los objetivos de esta estrategia son:
+1. La detección precoz de los casos con infección activa por SARS-CoV-2.
+2. El establecimiento precoz de las medidas de control necesarias para evitar nuevas infecciones.
+3. La disponibilidad de la información necesaria para la vigilancia epidemiológica, con un nivel de
+desagregación y detalle adecuado.
+
+B. DETECCIÓN DE CASOS DE INFECCIÓN ACTIVA POR SARS-CoV-2
+1. Detección de casos de COVID-19
+En el momento actual, se dispone de dos pruebas de detección de infección activa, una prueba rápida
+de detección de antígenos (Antigen Rapid diagnostic test, Ag-RDT) y una detección de ARN viral
+mediante una RT-PCR o una técnica molecular equivalente. La realización de una u otra, o una secuencia
+de ellas, dependerá del ámbito de realización, la disponibilidad y de los días de evolución de los síntomas
+(ver apartado 3).
+Ante las diferentes pruebas rápidas de detección de antígenos existentes en el mercado, solo deben
+utilizarse aquéllas que cumplan los criterios de la OMS de sensibilidad (S) ≥80% y especificidad (E) ≥97%
+y que hayan seguido estudios independientes de validación por laboratorios clínicos o de referencia a
+nivel nacional o internacional.
+Tanto para RT-PCR como para pruebas rápidas de detección de antígenos, las muestras recomendadas
+para el diagnóstico de infección activa de SARS-CoV-2 son del tracto respiratorio:
+-
+
+Superior: exudado preferiblemente nasofaríngeo y orofaríngeo, o solo exudado nasofaríngeo.
+Inferior: preferiblemente lavado broncoalveolar, broncoaspirado, esputo (si es posible) y/o aspirado
+endotraqueal, especialmente en pacientes con enfermedad respiratoria grave.
+4
+
+Las muestras clínicas deben ser tratadas como potencialmente infecciosas y se consideran de categoría
+B. Si requieren transporte fuera del centro sanitario o del domicilio a un laboratorio, serán transportadas
+en triple embalaje por los procedimientos habituales. Ver Guía para la toma y transporte de muestras
+para diagnóstico por PCR de SARS-CoV-2.
+A toda persona con sospecha de infección por el SARS-CoV-2 (ver definición de caso sospechoso) se le
+realizará una prueba diagnóstica de infección activa por SARS-CoV-2 en las primeras 24 horas. Si la PDIA
+resulta negativa y hay alta sospecha clínica de COVID-19 se valorará repetir la prueba. Si inicialmente se
+realizó una prueba rápida de detección de antígeno, se realizará una PCR. Si inicialmente se realizó una
+PCR, se repetirá la PCR a las 48 horas. Si la PDIA continúa siendo negativa y han trascurrido varios días
+(al menos 7) desde el inicio de los síntomas, se podría plantear la detección de IgM mediante una prueba
+serológica1 tipo ELISA u otras técnicas de inmunoensayo de alto rendimiento.
+Es fundamental tener en cuenta que para el adecuado seguimiento de la pandemia, es necesario
+disponer de información precisa sobre el número de pruebas diagnósticas realizadas. En el caso de las
+PCR, se ha establecido un sistema de información basado en laboratorios (SERLAB) a nivel del Ministerio
+de Sanidad, que lleva en funcionamiento varios meses. En el caso de las pruebas rápidas de antígeno,
+dado que no se realizan a nivel de los laboratorios, es importante que se puedan establecer sistemas de
+registro en todos los puntos de uso que permita tener una trazabilidad completa del número de pruebas
+realizadas y del resultado de las mismas con transmisión de la información al Ministerio de Sanidad.
+En el caso de demanda importante de realización de pruebas, las CC.AA. deben establecer los circuitos
+necesarios para la priorización en la realización de las mismas. La prioridad son los pacientes
+sintomáticos graves o vulnerables, seguido de pacientes que necesiten ingreso hospitalario por otras
+patologías y de otros pacientes sintomáticos. Debe priorizarse también el estudio de brotes en ámbitos
+estratégicos y en determinados entornos como centros sanitarios, sociosanitarios o educativos. Para
+ello, las CC.AA. deben implementar un sistema de solicitud de pruebas de diagnóstico de SARS-CoV-2
+que incluya su categorización en el punto de toma de la muestra en relación con su contexto clínico o
+epidemiológico, y así facilitar la priorización de los estudios microbiológicos por parte de los laboratorios
+de Microbiología.
+
+2. Definición y clasificación de los casos
+Caso sospechoso: cualquier persona con un cuadro clínico de infección respiratoria aguda de aparición
+súbita de cualquier gravedad que cursa, entre otros, con fiebre, tos o sensación de falta de aire. Otros
+síntomas como la odinofagia, anosmia, ageusia, dolor muscular, diarrea, dolor torácico o cefalea, entre
+otros, pueden ser considerados también síntomas de sospecha de infección por SARS-CoV-2 según
+criterio clínico.
+Caso probable: persona con infección respiratoria aguda grave con cuadro clínico y radiológico
+compatible con COVID-19 y resultados de PDIA negativos, o casos sospechosos con PDIA no concluyente.
+
+1
+
+Las muestras recomendadas para las pruebas serológicas son de sangre obtenida por extracción de vía venosa periférica .
+
+5
+
+Caso confirmado
+con infección activa:
+ Persona que cumple criterio clínico de caso sospechoso y con PDIA positiva.
+ Persona que cumple criterio clínico de caso sospechoso, con PDIA negativa y resultado
+positivo a IgM por serología de alto rendimiento (no por test rápidos).
+ Persona asintomática con PDIA positiva con Ig G negativa o no realizada.
+con infección resuelta:
+ Persona asintomática con serología Ig G positiva independientemente del resultado de
+la PDIA (PDIA positiva, PDIA negativa o no realizada).
+Caso descartado: caso sospechoso con PDIA negativa e IgM también negativa (si esta prueba se ha
+realizado) en el que no hay una alta sospecha clínica.
+
+3. Estrategias diagnósticas frente a COVID-19
+Se establecen a continuación las prioridades de utilización de las diferentes PDIA en pacientes con
+síntomas compatibles con COVID-19 y en función de los ámbitos y de las características clínicas de las
+personas en las que se realizan y teniendo en cuenta tanto su utilidad como su disponibilidad. En
+aquellos casos en los que se indica la prueba rápida de detección de antígeno pero esta no esté
+disponible, se realizará RT-PCR. En el anexo 3 se recoge una descripción de las diferentes pruebas
+diagnósticas.
+De forma excepcional, a los pacientes sintomáticos que no se les pueda extraer una muestra de exudado
+nasofaríngeo, se podrá realizar la RT-PCR en muestra de saliva, teniendo en cuenta las limitaciones de
+sensibilidad de este tipo de muestras.
+Personas sin criterios de hospitalización: atención primaria, servicios de urgencia ambulatoria,
+urgencias hospitalarias o puntos específicos de diagnóstico establecidos al efecto.
+ Si la evolución de los síntomas es ≤5 días, realizar prueba rápida de detección de antígeno de
+SARS-CoV-22.
+ Si el resultado es positivo, se confirmará el diagnóstico.
+ Si el resultado es negativo se considera descartada la infección activa.
+ Si la evolución de los síntomas es >5 días, se realizará PCR de exudado nasofaríngeo.
+Centros sanitarios: personas con criterios de hospitalización, trabajadores sanitarios y personas
+hospitalizadas por otras causas que inician síntomas.
+ Se considera válida la realización tanto de una prueba rápida de detección de antígeno de
+SARS-CoV-2 como una PCR en exudado nasofaríngeo3, por lo que se realizará una u otra
+
+2
+
+En una población con prevalencia de infección de entre el 10% y el 30% (como puede ser el caso de las personas con
+síntomas en estos entornos asistenciales), cuando la prueba se hace en los primeros 5 días, el valor predictivo de un resultado
+negativo es de entre el 97,2% y el 99,3%, y el valor predictivo de un resultado positivo es de entre el 94,5% y el 98,5%.
+3 En una población con prevalencia del 50%, el valor predictivo negativo de la prueba rápida de antígeno baja al 93,7%, y el
+valor predictivo positivo sube a 99,4%.
+
+6
+
+
+
+dependiendo de su disponibilidad y de lo que sea más operativo en función del circuito de
+pacientes establecido en el hospital.
+ Si la prueba inicial ha sido PCR y el resultado es negativo pero la sospecha
+clínica/epidemiológica es alta, se repetirá la PCR en exudado nasofaríngeo y se
+podrá descartar otros patógenos como la gripe, y en niños y ancianos, virus
+respiratorio sincitial (VRS).
+ Si la prueba inicial ha sido una prueba rápida de detección de antígeno y el resultado
+es negativo pero la sospecha clínica/epidemiológica es alta y/o han pasado >5 días
+desde el inicio de los síntomas, se realizará la PCR en exudado nasofaríngeo.
+En pacientes con criterios de ingreso en UCI / grandes inmunodeprimidos, se recomienda
+realizar PCR preferentemente de muestra del tracto respiratorio inferior, si es accesible. Se
+considerará descartar otros patógenos respiratorios en función de la disponibilidad e indicación
+clínica, mediante técnicas combinadas de detección de varios genes de algunos patógenos
+respiratorios.
+
+Centros sociosanitarios4: personas trabajadoras y residentes.
+ Realizar prueba rápida de detección de antígeno en exudado nasofaríngeo.
+ Si el resultado es negativo pero la sospecha clínica/epidemiológica es alta y/o han
+pasado >5 días desde el inicio de los síntomas, se realizará la PCR en exudado
+nasofaríngeo. Se podrá descartar otros patógenos como la gripe y, en niños y
+ancianos, el VRS.
+ Si el tiempo de espera del resultado se prevé que pueda ser menor de 24 horas, es preferible
+realizar una PCR.
+
+4
+
+La estrategia para las instituciones penitenciarias se equiparará a la de estos centros.
+
+7
+
+Algortimo 1: Algoritmo diagnóstico en personas con síntomas
+
+8
+
+C. NOTIFICACIÓN Y MANEJO DE CASOS CON INFECCIÓN ACTIVA POR SARS-CoV-2
+1. Procedimiento de notificación de casos y brotes
+Los servicios de vigilancia epidemiológica de Salud Pública de las CC.AA. deben obtener la información
+sobre los casos sospechosos y confirmados tanto en atención primaria como en hospitalaria del sistema
+público y privado así como de los servicios de prevención.
+Los casos confirmados con infección activa son de declaración obligatoria urgente, y desde las unidades
+de salud pública de las CC.AA. se notificarán de forma individualizada al nivel estatal siguiendo la
+encuesta del Anexo 1. Dado que los casos de reinfección es objeto de estudio, de momento no se
+declararán de nuevo al SiViEs.Esta información se enviará a través de la herramienta de vigilancia SiViEs
+que gestiona el Centro Nacional de Epidemiología. Antes de las 12.00 horas se incorporará toda la
+información acumulada y actualizada hasta las 24.00 horas del día anterior. Esta vigilancia está vigente
+desde el día 12 de mayo.
+Los casos que vuelven a presentar sintomatología y una PCR positiva tras haber pasado una infección
+con resolución clínica NO se notificarán como nuevos casos de COVID-19 al sistema de vigilancia ya que
+son objeto de estudio específico y, por tanto, no se declaran como caso nuevo a SiViEs. Estos casos serán
+estudiados por el Centro nacional de Microbiología para su caracterización y poder determinar si
+representan una nueva infección.
+Los casos sospechosos se notificarán de forma agregada al CCAES tal como se indica en el Anexo 2.
+Las unidades de salud pública de las CC.AA enviarán la información de los brotes que se detecten al
+CCAES (alertasccaes@mscbs.es) y al CNE (vigilancia.cne@isciii.es). A efectos de notificación se
+considerará brote cualquier agrupación de 3 o más casos con infección activa en los que se ha
+establecido un vínculo epidemiológico. La información sobre los nuevos brotes notificados se enviará
+semanalmente, los miércoles antes de las 14:00. Esta notificación incluirá información relevante para
+su seguimiento. Además, se actualizarán aquellos brotes abiertos que hayan sufrido cambios relevantes.
+Se considera brote abierto aquel que ha tenido casos en los últimos 28 días, teniendo en cuenta la fecha
+de inicio de síntomas o de diagnóstico si la de síntomas no esta disponible y cerrado aquel sin casos en
+los últimos 28 días). Se considerará brote activo aquel que haya tenido algún caso en los últimos 14 días,
+teniendo en cuenta la fecha de inicio de síntomas o la de diagnóstico si la de síntomas no está disponible.
+Aquellos brotes que se extienden a diferentes ámbitos, siempre que se puedan trazar a un primer caso
+índice, se seguirán considerando como un único brote con múltiples ámbitos (ej. familiar-laboral). Estos
+brotes se denominarán “brotes mixtos”. No es necesario enviar información de los brotes domiciliarios
+(aquellos que únicamente afectan a los convivientes habituales de un mismo domicilio) salvo que tengan
+características especiales o que se expandan a nuevos ámbitos. El CCAES enviará periódicamente (al
+menos una vez a la semana) un informe resumen de la situación.
+
+9
+
+2. Manejo de los casos de COVID-19 con infección activa
+Todos los casos sospechosos se mantendrán en aislamiento a la espera del resultado de la PDIA y se
+iniciará la búsqueda de sus contactos estrechos convivientes. En caso de PDIA negativa, y si no hay una
+alta sospecha clínica ni epidemiológica, el caso se da por descartado y finaliza el aislamiento.
+Ámbito de atención primaria
+En los casos que no requieran ingreso hospitalario y sean manejados en el ámbito de atención primaria,
+se indicará aislamiento domiciliario, siempre que pueda garantizarse el aislamiento efectivo. Cuando
+éste no pueda garantizarse se indicará el aislamiento en hoteles u otras instalaciones habilitadas para
+tal uso. En las personas desplazadas fuera de su localidad de residencia en el momento del diagnóstico,
+las autoridades sanitarias podrán valorar otras alternativas siempre que garanticen la seguridad.
+Siguiendo las recomendaciones del ECDC y el CDC5, el aislamiento se mantendrá hasta transcurridos tres
+días desde la resolución de la fiebre y del cuadro clínico con un mínimo de 10 días desde el inicio de los
+síntomas. No será necesario la realización de una PCR para levantar el aislamiento ni para
+reincorporarse a la actividad laboral. En los casos asintomáticos el aislamiento se mantendrá hasta
+transcurridos 10 días desde la fecha de toma de la muestra para el diagnóstico. El seguimiento será
+supervisado hasta el alta epidemiológica de la forma que se establezca en cada comunidad autónoma.
+Ámbito hospitalario
+Los casos que requieran ingreso hospitalario serán aislados durante su estancia en el hospital siguiendo
+las precauciones estándar, de contacto y precauciones de transmisión por gotas y serán manejados
+según los protocolos de cada centro.
+Los casos que han requerido ingreso hospitalario podrán recibir el alta hospitalaria si su situación clínica
+lo permite aunque su PCR siga siendo positiva, pero se deberá mantener aislamiento domiciliario con
+monitorización de su situación clínica al menos 14 días desde el inicio de síntomas. A partir de estos 14
+días, siempre bajo criterio clínico, se podrá finalizar el aislamiento si han transcurrido tres días desde la
+resolución de la fiebre y el cuadro clínico.
+Residencias para mayores y otros centros socio sanitarios
+En los casos confirmados que sean residentes en centros para mayores o en otros centros sociosanitarios que no cumplan criterios de hospitalización y sean tratados en la residencia, se indicará
+aislamiento en los centros donde residan. El aislamiento se mantendrá hasta transcurridos tres días
+desde la resolución de la fiebre y del cuadro clínico con un mínimo de 14 días desde el inicio de los
+síntomas. El seguimiento y el alta serán supervisados por el médico que haya hecho el seguimiento en
+su centro o de la forma que se establezca en cada comunidad autónoma. Si no puede garantizarse el
+
+5
+
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-guidance-discharge-and-ending-isolationfirst%20update.pdf
+
+10
+
+aislamiento efectivo de los casos leves se indicará el aislamiento en hoteles u otras instalaciones
+habilitadas para tal uso si existe esta posibilidad.
+Debido a la vulnerabilidad de los centros socio-sanitarios, la detección de un solo caso en estas
+instituciones, se considerará un brote a efectos de intervención e implicará la puesta en marcha de las
+medidas de actuación que se aplicarían en otros ámbitos. Además de las actuaciones generales, se
+realizará una PDIA a los contactos estrechos o según la circunstancia, a todos los residentes y personas
+trabajadoras de la misma, en la forma que establezca cada CC.AA.
+Centros penitenciarios y otras instituciones cerradas
+En los casos confirmados que sean internos en centros penitenciarios o en otras instituciones cerradas
+que no cumplan criterios de hospitalización y sean manejados en sus propios centros, se indicará
+aislamiento en los centros donde estén internados. El aislamiento se mantendrá hasta transcurridos tres
+días desde la resolución de la fiebre y del cuadro clínico con un mínimo de 10 días desde el inicio de los
+síntomas. El seguimiento y el alta serán supervisados por el médico que haya hecho el seguimiento en
+su centro o de la forma que se establezca en cada comunidad autónoma.
+Ámbito laboral
+Personal sanitario y sociosanitario
+El personal sanitario y socio-sanitario que resulten casos confirmados y no requieran ingreso
+hospitalario serán manejados de la misma forma que la población general en cuanto al aislamiento.
+Estas personas trabajadoras se podrán reincorporar a su puesto de trabajo tras 10 días del inicio de
+síntomas siempre que permanezcan sin síntomas respiratorios ni fiebre al menos 3 días y tras la
+realización de una prueba de diagnóstico que indique ausencia de transmisibilidad, bien sea por una
+determinación positiva de Ig G por una técnica de alto rendimiento o por una PCR negativa o que, aún
+siendo positiva, lo sea a un umbral de ciclos (Ct) elevado6.
+El personal sanitario y sociosanitario que haya requerido ingreso hospitalario podrá recibir el alta
+hospitalaria si su situación clínica lo permite aunque su PCR siga siendo positiva, pero se deberá
+mantener aislamiento domiciliario con monitorización de su situación clínica al menos 14 días desde el
+inicio de síntomas. A partir de estos 14 días, siempre bajo criterio clínico, se podrá finalizar el aislamiento
+si han transcurrido tres días desde la resolución de la fiebre y el cuadro clínico, y para su reincorporación
+se seguirán los mismos criterios que en el párrafo anterior.
+Otros personas trabajadoras
+Las personas trabajadoras que no sean personal sanitario o sociosanitario serán manejadas de la misma
+forma que la población general en cuanto al aislamiento. El seguimiento y el alta serán supervisados por
+6
+
+Por consenso se admite que un Ct>30-35 equivaldría a una carga viral sin capacidad infectiva. Sin embargo, este criterio debe
+ser validado por el laboratorio responsable en cada caso.
+
+11
+
+su médico de atención primaria o del trabajo, de la forma que se establezca en cada comunidad
+autónoma.
+
+3. Manejo de casos sintomáticos con nueva PCR positiva y antecedentes de
+infección resuelta
+Los casos que vuelven a presentar sintomatología y una PCR positiva tras haber pasado una infección
+con resolución clínica y PCR negativa se manejarán aplicando el siguiente algotirmo:
+
+12
+
+D. ESTUDIO Y MANEJO DE CONTACTOS
+1. Definición de contacto
+El estudio y seguimiento de los contactos estrechos tiene como objetivo realizar un diagnóstico
+temprano en los contactos estrechos que inicien síntomas y evitar la transmisión en periodo
+asintomático y paucisintomático.
+Se clasifica como contacto estrecho :
+-
+
+-
+
+-
+
+Cualquier persona que haya proporcionado cuidados a un caso: personal sanitario o sociosanitario que NO haya utilizado las medidas de protección adecuadas, miembros familiares o
+personas que tengan otro tipo de contacto físico similar.
+De forma general, a nivel comunitario, se considerará contacto estrecho a cualquier persona
+que haya estado en el mismo lugar que un caso, a una distancia menor de 2 metros y durante
+más de 15 minutos. En entornos en los que se pueda hacer una valoración del seguimiento de
+las medidas de prevénción podrá realizarse una valoración individualizada por el servicio de
+prevención de riesgos laborales o el responsable que sea designado para ese fin.
+En el contexto de los centros educativos, se seguirá lo establecido en la Guía de actuación ante
+la aparición de casos de COVID-19 en centros educativos.
+
+El periodo a considerar será desde 2 días antes del inicio de síntomas del caso hasta el momento en el
+que el caso es aislado. En los casos asintomáticos confirmados por PDIA, los contactos se buscarán desde
+2 días antes de la fecha de toma de muestra para diagnóstico.
+Las personas que ya han tenido una infección confirmada por SARS-CoV-2 los 3 meses7 anteriores
+estarán exentos de hacer cuarentena.
+
+2. Manejo de los contactos
+Ante cualquier caso sospechoso, está indicado iniciar la identificación y control de sus contactos
+estrechos convivientes, recomendándoles evitar interacciones sociales. La identificación y control del
+resto de contactos estrechos (no convivientes) se podrá demorar hasta que el caso sea clasificado como
+caso confirmado con infección activa8, a consideración de la comunidad autónoma correspondiente,
+siempre que dicha confirmación pueda garantizarse en el plazo de 24-48 horas. Si la PDIA del caso
+sospechoso resultara negativa, se suspenderá la cuarentena de los contactos.
+Cualquier persona que sea identificada como contacto estrecho deberá ser informada y se iniciará una
+vigilancia activa o pasiva, siguiendo los protocolos establecidos en cada comunidad autónoma. Se
+recogerán los datos epidemiológicos básicos de la forma en que cada comunidad autónoma haya
+establecido, así como los datos de identificación y contacto de todas las personas clasificadas como
+contactos. Se proporcionará a todos los contactos la información necesaria sobre el COVID-19, los
+síntomas de alarma y los procedimientos a seguir durante el seguimiento (Anexo 4).
+Las actuaciones sobre los contactos estrechos serán las siguientes:
+7
+
+Esta valoración está en constante revisión, pero en el momento actual, y según la información publicada por el ECDC
+(https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-reinfection-sars-cov-2?s=08), este periodo
+cubriría la mayoría de los casos de reinfección descritos.
+8 Los casos confirmados con infección resuelta no requieren búsqueda de contactos.
+
+13
+
+
+
+Cuarentena y vigilancia: Se indicará cuarentena durante los 10 días posteriores al último
+contacto con un caso confirmado. Esta es una de las principales medidas de prevención para
+controlar la transmisión. Si no se puede garantizar la cuarentena de los contactos de forma
+rigurosa, se recomienda realizarla en instalaciones de la comunidad preparadas para ello.
+Durante este periodo de 10 días, se indicará que las personas en cuarentena vigilen su estado
+de salud y ante la aparición de cualquier síntoma compatible se comunique al sistema sanitario
+según se establezca en cada CC.AA. De forma adicional, se indicará que durante los 4 días
+siguientes a la finalización de la cuarentena se siga vigilando la posible aparición de síntomas y
+si esto se diera, se deberá permanecer aislado en el domicilio y comunicarlo rápidamente de la
+forma establecida.
+
+
+
+En caso de ser convivientes y no poder garantizar el aislamiento del caso en las condiciones
+óptimas, la cuarentena se prolongará 10 días desde el final del periodo de aislamiento del caso.
+Realización de pruebas diagnósticas en contactos: Siempre que los recursos disponibles lo
+permitan, se realizará una PDIA cercana a la finalización de la cuarentena. Las CC.AA.
+podrán valorar realizar pruebas diagnósticas en otro momento del seguimiento de los contactos
+según su estrategia. Se podrá priorizar la realización de esta prueba a determinados colectivos
+como personas vulnerables, personas que atienden a personas vulnerables, convivientes o
+personas trabajadoras esenciales. En cualquier caso, la cuarentena finalizará a los 10 días de la
+fecha del último contacto.
+La prueba diagnóstica de inicio será preferentemente una PCR. Sin embargo, en función del
+ámbito, de la disponibilidad y operatividad se podrá utilizar un test rápido de detección de
+antígeno (ver algoritmo 2):
+ Si es positiva, el contacto será considerado caso y se manejará como tal.
+ Si es negativa, y se realiza en cualquier momento anterior a los 10 días tras el último
+contacto, se deberá cumplir la cuarentena hasta el día 10.
+ En el ámbito sanitario se hace necesario garantizar un adecuado valor predictivo
+negativo9, por lo que ante un resultado negativo de la prueba rápida de antígeno se
+debe realizar una PCR.
+Lugar de la cuarentena: Se indicará al contacto que durante la cuarentena permanezca en su
+domicilio, preferentemente en una habitación individual, y que restrinja al mínimo las salidas de
+la habitación, que siempre se realizarán con mascarilla quirúrgica. También se le pedirá que
+restrinja al máximo posible el contacto con convivientes. El contacto se deberá organizar para
+no realizar ninguna salida fuera de su casa que no sea excepcional durante su periodo de
+cuarentena.
+En personas que se encuentren desplazadas fuera de su localidad de residencia en el momento
+de su identificación como contactos, se permitirá el retorno a su lugar de residencia para la
+finalización de la cuarentena siempre y cuando: el alojamiento previsto en su lugar de residencia
+garantice las condiciones necesarias para la cuarentena, el desplazamiento se realice en un
+medio de transporte privado, se pueda garantizar el cumplimiento de todas las medidas de
+precaución establecidas para el manejo de contactos durante el trayecto y se haya informado y
+
+
+
+
+
+
+
+9
+
+Los centros sanitarios y sociosanitarios son contextos de muy alto riesgo para la COVID-19, por lo que es imprescindible que
+las estrategias diagnósticas en estos centros garanticen un elevado Valor Predictivo en los resultados Negativos (alta
+probabilidad de que los que dan negativo a la estrategia diagnóstica no están infectados).
+
+14
+
+
+
+
+
+autorizado el desplazamiento por las autoridades de salud pública implicadas. Para ello, el
+contacto fimará un documento de declaración de responsabilidad (Ver Anexo 5).
+Si el contacto presentara algún síntoma de caso sospechoso en el momento de su identificación,
+se manejará de la forma establecida para los casos sospechosos. Igualmente, si durante el
+seguimiento el contacto desarrollara síntomas, pasará a ser considerado caso sospechoso,
+deberá hacer autoaislamiento inmediato en el lugar de residencia y contactar de forma urgente
+con el responsable que se haya establecido para su seguimiento o con el 112/061 indicando que
+se trata de un contacto de un caso de coronavirus.
+En determinadas situaciones, las CC.AA. podrán establecer pautas de seguimiento específicas
+ante contactos que realicen actividades consideradas esenciales.
+
+Algoritmo 2: Algoritmo en contactos estrechos asintomáticos
+
+15
+
+
+
+Otras recomendaciones:
+ Se le indicará la realización frecuente de lavado de manos (con agua y jabón o soluciones
+hidro-alcohólicas) especialmente después de toser, estornudar y tocar o manipular
+pañuelos u otras superficies potencialmente contaminadas.
+ Estas personas deben estar localizables a lo largo del periodo de seguimiento.
+ Todos los contactos deben evitar la toma de antitérmicos sin supervisión médica
+durante el periodo de vigilancia para evitar enmascarar y retrasar la detección de la
+fiebre.
+ Si cualquier PDIA realizada a los contactos diera positiva, el contacto pasaría a ser
+considerado caso confirmado realizando autoaislamiento inmediato en el lugar de
+residencia o donde las autoridades sanitarias establezcan. Adicionalmente, deberá
+realizarse la identificación de sus contactos estrechos.
+ Si el contacto sigue asintomático al finalizar su periodo de cuarentena podrá
+reincorporarse a su rutina de forma habitual. En caso de que las medidas establecidas
+para el seguimiento de un contacto conlleven la imposibilidad de que éste continúe con
+su actividad laboral, deberá comunicar dicha contingencia a la empresa o a su servicio
+de prevención siguiendo lo establecido en el Procedimiento de actuación para los
+servicios de prevención de riesgos laborales frente a la exposición al SARS-COV-2 (COVID19).
+
+
+
+Manejo de contactos localizados a través de la aplicación Radar-COVID
+ Los contactos identificados a partir de la aplicación Radar-COVID recibirán en la
+aplicación unas recomendaciones generales de prevención e higiene: mantener la
+distancia de seguridad de al menos 1,5 metros, evitar acudir a eventos o lugares con
+muchas personas así como limitar los contactos sociales, evitar el contacto con personas
+vulnerables como personas mayores o enfermas, usar siempre mascarilla y lavarse las
+manos frecuentemente.
+ Además, recibirán la recomendación específica de ponerse en contacto con la
+estructura o unidad que la comunidad autónoma haya dispuesto para la gestión de los
+contactos identificados por la aplicación.
+ Cada comunidad autónoma decidirá el mecanismo utilizado para la gestión de los
+contactos detectados.
+ Una posibilidad es la realización, por la unidad designada en la comunidad autónoma,
+de una entrevista al contacto identificado por la app, para establecer un posible vínculo
+con un caso confirmado de COVID o para investigar la posibilidad de que haya realizado
+alguna actividad en la que haya podido tener una exposición de riesgo (en el anexo 6 se
+presenta una propuesta de entrevista a contactos identificados por la aplicación).
+o En caso de que se pueda identificar el posible caso índice, se manejará de la
+misma manera que los contactos estrechos identificados de forma manual y se
+indicará un test rápido de detección de antígeno.
+o En caso de que no se identifique ningún contacto con un caso confirmado
+conocido, se actuará en función de la valoración de riesgo obtenida en la
+entrevista y, si se considera indicado, se podrá programar una cita para la
+
+16
+
+
+
+
+
+
+realización de un test rápido de detección de antígeno, siempre dentro de los
+10 días posteriores a la última exposición de riesgo.
+Las comunidades autónomas que no se planteen la realización de la entrevista podrán
+indicar directamente la realización de un test rápido de detección de antígeno o,
+únicamente, el seguimiento de las recomendaciones generales de prevención e higiene.
+Si se le realiza un test rápido de detección de antígeno se manejará según se indica en
+el manejo de contactos estrechos en el ámbito comunitario.
+En el momento de realización del test rápido de detección de antígeno se verificará que
+efectivamente la persona que acude tiene una alerta de contacto estrecho en su
+aplicación, para lo que será necesario solicitar al usuario mostrar la alerta generada en
+su dispositivo. Se le pedirá que abra la aplicación delante del sanitario para comprobar
+que se trata de una alerta y no de una captura de pantalla.
+
+E. ESTUDIOS DE CRIBADO
+Los estudios de cribados son aquellos realizados sobre personas asintomáticas. Sólo podría considerarse
+su realización en determinadas situaciones que se exponen a continuación y siempre bajo la
+recomendación de las autoridades de salud pública.
+Hay que tener también en cuenta que los estudios de cribado poblacionales han de estar muy dirigidos
+y relacionados con una alta transmisión en el área geográfica o en la población diana del cribado, y con
+un objetivo de realizar una intervención de salud pública según los resultados de dichos cribados.
+Cribado con pruebas diagnósticas de infección activa
+Se plantea su realización en los siguientes escenarios:
+ En estrategias indicadas por las autoridades de salud pública dirigidas a determinados grupos o
+poblaciones:
+ Se propone de preferencia la realización de PCR en exudado nasofaríngeo mediante su
+análisis en lotes (pooling) para optimizar recursos de PCR10.
+ Si los recursos de PCR estuvieran limitados y hubiera suficiente disponibilidad de pruebas
+rápidas de detección de antígeno, se pueden realizar los cribados con éstas, si bien sería
+necesario confirmar los casos positivos mediante PCR11 si la prevalencia de la enfermedad
+es baja.
+ Entornos sanitarios o socio-sanitarios (personas trabajadoras y residentes en centros
+sociosanitarios)
+ Se plantea utilizar la PCR en exudado nasofaríngeo12, pudiéndose considerar su análisis en
+forma de lotes (pooling) para optimizar recursos.
+ Nuevos ingresos en centros sanitarios o sociosanitarios o de forma previa a algunas actuaciones
+asistenciales:
+
+10
+
+El pool testing es eficaz en entornos de baja prevalencia. Con prevalencias mayores de 1-2% ya deja de ser eficaz.
+se ha señalado anteriormente, con prevalencia <1%, el valor predictivo positivo es <62%.
+12En este contexto, la rapidez no es tan necesaria y la toma de muestras se puede programar, por lo que se emplea la mejor
+técnica diagnóstica teniendo en cuenta que se realizan en entornos vulnerables.
+11Como
+
+17
+
+
+
+Se recomienda realizar PCR en exudado nasofaríngeo.
+
+Algoritmo 3: Algoritmo en cribados
+
+18
+
+F. INTERPRETACIÓN DE LAS PRUEBAS SEROLÓGICAS
+Según la evidencia actual, la OMS13 únicamente recomienda el uso de test rápidos de anticuerpos para
+determinadas situaciones y estudios, y con fines de investigación. Las pruebas de detección rápida de
+anticuerpos no se consideran adecuadas para el diagnóstico de infección aguda. Tampoco la serología
+tipo ELISA u otras técnicas de inmunoensayo de alto rendimiento están indicadas por sí solas para el
+diagnóstico en la fase aguda de la enfermedad.
+No se recomienda la realización de cribados mediante la realización de pruebas serológicas, por las
+dificultades de interpretación de los resultados en personas asintomáticas y de bajo riesgo y las
+implicaciones en su manejo. En cualquier caso, si de forma excepcional se realizara, la interpretación
+de los resultados de estas pruebas y las actuaciones a seguir se indican en la siguiente tabla:
+Resultados
+anticuerpos
+
+Realizar PCR
+
+Interpretación
++
+
+Ig totales positivas
+
+Sí
+-
+
+1
+
+IgM positiva
+IgG negativa
+
+IgM positivo
+IgG positivo
+IgM negativo
+IgG positivo
+
++
+
+Caso confirmado con
+infección activa
+
+-
+
+Falso positivo de Ig M
+
+Sí
+
+No
+
+Interpretar según
+algoritmo*
+Caso confirmado con
+infección resuelta
+
+Caso confirmado con
+infección resuelta
+
+Actuaciones
+Actuar según algoritmo*
+No aislamiento
+No búsqueda de contactos
+Aislamiento 10 días
+Búsqueda de contactos desde 2 días
+antes del diagnóstico
+No aislamiento
+No búsqueda de contactos
+No aislamiento
+No búsqueda de contactos
+
+1 Si
+
+es una prueba diagnóstico solo con IgM y ésta es positiva, debido a la heterogeneidad de los test empleados con
+diferentes sensibilidades y especificidades, se ha de acompañar un resultado de PCR.
+*Ver algoritmo en el siguiente apartado.
+
+13
+
+https://www.who.int/news-room/commentaries/detail/advice-on-the-use-of-point-of-care-immunodiagnostic-tests-forcovid-19.
+
+19
+
+Si en el contexto de un estudio de un caso asintomático con PDIA positiva se realizara un estudio
+serológico, se interpretará de acuerdo al siguiente algoritmo:
+
+Asintomáticos* con PDIA+
+
+Si se realiza serología**
+
+Si no se realiza
+
+Ig G negativa
+
+Ig G positiva
+
+Infección activa
+(dentro del periodo de transmisibilidad)
+
+Infección resuelta
+(fuera del periodo de transmisibilidad)
+
+Aislamiento: durante 10 días
+Búsqueda de contactos: desde 2 días antes
+del diagnóstico.
+
+Aislamiento: no requiere
+Búsqueda de contactos: no requiere
+
+* Se definen como asintomáticos aquellos casos que no refieren haber presentado síntomas compatibles o
+aquellos que, habiéndolos presentado, hace más de 10 días que se encuentran asintomáticos.
+**Serología de alto rendimiento: ELISA, CLIA, ECLIA o técnicas similares. Para esta interpretación serológica
+no se tendrá en cuenta el resultado de la Ig M ni de la Ig A.
+
+En el caso de personas que vuelven a tener síntomas compatibles con COVID-19, que tuvieron una PCR
+previa positiva que negativizó y que se les realiza una nueva PCR con resultado positivo, la aplicación de
+este algoritmo podría ser válida pero su interpretación debe ser complementada con otra información
+microbiológica (el umbral de ciclo -Ct- en el que la PCR es positiva, mayor o menor de 30 ciclos) y con la
+clínica y el tiempo transcurrido hasta la repositivización, entre otros. Aunque desde el punto de vista
+teórico no se puede descartar ni la reinfección ni la reactivación, éstas no han sido demostradas. En
+cualquier caso, se ha de individualizar la interpretación de esta repositivización y actuar de acuerdo a
+ella. Estas recomendaciones pueden verse modificadas según los resultados de lo estudios que se están
+realizando o que se puedan realizar en el futuro.
+20
+
+G. ANEXOS:
+Anexo 1. Encuesta para notificación de casos confirmados de covid-19 a nivel estatal
+1.
+
+Datos identificativos del caso:
+Identificador del caso para la comunidad autónoma: ________________
+Sexo:
+Hombre
+Mujer
+Fecha nacimiento: __ __ / __ __ / __ __ __ __ Edad: ____ (si no se dispone de fecha de nacimiento)
+Lugar de residencia
+CC.AA.: __________
+Provincia: _________
+Código postal:______
+Municipio:_______
+
+2.
+
+Datos clínicos
+Fecha de consulta14: (día, mes, año) _ _ / _ _ / _ _ _ _
+Síntomas
+SI
+NO
+En caso afirmativo indicar la fecha de inicio de síntomas (día, mes, año)
+
+__/__/____
+
+3.
+
+Personal sanitario15 que trabaja en (respuesta única)
+Centro sanitario
+Centro socio-sanitario
+Otros centros
+No personal sanitario
+
+4.
+
+Ámbito de posible exposición en los 10 días previos16 (respuesta única)
+Centro sanitario
+Centro sociosanitario
+Domicilio
+Laboral
+Escolar
+Otros
+Desconocido
+
+5.
+
+Caso importado de otro país (caso que ha permanecido fuera de España durante todo el periodo de incubación)
+SI
+NO
+
+6.
+
+Contacto con caso confirmado conocido en los últimos 10 días.
+SI
+NO
+
+7.
+
+Fecha de diagnóstico17 _ _ / _ _ / _ _ _
+
+14
+
+La fecha de consulta se refiere a la fecha de contacto con el sistema sanitario. En caso de que el paciente acuda a urgencias
+sería la fecha de entrada en urgencias. En el caso de positivos tras cribados no habría que poner ninguna fecha
+15 Personal sanitario incluye a los profesionales de la salud, a los técnicos sanitarios y al personal auxiliar en el cuidado de
+personas.
+16 Ámbito en el que a juicio de la persona que valora el caso se ha producido la transmisión de la infección.
+17 La fecha de diagnóstico se refiere a la fecha de resultado de la prueba. En caso de disponer de varias fechas se refiere a la
+primera fecha de resultado que defina el caso como confirmado.
+
+21
+
+8.
+
+Pruebas diagnósticas positivas
+PCR/Técnicas moleculares
+ELISA18
+Test rápido de Anticuerpos
+Detección de antígeno
+
+9.
+
+Aislamiento del caso e identificación de los contactos
+Fecha de aislamiento del caso _ _ / _ _ / _ _ _ _
+Número de contactos estrechos identificados desde 2 días antes del comienzo de síntomas hasta la fecha de
+aislamiento del caso: _________
+
+10. Evolución clínica
+Ingreso Hospital Si
+Ingreso en UCI Si
+
+No
+No
+
+F. ingreso hospital _ _ / _ _ / _ _ _ _ Fecha de alta_ _ / _ _ / _ _ _ _
+F. ingreso UCI
+__/__/____
+
+11. Resultado al final del seguimiento
+Fallecimiento
+Alta al final de seguimiento
+Fecha (de fallecimiento o alta)
+
+18
+
+__/__/____
+
+ELISA u otras técnicas de inmunoensayo de alto rendimiento.
+
+22
+
+Anexo 2. Información epidemiológica a notificar de forma agregada
+-
+
+Número de casos sospechosos de COVID-19 en atención primaria. Esta información se notificará
+de forma agregada al CCAES con la periodicidad que se establezca.
+Si se dispone de información agregada de otras fuentes de información sobre casos compatibles
+(Apps, líneas telefónicas, etc.) se notificarán también, si es posible diferenciándolo de los anteriores.
+
+-
+
+Número de casos sospechosos de COVID-19 atendidos en hospitales (no incluir personas a las que
+se les indica PDIA con motivo de cribado). Esta información se notificará de forma agregada al
+CCAES con la periodicidad que se establezca.
+
+-
+
+Número de casos sospechosos de COVID-19 en atención primaria en los que se ha realizado una
+PDIA y de ellos, número de casos con PDIA positiva. Esta información se notificará de forma
+agregada con una periodicidad semanal al CCAES. Se notificará los miércoles antes de las 12.00 horas
+con los datos de la semana anterior, de lunes a domingo.
+
+-
+
+Número de casos sospechosos de COVID-19 en atención hospitalaria en los que se ha realizado
+una PDIA (no incluir las PDIA resultantes de pruebas de cribado) y de ellos, número de casos con
+PDIA positiva. Esta información se notificará de forma agregada con una periodicidad semanal al
+CCAES. Se notificará los miércoles antes de las 12.00 horas con los datos de la semana anterior, de
+lunes a domingo.
+
+-
+
+Número de contactos estrechos que se confirman como casos. Esta información se notificará de
+forma agregada con una peridodicidad semanal al CCAES a partir de los sistemas de seguimiento de
+contactos que se establezcan. Contactos que se confirman como caso esa semana/contactos en
+seguimiento esa semana x 100). Se notificará los miércoles antes de las 12.00 horas con los datos de
+la semana anterior, de lunes a domingo.
+
+-
+
+Número de profesionales de los servicios de vigilancia epidemiológica (técnicos salud pública,
+epidemiólogos, enfermería de salud pública, otro personal técnico) dedicados a la respuesta de
+COVID-19 en relación al número de casos diarios detectados y a la población de referencia.
+Indicando el personal inicial y el nuevo personal de refuerzo incorporado. Esta información se
+notificará con una periodicidad semanal al CCAES. Se notificará los miércoles antes de las 12.00
+horas con los datos de la semana anterior, de lunes a domingo.
+
+23
+
+Anexo 3. Técnicas diagnósticas de COVID-19. Estado actual
+Diagnóstico molecular por PCR
+Detección de ARN viral mediante RT-PCR en muestra de exudado nasofaríngeo (PCR convencional)
+El diagnóstico microbiológico de COVID-19 se ha basado principalmente en la detección del material
+genético (ARN) viral del SARS-CoV-2 mediante técnicas de RT-PCR (siglas de Reacción en Cadena de la
+Polimerasa con Transcriptasa Inversa) en exudado nasofaríngeo u orofaríngeo. La RT-PCR es una técnica
+muy sensible y específica ampliamente utilizada y estandarizada en los laboratorios de Microbiología
+para el diagnóstico de muchas infecciones, por lo que se considera la técnica de referencia para el
+diagnóstico de infección activa en pacientes tanto sintomáticos como asintomáticos.
+Desde el punto de vista técnico, el proceso de realización de la PCR es laborioso: requiere pasos previos
+de inactivación de la muestra y de extracción de ARN, por lo que el tiempo total de ejecución (en
+condiciones óptimas) no supera las 5 horas y el tiempo de respuesta es de 12 a 24 horas en condiciones
+óptimas. La realización de un gran número de determinaciones conlleva la necesidad de suministrar de
+manera continuada no sólo los kits de PCR, sino otros muchos materiales necesarios como torundas y
+medios de transporte para la toma de muestras, soluciones de inactivación, reactivos de extracción y
+diferentes tipos de material fungible.
+La RT-PCR tiene algunas limitaciones, por ejemplo, su sensibilidad depende de la carga viral en vías
+respiratorias, por lo que un resultado negativo en un paciente con síntomas no descarta por completo
+la infección. Otra limitación importante es que la obtención de la muestra requiere personal entrenado
+que disponga de un equipo de protección individual adecuado. Por último, el tiempo de espera del
+resultado, habitualmente no inferior a 12-24 horas pero muy sensible a los picos de demanda, puede
+retrasar la aplicación de medidas de control. Hay diferentes técnicas diagnósticas de COVID-19
+alternativas a la RT-PCR que pueden reducir el tiempo de respuesta y realizarse en el punto de atención
+sanitaria. En general, su principal debilidad es que tienen una sensibilidad inferior a la de la RT-PCR.
+Detección de ARN viral mediante RT-PCR en muestra de saliva
+Actualmente se está a la espera de la validación de la muestra en saliva como muestra útil para el
+diagnóstico de COVID-19. La utilización de saliva tiene como principal ventaja frente al exudado
+nasofaríngeo la facilidad de obtención de la muestra, que puede incluir la auto-toma por el paciente, y
+la posibilidad de evitar roturas de stock de las torundas con medio necesarias para la toma del exudado.
+Esta facilidad de la toma de muestra puede posicionar la técnica para casos de muestreo agrupado (pool
+testing). El resto del proceso sería el mismo que el de una PCR convencional. Su mayor debilidad es la
+perdida de sensibilidad respecto a la utilización de exudado nasofaríngeo, sobre todo en casos de carga
+viral baja, con la posibilidad de falsos negativos en pacientes con PCR nasofaríngea positiva en umbrales
+de ciclo (Ct) altos. Además, no soluciona las demás limitaciones de la PCR convencional, incluído el
+tiempo de espera de resultados.
+Existe una validación publicada por la Agencia Federal Belga del Medicamento y Productos Sanitarios19,
+realizado por la Universidad de Lovaina con 2000 casos. En pacientes con carga viral alta, la concordancia
+de la saliva con el método tradicional fue del 97%; sin embargo en pacientes con carga viral baja (<20.000
+
+19
+
+https://www.famhp.be/en/news/coronavirus_evaluation_of_the_use_of_saliva_samples_as_an_alternative_to_sampling_
+via_a_deep.
+
+24
+
+copias por mL de medio de transporte), la sensibilidad fue baja. Se recomienda que la toma de muestras
+se realice escupiendo y no mediante frotis.
+Una variante que permite agilizar más el proceso combina el uso de saliva con la sustitución de la
+extracción de ácidos nucleicos por un sencillo paso de tratamiento térmico más proteinasa K. En un
+estudio preliminar se ha observado un 94% de concordancia con RT-PCR en casos positivos con un
+aumento medio de 3,3 Cts (menor sensibilidad) respecto a la técnica de referencia20. Mediante esta
+técnica, la RT-PCR utilizando saliva como muestra tuvo una sensibilidad similar a la RT-PCR en exudado
+nasofaríngeo en 70 pacientes hospitalizados. En trabajadores sanitarios asintomáticos la RT-PCR sobre
+saliva con esta técnica de preparación tuvo una sensibilidad superior al de la RT-PCR en exudado
+nasofaríngeo obtenido mediante toma de muestra autónoma21
+Detección simultánea de diferentes patógenos respiratorios mediante multiplex-PCR.
+La principal ventaja de estas técnicas es que permiten la detección de varios genes de varios patógenos
+respiratorios en una sola PCR en las infecciones respiratorias agudas (IRA), que en el caso de ser graves
+(IRAG), la instauración de un tratamiento antimicrobiano dirigido (si lo hay) es de suma importancia de
+cara al pronóstico. Aunque son técnicas relativamente rápidas, su principal limitación es la imposibilidad
+de procesar un gran número de muestras a la vez. Algunos estudios revelan porcentajes de concordancia
+de casi el 100% respecto a la técnica de referencia22.
+Técnicas de diagnóstico rápido
+Detección de antígenos en muestras de exudado nasofaríngeo
+La mayoría se basan en la técnica de inmunocromatografía de difusión (lateral-flow) marcada con oro
+coloidal, y se presentan en pequeños kits que contienen todo el material necesario, incluyendo las
+torundas, para hacer las determinaciones individualmente. Son técnicas cuyo principal potencial es el
+de proporcionar un diagnóstico rápido (15-20 min), en el lugar de atención sanitaria y mediante un
+procedimiento sencillo y bajo coste. Esto permitiría iniciar las acciones de control de forma inmediata.
+En general han mostrado una baja sensibilidad hasta la fecha (por debajo del 50-60%), lo que los ha
+hecho poco fiables en cualquier estrategia diagnóstica23.
+Recientemente se han desarrollado nuevos kits de detección de antígeno que presentan unos buenos
+resultados de sensibilidad (>90%) especificidad (>95%) respecto a la RT-PCR en estudios en pacientes
+sintomáticos con menos de 7 días de evolución. Se trata de técnicas para realizar en el punto de atención
+sanitaria tras la toma de la muestra, que se realizan con exudado nasofaríngeo, y que muestran su mayor
+eficacia en los primeros siete días tras el inicio de síntomas. Los datos de los estudios sugieren que tiene
+una alta sensibilidad en pacientes sintomáticos y que en asintomáticos la sensibilidad también podría
+ser alta, según los datos preliminares del estudio de validación. El Centro Nacional de Microbiología del
+Instituto de Salud Carlos III ha realizado estudios de validación de una de estas técnicas recientemente
+comercializada aprobada por la FDA y con marcado CE dando unos resultados de sensibilidad de 98,2%
+y especificidad mayor de 99% en pacientes sintomáticos con 5 o menos días de evolución, y una
+
+20
+
+Vogels et al. MedRxiv 2020; doi: https://doi.org/10.1101/2020.08.03.20167791.
+Willye AL et al. The New England Journal of Medicine (2020) PMID: 32857487.
+22 Creager et al. J Clin Virol (2020); PMID: 32650276
+23 Blairon et al. J Clin Virol (2020), PMID:32504944; Scohy et al. J Clin Virol (2020), PMID: 32485618; Lambert-Niclot et al. J Clin
+Microbiol (2020), PMID:32404480
+21
+
+25
+
+sensibilidad de 93,1% en pacientes con 7 días o menos de evolución. Esta prueba u otras similares que
+se comercialicen pueden constituir una buena herramienta en la estrategia diagnóstica de COVID-19.
+Tienen la limitación del descenso de la sensibilidad si se retrasa la realización de la prueba desde la toma
+de muestra (se ha de realizar en un máximo de 2 horas tras la toma de la muestra). Por ello, su uso
+masivo requeriría una reorganización de los centros donde se plantea su realización (centros
+sociosanitarios, centros de atención primaria, centros e instituciones cerradas, servicios de urgencias
+hospitalarias o incluso centros educativos). Además, implicaría la toma de otra muestra nasofaríngea
+adicional con torunda y medio preservante de virus en caso de que se quisiera también realizar una RTPCR.
+
+26
+
+Tabla resumen de las diferentes técnicas de diagnóstico de SARS-CoV-2.
+
+RT-PCR
+(exudado
+nasofaríngeo)
+
+RT-PCR
+(saliva)
+
+RT-PCR (muestras
+respiratorias.
+Detección de
+varios genes
+respiratoriosMultiplex)
+
+Test antigénicos
+rápidos de última
+generación
+(exudado
+nasofaríngeo)
+
+Sensibilidad
+
+Especificidad
+
+Máxima
+(Gold
+standard)
+
+ Infección:
+Máxima (Gold
+Standard)
+ Contagiosidad:
+No permite
+discriminar con
+precisión
+
+5%-100%
+
+Similar al gold
+standard
+
+Similar al gold standard
+
+ Sintomátic
+os: ≈98% (si
+≤ 5 días de
+duración de
+síntomas)
+ Asintomáti
+cos: No
+conocida
+
+Especificidad: ≥99%
+
+Hisopo
+
+Sí
+
+Toma de
+muestra por
+personal
+especializado
+
+Sí
+
+POC†
+
+No
+
+Pooling**
+
+Posible
+
+Tiempo
+de
+respuesta
+
+Comentarios
+
+2-6h*
+
+ La sensibilidad de la RT-PCR en exudado nasofaríngeo se estima
+que oscila entre el 80-90% y depende de diferentes factores, entre
+ellos la calidad de la toma de la muestra.
+ La especificad de la RT-PCR es muy elevada, por encima del 99.5%.
+
+No
+
+No
+
+No
+
+Posible
+
+2-6h*
+
+Sí
+
+Sí
+
+No
+
+Posible
+
+2-6h*
+
+Sí
+
+Sí
+
+Sí
+
+No
+
+15 min
+
+ Técnica ideal de recogida: saliva escupida.
+ La sensibilidad depende de la carga viral. En un estudio de
+validación con muestras de aproximadamente 2000 pacientes, la
+sensibilidad fue del 5% en pacientes con carga viral baja (< 20.000
+copias/mL) y del 97% en individuos con cargas virales intermedias o
+altas. (Agencia Federal Belga del Medicamento y Productos
+Sanitarios)
+ El tratamiento térmico de la muestra y el uso de proteinasa K
+parece aumentar la sensibilidad de la técnica hasta hacerla
+comparable a la de la RT-PCR en exudado nasofaríngeo en
+pacientes sintomáticos (Willye AL el al. NEJM. 2020)
+ Las discrepancias observadas en sensibilidad dificultan su
+posicionamiento en ausencia de más evidencia.
+ No disponibles actualmente en el mercado.
+ Se prevé disponibilidad limitada.
+ No útiles para entornos en los que exista una alta demanda de
+diagnóstico de SARS-CoV-2
+ Encarece significativamente el coste
+ La sensibilidad y especificidad indicada corresponde a la validación
+realizada por el Centro Nacional de Microbiología de la prueba.
+ Existen otras pruebas de detección de antígeno de nueva
+generación que todavía no han sido validadas externamente.
+ Se desconoce cuál va a ser la disponibilidad de estas pruebas en los
+próximos meses.
+ Requiere un hisopado independiente al necesario para RT-PCR.
+ Se desconoce su rendimiento cuando de utiliza la saliva como
+muestra.
+
+Fuente: Adaptado de SEIMC. † POC (Point of care): posibilidad de realización en el lugar de la toma. *En las pruebas que no son POC (deben realizarse en laboratorios localizados a distancia del lugar
+de la toma de la muestra) hay que añadir el tiempo necesario para el envío y el procesamiento preanalítico de las muestras.**Realizar estudios de valoración in house, si se utilizan.
+
+27
+
+Anexo 4. Ejemplo de hoja de información para el contacto en seguimiento y
+cuarentena
+Debido a su exposición a un caso de infección por el nuevo coronavirus (SARS-CoV-2) durante el posible
+periodo de transmisibilidad comienza 48 horas antes de la aparición de síntomas se le ha clasificado
+como contacto de riesgo. Se le va a realizar un seguimiento activo a lo largo de un periodo de 10 días.
+Durante este periodo deberá estar pendiente de cualquier síntoma de enfermedad (en particular fiebre,
+tos o dificultad respiratoria) para poder actuar de la forma más temprana posible, especialmente para
+evitar la transmisión a otras personas. Además, debe permanecer en su domicilio en cuarentena durante
+10 días24. El objetivo es evitar que, si hubiera adquirido la infección, la pueda transmitir a su vez a otras
+personas teniendo en cuenta además que esta transmisibilidad comienza 48 horas antes de la aparición
+de síntomas, si se desasrrollan.
+Debe realizar un control de temperatura dos veces al día, entre los siguientes horarios:
+- De 08:00 a 10:00 horas
+- De 20:00 a 22:00 horas.
+El responsable de su seguimiento contactará con usted para conocer las mediciones de temperatura y
+si ha presentado algún síntoma sospechoso, siguiendo los protocolos establecidos en su comunidad
+autónoma. Además, deberá seguir las siguientes recomendaciones:
+- Permanezca en su domicilio hasta transcurridos 10 tras la última exposición de riesgo, es decir,
+el día que tuvo contacto con el caso por última vez
+- Permanezca la mayor parte del tiempo en una habitación individual y preferiblemente con la
+puerta cerrada (y trate de realizar actividades que le entretengan como leer, dibujar, escuchar
+la radio, escuchar música, ver televisión, navegar por internet, etc).
+- A ser posible use su propio baño, es decir, no lo comparta con ninguno de sus convivientes.
+- Lávese las manos con frecuencia con agua y jabón, especialmente después de toser o estornudar
+o manipular pañuelos que haya usado para cubrirse. También puede utilizar soluciones hidroalcohólicas.
+- Restrinja al mínimo imprescindible las salidas de la habitación o de la casa y, cuando sea
+necesario salir, lleve siempre una mascarilla quirúrgica.
+- Limite en la medida de lo posible el contacto con convivientes.
+Tras la finalición de este periodo de cuarentena deberá observar las medias de prevención y control de
+la infección recomendadas, especialmente en los días sucesivos al levantamiento de la cuarentena y
+hasta el día 10 tras la última exposición del contacto.
+En caso de tener fiebre (tener en cuenta si se está tomando antitérmicos para poder valorar la fiebre)
+o desarrollar cualquier síntoma como tos o dificultad respiratoria, deberá contactar de manera
+inmediata con:
+- …………….…………………… (referente de la comunidad autónoma) en el número de teléfono……………..
+Si esta persona no se encontrara disponible, llame al 112/061 e informe de sus síntomas y de que está
+en seguimiento como contacto por posible exposición al nuevo coronavirus (SARS-CoV-2).
+
+24
+
+Según la estrategia particular de cada CC.AA. Táchese lo que no proceda.
+
+28
+
+Anexo 5. Declaración responsable para personas que se desplazan
+para completar la cuarentena en sus lugares de residencia habitual
+Yo, ___________________________________________, con DNI ____________________
+Mail __________________________________________, Teléfono ____________________
+
+MANIFIESTO mi decisión tomada libremente y bajo mi responsabilidad de trasladarme a mi
+residencia habitual, con el objeto de cumplir la cuarentena que me ha sido prescrita por razones
+de Salud Pública.
+
+DECLARO que dicha residencia se encuentra ubicada en:
+CALLE______________________________________MUNICIPIO ______________________
+C.P. ________ PROVINCIA_________________________ COMUNIDAD __________________
+
+ME COMPROMETO a realizar dicho traslado en transporte privado tomando las medidas de
+precaución y distanciamiento estipuladas, realizando el trayecto más corto posible y evitando
+cualquier parada en ruta que no sea estrictamente necesaria.
+El medio de transporte utilizado será (especificar vehículo, matrícula y conductor) :
+__________________________________________________________________________
+
+ME COMPROMETO a informar de cualquier modificación relevante, acontecimiento adverso o
+incidente que pudiese producirse durante el trayecto.
+AUTORIZO el uso de los datos personales facilitados a las Consejerías de Sanidad de las
+Comunidades Autónomas implicadas,con fines estrictamente clínicos y de salud pública.
+En ________________________ a ______ de ______________ de 2020.
+
+Fdo.: ______________________________________________
+
+29
+
+Anexo 6. Entrevista para los contactos detectados por RADAR-COVID
+1- ¿Tiene síntomas compatibles con enfermedad por COVID-19? (Fiebre, tos, sensación de falta de aire…)
+– SI –> Iniciar investigación habitual de caso sospechosos. FIN DE LA ENTREVISTA
+– NO  Pasar a la pregunta 2
+2- ¿Cuándo indica la aplicación que ocurrió el último contacto con un caso confirmado?
+– Si fue hace ≥ de 10 días  No hay que tomar medidas. FIN DE LA ENTREVISTA
+– Si fue hace < de 10 días  Pasar a la pregunta 3
+3- ¿Conoce a alguna persona que haya resultado PCR positiva para COVID-19 y que haya estado con usted ese
+día?
+– SI  Iniciar investigación habitual de contacto estrecho. FIN DE LA ENTREVISTA
+– NO  Pasar a la pregunta 4
+4- ¿Trabaja usted como personal sanitario o sociosanitario en un centro con casos confirmados de COVID-19?
+– SI  Pasar a pregunta 5
+– NO  Pasar a pregunta 6
+5- ¿El día que la aplicación informa de que tuvo el último contacto con un caso confirmado, tuvo la aplicación
+Radar COVID activada con el Bluetooth encencido y utilizó debidamente los equipos de protección
+individual?
+– SI  Se asume que la aplicación detectó la exposición de riesgo en el lugar de trabajo. Recuerde
+desactivar siempre la aplicación Radar COVID y/o el Bluetooth en el centro laboral. FIN DE LA
+ENTREVISTA
+– NO  Pasar a pregunta 6
+6- ¿El día que la aplicación le indica como fecha de último contacto con un caso, tuvo algún contacto a menos
+de 2 metros durante más de 15 minutos con personas fuera de sus convivientes habituales?
+Ejemplo: viajó en transporte colectivo, estuvo en un lugar público, fue a trabajar, estuvo con
+familiares/amigos, estuvo en un local tipo bar, restaurante, peluquería…
+– SI  Pasar a la pregunta 7
+– NO  Si el usuario está convencido de no haber tenido la posibilidad de haber estado expuesto a un
+caso confirmado de COVID-19 se descarta la clasificación del contacto como de riesgo. NO SON
+NECESARIAS MEDIDAS DE CONTROL NI REALIZACIÓN DE PCR, FIN DE LA ENTREVISTA.
+– No lo recuerdo  se considerará este contacto como de riesgo. ESTABLECIMIENTO DE MEDIDAS DE
+CONTROL, FIN DE LA ENTREVISTA
+7- ¿El día del contacto utilizó siempre mascarilla cuando estuvo en presencia de otras personas no convivientes
+que pudieran suponer un contacto de riesgo?
+– SI  Si el contacto afirma haber utilizado mascarilla el día en el que la aplicación indica que ocurrió
+el contacto no será necesario tomar medidas adicionales. NO NECESARIAS MEDIDAS DE CONTROL NI
+REALIZACIÓN DE PCR, FIN DE LA ENTREVISTA.
+– NO  Si el paciente no utilizó mascarilla el día del contacto se considerará este contacto como de
+riesgo. ESTABLECIMIENTO DE MEDIDAS DE CONTROL, FIN DE LA ENTREVISTA
+– No lo recuerdo  si el paciente no recuerda si utilizó o no mascarilla el día del contacto se considerará
+este contacto como de riesgo. ESTABLECIMIENTO DE MEDIDAS DE CONTROL, FIN DE LA ENTREVISTA
+
+30
+
+

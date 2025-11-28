@@ -1,0 +1,1954 @@
+Informe nº 56. Situación de COVID-19 en España.
+Casos diagnosticados a partir 10 de mayo
+Informe COVID-19 . 09 de diciembre de 2020
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 1
+
+Contenido
+Introducción .......................................................................................................................................... 3
+Nota metodológica ................................................................................................................................ 3
+Casos de COVID-19 en España notificados a la RENAVE con inicio de síntomas y diagnóstico posterior al
+10 de mayo de 2020 ........................................................................................................................ 5
+Comparación de los indicadores de gravedad entre los casos notificados antes y después de la entrada en
+vigor de la nueva Estrategia de Vigilancia y Control en la fase de transición de la pandemia de COVID19 (11 de mayo de 2020) ............................................................................................................... 16
+Observaciones ..................................................................................................................................... 17
+Vigilancia de los excesos de mortalidad por todas las causas, MoMo ..................................................... 18
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 2
+
+Introducción
+En diciembre de 2019 surgió un agrupamiento de casos de neumonía en la ciudad de Wuhan (provincia de
+Hubei, China), con una exposición común a un mercado mayorista de marisco, pescado y animales vivos. El
+7 de enero de 2020, las autoridades chinas identificaron como agente causante del brote un nuevo virus de
+la familia Coronaviridae que posteriormente fue denominado SARS-CoV-21. La secuencia genética fue
+compartida por las autoridades chinas el 12 de enero. La enfermedad causada por este nuevo virus se ha
+denominado por consenso internacional COVID-19. El Comité de Emergencias del Reglamento Sanitario
+Internacional (RSI, 2005) declaró el brote como una Emergencia de Salud Pública de Importancia
+Internacional (ESPII) en su reunión del 30 de enero de 2020. Posteriormente, la OMS lo reconoció como una
+pandemia global el 11 de marzo de 2020.
+Este informe contiene el análisis de los casos de COVID-19 notificados a la la Red Nacional de Vigilancia
+Epidemiológica (RENAVE) a partir del 11 de mayo de 2020, debido a la entrada en vigor de la nueva
+Estrategia de Vigilancia y Control en la fase de transición de la pandemia de COVID-19, a través de la
+plataforma SiViES (Sistema para la Vigilancia en España), que gestiona el Centro Nacional de Epidemiología
+conforme a los criterios establecidos en el protocolo de vigilancia en cada momento. Este informe refleja la
+información suministrada por las CCAA a la RENAVE. La extracción de datos se ha realizado el 9 de
+dicembre de 2020 a las 15:50 h.
+
+Nota metodológica
+Desde el principio de la pandemia de COVID-19, la vigilancia de los casos de esta enfermedad en España se
+basa en la notificación universal de todos los casos confirmados de COVID-19 que se identifican en cada
+CCAA. Las CCAA realizan una notificación individualizada de casos de COVID-19 a la RENAVE a través de la
+plataforma informática vía Web SiViES que gestiona el Centro Nacional de Epidemiología (CNE). Esta
+información procede de la encuesta epidemiológica de caso que cada CA cumplimenta ante la
+identificación de un caso de COVID-19. El contenido de la encuesta se ha ido modificando conforme a las
+prioridades en cada momento. Inicialmente contenía una mayor cantidad de datos, epidemiológicos y
+clínicos de los casos de COVID-19 identificados en España. A partir del 11 de mayo de 2020, debido a la
+entrada en vigor de la nueva Estrategia de Vigilancia y Control en la fase de transición de la pandemia de
+COVID-19, hubo un cambio en la notificación de las CCAA al Ministerio de Sanidad, simplificando la
+encuesta para hecerla más ágil. Los casos confirmados serán de declaración obligatoria urgente al nivel
+estatal siguiendo la encuesta del Anexo 1 de dicha Estrategia. La encuesta incluye información clínicoepidemiológica consensuada y aprobada por la Ponencia de Alertas y Planes de Preparación y Respuesta y
+la RENAVE.
+Para conseguir una información completa de cada caso, la CA debe realizar sucesivas actualizaciones de la
+información de la encuesta porque no siempre toda la información está disponible desde la identificación
+del caso, o precisa de una actualización según cambia la evolución clínica del paciente. Las actualizaciones
+de la información de los casos las realizan las CCAA, según disponen de ellas, en la plataforma SiViES.
+Los objetivos actuales de esta vigilancia son:
+1. Conocer la incidencia de la enfermedad de manera consistente con la evolución de la pandemia y
+a partir de una fuente única que informe de los casos de COVID-19 en España por nivel de
+gravedad.
+
+1
+
+https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 3
+
+2. Obtener los indicadores que informarán sobre la situación epidemiológica de la COVID-19 y su
+distribución geográfica en España.
+3. Obtener información oportuna que guíe la respuesta precoz ante la epidemia de COVID-19.
+Es importante resaltar que todos los resultados son provisionales y deben interpretarse con precaución,
+porque se ofrece información de cada variable con la información disponible para cada una de ellas en el
+momento de la extracción de datos. Estos resultados pueden variar con cada informe por la dinámica
+propia de declaración de datos por las CCAA a la RENAVE a través deSiViES. En el caso de “hospitalización”,
+“UCI” y “defunción”, hemos considerado como “no hospitalización”, “no UCI” y “no defunción” los casos sin
+información en esta variable, y deben ser confirmados en posteriores análisis.
+El análisis se ha realizado con todos los casos notificados a la RENAVE con fecha de diagnóstico posterior al
+10 de mayo. La fecha utilizada para la presentación de los casos fue la fecha de inicio de síntomas, y en su
+defecto, la fecha de diagóstico menos tres días (mediana entre la fecha de inicio de síntomas y la fecha de
+diagnóstico). En aquellos casos en los que no se dispone de fecha de inicio de síntomas ni de diagnóstico se
+utiliza la fecha clave (fecha para estadísticas). En los casos asintomáticos se ha utilizado la fecha de
+diagnóstico.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 4
+
+Casos de COVID-19 en España notificados a la RENAVE con diagnóstico posterior al 10
+de mayo de 2020
+Tabla 1. Incidencia acumulada en las tres últimas semanas epidemiológicas y razón de tasas semanales por grupos
+de edad. Casos de COVID-19 notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+Grupo de
+edad
+
+Semana 47
+
+Semana 48
+
+Semana 49*
+
+Razón de tasas semanales (IC95%)
+
+N
+
+IA
+
+Semana 48/47
+
+Nº casos
+N
+
+IA
+
+N
+
+IA
+
+Semana 49/48*
+
+<15
+
+180293
+
+9670
+
+140,4
+
+6800
+
+98,8
+
+5434
+
+78,9
+
+0,70 (0,68-0,73)
+
+0,80 (0,77-0,83)
+
+15-29
+
+303516
+
+12792
+
+177,8
+
+9080
+
+126,2
+
+6519
+
+90,6
+
+0,71 (0,69-0,73)
+
+0,72 (0,70-0,74)
+
+30-39
+
+212045
+
+9169
+
+144,3
+
+6758
+
+106,4
+
+4889
+
+77,0
+
+0,74 (0,71-0,76)
+
+0,72 (0,70-0,75)
+
+40-49
+
+248683
+
+12045
+
+153,8
+
+8755
+
+111,8
+
+6130
+
+78,3
+
+0,73 (0,71-0,75)
+
+0,70 (0,68-0,72)
+
+50-59
+
+212391
+
+10656
+
+154,3
+
+7587
+
+109,9
+
+5223
+
+75,6
+
+0,71 (0,69-0,73)
+
+0,69 (0,66-0,71)
+
+60-69
+
+132547
+
+6959
+
+133,9
+
+4927
+
+94,8
+
+3386
+
+65,1
+
+0,71 (0,68-0,73)
+
+0,69 (0,66-0,72)
+
+70-79
+
+84433
+
+4753
+
+125,3
+
+3378
+
+89,0
+
+2333
+
+61,5
+
+0,71 (0,68-0,74)
+
+0,69 (0,66-0,73)
+
+≥80
+
+95226
+
+5722
+
+199,8
+
+4454
+
+155,5
+
+3064
+
+107,0
+
+0,78 (0,75-0,81)
+
+0,69 (0,66-0,72)
+
+1478391
+
+72315
+
+153,8
+
+52208
+
+111,0
+
+37364
+
+79,5
+
+0,72 (0,71-0,73)
+
+0,72 (0,71-0,73)
+
+Total
+
+Casos por fecha de inicio de síntomas y en su ausencia fecha de diagnóstico menos 3 días, por grupo de edad y semana (última, penúltima y antepenúltima). IA: incidencia
+acumulada (casos por 100.000 habitantes. *Los datos de las dos últimas semanas (número de casos, incidencia acumulada y razón de tasas), especialmente de la última semana,
+pueden no estar consolidados debido a diferentes aspectos relacionados con la dinámica de declaración a la RENAVE, y pueden variar en futuros informes.
+
+Tabla 2. Incidencia acumulada en las tres últimas semanas epidemiológicas y razón de tasas semanales por CCAA.
+Casos de COVID-19 notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+Semana 47
+
+Semana 48
+
+Semana 49*
+
+Razón de tasas semanales (IC95%)
+
+N
+
+IA
+
+N
+
+IA
+
+N
+
+IA
+
+Semana 48/47
+
+16285
+
+193,5
+
+8851
+
+105,2
+
+5714
+
+67,9
+
+0,54 (0,53-0,56)
+
+0,65 (0,62-0,67)
+
+2267
+
+171,8
+
+2014
+
+152,7
+
+1316
+
+99,8
+
+0,89 (0,84-0,94)
+
+0,65 (0,61-0,70)
+
+22536
+
+2131
+
+208,3
+
+1494
+
+146,1
+
+977
+
+95,5
+
+0,70 (0,66-0,75)
+
+0,65 (0,60-0,71)
+
+24314
+
+1709
+
+148,7
+
+1548
+
+134,7
+
+1451
+
+126,2
+
+0,91 (0,85-0,97)
+
+0,94 (0,87-1,01)
+
+20159
+
+767
+
+35,6
+
+913
+
+42,4
+
+1006
+
+46,7
+
+1,19 (1,08-1,31)
+
+1,10 (1,01-1,21)
+
+14139
+
+938
+
+161,4
+
+814
+
+140,1
+
+634
+
+109,1
+
+0,87 (0,79-0,95)
+
+0,78 (0,70-0,86)
+
+71923
+
+3267
+
+160,7
+
+2600
+
+127,9
+
+1887
+
+92,8
+
+0,80 (0,76-0,84)
+
+0,73 (0,68-0,77)
+
+105932
+
+5667
+
+236,2
+
+3316
+
+138,2
+
+2004
+
+83,5
+
+0,59 (0,56-0,61)
+
+0,60 (0,57-0,64)
+
+Cataluña
+C. Valenciana
+Extremadura
+Galicia
+
+260828
+
+10293
+
+134,1
+
+7792
+
+101,5
+
+6384
+
+83,2
+
+0,76 (0,74-0,78)
+
+0,82 (0,79-0,85)
+
+100738
+
+7783
+
+155,5
+
+5817
+
+116,3
+
+3833
+
+76,6
+
+0,75 (0,72-0,77)
+
+0,66 (0,63-0,69)
+
+26607
+
+1301
+
+121,8
+
+1065
+
+99,7
+
+743
+
+69,6
+
+0,82 (0,75-0,89)
+
+0,70 (0,64-0,77)
+
+43834
+
+3293
+
+122,0
+
+2403
+
+89,0
+
+1896
+
+70,2
+
+0,73 (0,69-0,77)
+
+0,79 (0,74-0,84)
+
+Madrid
+Murcia
+Navarra
+País Vasco
+
+289550
+
+7946
+
+119,2
+
+7247
+
+108,8
+
+4976
+
+74,7
+
+0,91 (0,88-0,94)
+
+0,69 (0,66-0,71)
+
+54117
+
+2100
+
+140,6
+
+1415
+
+94,7
+
+835
+
+55,9
+
+0,67 (0,63-0,72)
+
+0,59 (0,54-0,64)
+
+35196
+
+937
+
+143,2
+
+739
+
+113,0
+
+551
+
+84,2
+
+0,79 (0,72-0,87)
+
+0,75 (0,67-0,83)
+
+88511
+
+4618
+
+209,2
+
+3513
+
+159,1
+
+2708
+
+122,7
+
+0,76 (0,73-0,79)
+
+0,77 (0,73-0,81)
+
+13143
+
+666
+
+210,2
+
+494
+
+155,9
+
+317
+
+100,1
+
+0,74 (0,66-0,83)
+
+0,64 (0,56-0,74)
+
+2771
+
+164
+
+193,4
+
+69
+
+81,4
+
+47
+
+55,4
+
+0,42 (0,32-0,56)
+
+0,68 (0,47-0,99)
+
+4067
+
+183
+
+211,6
+
+104
+
+120,2
+
+85
+
+98,3
+
+0,57 (0,45-0,72)
+
+0,82 (0,61-1,09)
+
+1478391
+
+72315
+
+153,8
+
+52208
+
+111,0
+
+37364
+
+79,5
+
+0,72 (0,71-0,73)
+
+0,72 (0,71-0,73)
+
+Comunidad
+autónoma
+
+Nº
+casos
+
+Andalucía
+Aragón
+Asturias
+Baleares
+
+230259
+69767
+
+Canarias
+Cantabria
+Castilla-La Mancha
+Castilla y León
+
+La Rioja
+Ceuta
+Melilla
+Total
+
+Semana 49/48*
+
+Casos por fecha de inicio de síntomas y en su ausencia fecha de diagnóstico menos 3 días, por grupo de edad y semana (última, penúltima y antepenúltima). IA: incidencia acumulada
+(casos por 100.000 habitantes). *Los datos de las dos últimas semanas (número de casos, incidencia acumulada y razón de tasas), especialmente de la última semana, pueden no
+estar consolidados debido a diferentes aspectos relacionados con la dinámica de declaración a la RENAVE, y pueden variar en futuros informes.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 5
+
+Figura 1. Incidencia acumulada en los últimos 14 días por CCAA y total España. Casos de COVID-19 notificados
+a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Figura 1a
+
+Los datos de las últimas semanas, especialmente de la última semana, no están consolidados debido a diferentes aspectos relacionados
+con la dinámica de declaración a la RENAVE. La línea roja discontinua indica los días en los que se estima una posible variación del 10%
+entre la IA calculada con los datos disponible hasta el momento y la real. La variación del 10% se ha estimado analizando el número de días
+que transcurren entre la notificación del caso a la CCAA y la fecha de inicio de síntomas, utilizando extracciones de SiViES de los últimos 15
+días. En ausencia de fecha de inicio de síntomas, se usa la fecha de diagnóstico menos 3 días, en los casos sintomáticos, y la fecha de
+diagnóstico, en los casos asintomáticos.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 6
+
+Figura 1b
+
+Los datos de las últimas semanas, especialmente de la última semana, no están consolidados debido a diferentes aspectos relacionados
+con la dinámica de declaración a la RENAVE. La línea roja discontinua indica los días en los que se estima una posible variación del 10%
+entre la IA calculada con los datos disponible hasta el momento y la real. La variación del 10% se ha estimado analizando el número de días
+que transcurren entre la notificación del caso a la CCAA y la fecha de inicio de síntomas, utilizando extracciones de SiViES de los últimos 15
+días. En ausencia de fecha de inicio de síntomas, se usa la fecha de diagnóstico menos 3 días, en los casos sintomáticos, y la fecha de
+diagnóstico, en los casos asintomáticos.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 7
+
+Tabla 3. Casos de COVID-19 por nivel de gravedad notificados a la RENAVE con diagnóstico posterior al 10
+de mayo de 2020. Distribución por CCAA y total España
+Comunidad Autónoma
+
+Casos totales
+
+Hospitalizados¹
+
+UCI¹
+
+Defunciones¹
+
+Andalucía
+
+230259
+
+15602 (6,8)
+
+1213 (0,5)
+
+2999 (1,3)
+
+Aragón
+Asturias
+Baleares
+Canarias
+
+69767
+22536
+24314
+20159
+
+6467 (9,3)
+3505 (15,6)
+1421 (5,8)
+1754 (8,7)
+
+488 (0,7)
+212 (0,9)
+203 (0,8)
+324 (1,6)
+
+1515 (2,2)
+846 (3,8)
+195 (0,8)
+186 (0,9)
+
+Cantabria
+Castilla-La Mancha
+Castilla y León
+Cataluña
+
+14139
+71923
+105932
+260828
+
+902 (6,4)
+3163 (4,4)
+9486 (9,0)
+8297 (3,2)
+
+92 (0,7)
+259 (0,4)
+719 (0,7)
+619 (0,2)
+
+125 (0,9)
+888 (1,2)
+1917 (1,8)
+1622 (0,6)
+
+C. Valenciana
+Extremadura
+Galicia
+Madrid
+
+100738
+26607
+43834
+289550
+
+7935 (7,9)
+1910 (7,2)
+3786 (8,6)
+14554 (5,0)
+
+739 (0,7)
+174 (0,7)
+445 (1,0)
+712 (0,2)
+
+1034 (1,0)
+469 (1,8)
+650 (1,5)
+2791 (1,0)
+
+Murcia
+Navarra
+País Vasco
+La Rioja
+
+54117
+35196
+88511
+13143
+
+4179 (7,7)
+2146 (6,1)
+3569 (4,0)
+1215 (9,2)
+
+537 (1,0)
+217 (0,6)
+317 (0,4)
+139 (1,1)
+
+488 (0,9)
+382 (1,1)
+1107 (1,3)
+206 (1,6)
+
+2771
+4067
+1478391
+
+173 (6,2)
+270 (6,6)
+90334 (6,1)
+
+17 (0,6)
+41 (1,0)
+7467 (0,5)
+
+51 (1,8)
+40 (1,0)
+17511 (1,2)
+
+Ceuta
+Melilla
+Total España
+
+¹ n (%) calculado sobre el total de casos en cada CCAA
+
+Tabla 4. Casos de COVID-19 por nivel de gravedad notificados a la RENAVE con diagnóstico posterior al 10
+de mayo de 2020. Distribución por grupo de edad
+
+<2
+2-4
+5-14
+15-29
+
+Casos totales
+N
+18622
+27260
+134411
+303516
+
+Hospitalizados1
+N (%)
+453 ( 2,4)
+163 ( 0,6)
+534 ( 0,4)
+2871 ( 0,9)
+
+UCI1
+N (%)
+17 ( 0,1)
+6 ( 0,0)
+30 ( 0,0)
+145 ( 0,0)
+
+Defunciones1
+N (%)
+10 ( 0,1)
+1 ( 0,0)
+3 ( 0,0)
+28 ( 0,0)
+
+30-39
+40-49
+50-59
+60-69
+
+212045
+248683
+212391
+132547
+
+4609 ( 2,2)
+8639 ( 3,5)
+12910 ( 6,1)
+15232 (11,5)
+
+298 ( 0,1)
+727 ( 0,3)
+1485 ( 0,7)
+2200 ( 1,7)
+
+48 ( 0,0)
+195 ( 0,1)
+577 ( 0,3)
+1465 ( 1,1)
+
+70-79
+≥80
+Total
+
+84433
+95226
+1478391
+
+16956 (20,1)
+27290 (28,7)
+90334 ( 6,1)
+
+1994 ( 2,4)
+511 ( 0,5)
+7467 ( 0,5)
+
+3333 ( 3,9)
+11644 (12,2)
+17511 ( 1,2)
+
+Grupo de edad (años)
+
+¹ n (%) calculado sobre el total de casos en cada grupo de edad
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 8
+
+Tabla 5. Características demográficas, clínicas y antecedentes epidemiológicos de riesgo. Casos de COVID19 notificados a la RENAVE* con diagnóstico posterior al 10 de mayo de 2020
+Características
+
+Total
+
+Sexo
+Mediana de edad (rango)
+Grupo de edad (años)
+
+41 (24-57)
+
+Mujeres
+n (%)
+776191 (52,5)
+42 (25-57)
+
+Hombres
+n (%)
+701713 (47,5)
+40 (23-56)
+
+<2
+
+18622 (1,3)
+
+8967 (1,2)
+
+9653 (1,4)
+
+2-4
+
+27260 (1,9)
+
+13519 (1,8)
+
+13736 (2,0)
+
+5-14
+
+134411 (9,1)
+
+66251 (8,6)
+
+68120 (9,8)
+
+15-29
+
+303516 (20,7)
+
+156055 (20,2)
+
+147425 (21,1)
+
+30-39
+
+212045 (14,4)
+
+112786 (14,6)
+
+99229 (14,2)
+
+40-49
+
+248683 (16,9)
+
+130521 (16,9)
+
+118137 (16,9)
+
+50-59
+
+212391 (14,5)
+
+111327 (14,4)
+
+101044 (14,5)
+
+60-69
+
+132547 (9,0)
+
+66487 (8,6)
+
+66047 (9,5)
+
+70-79
+≥80
+
+84433 (5,7)
+95226 (6,5)
+738194 (55,4)
+39355 (4,6)
+
+44202 (5,7)
+61426 (8,0)
+392212 (56,1)
+30836 (6,8)
+
+40223 (5,8)
+33787 (4,8)
+345893 (54,6)
+8511 (2,1)
+
+Síntomas
+Personal sanitario y sociosanitario
+Personal sanitario que trabaja en*
+Centro sanitario
+
+23751 (60,4)
+
+18076 (58,6)
+
+5673 (66,7)
+
+Centro sociosanitario
+Otros centros
+Número de contactos estrechos identificados*
+Ámbito de posible exposición*
+
+11507 (29,2)
+4097 (10,4)
+2 ( 1- 4)
+
+9824 (31,9)
+2936 (9,5)
+2 ( 1- 4)
+
+1682 (19,8)
+1156 (13,6)
+2 ( 1- 4)
+
+Centro sociosanitario
+
+38829 (4,2)
+
+25893 (5,3)
+
+12934 (2,9)
+
+Laboral
+
+54749 (5,9)
+
+27818 (5,6)
+
+26875 (6,1)
+
+Centro sanitario
+
+18884 (2,0)
+
+11557 (2,3)
+
+7326 (1,7)
+
+Domicilio
+
+303167 (32,5)
+
+161759 (32,8)
+
+141387 (32,1)
+
+Escolar
+
+16865 (1,8)
+
+8639 (1,8)
+
+8226 (1,9)
+
+Social^
+
+1259 (0,1)
+
+687 (0,1)
+
+572 (0,1)
+
+Otros
+Desc
+
+99206 (10,6)
+400650 (42,9)
+4216 (0,4)
+
+50384 (10,2)
+205939 (41,8)
+1635 (0,3)
+
+48815 (11,1)
+194677 (44,2)
+2579 (0,5)
+
+Desconocida
+
+258 (0,0)
+
+133 (0,0)
+
+122 (0,0)
+
+PCR/Técnicas moleculares
+
+1310214 (88,6)
+
+688310 (88,7)
+
+621582 (88,6)
+
+Test rápido de anticuerpos
+
+152 (0,0)
+
+78 (0,0)
+
+74 (0,0)
+
+Importado
+Prueba de laboratorio*
+
+p-valor
+<0,001
+
+<0,001
+<0,001
+<0,001
+
+<0,001
+<0,001
+
+<0,001
+<0,001
+
+Detección de antígeno
+164994 (11,2)
+85885 (11,1)
+78947 (11,3)
+ELISA
+2773 (0,2)
+1785 (0,2)
+988 (0,1)
+<0,001
+*Se contabiliza solo una técnica diagnóstica por caso. Cuando a un individuo se le han realizado varias técnicas diagnósticas, se contabilizará solo
+aquella que sea considerada más específica y sensible, en este orden: 1º PCR y otras técnicas moleculares, 2º prueba rápida de detección de
+antígeno, 3º detección de anticuerpos por ELISA o equivalente, 4º prueba rápida de detección de anticuerpos
+^La categoría de posible exposición “social” ha sido introducida a partir de la semana 46/2020, estando estos casos previamente englobados en
+“otros”
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 9
+
+Tabla 6a. Principales indicadores: síntomas, tiempo entre eventos y contactos, por Comunidad Autónoma y total España, Casos
+de COVID-19 notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+Comunidad
+Autónoma
+
+Presencia de
+síntomas¹
+
+Síntomas
+hasta
+consulta
+
+Tiempo entre eventos (días)²
+Síntomas
+Síntomas
+Consulta
+hasta
+hasta
+hasta
+diagnóstico
+aislamiento
+diagnóstico
+
+Consulta
+hasta
+aislamiento
+
+Casos sin
+contacto
+conocido con
+COVID¹
+
+Contactos
+identificad
+os por
+caso²
+
+Andalucía
+Aragón
+Asturias
+Baleares
+Canarias
+Cantabria
+Castilla-La Mancha
+Castilla y León
+Cataluña
+C. Valenciana
+Extremadura
+Galicia
+Madrid
+Murcia
+Navarra
+País Vasco
+La Rioja
+Ceuta
+Melilla
+
+91228 (39,6)
+45973 (66,6)
+2646 (78,1)
+17631 (72,5)
+13003 (67,0)
+4328 (87,1)
+41793 (58,1)
+48628 (56,3)
+144540 (55,4)
+63765 (63,3)
+11928 (48,0)
+24275 (80,6)
+150928 (52,1)
+35161 (67,8)
+22731 (64,6)
+5935 (53,5)
+8331 (67,7)
+2375 (85,7)
+2995 (73,6)
+
+2 (0-3)
+2 (0-4)
+1 (0-2)
+1 (0-3)
+1 (0-3)
+2 (0-4)
+1 (0-3)
+2 (0-4)
+3 (1-5)
+1 (0-4)
+2 (1-4)
+2 (1-3)
+2 (0-4)
+1 (0-3)
+2 (1-4)
+1 (0-2)
+2 (1-4)
+3 (1-5)
+2 (1-5)
+
+3 (2-6)
+3 (2-5)
+3 (1-4)
+2 (1-4)
+4 (2-6)
+3 (2-5)
+3 (2-6)
+3 (1-5)
+2 (1-4)
+3 (2-6)
+2 (1-4)
+3 (2-5)
+3 (1-5)
+3 (2-5)
+3 (2-5)
+3 (1-5)
+3 (2-5)
+4 (2-6)
+5 (2-8)
+
+0 (-2-2)
+1 (0-2)
+1 (0-2)
+1 (1-1)
+1 (0-3)
+1 (0-3)
+1 (0-3)
+1 (0-3)
+1 (0-2)
+1 (0-3)
+1 (0-2)
+1 (0-3)
+1 (0-3)
+0 (0-3)
+2 (1-4)
+1 (0-2)
+1 (0-3)
+2 (0-4)
+1 (0-3)
+
+1(0-2)
+1(0-3)
+1(1-2)
+1(0-2)
+2(1-3)
+1(0-2)
+2(1-3)
+1(0-2)
+-1(-2-0)
+1(1-3)
+0(0-1)
+0(0-1)
+1(0-2)
+1(0-3)
+1(0-2)
+1(0-2)
+0(0-2)
+1(0-2)
+1(0-2)
+
+0 (0-0)
+0 (-2-0)
+0 (-1-0)
+0 (0-0)
+0 (0-0)
+0 (-2-1)
+0 (0-1)
+0 (0-0)
+-2 (-4-0)
+0 (-1-0)
+0 (-2-0)
+0 (-1-0)
+0 (-2-1)
+0 (-2-1)
+0 (0-0)
+0 (0-0)
+0 (-2-0)
+0 (-2-0)
+0 (-4-0)
+
+33361 (24,4)
+18793 (30,6)
+1390 (20,3)
+11440 (47,1)
+2973 (18,2)
+4650 (46,0)
+24017 (33,4)
+19186 (25,7)
+129615 (49,7)
+21746 (27,1)
+5583 (22,5)
+20598 (47,0)
+26669 (37,1)
+13682 (26,5)
+11896 (33,8)
+543 (8,2)
+1640 (14,9)
+1092 (39,4)
+1713 (42,1)
+
+2 (1-4)
+2 (1-4)
+3 (1-6)
+11 (11-11)
+1 (0-3)
+1 (0-4)
+0 (0-2)
+1 (0-3)
+3 (1-4)
+3 (2-5)
+2 (0-4)
+3 (1-5)
+3 (2-4)
+3 (2-5)
+2 (1-4)
+4 (1-5)
+3 (2-4)
+3 (2-6)
+2 (0-5)
+
+Total España
+
+738194 (55,4)
+
+2 (0-4)
+
+3 (1-5)
+
+1 (0-3)
+
+1 (0-2)
+
+0 (-2-0)
+
+350587 (35,2)
+
+2 (1-4)
+
+¹ n (%) calculado sobre el total de casos con información en esa variable. ² mediana (rango intercuartil).
+
+Tabla 6b. Principales indicadores: síntomas, tiempo entre eventos y contactos, por Comunidad Autónoma y total España, Casos de COVID19 notificados a la RENAVE con diagnóstico en las las últimas 3 semanas epidemiológicas.
+
+Comunidad
+Autónoma
+
+Presencia de
+síntomas¹
+
+Síntomas
+hasta
+consulta
+
+Tiempo entre eventos (días)²
+Síntomas
+Síntomas
+Consulta
+hasta
+hasta
+hasta
+diagnóstico
+aislamiento
+diagnóstico
+
+Consulta
+hasta
+aislamiento
+
+Casos sin
+contacto
+conocido con
+COVID¹
+
+Contactos
+identificad
+os por
+caso²
+
+Andalucía
+Aragón
+Asturias
+Baleares
+Canarias
+Cantabria
+Castilla-La Mancha
+Castilla y León
+Cataluña
+C. Valenciana
+Extremadura
+Galicia
+Madrid
+Murcia
+Navarra
+País Vasco
+La Rioja
+Ceuta
+Melilla
+
+10572 (34,3)
+3372 (61,0)
+397 (97,3)
+3816 (81,1)
+1717 (71,1)
+595 (100,0)
+4312 (55,6)
+4229 (54,5)
+13063 (53,4)
+9598 (55,1)
+1726 (58,0)
+4529 (78,9)
+14584 (72,3)
+2413 (56,3)
+1424 (64,1)
+193 (31,4)
+878 (68,1)
+192 (68,6)
+217 (58,3)
+
+1 (0-3)
+1 (0-3)
+1 (0-3)
+0 (-1-2)
+1 (0-2)
+2 (1-4)
+1 (0-2)
+1 (0-3)
+2 (1-3)
+1 (0-2)
+2 (1-3)
+2 (1-3)
+1 (0-2)
+1 (0-2)
+2 (1-3)
+1 (1-4)
+2 (0-3)
+2 (1-3)
+2 (1-3)
+
+2 (1-4)
+2 (1-3)
+1 (1-3)
+1 (-33-2)
+2 (1-4)
+2 (1-4)
+2 (1-4)
+2 (1-3)
+1 (0-3)
+2 (1-4)
+2 (1-3)
+3 (2-4)
+2 (1-3)
+2 (1-3)
+2 (1-3)
+1 (-1-3)
+2 (1-4)
+2 (1-4)
+2 (1-5)
+
+0 (-3-1)
+0 (-1-2)
+1 (0-1)
+1 (0-2)
+1 (0-2)
+1 (0-2)
+1 (0-2)
+0 (0-2)
+0 (-1-2)
+0 (0-2)
+1 (0-2)
+1 (0-2)
+0 (0-2)
+2 (1-3)
+1 (0-2)
+1 (0-2)
+1 (0-2)
+1 (0-2)
+
+0(0-1)
+0(0-1)
+1(0-2)
+0(0-1)
+1(0-2)
+0(-1-1)
+1(0-3)
+0(0-1)
+0(-1-0)
+1(0-2)
+0(0-0)
+0(0-1)
+1(0-1)
+1(0-2)
+0(0-0)
+1(0-10)
+0(0-2)
+0(0-0)
+0(0-1)
+
+0 (-1-0)
+0 (-2-0)
+0 (0-1)
+0 (0-0)
+-2 (-4-0)
+0 (0-1)
+0 (-1-0)
+-1 (-3-0)
+0 (-1-0)
+-1 (-3-0)
+0 (-1-0)
+0 (-1-1)
+0 (-1-1)
+0 (0-0)
+-3 (-7-0)
+0 (-1-0)
+0 (-1-0)
+0 (-3-0)
+
+4707 (22,9)
+1197 (26,8)
+189 (11,5)
+1856 (39,4)
+403 (18,9)
+194 (20,3)
+2113 (27,3)
+1566 (19,7)
+12270 (50,1)
+2753 (20,0)
+523 (17,5)
+2549 (33,6)
+3398 (30,6)
+1016 (23,6)
+532 (23,9)
+5 (1,2)
+195 (18,7)
+101 (36,1)
+164 (44,1)
+
+1 (1-3)
+2 (1-3)
+1 (1-2)
+1 (0-3)
+2 (1-3)
+0 (0-2)
+2 (1-4)
+3 (2-4)
+3 (1-4)
+2 (0-4)
+2 (1-4)
+3 (2-4)
+3 (2-5)
+2 (1-4)
+3 (1-4)
+4 (2-8)
+2 (0-4)
+
+Total España
+
+77827 (55,6)
+
+1 (0-3)
+
+2 (1-3)
+
+1 (0-2)
+
+0 (0-1)
+
+0 (-1-0)
+
+35731 (30,1)
+
+2 (1-4)
+
+¹ n (%) calculado sobre el total de casos con información en esa variable. ² mediana (rango intercuartil). Sobre los casos notificados las últimas 3 semanas
+epidemiológicas (semanas 47, 48 y 49).
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 10
+
+Figura 2. Distribución por edad y sexo, Casos de COVID-19 notificados a la RENAVE con diagnóstico
+posterior al 10 de mayo de 2020 y población española
+
+Figura 3. Curva epidémica de casos de COVID-19 según gravedad, Casos de COVID-19 notificados a la
+RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Los casos diarios están representados con la fecha de inicio de síntomas y en su ausencia la de diagnóstico menos tres días; en los casos
+asintomáticos se utiliza la fecha de diagnóstico. Los casos hospitalizados están representados por fecha de hospitalización, los casos UCI por fecha
+de admisión en UCI y las defunciones por fecha de defunción. Fuente: CNE. RENAVE. Los datos de la última semana podrían estar afectados por
+retraso en la notificación, por lo que la evolución de los últimos días debe ser interpretada con cautela.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 11
+
+Figura 4. Distribución del número de casos por grupos de edad y situación clínica, Casos de COVID-19
+notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Fuente: CNE. ISCIII. Red Nacional de Vigilancia Epidemiológica.
+
+Figura 5. Porcentaje de casos según presencia de síntomas, por Comunidad Autónoma y total España.
+Casos de COVID-19 notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 12
+
+Figura 6a. Distribución porcentual de casos por CCAA y técnica diagnóstica. Casos de COVID-19
+notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Figura 6b. Distribución porcentual de casos por CCAA y técnica diagnóstica. Casos de COVID-19
+notificados a la RENAVE con fecha de diagnóstico a partir del 25 de septiembre.
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 13
+
+Figura 7. Distribución porcentual de profesionales sanitarios por CCAA. Casos de COVID-19 notificados a
+la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Figura 8. Distribución porcentual por centro de ocupación de los casos en personal sanitario y por CCAA.
+Casos de COVID-19 notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 14
+
+Figura 9. Distribución porcentual de casos por CCAA y ámbito de exposición. Casos de COVID-19
+notificados a la RENAVE con diagnóstico posterior al 10 de mayo de 2020
+
+^La categoría de posible exposición “social” ha sido introducida a partir de la semana 46/2020, estando estos casos previamente englobados en
+“otros”
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 15
+
+Comparación de los indicadores de gravedad entre los casos notificados antes y
+después de la entrada en vigor de la nueva Estrategia de Vigilancia y Control en la fase
+de transición de la pandemia de COVID-19 (11 de mayo de 2020)
+Hospitalizaciones
+
+b
+^
+
+a
+
+Edad (años)
+
+Edad (años)
+
+Edad (años)
+
+Edad (años)
+
+a Porcentaje de hospitalizados a partir del 11 de mayo calculado sobre todos los casos diagnosticados a partir del 11 de mayo
+b Porcentaje de hospitalizados a partir del 11 de mayo calculado solo sobre los casos con síntomas a partir del 11 de mayo
+
+Ingreso en UCI entre los casos hospitalizados
+
+Edad (años)
+
+Edad (años)
+
+Defunción entre los casos hospitalizados
+
+Edad (años)
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Edad (años)
+
+Página 16
+
+Observaciones
+
+
+En el análisis de los casos notificados a la RENAVE con fecha de diagnóstico posterior al 10 de mayo, y
+hasta las 15:50 h del 9 de diciembre de 2020, se identifican 1.478.391 casos de COVID-19 en España.
+Un 6,1% de los casos han sido hospitalizados, un 0,5% han sido admitidos en UCI y un 1,2% han
+fallecido.
+
+
+
+La mayor proporción de casos de COVID-19 se producen en el grupo de 15 a 59 años (67% del total),
+siendo el grupo de 15-29 años el más representado, con un 21% de los casos.
+
+
+
+El porcentaje de hospitalizaciones y defunciones con COVID-19 aumenta con la edad, alcanzando un
+28,7% y 12,2% en mayores de 79 años, respectivamente.
+
+
+
+A nivel nacional, la incidencia semanal acumulada de COVID-19 disminuye un 28% entre la semana 47
+(16 - 22 de noviembre) y la semana 48 (23 - 29 de noviembre), siendo este descenso significativo en
+todos los grupos de edad.
+
+
+
+Por CCAA, en la semana 47, se observan tasas acumuladas semanales > 200 casos/100.000 h en
+Asturias, Castilla y León, País Vasco, La Rioja y Melilla. En la semana 48 todas las CCAA se encuentran
+por debajo de 200 casos/100.000 h. Aragón, País Vasco y La Rioja se encuentran por encima de 150
+casos/100.000 h en dicha semana. En relación a la tendencia, entre las semanas 47 y 48 se observa un
+descenso significativo de la incidencia acumulada en prácticamente todas las CCAA.
+
+
+
+El 52,5% de los casos de COVID-19 son mujeres y la mediana de edad de los casos es de 41 años,
+siendo mayor en mujeres que en hombres (42 vs 40 años).
+
+
+
+Con respecto a la distribución por sexo y edad de la población española, los casos de COVID-19, están
+sobrerrepresentados en los hombres de 15-39 años, en mujeres de 15-49 años y en mayores de 89
+años para ambos sexos, especialmente en mujeres.
+
+
+
+El 55,4% de los casos presentó síntomas.
+
+
+
+El 88,6% de los diagnósticos se realizaron con técnicas de PCR, y un 11,2% por técnicas rápidas de
+detección de antígeno, con diferencias entre las distintas CCAA.
+
+
+
+Un 35,2% no refería contacto conocido con un caso diagnosticado de COVID-19, porcentaje que se
+reduce al 30,1% al restringir el análisis a las últimas tres semanas epidemiológicas.
+
+
+
+El ámbito más frecuente de exposición se da en el entorno del domicilio (32,5%).
+
+
+
+Un 4,6% de los casos son personal sanitario o sociosanitario, siendo significativamente mayor este
+porcentaje entre las mujeres que entre los hombres (6,8% vs 2,1%). El 78% del personal sanitario o
+sociosanitario con COVID-19, notificado desde el 11 de mayo, son mujeres.
+
+
+
+El porcentaje de casos importados es de 0,4%.
+
+
+
+En el análisis del tiempo transcurrido entre los distintos eventos, se observa que la mediana de tiempo
+entre el inicio de síntomas y el primer contacto con el sistema sanitario es de 2 días (RIC: 0-4 días),
+hasta el diagnóstico es de 3 (RIC: 1-5) y hasta el aislamiento de 1 días (RIC: 0-3). A nivel nacional estos
+valores se reducen ligeramente cuando el análisis se restringe a los casos diagnosticados en las tres
+últimas semanas epidemiológicas.
+
+
+
+Desde el 11 de mayo se estima una mediana de 2 contactos (RIC: 1-4) identificados por caso, sin
+cambios al analizar los datos de las últimas tres semanas epidemiológicas.
+
+
+
+En la comparación de los indicadores de gravedad entre los casos notificados antes y después del 11
+de marzo, se observa que:
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 17
+
+o
+
+El porcentaje de hospitalización aumenta con la edad en ambos periodos, pero es menor
+en todos los grupos de edad después del 11 de mayo, en consonancia con una mayor
+capacidad diagnóstica en el segundo periodo, de forma que el porcentaje de casos con
+criterio de ingreso es menor. El porcentaje de hospitalización a partir del 11 de mayo es
+mayor cuando en el análisis se tiene en cuenta sólo los casos sintomáticos que cuando se
+analiza el total de casos. La distribución por grupos de edad es similar en ambos períodos,
+excepto en el grupo de menores de 15 años, probablemente porque en el primer período
+se realizó test diagnóstico mayoritariamente a los casos más graves, mientras que en el
+segundo se ha realizado a gran número de niños sin criterios de gravedad. Los mayores de
+80 años presentan el porcentaje de ingreso más alto, en relación al resto de grupos de
+edad, en el segundo período pero no en el primero.
+
+o
+
+El porcentaje y distribución por grupo de edad de los casos ingresados en UCI entre los
+hospitalizados es similar en ambos periodos, aunque ligeramente inferiores en el segundo.
+
+o
+
+La distribución del porcentaje de defunciones entre los casos hospitalizados es similar en
+ambos períodos, si bien los porcentajes son inferiores en todos los grupos de edad en el
+segundo periodo. Esto, junto lo observado en el caso de ingreso en UCI, podría indicar una
+mayor capacidad de ingreso en el segundo período, aceptando para su ingreso pacientes
+menos graves de entrada.
+
+Vigilancia de los excesos de mortalidad por todas las causas, MoMo
+MoMo es un sistema de vigilancia de los excesos de mortalidad por todas las causas que proporciona
+información sobre el impacto en la mortalidad de la población de todo evento que pueda suponer una
+amenaza para la Salud Pública, Sus resultados pueden apoyar las evaluaciones de riesgo de dichos eventos
+y contribuir a guiar adecuadamente la respuesta de salud pública y el desarrollo de políticas de control,
+Mediante el sistema MoMo, el Centro Nacional de Epidemiología estima los excesos de mortalidad por
+todas las causas por sexo y grupos de edad y a nivel nacional y por CCAA, Los resultados son estimaciones
+de exceso de defunciones por todas las causas, es decir, son excesos de defunciones de carácter
+inespecífico que no se pueden atribuir directamente a una causa determinada,
+Por otra parte, en el momento actual observamos un retraso en la notificación de defunciones en los
+registros civiles de varias CCAA, por lo que los resultados deben interpretarse con precaución,
+especialmente en los últimos días y siempre deben ser confirmados con el análisis de los próximos días,
+Las estimaciones de MoMo pueden consultarse aquí: Informes MoMo 2020
+
+Situación de COVID-19 en España a 9 de diciembre de 2020. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
+Página 18
+
+

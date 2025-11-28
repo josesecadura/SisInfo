@@ -1,0 +1,6 @@
+@Fylt.Api_HostAddress = http://localhost:5108
+
+GET {{Fylt.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

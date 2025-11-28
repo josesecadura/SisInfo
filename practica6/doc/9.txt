@@ -1,0 +1,739 @@
+Rev Esp Salud Pública. 2020; Vol. 94: 23 de junio e1-8.
+
+www.mscbs.es/resp
+Recibido: 31 de mayo de 2020
+Aceptado: 10 de junio de 2020
+Publicado: 23 de junio de 2020
+
+REVISIÓN SISTEMÁTICA
+
+HERRAMIENTAS DE VIGILANCIA DIGITAL PARA EL RASTREO DE CONTACTOS
+DE PERSONAS CONTAGIADAS DE SARS-COV-2
+Juan Jesús García-Iglesias (1,2), Jorge Martín-Pereira (3), Javier Fagundo-Rivera (4,5) y Juan Gómez-Salgado (1,6)
+(1) Departamento de Sociología, Trabajo Social y Salud Pública. Universidad de Huelva. Huelva. España.
+(2) Escuela Superior de Salud. Universidad Atlántica. Lisboa. Portugal.
+(3) Consorcio de transporte sanitario onubense. Base en Centro de Salud de Isla Cristina. Huelva. España.
+(4) Escuela de Doctorado en Ciencias de la Salud. Universidad de Huelva. Huelva. España.
+(5) Servicio Andaluz de Salud. Andalucía. España.
+(6) Programa de Posgrado de Seguridad y Salud. Universidad Espíritu Santo. Guayaquil. Ecuador.
+Los autores declaran que no existe ningún conflicto de interés.
+
+RESUMEN
+Fundamentos: En tiempos de pandemia, la gestión
+
+de casos y el rastreo de contactos pueden ser elementos
+diferenciales para el control de la propagación de la
+misma. El objetivo de esta revisión fue evaluar las
+herramientas digitales empleadas para el rastreo de
+contactos de personas contagiadas de SARS-CoV-2.
+
+Métodos: Se realizó una revisión sistemática
+exploratoria en las bases de datos electrónicas Pubmed,
+Scopus y Web of Science el día 29 de mayo de 2020 a través
+de los descriptores: coronavirus, digital surveillance y
+contact tracing. Se seleccionaron finalmente un total de
+11 estudios.
+Resultados: Los resultados mostraron cómo algunos
+países están implantando herramientas digitales para el
+rastreo de contactos a través de aplicaciones para móviles,
+las cuales permiten compartir datos de los usuarios a
+través del GPS y/o Bluetooth del dispositivo. Los términos
+sobre la privacidad y confidencialidad de los datos de la
+población están, en algunos casos, en entredicho.
+Conclusiones: El uso de herramientas de vigilancia
+
+digital para el rastreo de contactos de personas contagiadas
+de una enfermedad infecciosa, como la provocada por el
+SARS-CoV-2, puede ser capital para reducir el número
+de personas infectadas y reducir la propagación del virus.
+
+Palabras clave: Covid-19, Rastreo de contactos,
+Monitoreo epidemiológico, Salud pública, Control de
+enfermedades transmisibles, Aplicaciones de la informática
+médica.
+
+Correspondencia:
+Jorge Martín-Pereira
+Consorcio de transporte sanitario onubense
+Centro de Salud de Isla Cristina.
+Calle Arquitecto Aramburu Maqua
+21410 Isla Cristina (Huelva), España
+jorgemppz@gmail.com
+
+ABSTRACT
+
+Digital surveillance tools for contact tracking
+of infected persons by SARS-CoV-2
+Background: In times of pandemic, case management
+
+and tracking people with contact can be differential
+elements for controlling the spread. The objective of
+this review was to evaluate the digital tools used to track
+contacts of people infected with SARS-CoV-2.
+
+Methods: A systematic exploratory review was
+conducted in the electronic databases Pubmed, Scopus and
+Web of Science on May 29, 2020 through the descriptors:
+coronavirus, digital surveillance and contact tracing. A
+total of 11 studies were finally selected.
+Results: The results showed that some countries are
+implementing digital tools for contact tracking through
+mobile apps that allow user data to be shared via the
+device’s GPS and/or Bluetooth. The terms on the privacy
+and confidentiality of the population data are, in some
+cases, questionable.
+Conclusions: The use of digital surveillance tools to
+track contacts of people infected with an infectious disease,
+such as SARS-CoV-2, can be key to reducing the number of
+people infected and reducing the spread of the virus.
+Key words: Covid-19, Epidemiological monitoring,
+Contact tracing, Public health, Communicable disease
+control, Medical informatics applications.
+
+Cita sugerida: García-Iglesias JJ, Martín-Pereira J, Fagundo-Rivera J, Gómez-Salgado J. Herramientas de vigilancia
+digital para el rastreo de contactos de personas contagiadas de
+SARS-CoV-2. Rev Esp Salud Pública. 2020; 94: 23 de junio
+e202006067
+
+Juan Jesús García-Iglesias et al
+
+INTRODUCCIÓN
+Es indudable que una pandemia mundial provoca multitud de consecuencias a nivel social,
+económico, cultural y, especialmente, a nivel sanitario. En una situación como la actual, cuando las personas infectadas se cuentan por millones y las personas fallecidas con prueba positiva
+de coronavirus tipo 2 del síndrome respiratorio
+agudo grave (severe acute respiratory syndrome coronavirus 2/SARS-CoV-2) se cuentan por
+cientos de miles, se deben plantear una serie de
+medidas para reducir el empaque y el impacto de
+la enfermedad. Estas medidas deben estar enfocadas a varias esferas: la promoción de la salud
+a través de educación para la comunidad, la prevención de la enfermedad para evitar la propagación de la misma, la búsqueda de una vacuna
+y un tratamiento eficaces y efectivos para tratar
+a las personas contagiadas, y el establecimiento
+de estrategias adecuadas de rehabilitación posCovid-19. Para poder salvaguardar todas estas
+medidas no se debe olvidar el enfoque biopsicosocial de la personas afectadas y de las personas
+que luchan contra el virus(1).
+Pese a que aún quedan muchos interrogantes
+por resolver sobre el virus, el SARS-CoV-2 presenta una virulencia y una capacidad de contagio
+realmente altas, comparadas con otros coronavirus similares como el SARS-CoV que apareció en 2002-2003 y el coronavirus relacionado
+con el Síndrome Respiratorio del Medio Oriente
+(MERS-CoV) en 2012-2014(2). Ante estas características del virus, resulta esencial la imposición
+de medidas de limitación de la movilidad y la
+realización de una correcta vigilancia de la salud
+pública para reducir la tasa de infección.
+En este sentido, la Organización Mundial de
+la Salud (OMS) define la vigilancia de la salud pública como “la recopilación, el análisis
+y la interpretación continuos y sistemáticos
+de los datos relacionados con la salud necesarios para la planificación, implementación
+2
+
+y evaluación de las prácticas de salud pública”(3). Para poder ejecutar una correcta vigilancia de la salud se deben gestionar de forma
+correcta los casos a través de cuarentenas, contacto constante con casos probables y/o casos,
+evaluaciones del curso de tratamiento para el
+caso confirmado, entre otros, e implementar un
+efectivo rastreo de contactos con el propósito
+de poder proporcionar un tratamiento (si fuera
+necesario) de forma precoz, y valorar posibles
+fuentes de infección y rutas de transmisión(3).
+Tradicionalmente, este rastreo de contactos
+requería tiempo y recursos, y ante un virus tan
+contagioso como el SARS-CoV-2 la velocidad
+del rastreo de contacto puede ser superada por el
+número de casos y la propagación de la enfermedad, especialmente si el número de reproducción
+básica de transmisibilidad se encuentra entre
+2,5-3,5(4). El uso de herramientas digitales para
+el rastreo de contactos puede agilizar, en tiempo
+y en forma, la detección de casos probables en
+una población determinada. Por ello, el objetivo
+de esta revisión fue evaluar las herramientas digitales empleadas para el rastreo de contactos de
+personas contagiadas de SARS-CoV-2.
+
+MÉTODOS
+Se realizó una revisión sistemática exploratoria con el objetivo de evaluar las herramientas
+digitales empleadas para el rastreo de contactos
+de personas contagiadas de SARS-CoV-2, en
+base a la pregunta de investigación: ¿es factible
+el uso de herramientas digitales para detectar
+personas susceptibles de haber sido contagiadas
+de SARS-CoV-2 por haber tenido contacto con
+casos probables y/o confirmados de COVID-19?
+La búsqueda se realizó en las bases de datos
+electrónicas Pubmed, Scopus, Web of Science
+y otras fuentes de información secundaria
+el día 29 de mayo de 2020 a través de los siguientes
+descriptores del Medical Subject Headings
+(MeSH): coronavirus, digital surveillance y
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+HERRAMIENTAS DE VIGILANCIA DIGITAL PARA EL RASTREO DE CONTACTOS DE PERSONAS CONTAGIADAS DE SARS-COV-2
+
+contact tracing. La estrategia de búsqueda
+empleada fue similar en las tres bases de datos,
+usando para ello los descriptores anteriormente
+citados y palabras clave relacionadas a
+través de los operadores booleanos and y or.
+Un ejemplo de la estrategia de búsqueda de
+Pubmed fue (covid-19 or coronavirus or 2019ncov or sars-cov-2 or cov-19 or SARS or MERS)
+
+AND (technology or Digital surveillance)) AND
+(contact tracing or Partner Notification) (tabla 1).
+Los criterios de inclusión para la selección
+de los artículos fueron:
+–– Artículos originales publicados en inglés,
+español, francés, italiano y portugués.
+
+Tabla 1.
+Estrategia de búsqueda utilizada según la base de datos.
+Base
+de datos
+
+Estrategia de búsqueda
+
+Fecha de
+búsqueda
+
+Pubmed
+
+(((((((((((((("covid 19"[All Fields] OR "covid 2019"[All Fields]) OR "severe acute respiratory syndrome coronavirus 2"[Supplementary Concept]) OR
+"severe acute respiratory syndrome coronavirus 2"[All Fields]) OR "2019
+ncov"[All Fields]) OR "sars cov 2"[All Fields]) OR "2019ncov"[All Fields]) OR
+(("wuhan"[All Fields] AND ("coronavirus"[MeSH Terms] OR "coronavirus"[All
+Fields]))))) OR (("coronavirus"[MeSH Terms] OR "coronavirus"[All Fields]) OR
+"coronaviruses"[All Fields])) OR (("severe acute respiratory syndrome coronavirus
+2"[Supplementary Concept] OR "severe acute respiratory syndrome coronavirus 2"[All Fields]) OR "2019 ncov"[All Fields])) OR (("severe acute respiratory
+syndrome coronavirus 2"[Supplementary Concept] OR "severe acute respiratory
+syndrome coronavirus 2"[All Fields]) OR "sars cov 2"[All Fields])) OR "cov-19"[All
+Fields]) OR "SARS"[All Fields]) OR ((("coronavirus infections"[MeSH Terms]
+OR ("coronavirus"[All Fields] AND "infections"[All Fields])) OR "coronavirus
+infections"[All Fields]) OR "mers"[All Fields])) AND (((("technology"[MeSH
+Terms] OR "technology"[All Fields]) OR "technologies"[All Fields]) OR "technology s"[All Fields]) OR (((((((((((((((((("digital"[All Fields] OR "digitalisation"[All
+Fields]) OR "digitalised"[All Fields]) OR "digitalization"[All Fields]) OR
+"digitalize"[All Fields]) OR "digitalized"[All Fields]) OR "digitalizer"[All Fields])
+OR "digitalizing"[All Fields]) OR "digitally"[All Fields]) OR "digitals"[All
+Fields]) OR "digitization"[All Fields]) OR "digitizations"[All Fields]) OR
+"digitize"[All Fields]) OR "digitized"[All Fields]) OR "digitizer"[All Fields])
+OR "digitizers"[All Fields]) OR "digitizes"[All Fields]) OR "digitizing"[All
+Fields]) AND ((((((("epidemiology"[MeSH Subheading] OR "epidemiology"[All
+Fields]) OR "surveillance"[All Fields]) OR "epidemiology"[MeSH Terms]) OR
+"surveilance"[All Fields]) OR "surveillances"[All Fields]) OR "surveilled"[All
+Fields]) OR "surveillence"[All Fields])))) AND ((("contact tracing"[MeSH Terms]
+OR ("contact"[All Fields] AND "tracing"[All Fields])) OR "contact tracing"[All
+Fields]) OR (((("contact tracing"[MeSH Terms] OR ("contact"[All Fields] AND
+"tracing"[All Fields])) OR "contact tracing"[All Fields]) OR ("partner"[All Fields]
+AND "notification"[All Fields])) OR "partner notification"[All Fields]))
+
+29/05/20
+
+29
+
+10
+
+Scopus
+
+(TITLE-ABS-KEY (covid-19 OR coronavirus OR 2019-ncov OR sars-cov-2 OR
+cov-19 OR sars OR mers) AND TITLE-ABS-KEY (technology OR digital AND
+surveillance) AND TITLE-ABS-KEY (contact AND tracing))
+
+29/05/20
+
+7
+
+1
+
+Web of
+Science
+
+TODOS LOS CAMPOS: (covid-19 or coronavirus or 2019-ncov or sars-cov-2
+or cov-19 OR sars OR mers) AND TODOS LOS CAMPOS: (technology or
+Digital surveillance) AND TODOS LOS CAMPOS: (contact tracing or Partner
+Notification)
+
+29/05/20
+
+16
+
+3
+
+30/05/20
+
+1
+
+1
+
+53
+
+15/11(*)
+
+Otros recursos
+TOTAL
+
+Resul- Selecciotados
+nados
+
+(*) Tras eliminar duplicados
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+3
+
+Juan Jesús García-Iglesias et al
+
+–– Artículos disponibles a texto completo.
+–– Artículos que midieran alguno de los siguientes valores y/o efectos: empleo de herramientas digitales para el seguimiento de contactos y uso de aplicaciones para móviles.
+
+Para la recogida y extracción de datos, dos
+investigadores realizaron de manera independiente la búsqueda y la selección de los artículos incluidos según los criterios establecidos,
+consensuando posteriormente los resultados.
+Las discrepancias las resolvió un tercer autor.
+
+RESULTADOS
+
+Los criterios de exclusión fueron:
+–– Estudios con un idioma diferente a inglés,
+español, francés, italiano y portugués.
+–– Artículos que no dieran respuesta a la pregunta de investigación y no estuvieran relacionados con el objetivo de la revisión.
+
+Las estrategias iniciales de búsquedas identificaron un total de 53 referencias, las cuales
+fueron objeto de sucesivos cribados (figura 1)
+conforme al tópico de esta revisión. Se seleccionaron finalmente un total de 11 estudios
+(tabla 2).
+
+IDENTIFICACIÓN
+
+Figura 1.
+Resultados de la búsqueda (Diagrama de flujo - PRISMA)(12,13).
+
+Referencias identificadas: 52
+
+Referencias identificadas
+a través de otros recursos: 1
+
+Pubmed: 29, Scopus: 7, WOS: 16
+
+Referencias cribadas tras eliminar duplicados
+CRIBADO
+
+(n=37)
+
+ELEGIBILIDAD
+
+Artículos a texto completo: 20
+
+INCLUSIÓN
+
+Artículos para screening: 37
+
+Artículos incluidos
+en la síntesis: 11
+
+4
+
+Excluidos por título y resumen: 17
+
+Idioma: 1
+No relacionado con el objetivo: 7
+No texto completo: 1
+
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+HERRAMIENTAS DE VIGILANCIA DIGITAL PARA EL RASTREO DE CONTACTOS DE PERSONAS CONTAGIADAS DE SARS-COV-2
+
+Tabla 2.
+Estudios incluidos en la revisión sistemática exploratoria.
+Localización
+
+Revista
+
+Base
+de datos
+
+Quantifying SARS-CoV-2 transmission Estudio de
+Ferretti
+epidemic control with digital investigación
+et al, 2020(1) suggests
+contact tracing.
+
+China
+
+Science
+
+Pubmed
+
+Geographical tracking and mapping
+of coronavirus disease Covid-19/
+severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) epidemic
+and associated events around the world:
+how 21st century GIS technologies
+are supporting the global fight against
+outbreaks and epidemics.
+
+China
+
+International
+Journal of Health
+Geographics
+
+Pubmed
+y WoS
+
+África
+occidental
+
+Journal of
+Theoretical
+Biology
+
+Pubmed
+
+Autores
+
+KamelBoulos
+et al, 2020(2)
+
+Título
+
+Tipo de
+estudio
+
+Editorial
+
+Browne
+Modelling contact tracing in outbreaks
+Estudio de
+et al, 2015(3) with application to Ebola.
+investigación
+Global preparedness against Covid-19:
+Mahmood
+et al, 2020(4) we must leverage the power of digital
+health.
+
+Punto
+de vista
+
+Public Health
+Internacional JMIR
+and Surveillance
+
+Pubmed
+
+Covid-19 mobile positioning data
+Ekong et al, contact tracing and patient privacy
+regulations: exploratory search of
+2020(5)
+global response strategies and the
+use of digital tools in Nigeria.
+
+Revisión
+exploratoria
+
+Internacional
+
+JMIR mHealth
+and uHealth
+
+Pubmed,
+WoS y
+Scopus
+
+Lin et al,
+2020(6)
+
+Combat Covid-19 with artificial
+intelligence and big data.
+
+Revisión
+exploratoria
+
+Internacional
+
+Journal of Travel
+Medicine
+
+Pubmed
+
+Ponce,
+2020(7)
+
+Covid-19 Contact-Tracing Apps: How
+to Prevent Privacy from
+Becoming the Next Victim.
+
+Resumen
+de políticas
+
+Europa
+
+Calvo et al,
+2020(8)
+
+Health surveillance during Covid-19
+pandemic.
+
+Editorial
+
+Internacional
+
+BMJ
+
+Pubmed
+
+Korea
+Centers
+for Disease
+Control &
+Prevention,
+2020(9)
+
+Contact Transmission of Covid-19
+in South Korea: Novel Investigation
+Techniques for Tracing Contacts.
+
+Estudio de
+investigación
+
+Corea
+del Sur
+
+Osong Public Health
+and Research
+Perspectives
+
+Pubmed
+
+Qi et al,
+2013(10)
+
+Tracking and visualization of spacetime activities for a micro-scale flu
+transmission study.
+
+International
+Estudio de Estados Unidos Journal
+of Health
+investigación
+Geographics
+
+Pubmed
+
+Yasaka et
+al, 2020(11)
+
+Peer-to-Peer Contact Tracing:
+Development of a Privacy-Preserving
+Smartphone App.
+
+Estudio de
+investigación Estados Unidos
+
+Pubmed
+y WoS
+
+DISCUSIÓN
+Aplicaciones para móviles. A partir del brote
+de MERS de 2015, se empiezan a usar aplicaciones móviles para el rastreo de contactos(3).
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+ETUI Research
+Paper-Policy Brief Otras fuentes
+
+JMIR mHealth
+and uHealth
+
+Una aplicación móvil permite recibir al instante
+una notificación tras la confirmación de un caso
+positivo de Covid-19, al disponer de un registro
+de posibles eventos de proximidad entre usuarios. En el caso de que una persona tenga un
+5
+
+Juan Jesús García-Iglesias et al
+
+resultado positivo, todas aquellas personas que
+coincidieron en tiempo y espacio con ella son
+susceptibles de desarrollar la enfermedad(1).
+De forma general, el uso de este tipo de
+aplicaciones no es obligatorio, pero en algunos
+casos puede ser necesario. En el caso de China,
+para permitir la movilidad entre zonas y poder
+usar el transporte público, la población debía
+tener la aplicación móvil Health barcode(5).
+Esta aplicación, a través de algoritmos de
+inteligencia artificial cruzados con los datos de
+movilidad de la población, ofrece códigos de
+color (verde, naranja y rojo) ante la posibilidad
+de haber estado en contacto con una persona
+Covid+ tras el volcado, de forma anonimizada,
+en el servidor de la aplicación(6,7). Este hecho
+permite ofrecer una recomendación de
+cuarentena estratificada por riesgo y medidas
+de distanciamiento físico en aquellas personas
+susceptibles de la infección, al tiempo que
+preserva el anonimato de la persona infectada.
+Dicha aplicación supone un complemento
+para aplicaciones como WeChat y Alipay,
+ampliamente usadas por la población china(2).
+En el metro de la ciudad de Guangzhou,
+se mostraba un código QR único por cada
+vagón que los pasajeros tenían la posibilidad
+de escanear. Una vez escaneado, aparecía un
+formulario que el viajero podía cumplimentar,
+y en el caso que una persona fuera infectada
+podía permitir conocer las personas con las
+que compartió el mismo vagón en el trayecto
+concreto(2).
+El gobierno de Taiwán, para dar respuesta
+a la epidemia, recurre a compilar las bases de
+datos de los seguros de salud con las bases de
+datos de inmigración y aduanas, hecho que permitía crear alertas a tiempo real de casos probables e historial de viajes. De igual forma, se
+destaca el uso de la tecnología Geofencing para
+poder mapear movimientos en un área geográfica concreta y ofrecer información al usuario
+del servicio(6,7).
+6
+
+En Singapur y Canadá se está utilizando una
+aplicación móvil (TraceTogether) que utiliza una
+red de malla a través de Bluetooth para detectar
+la proximidad de las personas que estuvieron expuestas a Covid-19, ofreciendo una advertencia
+en forma de mensaje para que acudiera a la realización de una prueba de detección(5,7).
+Actualmente, a nivel europeo, los países están desarrollando el DP3T (Rastreo descentralizado de proximidad para preservar la privacidad), que permite el rastreo de contactos
+digitales de las personas infectadas. Este tipo
+de rastreo es un elemento base para el Rastreo
+Paneuropeo de Proximidad para Preservar la
+Privacidad (Pan-European Privacy-Preserve
+Proximity Tracing - PEPP-PT) que, mediante el
+uso de Bluetooth de baja energía, permite rastrear y registrar encuentros con otros usuarios.
+El protocolo DP3T funciona a partir de identidades efímeras (EphID), que son cadenas rotativas numéricas de 16 bytes que se intercambian para ser almacenadas en un registro del
+propio dispositivo cada vez que dos personas
+se cruzan. Algunos países como Reino Unido
+ya están implementando aplicaciones como la
+NHS COVID-19(7).
+Muchos países como Israel, Corea del Sur,
+Italia, Alemania y Austria usan los proveedores
+de telecomunicaciones para recabar datos
+de ubicación, de forma anónima, con el fin
+de verificar si las personas permanecen en
+sus hogares(5). Corea del Sur, además del
+uso de datos del GPS de los dispositivos
+electrónicos, implementó sistemas de rastreo
+complementarios usando imágenes de cámaras
+de seguridad de instalaciones médicas y
+de farmacias, transacciones de tarjetas de
+crédito y datos de GPS de automóviles, en
+un sistema conocido como COVID-19 Smart
+Management System(6,7,8). Estudios como el de
+Qi et al(10) indicaban, ya en 2011, que el uso
+de dispositivos con GPS asistido, que usaban
+señales del satélite y del propio dispositivo para
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+HERRAMIENTAS DE VIGILANCIA DIGITAL PARA EL RASTREO DE CONTACTOS DE PERSONAS CONTAGIADAS DE SARS-COV-2
+
+poder crear trayectorias espacio-temporales
+de los individuos en 2D con una precisión de
+3 metros, permitía valorar la posibilidad de
+contacto.
+A nivel privado, se están desarrollando aplicaciones como TrackCOVID, que permite crear
+puntos de control y unirse a los ya creados,
+donde las personas que coinciden en un lugar
+pueden pertenecer a un mismo dominio a través
+de un código QR(8).
+Consideraciones operativas. Para que sean suficientemente efectivas, las aplicaciones deben ser
+capaces de cumplir los siguientes requisitos(8):
+i) Determinar la ubicación del contacto (ruta).
+ii) Evaluar el riesgo de exposición.
+iii) Clasificar el contacto.
+iv) Manejar el contacto.
+Por ello, las aplicaciones que usan Bluetooth
+no permiten establecer el nivel de contacto ni el
+uso de elementos de protección, pero en sí son
+más precisas que la geolocalización (GPS).
+De igual forma, se calcula que para que sean
+efectivas estas estrategias, sería necesario que
+al menos el 60% de la población tuviera instalada la aplicación móvil en cuestión(6).
+Consideraciones legales: la privacidad. El rastreo
+de contactos basado en teléfonos inteligentes
+presenta una solución viable para limitar la
+transmisión de enfermedades, pero su uso
+puede provocar importantes problemas sobre la
+privacidad de las personas(11). En este sentido, es
+indudable que tanto China como Corea del Sur, a
+través de las medidas de control usadas, reducen
+considerablemente el número de casos pero son
+objeto de críticas por cuestiones de protección de
+datos y privacidad(1). A nivel europeo, la dicotomía
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+está en dónde se debe almacenar y quién
+tiene el control de los datos y las rutas de cada
+individuo. Si bien es cierto que a nivel operativo
+puede ser factible a través de APIs (interfaz de
+programación de aplicaciones) creadas por Apple
+y Google, la normativa europea acota y limita el
+uso que los gobiernos puedan hacer de los datos
+de sus compatriotas(7,14).
+A modo de conclusión, el uso de herramientas de vigilancia digital para el rastreo de contactos de personas contagiadas de una enfermedad infecciosa como la provocada por el
+SARS-CoV-2 puede ser capital para reducir el
+número de personas infectadas y reducir la propagación del virus. Si bien es cierto que existe una amplia variabilidad de herramientas, la
+gestión del uso de datos de la población puede
+entrar en conflicto con las leyes de protección
+de datos a nivel nacional e internacional.
+
+BIBLIOGRAFÍA
+1. Ferretti L, Wymant C, Kendall M, Zhao L , Nurtay A,
+Abeler-Dörner L et al. Quantifying SARS-CoV-2 transmission
+suggests epidemic control with digital contact tracing. Science.
+2020;368(6491):eabb6936. doi: 10.1126/science.abb6936.
+2. Kamel Boulos MN, Geraghty EM. Geographical tracking and mapping of coronavirus disease COVID-19/
+severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) epidemic and associated events around
+the world: how 21st century GIS technologies are supporting the global fight against outbreaks and epidemics.
+Int J Health Geogr. 2020;19(1):8. doi:10.1186/s12942020-00202-8.
+3. Browne C, Gulbudak H, Webb G. Modelling contact tracing in outbreaks with application to Ebola. J Theor Biol.
+2015;384:33-49. doi: 10.1016/j.jtbi.2015.08.004.
+4. Mahmood S, Hasan K, Colder Carras M, Labrique A.
+Global preparedness against COVID-19: we must leverage
+the power of digital health. JMIR Public Health Surveill.
+2020;6(2):e18980. doi: 10.2196/18980.
+7
+
+Juan Jesús García-Iglesias et al
+
+5. Ekong I, Chukwu E, Chukwu M. COVID-19 mobile positioning data contact tracing and patient privacy regulations: exploratory search of global response strategies and
+the use of digital tools in Nigeria. JMIR Mhealth Uhealth.
+2020;8(4):e19139. doi: 10.2196/19139.
+6. Lin L, Hou Z. Combat COVID-19 with artificial intelligence and big data. Journal of Travel Medicine.
+2020;taaa080. doi: 10.1093/jtm/taaa080.
+7. Ponce A. COVID-19 Contact-Tracing Apps: How
+to Prevent Privacy from Becoming the Next Victim.
+ETUI Research Paper-Policy Brief; 2020. doi: 10.2139/
+ssrn.3593405.
+8. Calvo RA, Deterding S, Ryan RM. Health surveillance
+during covid-19 pandemic. BMJ. 2020;369:m1373. doi:
+10.1136/bmj.m1373.
+9. COVID-19 National Emergency Response Center,
+Epidemiology & Case Management Team, Korea Centers
+for Disease Control & Prevention. Contact Transmission of
+COVID-19 in South Korea: Novel Investigation Techniques
+for Tracing Contacts. Osong Public Health Res Perspect.
+2020;11(1):60-3. doi: 10.24171/j.phrp.2020.11.1.09.
+
+11. Yasaka TM, Lehrich BM, Sahyouni R. Peer-toPeer Contact Tracing: Development of a PrivacyPreserving Smartphone App. JMIR Mhealth Uhealth.
+2020;8(4):e18936. doi: 10.2196/18936.
+12. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati
+A, Petticrew M, et al. Ítems de referencia para publicar
+Protocolos de Revisiones Sistemáticas y Metaanálisis: declaración PRISMA-P 2015. Revista Española de Nutrición
+Humana y Dietética 2016;20(2):148-160.
+13. Martín Pereira J, Gómez Salgado J, García-Iglesias JJ,
+Romero Martín M, Gómez-Urquiza JL. Comparación entre
+los diferentes dispositivos supraglóticos para el manejo de
+la vía aérea en la asistencia extrahospitalaria: revisión sistemática. Emergencias. 2019;31:417-428.
+14. Regulation (EU) 2016/679 of the European Parliament
+and of the Council of 27 April 2016 on the protection of
+natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing
+Directive 95/46/EC (General Data Protection Regulation).
+
+10. Qi F, Du F. Tracking and visualization of space-time activities for a micro-scale flu transmission study. Int J Health
+Geogr. 2013;12:6. doi: 10.1186/1476-072X-12-6.
+
+8
+
+Rev Esp Salud Pública. 2020; 94: 23 de junio e202006067
+
+

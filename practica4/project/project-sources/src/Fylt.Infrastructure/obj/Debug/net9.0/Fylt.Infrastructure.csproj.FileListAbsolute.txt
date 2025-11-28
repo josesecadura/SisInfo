@@ -1,0 +1,15 @@
+D:\git\SisInfo\Fylt.Infrastructure\bin\Debug\net9.0\Fylt.Infrastructure.deps.json
+D:\git\SisInfo\Fylt.Infrastructure\bin\Debug\net9.0\Fylt.Infrastructure.runtimeconfig.json
+D:\git\SisInfo\Fylt.Infrastructure\bin\Debug\net9.0\Fylt.Infrastructure.dll
+D:\git\SisInfo\Fylt.Infrastructure\bin\Debug\net9.0\Fylt.Infrastructure.pdb
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.csproj.AssemblyReference.cache
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.AssemblyInfoInputs.cache
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.AssemblyInfo.cs
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.sourcelink.json
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.dll
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\refint\Fylt.Infrastructure.dll
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.pdb
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\Fylt.Infrastructure.genruntimeconfig.cache
+D:\git\SisInfo\Fylt.Infrastructure\obj\Debug\net9.0\ref\Fylt.Infrastructure.dll

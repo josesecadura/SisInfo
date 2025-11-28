@@ -1,0 +1,525 @@
+Documento técnico
+Toma y transporte de muestras para
+diagnóstico por PCR de SARS-CoV-2
+18 de mayo de 2020
+
+COORDINACIÓN: Centro de Coordinación de Alertas y Emergencias Sanitarias.
+Dirección General de Salud Pública, Calidad e Innovación.
+
+Las recomendaciones incluidas en el presente documento están en continua revisión y serán
+modificadas si la situación epidemiológica así lo requiriese. Utilice este documento bajo su
+propia responsabilidad.
+
+1
+
+Contenido:
+1.
+
+Justificación ........................................................................................................................... 3
+
+2.
+
+Objetivo ................................................................................................................................. 3
+
+3.
+
+Indicación de toma de muestras clínicas .............................................................................. 3
+
+4.
+
+Tipo de muestras para el diagnóstico ................................................................................... 3
+
+5.
+
+Equipo de protección individual para la toma de muestras ................................................. 3
+
+6.
+
+Técnica de recogida de la muestra........................................................................................ 4
+
+7.
+
+Preparación de la muestra .................................................................................................... 4
+
+8.
+
+Bibliografía ............................................................................................................................ 5
+
+ANEXO 1: Transporte y recomendaciones de manejo de muestras biológicas con infección o
+sospecha de infección por SARS-CoV-2......................................................................................... 7
+A. Instrucciones para el transporte de muestras biológicas a otro centro diferente al lugar de
+la toma de muestra ................................................................................................................... 7
+B. Manejo de muestras para el personal de laboratorio ........................................................ 11
+
+CONTROL DE REVISIONES Y MODIFICACIONES
+Nº Revisión
+0
+
+Fecha
+13/05/2020
+
+Descripción de modificaciones
+Versión inicial
+
+2
+
+1. Justificación
+
+
+En la situación epidemiológica actual debe realizarse la confirmación diagnóstica de todos
+los casos sospechosos de COVID-19, garantizando la calidad de la atención y la máxima
+seguridad para el personal sanitario, así como el uso racional de los recursos.
+
+2. Objetivo
+
+
+Servir de guía para la toma de muestras clínicas de manejo casos de COVID-19 en aquellos
+ámbitos en los que cada comunidad autónoma designe para tal fin.
+
+3. Indicación de toma de muestras clínicas
+
+
+Las indicaciones de toma de muestra se recogen en la Estrategia de diagnóstico, vigilancia
+y control en la fase de transición de la pandemia e indicadores.
+
+4. Tipo de muestras para el diagnóstico
+
+
+
+
+
+
+Las muestras recomendadas para el diagnóstico microbiológico serán preferentemente las
+referidas al tracto respiratorio superior: frotis nasofaríngeo (de preferencia por ser el lugar
+donde se detecta mayor carga viral) y/o orofaríngeo. En población pediátrica de corta edad
+es posible sustituir los frotis por lavado o aspirado nasofaríngeo.
+Las muestras del tracto respiratorio inferior como el esputo (si es posible) o aspirado
+endotraqueal, lavado broncoalveolar o broncoaspirado se considerarán a juicio facultativo,
+especialmente en pacientes con enfermedad respiratoria grave. Estas muestras parecen
+tener mayor rendimiento que las del tracto respiratorio superior especialmente en
+pacientes con neumonía y pueden ser obtenidas fácilmente en casos de pacientes intubados
+con ventilación mecánica.
+Las muestras de suero para serología (dos muestras) sólo se realizarán tras la confirmación
+con PCR positiva para COVID-19. La serología es útil para la confirmación de la respuesta
+inmune a la infección por coronavirus. La primera muestra debe recogerse a partir del día 7
+desde el inicio de síntomas (fase aguda) y la segunda muestra 20-30 días después.
+
+5. Equipo de protección individual para la toma de muestras
+
+
+Para la toma de muestras del tracto respiratorio superior se deben instaurar las siguientes
+precauciones:
+o Bata
+o Mascarilla FFP2
+3
+
+
+
+o Guantes
+o Protección ocular
+En caso de toma de muestras del trato respiratorio inferior el personal sanitario debería
+instaurar las precauciones específicas de transmisión aérea:
+o Bata: impermeable o si no hay disponibilidad utilizar adicionalmente delantal
+o Protección respiratoria con una eficacia de filtración equivalente a FFP2 o FFP3
+o Protección ocular
+o Guantes de manga larga
+
+6. Técnica de recogida de la muestra
+
+
+
+
+Frotis nasofaríngeo: se realizará la toma de la muestra con el hisopo fino y flexible del kit
+específico para toma de muestras respiratorias para virus. No debe recogerse con hisopos
+de alginato de calcio, de algodón ni con mango de madera. Se debe insertar un hisopo más
+flexible, de dacrón o poliéster, por la fosa nasal y paralelo al paladar. Se introduce el hisopo
+primero por una narina hasta alcanzar la rinofaringe y luego por la otra. El hisopo debe
+alcanzar una profundidad igual a la distancia desde las fosas nasales hasta la abertura
+externa de la oreja. Se deja el hisopo en ese lugar durante varios segundos para absorber
+las secreciones. Se retira lentamente el hisopo mientras se gira. Se hacen dos o tres
+rotaciones de 180º y se mantiene 5 segundos en contacto con la mucosa. Puede verse la
+técnica en este vídeo. Los hisopos se introducen inmediatamente en tubos estériles que
+contengan 2-3 ml de medio de transporte viral. Existen hisopos de tamaño pediátrico. La
+muestra ha de conservarse en nevera hasta su envío al laboratorio.
+Frotis orofaríngeo: se realizará la toma de la muestra con el hisopo grueso y rígido (sin
+mango de madera) del kit específico para toma de muestras respiratorias de virus. Se sujeta
+la lengua del paciente con el depresor lingual y se frota con firmeza la pared posterior de la
+garganta (orofaringe) con el hisopo (al frotar obtenemos células infectadas con el virus). Los
+hisopos se introducen inmediatamente en tubos estériles que contengan 2-3 ml de medio
+de transporte viral. Si se toma nasofaríngeo y orofaríngeo al mismo paciente se pueden
+introducir los dos hisopos juntos en el mismo tubo de medio de transporte. La muestra ha
+de conservarse en nevera hasta su envío al laboratorio.
+
+7. Preparación de la muestra
+
+
+
+
+Todas las muestras se prepararán para su envío al laboratorio en el mismo lugar donde se
+encuentre el paciente.
+La parte externa de los tubos que contiene la muestra respiratoria deberá limpiarse con un
+desinfectante de superficies o una toallita impregnada en desinfectante.
+En caso de precisar envío de muestras a otra institución y dado que en el transporte se
+pueden producir golpes o derramamientos deberán ser tratadas como potencialmente
+
+4
+
+
+
+infecciosas y se considerarán de categoría B (deben ser transportadas en triple embalaje,
+norma UN3373 según figura en el anexo I, al final de este documento).
+No es imprescindible que el transporte de muestras clínicas para la detección del SARS-CoV2 a otras instituciones se realice utilizando los servicios de empresas especializadas.
+
+8. Bibliografía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biosafety in Microbiological and Biomedical Laboratories (BMBL) 5th Edition | CDC
+Laboratory Portal | CDC [Internet]. 2019 [cited 2020 Feb 12]. Available from:
+https://www.cdc.gov/labs/BMBL.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2
+Fbiosafety%2Fpublications%2Fbmbl5%2Findex.htm
+CDC. Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens
+Associated with 2019 Novel Coronavirus (2019-nCoV). February 2020. Available from:
+https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html
+CDC: https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control.html
+Centers for Disease Control and Prevention. Interim Infection Prevention and Control
+Recommendations for Patients with Known or Patients Under Investigation for 2019 Novel
+Coronavirus (2019-nCoV) in a Healthcare Setting: CDC; 2020. Disponible en:
+https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html
+ECDC. Infection prevention and control for the care of patients with 2019-nCoV in
+healthcare settings. February 2020. Available from
+https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirus-infectionprevention-control-patients-healthcare-settings.pdf
+ECDC: https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirusinfection-prevention-control-patients-healthcare-settings.pdf
+European Agreement concerning the International Carriage of Dangerous Goods by
+Road. ADR 2019. Available from:
+https://www.unece.org/index.php?id=50858&no_cache=1
+European Centre for Disease Prevention and Control (ECDC). Safe use of personal
+protective equipment in the treatment of infectious diseases of high consequence
+Stockholm: ECDC; 2014. Disponible en:
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/safeuse-of-ppe.pdf .
+https://www.iata.org/en/programs/cargo/dgr/
+lors de la prise en charge de ces patients 2015. Disponible en:
+https://www.hcsp.fr/Explore.cgi/Telecharger?NomFichier=hcspr20150424_infectionMersC
+ovdefcasmodpec.pdf
+NTP 628: Riesgo biológico en el transporte de muestras y materiales infecciosos. Instituto
+de Seguridad y Salud en el Trabajo. Real Decreto 664/1997, de 12 de mayo, sobre la
+protección de los trabajadores contra los riesgos relacionados con la exposición a agentes
+biológicos. https://www.boe.es/eli/es/rd/1997/05/12/664/con
+5
+
+
+
+
+
+
+
+
+
+Reglamento ADR 2019. https://www.mitma.gob.es/transporte-terrestre/mercanciaspeligrosas-y-perecederas/adr2019
+UNECE. Instrucción de Embalaje P650. Available from:
+http://www.safetyway.es/images/PDF/P650_adr.pdf
+WHO. Laboratory biorisk management for laboratories handling human specimens
+suspected or confirmed to contain novel coronavirus: Interim recommendations.
+February 2013. Available from:
+https://www.who.int/csr/disease/coronavirus_infections/Biosafety_InterimRecommend
+ations_NovelCoronavirus_19Feb13.pdf?ua=1
+World Health Organization. Infection prevention and control during health care when
+novel coronavirus (nCoV) infection is suspected. Interim Guidance Geneva2020.
+WHO/2019-nCoV/IPC/v2020.1. Disponible en: https://www.who.int/publicationsdetail/infection-prevention-and-control-during-health-care-when-novelcoronavirus(ncov)-infection-is-suspected
+World Health Organization. Infection prevention and control of epidemic-and pandemic
+prone acute respiratory infections in health care. WHO guidelines 2014. Disponble en:
+https://www.who.int/csr/bioriskreduction/infection_control/publication/en/
+
+6
+
+ANEXO 1: Transporte y recomendaciones de manejo de muestras
+biológicas con infección o sospecha de infección por SARS-CoV-2.
+A. Instrucciones para el transporte de muestras biológicas a otro centro diferente al
+lugar de la toma de muestra
+1. Categorización de la muestra:
+
+
+Las muestras biológicas procedentes de pacientes infectados o con sospecha de infección por
+el SARS-CoV-2 son clasificadas como sustancias infecciosas de categoría B (1).
+
+2. Embalaje de las muestras:
+
+
+
+
+
+
+
+
+
+Deben ser transportadas a los centros de diagnóstico de acuerdo a la instrucción de
+embalaje P650 del Acuerdo ADR que se aplica a la norma UN 3373 para el embalaje de
+sustancias peligrosas (la instrucción de embalaje P650 equivale a la instrucción 650 IATA).
+La norma UN 3733 establece que la muestra sea transportada en triple envase, robusto y
+que soporte golpes y cargas habituales del transporte, incluyendo el trasbordo entre
+vehículos, contenedores y almacén o la manipulación manual o mecánica. Los embalajes
+se construirán y cerrarán de forma que se evite cualquier fuga de su contenido, en las
+condiciones normales de transporte, por vibración o por cambios de temperatura,
+humedad o presión.
+Para el transporte por superficie no se establece una cantidad máxima por paquete. Para el
+transporte aéreo se requiere que:
+o La capacidad de los recipientes primarios no supere 1 litro (para líquidos) o la masa
+límite del embalaje externo (para sólidos).
+o El volumen enviado no supere 4 litros o 4 kg por paquete.
+Estas cantidades excluyen el hielo y el hielo seco cuando sean utilizados para mantener las
+muestras frías.
+El triple envase constará de:
+o Recipiente primario estanco
+o Embalaje secundario estanco
+o Embalaje exterior rígido
+
+7
+
+
+
+Ejemplo de sistema de embalaje/envasado triple para el embalaje y etiquetado de
+sustancias infecciosas de categoría B
+
+
+
+En el caso de que se utilice hielo o hielo seco para refrigerar la muestra, éste NUNCA debe
+ir en el interior del embalaje secundario.
+La información acompañante a las muestras enviadas debe colocarse entre el embalaje
+secundario y el embalaje exterior, NUNCA en el interior del embalaje secundario.
+Si se cumplen todos los requisitos establecidos en la Instrucción de embalaje/envasado
+P650, no se establecen requerimientos de transporte adicionales. La Instrucción P650
+comprende todos los requisitos necesarios para el envío de sustancias infecciosas de
+categoría B.
+
+
+
+
+3. Etiquetado:
+
+
+Independiente del medio de transporte, en cada paquete se expondrá la información
+siguiente:
+o el nombre, la dirección y el número de teléfono del expedidor (remitente,
+consignador).
+o el número de teléfono de una persona responsable e informada acerca del envío.
+o el nombre, la dirección y el número de teléfono del destinatario (consignatario).
+o la designación oficial de transporte «BIOLOGICAL SUBSTANCE, CATEGORY B».
+o requisitos relativos a la temperatura de almacenamiento (optativo).
+8
+
+
+
+Para los envíos de sustancias infecciosas de categoría B se utiliza la marca que se muestra
+en la figura.
+
+4. Condiciones de los medios de transporte:
+
+
+
+
+No es imprescindible que el transporte de muestras clínicas para la detección del SARSCoV2 se realice utilizando los servicios de empresas especializadas. Al tratarse de
+sustancias infecciosas de categoría B lo necesario es cumplir con las siguientes
+instrucciones:
+o Utilizar el triple envase del tipo UN3373 y un documento externo (formulario, carta
+de porte) que indique lo que se transporta.
+o Las empresas de mensajería o personas que transporten sustancias biológicas de
+categoría B (UN 3373), están obligadas a cumplir con las normas de transporte de la
+ADR. Este tipo de embalajes no podrán ir dentro de bolsas de mensajería, dado que
+las etiquetas normalizadas deben estar a la vista.
+o El vehículo debe tener un sistema de anclaje que impida el movimiento del paquete
+y posibles golpes.
+o El personal del vehículo de transporte alternativo debe recibir información de lo que
+va a transportar, conocer los riesgos y comprometerse a informar en caso de
+incidentes.
+Documentación: No se requieren documentos con indicación de mercancía peligrosa para
+las sustancias infecciosas de categoría B.
+
+9
+
+5. Medio de conservación en función del tipo de muestra:
+
+Tipo de muestra
+
+Medio de
+Transporte de
+Virus
+
+Condiciones de transporte:
+Muestra biológica categoría
+B
+
+Muestras Respiratorias
+
+
+Exudado
+nasofaríngeo/orofaríngeo
+
+Sí
+
+Refrigerado a 4ºC en 24-48h
+
+
+
+Aspirado/lavado
+nasofaríngeo
+
+No
+
+Refrigerado a 4ºC en 24h
+
+
+
+Lavado broncoalveolar
+
+No
+
+Refrigerado a 4ºC en 24h
+
+
+
+Aspirado endotraqueal
+
+No
+
+Refrigerado a 4ºC en 24h
+
+
+
+Esputo
+
+No
+
+Refrigerado a 4ºC en 24h
+
+Suero (2 muestras en fases
+aguda y convaleciente a
+partir del día 7 y entre 2030 días respectivamente)
+
+No
+
+Refrigerado a 4ºC
+
+
+
+Biopsia/Necropsia
+pulmón
+
+No
+
+Refrigerado a 4ºC en 24h
+
+
+
+Sangre completa
+
+No
+
+Refrigerado a 4ºC
+
+
+
+Orina
+
+No
+
+Refrigerado a 4ºC
+
+
+
+Heces
+
+No
+
+Refrigerado a 4ºC
+
+Otras muestras
+
+
+
+
+de
+
+Si transcurren más de 72 horas hasta el procesamiento de las muestras respiratorias
+refrigeradas se recomienda su congelación a -20ºC o, idealmente a -80ºC.
+
+10
+
+B. Manejo de muestras para el personal de laboratorio
+1. Pautas para el personal de los laboratorios clínicos (bioquímica, hematología,
+inmunología, anatomía patológica, microbiología)
+
+
+
+
+
+
+De forma general: el personal que manipule muestras clínicas rutinarias (hemogramas,
+pruebas bioquímicas, análisis de orina, serología y otras pruebas diagnósticas en suero,
+sangre y orina) de pacientes ingresados con diagnóstico o sospecha de infección por SARSCoV-2 deberá seguir las pautas estándar y recomendaciones generales de bioseguridad
+establecidas para los laboratorios de nivel BSL-2.
+De forma particular: al igual que con cualquier muestra clínica, los procedimientos que
+puedan generar aerosoles de partículas finas (p. ej., vorteado o sonicación de muestras en
+tubo abierto) deberán realizarse en una campana de seguridad biológica (BSC) de clase II
+y deberán usarse dispositivos de contención física adecuados (rotores de centrífuga
+adecuados, cubetas de seguridad para la centrífuga, rotores sellados) ante la eventualidad
+de una rotura de los tubos que contienen las muestras durante el proceso de
+centrifugación. Los rotores tienen que ser cargados y descargados dentro de la cabina de
+seguridad. Deberá reducirse, en la medida de lo posible, todo procedimiento fuera de la
+cabina de seguridad.
+Después de procesar las muestras, se descontaminarán las superficies de trabajo y el
+equipo con los desinfectantes hospitalarios habituales. Se recomienda seguir las
+indicaciones de la OMS y el ECDC para la dilución de uso (es decir, la concentración), el
+tiempo de contacto y las precauciones de manejo.
+
+2. Pautas específicas para el personal de los laboratorios
+
+
+
+
+
+
+Por el momento no se recomienda el aislamiento del virus en cultivos celulares ni la
+caracterización inicial de agentes virales a partir de cultivos de muestras con SARS-CoV-2
+para los laboratorios de diagnóstico rutinario, a no ser que se realice en un laboratorio de
+seguridad BSL-3.
+Las siguientes actividades se pueden realizar en instalaciones BSL-2 utilizando prácticas de
+trabajo estándar para un laboratorio de nivel de bioseguridad BSL-2:
+o Examen anatomopatológico y procesamiento de tejidos fijados con formalina o
+tejidos inactivados.
+o Estudios de microscopía electrónica con rejillas fijas con glutaraldehído.
+o Examen de rutina de cultivos bacterianos y fúngicos.
+o Tinciones de rutina y análisis microscópico de frotis fijados.
+o Empaquetado de muestras para su transporte a laboratorios de diagnóstico.
+o Muestras inactivadas (p. ej. muestras en tampón de extracción de ácidos nucleicos)
+Las siguientes actividades que implican la manipulación de muestras potencialmente
+infecciosas deben realizarse, como mínimo, en una cabina de seguridad BSC de Clase II. Se
+debe realizar una evaluación de riesgo específica del sitio para determinar si se precisan
+
+11
+
+mayores precauciones de seguridad (por ejemplo, al manipular grandes volúmenes de
+muestra):
+o Alicuotar y / o diluir muestras
+o Inactivación de muestras
+o Inoculación de medios de cultivo bacterianos o micológicos
+o Preparación y fijación química o térmica de frotis para análisis microscópico.
+
+12
+
+

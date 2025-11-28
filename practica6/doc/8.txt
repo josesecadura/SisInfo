@@ -1,0 +1,1718 @@
+Rev Esp Salud Pública. 2020; Vol. 94: 26 de junio e1-15.
+
+www.mscbs.es/resp
+Recibido: 19 de mayo de 2020
+Aceptado: 9 de junio de 2020
+Publicado: 26 de junio de 2020
+
+ORIGINAL
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN
+COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA(*)
+Ángel Vila-Córcoles (1,2), Olga Ochoa-Gondar (1,2), Cristina Torrente-Fraga (3), Ángel Vila-Rovira (2), Eva Satué-Gracia (1,2),
+Immaculada Hospital-Guardiola (1), Cinta de Diego-Cabanes (1), Frederic Gómez-Bertomeu (4) y Josep Basora-Gallisà (1,2)
+(1) Servicio de Atención Primaria Camp de Tarragona. Institut Català de la Salut. Tarragona. España.
+(2) Unitat de suport a la Recerca Tarragona-Reus. IDIAP Jordi Gol. Barcelona. España.
+(3) Departamento de Tecnologías de la información y la Comunicación. DAP Camp de Tarragona. Institut Català de la Salut. Tarragona. España.
+(4) Departamento de Microbiología. Hospital Universitari Joan XXIII. Institut Català de la Salut. Tarragona. España.
+Los autores declaran que no existe ningún conflicto de interés.
+(*) Financiación: Este estudio está financiado por una beca del Instituto de Salud Carlos III del Ministerio de Sanidad del Gobierno de
+España (Referencia: COV20/00852; convocatoria para la enfermedad por SARS-COV-2/Covid-19, RDL 8/2020, 17 de marzo de 2020).
+
+RESUMEN
+
+Fundamentos: Los datos clínico-epidemiológi-
+
+cos de base poblacional durante la actual pandemia de
+Covid-19 son escasos. Este estudio investigó la incidencia y riesgo de sufrir Covid-19 según condiciones basales
+subyacentes en la población ≥50 años de Tarragona durante marzo-abril 2020.
+Métodos: Estudio de cohortes retrospectivo que incluyó a 79.071 personas ≥50 años en el área de Tarragona.
+Se establecieron características basales de la cohorte (edad, sexo, residencia, vacunaciones y comorbilidades previas), y se registró la ocurrencia de Covid-19 entre 01/03/2020-30/04/2020. Para la estimación de riesgos
+se realizó regresión de Cox, con cálculo de Hazard ratios
+(HRs) ajustados por edad, sexo y comorbilidad.
+Resultados: Se realizaron PCR-tests en 1.547 personas (22,6% positivos) y 367 fueron codificados como
+presuntos casos sin realizarse PCR-test. Considerando
+Covid-19 confirmada (PCR positivo), la incidencia (por
+100.000 personas-periodo) fue de 441 (248, 141, 424,
+1.303 y 3.135 en 50-59, 60-69, 70-79, 80-89 y ≥90 años,
+respectivamente; 380 en hombres frente a 497 en mujeres;
+259 residentes en la comunidad respecto a 10.571 en institucionalizados). Según comorbilidades, las máximas incidencias aparecieron en enfermedad neurológica (2.723),
+fibrilación auricular (1.348), insuficiencia renal crónica
+(1.050), cardiopatía (856), enfermedad respiratoria (798)
+y diabetes (706). Menores incidencias aparecieron en enfermedad reumatológica (230) y fumadores (180). En
+personas no institucionalizadas (N=77.671), solo la enfermedad cardiaca (HR: 1,47; IC95%: 1,01-2,15; p=0,045)
+y respiratoria (HR: 1,75; IC95%: 1,00-3,02; p=0,051) se
+asociaron con incremento del riesgo, mientras que ser fumador (HR: 0,43; IC95%: 0,25-0,74; p=0,002) y vacunación antigripal en otoño previo (HR: 0,63; IC95%: 0,430,92; p=0,015) se asociaron con menor riesgo.
+Conclusiones: Aparte de la edad y la institucionalización, la existencia de enfermedad respiratoria y/o cardiaca crónicas se asocia con una mayor incidencia de
+Covid-19 en adultos.
+Palabras clave: COVID-19, Incidencia, Riesgo,
+Comorbilidad, Adultos.
+
+Correspondencia:
+Eva María Satué Gracia
+Rambla Nova, 124, D, 1ºA
+43001 Tarragona, España
+esatue.tgn.ics@gencat.cat
+
+ABSTRACT
+
+Evaluation of incidence and risk profile
+for suffering Covid-19 infection by underlying
+conditions among middle-aged and older
+adults in Tarragona
+Background: Population-based data on the current
+
+Covid-19 pandemic is scarce. This study investigated incidence and risk to suffer Covid-19 by baseline underlying
+conditions in people ≥50 years in Tarragona region across
+march-april 2020.
+Methods: Population-based retrospective cohort study
+involving 79,071 adults ≥50 years-old in Tarragona region
+(Southern Catalonia, Spain). Cohort characteristics (age, sex,
+residence, vaccinations history and comorbidities) were established at baseline, and Covid-19 cases occurring between
+01/03/2020-30/04/2020 were registered. Cox regression
+analysis calculating Hazard ratios (HRs) adjusted by age, sex
+and comorbidities was used to estimate risk for Covid-19.
+Results: Across study period, 1,547 cohort members
+were PCR tested (22.6% positive) and 367 were presumptive cases without PCR tested. Considering PCR-confirmed
+Covid-19, incidence (per 100,000 persons-period) was 441
+overall (248, 141, 424, 1,303 and 3,135 in 50-59, 60-69, 7079, 80-89 and ≥90 years-old, respectively; 380 in men and
+497 in women; 259 in community-dwelling and 10,571 in
+nursing-home). By comorbidities, maximum incidence
+emerged among persons with neurological disease (2,723),
+atrial fibrillation (1,348), chronic renal failure (1,050), cardiac disease (856), respiratory disease (798) and diabetes (706). Lower incidence appeared in rheumatic diseases
+(230) and smokers (180). In multivariable analysis focused
+on community-dwelling individuals (N=77,671), only cardiac disease (HR: 1.47; 95% CI: 1.01-2.15; p=0.045) and
+respiratory disease (HR: 1.75; 95% CI: 1.00-3.02; p=0.051)
+were associated with an increased risk, whereas smoking
+(HR:0.43; 95% CI: 0.25-0.74; p=0.002) and influenza vaccinated (HR: 0.63; 95% CI: 0.43-0.92; p=0.015) appeared
+associated with a decreased risk.
+Conclusions: Apart of increasing age and nursinghome residence, chronic respiratory and cardiac disease
+appear at increased risk for suffering covid19. This study
+investigated population-based incidence of Covid-19
+infection by underlying conditions among adults ≥50 years
+in Tarragona (Southern Catalonia, Spain) across two first
+months pandemic period.
+Key words: Covid-19, Incidence, Risk, Comorbidity,
+Adult.
+Cita sugerida: Vila-Córcoles Á, Ochoa-Gondar O, TorrenteFraga C, Vila-Rovira Á, Satué-Gracia E, Hospital-Guardiola I,
+De Diego-Cabanes C, Gómez-Bertomeu F, Basora-Gallisà J.
+Evaluación de la incidencia y perfil de riesgo de Covid-19 según
+comorbilidad previa en adultos ≥50 años del área de Tarragona.
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+Ángel Vila-Córcoles et al
+
+INTRODUCCIÓN
+Hasta la fecha, a pesar de los enormes esfuerzos sanitarios a nivel mundial centrados en la
+actual pandemia de Covid-19, los datos clínicos y epidemiológicos disponibles son limitados(1,2). Los datos se basan principalmente en
+casos graves(3,4,5,6,7), y se dispone de muy pocos
+basados en una amplia muestra representativa
+de la población afectada(2).
+De hecho, si bien varios estudios han informado sobre la distribución (frecuencias) de características demográficas y clínicas en muestras
+que incluyen pacientes con casos básicamente
+graves(3,4,5,6,7,8), no hay datos poblacionales sobre
+la incidencia y el riesgo de sufrir infección por
+Covid-19 (independientemente de la gravedad)
+en relación con las características clínicas de la
+población expuesta (es decir, el perfil de riesgo
+basal de acuerdo con comorbilidades/enfermedades crónicas previas). Esta información sería
+útil para comprender mejor el perfil de riesgo de
+las personas susceptibles de desarrollar infección por Covid-19 (no solo casos graves/hospitalizados) y proporcionaría una descripción general del posible perfil de pacientes infectados
+más leves y/o asintomáticos(8).
+El objetivo de este estudio fue investigar la incidencia poblacional de la infección por Covid-19
+(confirmada y probable) según las condiciones
+basales subyacentes entre adultos ≥50 años en el
+área de Tarragona (Cataluña) durante los dos primeros meses del período pandémico.
+
+SUJETOS Y MÉTODOS
+Estudio de cohortes retrospectivo que incluyó 79.071 individuos, que eran todas las personas ≥50 adscritas (con historia clínica activa)
+en los 12 Centros de Atención Primaria (CAP)
+gestionados por el Institut Català de la Salut
+(ICS) en las comarcas del Tarragonés, Alt Camp
+y Conca de Barberà (CAPs Tg-1, Tg-2, Tg-3,
+2
+
+Tg-5, Tg-6, Tg-7, Salou, Constantí, Morell,
+Valls, Montblanc y Alt Camp Est). El laboratorio y el hospital de referencia para los 12 CAP
+participantes era el Servicio de Microbiología
+del Hospital Universitari Joan XXIII y el propio Hospital.
+Los miembros de la cohorte fueron seguidos desde el 1 de marzo de 2020 (inicio del período epidémico en el área de estudio) hasta la
+aparición de cualquier evento de estudio (diagnóstico Covid-19, confirmado por laboratorio o
+solamente sospecha clínica) o hasta el final del
+seguimiento en 30 de abril de 2020. El estudio
+fue aprobado por el Comité de Ética (CEIC)
+del Instituto Universitario de Investigación
+en Atención Primaria (IDIAP) Jordi Gol de
+Barcelona (referencia 20/065-PCV), y se realizó de acuerdo con los principios éticos generales para estudios observacionales(9).
+Fuentes de datos. La principal fuente de datos
+fue la preexistente base de datos institucional
+de investigación CAPAMIS (previamente utilizada para otros estudios de cohortes en el área
+de estudio)(10), la cual fue actualizada para poder ser usada en esta investigación epidemiológica sobre Covid-19. Brevemente, esta base de
+datos de investigación recopila datos del sistema de registros clínicos de los CAP institucionales en el área de estudio (en funcionamiento
+desde el año 2000), incluidos datos administrativos e información clínica codificada de acuerdo con la Décima Revisión de la Clasificación
+Internacional de Enfermedades (CIE-10). Se
+usó para identificar características sociodemográficas, historia de vacunaciones previas y comorbilidades, así como para establecer las características basales de la cohorte al inicio del
+estudio (01/03/2020).
+Cuando comenzó el período de pandemia
+de Covid-19 en el área de estudio, en las historias clínicas electrónicas de atención primaria
+se agregaron dos alertas incorporando códigos
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+de laboratorio (PCR tests) y los códigos CIE-10
+de sospecha de Covid-19 (B34.2: infección por
+coronavirus no especificada; B97.29: otro coronavirus como causa de enfermedades clasificadas en otros lugares). Posteriormente, ambas
+fuentes de datos fueron vinculadas para construir una base de datos anonimizada que fue utilizada para la presente investigación.
+Variables principales. La variable principal de resultado fue la aparición de infección
+por Covid-19 confirmada por laboratorio (es
+decir, pacientes con resultado positivo para
+SARS-CoV-2 por PCR, independientemente
+de los síntomas preexistentes) entre los miembros de la cohorte durante el período de estudio (01/03/2020-30/04/2020). Para el análisis
+descriptivo también consideramos casos de
+Covid-19 excluidos por laboratorio (con resultado negativo en el test PCR) y casos probables
+de Covid-19 (personas con sospecha clínica a
+quienes no se realizó PCR).
+Para el diagnóstico de laboratorio de
+Covid-19 por RT-PCR se siguieron los protocolos del Departamento de Salud de la Generalitat
+de Catalunya(11). Brevemente, a partir de las
+muestras recogidas con un hisopo nasal y faríngeo con medio de transporte para virus y
+refrigeradas a 4°C durante un máximo de 48
+horas, se realizó la técnica RT-PCR Cobas©
+SARS-CoV-2, con sensibilidad y especificidad
+cercanas al 100%(12). En el momento del estudio, la disponibilidad de tests PCR era escasa
+en la región de estudio, siendo su uso priorizado en pacientes más graves, hospitalizados,
+y en residencias de ancianos (donde ocurrieron
+varios brotes), mientras que en los casos sospechosos manejados en Atención Primaria se
+realizaron test PCR con menor frecuencia. Los
+casos descartados por laboratorio (con resultado negativo en el test PCR) incluyeron personas con sospecha clínica inicial (sintomatología
+compatible) pero también personas asintomáticas con antecedente de contacto con un caso
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+de Covid-19 confirmado por laboratorio (principalmente trabajadores de la salud o personas
+institucionalizadas en residencias de ancianos).
+Covariables. Las covariables fueron la edad,
+sexo, residencia (población en la comunidad o
+población institucionalizada/residencias), historia de vacunaciones (vacuna antigripal en el
+otoño anterior, vacuna antineumocócica polisacárida 23-valente y/o vacuna antineumocócica
+conjugada 13-valente en cualquier momento)
+y la presencia de comorbilidades/condiciones
+subyacentes importantes entre los miembros de
+la cohorte al inicio del estudio. Se establecieron
+de acuerdo con los datos registrados en el sistema electrónico de registros clínicos de los CAP
+(codificado con códigos CIE-10), registrados a
+1 de marzo de 2020.
+Se consideraron las siguientes comorbilidades/afecciones subyacentes: enfermedad neurológica (incluyendo demencia y accidente
+cerebrovascular), cáncer (de órgano sólido o
+neoplasia hematológica diagnosticada en los
+últimos 5 años), insuficiencia renal crónica, enfermedades reumáticas autoinmunes sistémicas
+(incluyendo artritis reumatoide y lupus), enfermedad inflamatoria intestinal (incluyendo colitis ulcerosa y enfermedad de Crohn), enfermedad respiratoria crónica (incluyendo bronquitis
+crónica/enfisema y asma), enfermedad cardíaca
+(incluyendo insuficiencia cardíaca congestiva,
+enfermedad de las arterias coronarias y otras
+enfermedades cardíacas), fibrilación auricular,
+enfermedad hepática (incluyendo hepatitis crónica y cirrosis), hipertensión, diabetes mellitus,
+hipercolesterolemia, obesidad, alcoholismo y
+tabaquismo (Anexo I).
+Análisis estadístico. Las Tasas de Incidencia se
+calcularon por 100.000 personas-período (8,7
+semanas). En los análisis bivariados, para relacionar las características basales con sufrir o no
+infección por Covid-19 se utilizó el test de Chicuadrado o el de Fisher, según correspondiera.
+3
+
+Ángel Vila-Córcoles et al
+
+Se realizó un análisis principal incluyendo la
+cohorte total (n=79.071), y dos análisis de subgrupos restringidos a población residente en la
+comunidad (77.671) y población institucionalizada (n=1.400). Aparte del análisis principal
+evaluando los casos confirmados de Covid-19
+con PCR positiva, se realizó un análisis de sensibilidad evaluando el evento combinado “casos confirmados más casos sospechosos (probables)”. En el análisis multivariante, modelos
+de regresión de Cox (incluyendo edad/continua, sexo, historia de vacunaciones previas y
+comorbilidades pre-existentes) fueron construidos para calcular Hazard Ratios (HR) y estimar
+el riesgo ajustado de ocurrencia de Covid-19
+definitiva y/o probable(13). El nivel de significación estadística se consideró para p<0,05 (bilateral). Para el análisis se utilizó el paquete estadístico IBM SPSS Statistics para Windows,
+versión 24.
+
+sólo 5 días, desde el 26 de abril hasta el 30 de
+abril de 2020).
+
+RESULTADOS
+
+Entre los 349 casos de Covid-19 confirmados por PCR, las comorbilidades/afecciones
+subyacentes más frecuentes fueron: hipertensión (58,7%), hipercolesterolemia (35%), enfermedad cardíaca (33%), diabetes (26,9%) y
+obesidad (26,1%). Sin embargo, las incidencias máximas por comorbilidades se dieron
+entre personas con enfermedad neurológica
+(2.722,6), fibrilación auricular (1.348,1), insuficiencia renal crónica (1.050), enfermedad cardíaca (856,3), enfermedad respiratoria (797,7),
+diabetes (706,1) y cáncer (648,7). Las incidencias intermedias correspondieron a personas
+con hipertensión (586,8), enfermedad hepática
+(478,1), hipercolesterolemia (446,7) y obesidad
+(419,8). Las menores incidencias se observaron en personas con enfermedades reumáticas
+(229,6) y fumadores (180,4).
+
+De los 79.071 miembros de la cohorte, 47,6%
+eran hombres y 52,4% mujeres, con una edad
+media de 65,8 años (desviación típica: 11,3). A
+lo largo del período de estudio, a 1.547 (2%) de
+los 79.071 sujetos de la cohorte se les realizó el
+test PCR. De ellos, 1.198 (77,4%) presentaron
+un resultado negativo y 349 (22,6%) un resultado positivo. Además, 367 personas fueron clasificadas como casos sospechosos clínicamente
+sin PCR realizada (figura 1 y tabla 1).
+Durante el período de estudio (01/03/202030/04/2020), sólo una persona (un caso probable) fue diagnosticada dentro de la primera semana, 11 (3 PCR positivas y 8 casos probables)
+dentro de la segunda semana, 62 (20 y 42, respectivamente) dentro de la tercera semana, 165
+(77 y 88) dentro de la 4ª semana, 148 (92 y 56)
+dentro de la 5ª semana, 94 (46 y 48) dentro de
+la 6ª semana, 123 (59 y 64) dentro de la 7ª semana, 79 (49 y 30) dentro de la 8ª semana y 33
+(3 y 30) dentro de la 9ª semana (que incluyó
+4
+
+Casos de Covid-19 confirmados por laboratorio
+(PCR positivo). De los 349 casos de Covid-19
+confirmados por PCR, 143 (41%) ocurrieron en
+hombres y 206 (59%) en mujeres. Por grupos
+de edad, 91 (26,1%) ocurrieron en personas de
+50 a 64 años y 252 (73,9%) en personas de 65
+años o más. Entre los residentes en la comunidad ocurrieron 201 casos (57,6%), y entre los
+institucionalizados (en residencias de ancianos)
+148 (42,4%). Esto se tradujo en una incidencia
+(por 100.000 personas-período) de 441,4 para
+la población total de estudio (248,3 entre 50-59
+años, 141,1 entre 60-69 años, 423,9 entre 70-79
+años, 1.303,3 entre 80-89 años y 3.135,1 en ≥90
+años; 380,1 en hombres versus frente a 497,1
+en mujeres; 259 en no institucionalizados respecto a 10.571 en institucionalizados).
+
+Según múltiple comorbilidad, se observaron incidencias de 285,2; 331,6; 386,3; 635,2;
+756,3 y 1.286,4 para personas con 0, 1, 2, 3,
+4 y 5 comorbilidades/condiciones subyacentes,
+respectivamente (tabla 2).
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+Figura 1
+Distribución de la población de estudio según sospecha de Covid-19
+y realización de tests PCR.
+
+Tabla 1
+Distribución de casos de Covid-19 confirmada (PCR positivo), excluida (PCR negativo)
+y probable (sospecha clínica sin PCR realizada), según características sociodemográficas y clínicas
+en población general mayor de 50 años del área de Tarragona (N=79.071), 01/03/2020 - 30/04/2020.
+Características
+
+Población PCR positivo PCR negativo
+(N=79.071)
+(N=349)
+(N=1.198)
+n (%)
+n (%)
+n (%)
+
+Sin PCR
+(N=367)
+n (%)
+
+50-59 años
+
+30.206 (38,2)
+
+75 (21,5)
+
+333 (27,8)
+
+209 (56,9)
+
+60-69 años
+
+22.680 (28,7)
+
+32 (9,2)
+
+231 (19,3)
+
+78 (21,2)
+
+70-79 años
+
+15.806 (20,0)
+
+67 (19,2)
+
+210 (17,6)
+
+39 (10,6)
+
+80-89 años
+
+8.210 (10,4)
+
+107 (30,7)
+
+273 (22,8)
+
+30 (8,2)
+
+≥90 años
+
+2.169 (2,7)
+
+68 (19,5)
+
+151 (12,6)
+
+11 (3,1)
+
+Hombre
+
+37.620 (47,6)
+
+143 (41,0)
+
+485 (40,5)
+
+153 (41,7)
+
+Mujer
+
+41.451 (52,4)
+
+206 (59,0)
+
+713 (59,5)
+
+214 (58,3)
+
+No institucionalizados
+
+77.671 (98,3)
+
+201 (57,6)
+
+873 (72,9)
+
+344 (93,7)
+
+1.400 (1,7)
+
+148 (42,4)
+
+325 (27,1)
+
+23 (6,3)
+
+Vacuna gripe en 2019
+
+22.598 (28,6)
+
+189 (54,2)
+
+516 (43,1)
+
+89 (24,3)
+
+V. neumocócica 23-valente
+
+26.172 (33,1)
+
+200 (57,3)
+
+583 (48,7)
+
+84 (22,9)
+
+V. neumocócica 13-valente
+
+1.139 (1,4)
+
+11 (3,2)
+
+41 (3,4)
+
+12 (3,3)
+
+Edad
+
+Sexo
+Residencia
+
+Institucionalizados
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+5
+
+Ángel Vila-Córcoles et al
+
+Tabla 2
+Número absoluto de eventos y tasas específicas de incidencia de Covid-19 confirmada
+por PCR, según características sociodemográficas y clínicas en población general mayor
+de 50 años del área de Tarragona (N=79.071, 01/03/2020 - 30/04/2020).
+Casos Covid-19 confirmados por PCR (n=349)
+Incidencia
+Características
+Análisis bivariante
+(por 100.000
+n (%)
+p
+personas)
+50-59 años
+30.206 (38,2) 75 (21,5)
+248,3
+60-69 años
+22.680 (28,7)
+32 (9,2)
+141,1
+Edad
+70-79 años
+15.806 (20,0) 67 (19,2)
+423,9
+<0,001
+80-89 años
+8.210 (10,4) 107 (30,7)
+1.303,3
+≥90 años
+2.169 (2,7)
+68 (19,5)
+3.135,1
+Hombre
+37.620 (47,6) 143 (41,0)
+380,1
+Sexo
+0,013
+Mujer
+41.451 (52,4) 206 (59,0)
+497,0
+No institucionalizados 77.671 (98,3) 201 (57,6)
+258,8
+Residencia
+<0,001
+Institucionalizados
+1.400 (1,7)
+148 (42,4)
+10.571,4
+Vacuna gripe en 2019
+22.598 (28,6) 189 (54,2)
+<0,001
+836,4
+V. neumocócica 23-valente
+26.172 (33,1) 200 (57,3)
+<0,001
+764,2
+V. neumocócica 13-valente
+1.139 (1,4)
+11 (3,2)
+0,007
+965,8
+Enfermedad neurológica
+2.314 (2,9)
+63 (18,1)
+<0,001
+2.722,6
+Insuficiencia renal crónica
+4.476 (5,7)
+47 (13,5)
+<0,001
+1.050,1
+Cáncer
+6.629 (8,4)
+43 (12,3)
+0,008
+648,7
+Enfermedad reumatológica
+871 (1,1)
+2 (0,6)
+0,343
+229,6
+Enf. inflamatoria intestinal
+532 (0,7)
+4 (1,1)
+0,278
+751,9
+Enf. respiratoria crónica
+7.271 (9,2)
+58 (16,6)
+<0,001
+797,7
+Cardiopatía crónica
+13.430 (17,0) 115 (33,0)
+<0,001
+856,3
+Fibrilación auricular
+3.783 (4,8)
+51 (14,6)
+<0,001
+1.348,1
+Enf. hepática crónica
+1.464 (1,9)
+7 (2,0)
+0,830
+478,1
+Hipertensión
+34.936 (44,2) 205 (58,7)
+<0,001
+586,8
+Diabetes mellitus
+13.313 (16,1) 94 (26,9)
+<0,001
+706,1
+Tabaquismo
+12.750 (16,1)
+23 (6,6)
+<0,001
+180,4
+Alcoholismo
+1.795 (2,3)
+5 (1,4)
+0,292
+278,6
+Hipercolesterolemia
+27.309 (34,5) 122 (35,0)
+0,869
+446,7
+Obesidad
+21.675 (27,4) 91 (26,1)
+0,575
+419,8
+0
+22.444 (28,4) 64 (18,3)
+285,2
+1
+21.110 (26,7) 70 (20,1)
+331,6
+2
+16.050 (20,3) 62 (17,8)
+386,3
+Nº comorbilidades:
+<0,001
+3
+10.548 (13,3) 67 (19,2)
+635,2
+4
+5.421 (6,9)
+41 (11,7)
+756,3
+5
+3.498 (4,4)
+45 (12,9)
+1.286,4
+Valores de “p” calculados mediante test de Chi-cuadrado (o test exacto de Fisher si apropiado)
+comparando porcentajes en población de estudio frente a casos de Covid-19.
+Población
+(N=79.071)
+n (%)
+
+6
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+Las tablas 3 y 4 muestran el número de casos
+y las tasas de incidencia de Covid-19 confirmada en sendos análisis de subgrupos restringidos
+a individuos que vivían en la comunidad y en
+institucionalizados, respectivamente.
+
+Entre las personas que vivían en la comunidad
+(n=77.671), aparecieron mayores incidencias
+específicas de Covid-19 confirmada por PCR
+en aquéllas con fibrilación auricular (674,3),
+enfermedad respiratoria (593,7), enfermedad
+
+Tabla 3
+Número absoluto de eventos y tasas específicas de incidencia de Covid-19 confirmada
+por PCR, según características sociodemográficas y clínicas en población mayor de 50 años
+residente en la comunidad del área de Tarragona (N=77.671, 01/03/2020 - 30/04/2020).
+Casos Covid-19 confirmados por PCR (n=201)
+Incidencia
+Análisis bivariante
+(por 100.000
+n (%)
+p
+personas)
+50-59 años
+30.119 (38,8) 74 (36,8)
+245,7
+60-69 años
+22.525 (29,0) 27 (13,5)
+119,9
+Edad
+70-79 años
+15.598 (20,1) 54 (26,9)
+<0,001
+346,2
+80-89 años
+7.676 (9,9)
+28 (14,0)
+364,7
+≥90 años
+1.753 (2,3)
+18 (9,0)
+1.026,8
+Hombre
+37.140 (47,8) 98 (48,8)
+263,9
+Sexo
+0,790
+Mujer
+40.531 (52,2) 103 (51,2)
+254,1
+Vacuna gripe en 2019
+21.567 (27,8) 65 (32,3)
+0,147
+301,4
+V. neumocócica 23-valente
+25.219 (32,5) 92 (45,8)
+<0,001
+364,8
+V. neumocócica 13-valente
+1.115 (1,4)
+7 (3,5)
+0,015
+627,8
+Enfermedad neurológica
+1.951 (2,5)
+10 (5,0)
+0,025
+512,6
+Insuficiencia renal crónica
+4.240 (5,5)
+25 (12,4)
+<0,001
+589,6
+Cáncer
+6.462 (8,3)
+27 (13,4)
+0,009
+417,8
+Enfermedad reumatológica
+860 (1,1)
+1 (0,5)
+0,408
+116,3
+Enf. inflamatoria intestinal
+520 (0,7)
+1 (0,5)
+0,765
+192,3
+Enf. respiratoria crónica
+7.074 (9,1)
+42 (20,9)
+<0,001
+593,7
+Cardiopatía crónica
+12.922 (16,6) 62 (30,8)
+<0,001
+479,8
+Fibrilación auricular
+3.559 (4,6)
+24 (11,9)
+<0,001
+674,3
+Enf. hepática crónica
+1.438 (1,9)
+6 (3,0)
+0,233
+417,2
+Hipertensión
+33.991 (43,8) 102 (50,7)
+0,046
+300,1
+Diabetes mellitus
+12.923 (16,6) 47 (23,4)
+0,010
+363,7
+Tabaquismo
+12.640 (16,3)
+15 (75)
+0,001
+118,7
+Alcoholismo
+1.755 (2,3)
+4 (2,0)
+0,797
+227,9
+Hipercolesterolemia
+26.763 (34,5) 67 (33,3)
+0,737
+250,3
+Obesidad
+21.343 (27,5) 54 (26,9)
+0,845
+253,0
+0
+22.304 (28,7) 51 (25,4)
+228,7
+1
+20.852 (26,8) 45 (22,4)
+215,8
+2
+15.725 (20,2) 29 (14,4)
+184,4
+Nº comorbilidades:
+<0,001
+3
+10.240 (13,2) 29 (14,4)
+283,2
+4
+5.224 (6,7)
+20 (10,0)
+382,8
+5
+3.326 (4,3)
+27 (13,4)
+811,8
+Valores de “p” calculados mediante test de Chi-cuadrado (o test exacto de Fisher si apropiado)
+comparando porcentajes en población de estudio frente a casos de Covid-19.
+Características
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+Población
+(N=77.671)
+n (%)
+
+7
+
+Ángel Vila-Córcoles et al
+
+renal (589,6), enfermedad neurológica (512,6),
+enfermedad cardíaca (479,8), cáncer (417,8),
+enfermedad hepática (417,2) y diabetes (363,7)
+(tabla 3).
+Entre los institucionalizados en residencias
+de ancianos (n=1.400), aparecieron mayores in-
+
+cidencias específicas de Covid-19 confirmada
+por PCR entre personas con enfermedad inflamatoria intestinal (25.000), enfermedad neurológica (14.600), fibrilación auricular (12.053),
+diabetes (12.051), obesidad (11.144), hipertensión (10.899) y enfermedad cardíaca (10.433)
+(tabla 4).
+
+Tabla 4
+Número absoluto de eventos y tasas específicas de incidencia de Covid-19 confirmada por
+PCR, según características sociodemográficas y clínicas en población mayor de 50 años institucionalizada (residencias geriátricas) del área de Tarragona (N=1.400, 01/03/2020 - 30/04/2020).
+Casos Covid-19 confirmados por PCR (n=148)
+Incidencia
+Análisis bivariante
+(por 100.000
+n (%)
+p
+personas)
+50-59 años
+87 (6,2)
+1 (0,7)
+1.149,4
+60-69 años
+152 (10,9)
+5 (3,4)
+3.289,5
+Edad
+70-79 años
+208 (14,8)
+13 (8,8)
+<0,001
+6.250,0
+80-89 años
+534 (38,2)
+79 (53,4)
+14.794,0
+≥90 años
+416 (29,7)
+50 (33,8)
+12.019,2
+Hombre
+480 (34,3)
+45 (30,4)
+9.375,0
+Sexo
+0,293
+Mujer
+920 (65,7)
+103 (69,6)
+11.195,7
+Vacuna gripe en 2019
+1.031 (73,6) 124 (83,8)
+0,003
+12.027,2
+V. neumocócica 23-valente
+953 (68,1)
+108 (73,0)
+0,176
+11.332,6
+V. neumocócica 13-valente
+24 (1,7)
+4 (2,7)
+0,327
+16.666,7
+Enfermedad neurológica
+363 (25,9)
+53 (35,8)
+0,004
+14.600,6
+Insuficiencia renal crónica
+236 (16,9)
+22 (14,9)
+0,494
+9.322,0
+Cáncer
+167 (11,9)
+16 (10,8)
+0,657
+9.580,8
+Enfermedad reumatológica
+11 (0,8)
+1 (0,7)
+0,873
+9.090,9
+Enf. inflamatoria intestinal
+12 (0,9)
+3 (2,0)
+0,103
+25.000
+Enf. respiratoria crónica
+197 (14,1)
+16 (10,8)
+0,228
+8.121,8
+Cardiopatía crónica
+508 (36,3)
+53 (35,8)
+0,899
+10.433,1
+Fibrilación auricular
+224 (16,0)
+27 (18,2)
+0,431
+12.053,6
+Enf. hepática crónica
+26 (1,9)
+1 (0,7)
+0,260
+3.846,2
+Hipertensión
+945 (67,5)
+103 (69,6)
+0,565
+10.899,5
+Diabetes mellitus
+390 (27,9)
+47 (31,8)
+0,263
+12.051,3
+Tabaquismo
+110 (7,9)
+8 (5,4)
+0,241
+7.272,7
+Alcoholismo
+40 (2,9)
+1 (0,7)
+0,092
+2.500,0
+Hipercolesterolemia
+546 (39,0)
+55 (37,2)
+0,628
+10.073,3
+Obesidad
+332 (23,7)
+37 (25,0)
+0,697
+11.144,6
+0
+140 (10,0)
+13 (8,8)
+9.285,7
+1
+258 (18,4)
+25 (16,9)
+9.689,9
+2
+325 (23,2)
+33 (22,3)
+10.153,8
+Nº comorbilidades:
+0,909
+3
+308 (22,0)
+38 (25,7)
+12.337,7
+4
+197 (14,1)
+21 (14,2)
+10.659,9
+5
+172 (12,3)
+18 (12,2)
+10.465,1
+Valores de “p” calculados mediante test de Chi-cuadrado (o test exacto de Fisher si apropiado)
+comparando porcentajes en población de estudio frente a casos de Covid-19.
+Características
+
+8
+
+Población
+(N=1.400)
+n (%)
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+Casos definitivos más casos probables
+(sospechosos) de Covid-19. La tabla 5 muestra
+los datos que evalúan el resultado combinado:
+casos definitivos (con PCR positivo) más casos
+probables (sólo sospecha clínica, sin PCR
+
+realizado) de Covid-19 en la población total
+de estudio. Por comorbilidades, las incidencias
+específicas máximas (por 100.000 personasperíodo) para este resultado combinado
+aparecieron entre individuos con enfermedad
+
+Tabla 5
+Número absoluto de eventos y tasas específicas de incidencia para casos totales de Covid-19
+(PCR-positivos más casos clínicamente sospechosos sin PCR realizado) en población general
+mayor de 50 años del área de Tarragona (N=79.071, 01/03/2020 - 30/04/2020).
+Casos Covid-19 confirmados por PCR (n=716)
+Incidencia
+Análisis bivariante
+(por 100.000
+n (%)
+p
+personas)
+50-59 años
+30.206 (38,2) 284 (39,7)
+940,2
+60-69 años
+22.680 (28,7) 110 (15,4)
+485,0
+Edad
+70-79 años
+15.806 (20,0) 106 (14,8)
+<0,001
+670,6
+80-89 años
+8.210 (10,4) 137 (19,1)
+1.668,7
+≥90 años
+2.169 (2,7)
+79 (11,0)
+3.642,2
+Hombre
+37.620 (47,6) 296 (41,3)
+786,8
+Sexo
+0,001
+Mujer
+41.451 (52,4) 420 (58,7)
+1.013,2
+No institucionalizados 77.671 (98,3) 545 (76,1)
+701,7
+Residencia
+<0,001
+Institucionalizados
+1.400 (1,7)
+171 (23,9)
+12.214,3
+Vacuna gripe en 2019
+22.598 (28,6) 278 (38,8)
+<0,001
+1.230,2
+V. neumocócica 23-valente
+26.172 (33,1) 284 (39,7)
+<0,001
+1.085,1
+V. neumocócica 13-valente
+1.139 (1,4)
+23 (3,2)
+<0,001
+2.019,3
+Enfermedad neurológica
+2.314 (2,9)
+82 (11,5)
+<0,001
+3.543,6
+Insuficiencia renal crónica
+4.476 (5,7)
+63 (8,8)
+<0,001
+1.407,5
+Cáncer
+6.629 (8,4)
+72 (10,1)
+0,105
+1.086,1
+Enfermedad reumatológica
+871 (1,1)
+8 (1,1)
+0,968
+918,5
+Enf. inflamatoria intestinal
+532 (0,7)
+7 (1,0)
+0,316
+1.315,8
+Enf. respiratoria crónica
+7.271 (9,2)
+98 (13,7)
+<0,001
+1.347,8
+Cardiopatía crónica
+13.430 (17,0) 165 (23,0)
+<0,001
+1.228,6
+Fibrilación auricular
+3.783 (4,8)
+67 (9,4)
+<0,001
+1.771,1
+Enf. hepática crónica
+1.464 (1,9)
+14 (2,0)
+0,836
+956,3
+Hipertensión
+34.936 (44,2) 352 (49,2)
+0,007
+1.007,6
+Diabetes mellitus
+13.313 (16,1) 139 (19,4)
+0,064
+1.044,1
+Tabaquismo
+12.750 (16,1) 74 (10,3)
+<0,001
+580,4
+Alcoholismo
+1.795 (2,3)
+14 (2,0)
+0,570
+779,9
+Hipercolesterolemia
+27.309 (34,5) 242 (33,8)
+0,676
+886,2
+Obesidad
+21.675 (27,4) 176 (24,6)
+0,088
+812,0
+0
+22.444 (28,4) 179 (25,0)
+797,5
+1
+21.110 (26,7) 184 (25,7)
+871,6
+2
+16.050 (20,3) 123 (17,2)
+766,4
+Nº comorbilidades:
+<0,001
+3
+10.548 (13,3) 101 (14,1)
+957,5
+4
+5.421 (6,9)
+73 (10,2)
+1.346,6
+5
+3.498 (4,4)
+56 (7,8)
+1.600,9
+Valores de “p” calculados mediante test de Chi-cuadrado (o test exacto de Fisher si apropiado)
+comparando porcentajes en población de estudio frente a casos de Covid-19.
+Características
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+Población
+(N=79.071)
+n (%)
+
+9
+
+Ángel Vila-Córcoles et al
+
+neurológica (3.543,6), fibrilación auricular
+(1.771,1), insuficiencia renal crónica (1.407,5),
+enfermedad respiratoria (1.347,8), enfermedad
+inflamatoria intestinal (1.315,8), enfermedad
+cardíaca (1.228,6), cáncer (1.086,1), diabetes
+(1.044,1) e hipertensión (1.007,6) (tabla 5).
+La tabla 6 muestra los resultados del
+análisis multivariable estimando el riesgo de
+Covid-19 definitiva (PCR positivo) y posible
+
+(casos confirmados más casos sospechosos sin
+PCR) entre las personas no institucionalizadas
+(n=77.671). La enfermedad respiratoria crónica
+(HR: 1,75; IC 95%: 1,00-3,02; p=0,051) y la
+enfermedad cardíaca (HR: 1,47; IC 95%: 1,012,15; p=0,045) se asociaron con un mayor riesgo,
+mientras que fumar (HR: 0,43; IC 95%: 0,250,74; p=0,002) y haber sido vacunado de la gripe
+(HR: 0,63; IC 95%: 0,43-0,92; p=0,015) parecían
+estar asociados con una disminución del riesgo.
+
+Tabla 6
+Estimación del riesgo de sufrir Covid-19 confirmada (PCR+) y/o probable (sospecha clínica
+sin PCR realizada) en personas mayores de 50 años no institucionalizadas (N=77.671) en
+el área de Tarragona, 01/03/20 - 30/04/20.
+Características
+
+Covid-19 PCR positivo (n=201)
+
+Posible Covid-19 (n=544)
+
+HR (IC 95%)
+
+p
+
+HR (IC 95%)
+
+p-value
+
+Edad, años
+
+1,01 (0,99-1,03)
+
+0,398
+
+0,97 (0,96-0,98)
+
+<0,001
+
+Sexo, mujer
+
+0,97 (0,72-1,30)
+
+0,840
+
+1,11 (0,93-1,32)
+
+0,261
+
+Vacuna gripe en 2019
+
+0,63 (0,43-0,92)
+
+0,015
+
+0,80 (0,62-1,02)
+
+0,073
+
+V. neumocócica 23-valente
+
+1,25 (0,82-1,90)
+
+0,293
+
+0,99 (0,75-1,31)
+
+0,941
+
+V. neumocócica 13-valente
+
+1,47 (0,67-3,24)
+
+0,340
+
+1,74 (1,04-2,93)
+
+0,037
+
+Enfermedad neurológica
+
+1,09 (0,56-2,13)
+
+0,803
+
+1,38 (0,85-2,25)
+
+0,193
+
+Enfermedad renal crónica
+
+1,22 (0,75-1,97)
+
+0,427
+
+1,36 (0,94-1,96)
+
+0,104
+
+Cáncer
+
+1,35 (0,89-2,06)
+
+0,158
+
+1,22 (0,91-1,63)
+
+0,189
+
+Enfermedad reumatológica
+
+0,49 (0,07-3,61)
+
+0,486
+
+0,97 (0,43-2,22)
+
+0,951
+
+Enf. inflamatoria intestinal
+
+0,73 (0,10-5,19)
+
+0,749
+
+1,09 (0,41-2,93)
+
+0,862
+
+Enf. respiratoria crónica
+
+1,74 (1,00-3,02)
+
+0,051
+
+1,11 (0,76-1,63)
+
+0,593
+
+Cardiopatía crónica
+
+1,47 (1,01-2,15)
+
+0,045
+
+1,10 (0,84-1,43)
+
+0,491
+
+Fibrilación auricular
+
+1,00 (0,45-2,24)
+
+0,995
+
+1,22 (0,66-2,24)
+
+0,531
+
+Enf. hepática crónica
+
+1,41 (0,62-3,22)
+
+0,416
+
+1,05 (0,60-1,86)
+
+0,865
+
+Hipertensión
+
+0,98 (0,66-1,45)
+
+0,914
+
+1,10 (0,85-1,42)
+
+0,463
+
+Diabetes mellitus
+
+1,19 (0,63-2,23)
+
+0,591
+
+1,42 (0,94-2,16)
+
+0,097
+
+Tabaquismo
+
+0,43 (0,25-0,74)
+
+0,002
+
+0,57 (0,44-0,75)
+
+<0,001
+
+Alcoholismo
+
+0,97 (0,35-2,65)
+
+0,945
+
+0,98 (0,55-1,77)
+
+0,952
+
+Hipercolesterolemia
+
+0,84 (0,60-1,16)
+
+0,280
+
+1,02 (0,83-1,25)
+
+0,857
+
+Obesidad
+
+0,78 (0,56-1,09)
+
+0,140
+
+0,81 (0,66-1,00)
+
+0,044
+
+Posible Covid-19 incluye casos con PCR positivo junto con casos clínicamente sospechosos en los que no
+se realizó PCR, HRs: Hazard Ratios para aquellas personas que presentan la condición en comparación
+con las que no la presentan, calculadas mediante modelo de regresión de Cox, ajustados por edad
+(continua), sexo, historia de vacunaciones y comorbilidades.
+10
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+DISCUSIÓN
+En el momento actual de incertidumbre
+clínico-epidemiológica respecto a la pandemia causada por el nuevo coronavirus SARSCOV-2, son necesarios datos de base comunitaria que permitan una perspectiva más amplia
+que la meramente hospitalaria. Este estudio
+aporta datos de incidencia específica, para distintas condiciones subyacentes preexistentes,
+en adultos de mediana edad y adultos mayores de Tarragona, una región con una intensidad intermedia de afectación por la pandemia
+de Covid-19(1,2).
+Durante el período de estudio (8,7 semanas), se les realizó el test PCR a 1.547 personas (2%) del total de 79.071 sujetos de estudio.
+De ellas, 1.198 (77,4%) presentan un resultado negativo y 349 (22,6%) un resultado positivo (Covid-19 confirmado por PCR). Además,
+367 personas son codificadas como casos probables de Covid-19 (sólo sospecha clínica, sin
+PCR). Teniendo en cuenta la escasa disponibilidad de test PCR para pacientes con síntomas menos graves, la verdadera incidencia de
+infección por Covid-19 en nuestro entorno podría ser menos del doble de la incidencia estimada, si consideramos únicamente los casos
+confirmados por PCR. Sin embargo, teniendo
+en cuenta el número relativamente pequeño de
+casos probables (sólo sospecha clínica), nuestros datos también sugieren que el número total
+de población infectada (casos definitivos más
+probables) podría ser considerablemente menor
+del que se ha especulado.
+Considerando exclusivamente los casos de
+Covid-19 confirmados por PCR, aparte de los
+institucionalizados en residencias que sufrieron la mayor incidencia, aparecen incidencias
+máximas en personas con enfermedad neurológica, cardíaca, renal o respiratoria y diabetes.
+Las altas tasas de incidencia observadas para
+algunas comorbilidades como la enfermedad
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+neurológica (demencia/accidente cerebrovascular) o la fibrilación auricular reflejan la “sobrerepresentación” de estos perfiles de riesgo
+basal, en relación con la gran cantidad de casos
+observados entre las personas mayores y, especialmente, las institucionalizadas.
+La comorbilidad múltiple aumenta las tasas
+de incidencia, especialmente para aquellos con
+3 o más comorbilidades (que presentan tasas de
+incidencia casi 3 veces mayores que aquellos
+con una comorbilidad).
+Sorprendentemente, la menor incidencia de
+infección por Covid-19 (tanto probable como
+definitiva) ocurrió en fumadores. Este dato no
+es único y merece más investigaciones(14,15,16).
+Obviamente, no debe olvidarse que fumar tiene
+graves consecuencias y supone un gran peligro
+para la salud, y que la nicotina es la droga responsable de la adicción al tabaco. Sin embargo,
+como ha sido hipotetizado por otros autores(16),
+debería explorarse un posible papel protector
+de los agentes nicotínicos (en condiciones controladas) frente a la infección por Covid-19.
+En el análisis multivariable restringido a individuos que viven en la comunidad (no institucionalizados, n=77.671), sólo las enfermedades
+cardíacas y respiratorias aparecen asociadas
+(marginalmente significativas) con la infección
+por Covid-19 confirmada por PCR. Se ha demostrado claramente el papel negativo de la
+enfermedad respiratoria o cardíaca crónica preexistente sobre la predicción de mal pronóstico en pacientes infectados, pero no está claro si
+también se asocian a un aumento del riesgo de
+sufrir la infección(2).
+La hipertensión y la obesidad, a pesar de estar relacionadas con un peor pronóstico en estudios previos, que incluyen pacientes con casos
+graves(17,18,19), no aparecen asociadas con un mayor riesgo de infección por Covid-19 confirmada por PCR en nuestro análisis multivariable.
+11
+
+Ángel Vila-Córcoles et al
+
+En nuestro estudio, los individuos que viven
+en la comunidad y que fueron vacunados frente a la gripe en el otoño previo parecen tener
+un riesgo disminuido de sufrir infección por
+Covid-19. Aunque este hallazgo puede estar relacionado con confusión residual debida a factores no medidos (p.ej. perfil de estilo de vida y
+autocuidado de la salud), también podría estar
+relacionado con mecanismos inmunitarios indirectos (que podrían ser importantes para futuras
+estrategias de prevención)(20).
+El presente estudio tiene varias limitaciones,
+principalmente relacionadas con su naturaleza observacional y su diseño retrospectivo. Al
+evaluar la Covid-19, el resultado más específico es una infección confirmada por laboratorio
+mediante test PCR. Sin embargo, este resultado
+depende de la fiabilidad del RT-PCR realizado
+(es decir, la calidad de la muestra de hisopos
+nasofaríngeos, el momento de la recolección, la
+sensibilidad de los tests utilizados) y los protocolos para la realización de los mismos durante
+el período de estudio. En este sentido, desgraciadamente, la disponibilidad de tests PCR fue
+escasa durante el período de estudio en nuestro
+entorno y no se realizaron de forma rutinaria a
+todos los casos clínicamente sospechosos (probables). Así, los tests fueron priorizados para
+pacientes hospitalizados o con síntomas graves.
+Por tanto, no podemos descartar cierta confusión residual en las estimaciones de incidencia y riesgo, relacionada con el sesgo de selección, si tenemos en cuenta que los tests PCR
+no se realizaron de manera uniforme. Por ello,
+se realizó un análisis por subgrupos (institucionalizados/no institucionalizados) y múltiples
+ajustes multivariables, pero, como en todos los
+estudios observacionales, no se puede descartar
+cierta confusión residual, debida a factores no
+medidos (por ejemplo, factores epidemiológicos, sociales o laborales). Los casos definitivos
+de Covid-19 presentados en este estudio son
+aquellos que ocurren en pacientes con resultado positivo para SARS-CoV-2 RT por PCR,
+12
+
+independientemente de los síntomas preexistentes/gravedad de la enfermedad. No aportamos datos sobre necesidad de hospitalización y
+curso clínico, ingreso en UCI y/o tasas de mortalidad. El número de personas a las cuales se
+realizó PCR fue relativamente bajo: sólo 1.547,
+con 349 resultados positivos, lo que limita el
+poder estadístico (especialmente en el análisis
+de subgrupos).
+En el presente estudio se consideró como
+caso sospechoso a todo paciente con síntomas
+de infección aguda de las vías respiratorias de
+inicio súbito (tos, fiebre y/o dificultad respiratoria de cualquier gravedad) y sin otra etiología
+que explicara el cuadro clínico(11). Subrayamos
+que la definición de caso sospechoso resulta poco específica pero, por otra parte, la definición de caso confirmado (PCR positiva) es
+poco sensible. La escasa disponibilidad inicial
+de PCRs, así como la utilización de criterios
+más restrictivos para su realización durante las
+primeras semanas del periodo epidémico, puede haber conducido a una considerable infraestimación de la incidencia real de la enfermedad
+(especialmente en las primeras semanas).
+Como fortalezas principales, el presente estudio informa sobre la incidencia poblacional
+de infección por Covid-19 (probable y confirmada por PCR) en una amplia cohorte que incluye casi 80.000 adultos de mediana edad y
+mayores en un área geográfica bien definida,
+que incluye 3 comarcas en el área de Tarragona.
+Lógicamente, los datos de incidencia no pueden extrapolarse directamente a otras regiones
+geográficas con condiciones epidemiológicas
+distintas, pero los riesgos estimados pueden
+conformar una base aceptable para evaluar el
+riesgo de infección por Covid-19 (independientemente de la gravedad de la misma) en adultos
+de mediana edad y mayores.
+Como conclusión principal, los datos respaldan
+que el aumento de la edad, la institucionalización
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+y las enfermedades respiratorias o cardíacas
+crónicas aumentan el riesgo de sufrir Covid-19
+(independientemente de la severidad de la
+misma). De acuerdo con nuestros datos, la
+población residente en la comunidad que recibió
+la vacunación antigripal en el otoño previo parece
+tener un riesgo menor de presentar Covid-19,
+aspecto que debería ser estudiado en futuras
+investigaciones sobre el tema.
+
+AGRADECIMIENTOS
+Este estudio está dedicado a Beatriz González
+Lambán. También a todas las personas que sufrieron Covid-19 en Tarragona. Gracias a todos los
+trabajadores de la salud que han cuidado de ellos.
+
+BIBLIOGRAFÍA
+1. World Health Organization. Coronavirus disease
+2019 (COVID-19): situation report-87. April,16 2020.
+Disponible en: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200416-sitrep-87-covid-19.
+pdf?sfvrsn=9523115a_2 [Consultado 17 Abril 2020].
+2. Ministerio de Sanidad. Secretaría General de Sanidad
+y Consumo. Dirección General de Salud Pública, Calidad
+e Innovación. Centro de Coordinación de Alertas y
+Emergencias Sanitarias. Informe científico-técnico.
+Enfermedad por coronavirus, COVID-19. Actualización,
+17 de abril 2020. Disponible en: https://pnsd.sanidad.
+gob.es/noticiasEventos/actualidad/2020_Coronavirus/
+pdf/20200421_INFORME_CIENTIFICO_SANIDAD_
+COVID-19.pdf [Consultado 6 Mayo 2020].
+3. Huang C, Wang Y, Li X et al. Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan, China.
+Lancet. 2020;395:497-506.
+4. Guan WJ, Ni ZY, Hu Y et al. Clinical Characteristics
+of Coronavirus Disease 2019 in China. N Engl J Med.
+2020;382:1708-1720.
+5. Liang WH, Guan WJ, Li CC et al. Clinical characteristics and outcomes of hospitalised patients with COVID-19
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+treated in Hubei (epicenter) and outside Hubei (non-epicenter): A Nationwide Analysis of China. Eur Respir J. 2020:
+2000562.
+6. Grasselli G, Zangrillo A, Zanella A et al. Baseline
+Characteristics and Outcomes of 1591 Patients Infected
+With SARS-CoV-2 Admitted to ICUs of the Lombardy
+Region, Italy. JAMA. 2020;323(16):1574–81.
+7. Zhou F, Yu T, Du R et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in
+Wuhan, China: a retrospective cohort study. Lancet 2020;
+395:1054-62.
+8. Mizumoto K, Kagaya K, Zarebski A, Chowell G.
+Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the
+Diamond Princess cruise ship, Yokohama, Japan, 2020.
+Eurosurveillance 2020;25(10):2000180.
+9. World Medical Association. WMA Declaration of
+Helsinki – Ethical Principles for Medical Research
+Involving Human Subjects. Disponible en: https://www.
+wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/. Consultado 14 Marzo 2020.
+10. Vila-Corcoles A, Hospital-Guardiola I, Ochoa-Gondar
+O et al. Rationale and design of the CAPAMIS study: effectiveness of pneumococcal vaccination against communityacquired pneumonia, acute myocardial infarction and
+stroke. BMC Public Health. 2010;10:25.
+11. Generalitat de Catalunya. Sub-direcció General de
+Vigilància i Resposta a Emergències de Salut Pública.
+Procediment d’actuació enfront de casos d’infecció pel
+nou coronavirus SARS-CoV-2. Disponible en: https://
+canalsalut.gencat.cat/web/.content/_A-Z/C/coronavirus2019-ncov/material-divulgatiu/procediment-actuacio-coronavirus.pdf [Consultado 16 Abril 2020].
+12. Lieberman JA, Pepper G, Naccache SN et al.
+Comparison of commercially available and laboratory developed assays for in vitro detection of sars-cov-2 in clinical laboratories. J Clin Microbiol. 2020:JCM.00821-20.
+13
+
+Ángel Vila-Córcoles et al
+
+13. Hosmer DW, Lemeshow S. Applied Survival Analysis.
+Regression Modeling of Time to Event Data. New York:
+John Wiley & Sons, 1999.
+
+17. Cook TM. Hypertension is a clinically important
+risk factor for severe illness and mortality in COVID-19.
+Anaesthesia. 2020 Apr 27. Epub ahead of print.
+
+14. Miyara M, Tubach F, Pourcher V et al. Low incidence
+of daily active tobacco smoking in patients with symptomatic COVID-19. Preprint v3. Disponible en: https://www.
+qeios.com/read/WPP19W.3 [Consultado 21 Abril 2020].
+
+18. Sattar N, McInnes IB, McMurray JJV. Obesity a risk
+factor for severe COVID-19 infection: Multiple potential
+mechanisms. Circulation. 2020. Epub ahead of print.
+
+15. Lippi G, Henry BM. Active smoking is not associated
+with severity of coronavirus disease 2019 (COVID-19).
+Eur J Intern Med. 2020;75:107-108.
+16. Changeux JP, Amoura Z, Rey F, Miyara M. (2020). A
+nicotinic hypothesis for Covid-19 with preventive and therapeutic implications. Disponible en: https://www.qeios.
+com/read/FXGQSB [Consultado 21 Abril 2020].
+
+14
+
+19. Lighter J, Phillips M, Hochman S, Sterling S, Johnson
+D, Francois F et al. Obesity in patients younger than 60
+years is a risk factor for Covid-19 hospital admission. Clin
+Infect Dis Off Publ Infect Dis Soc Am. 9 de abril de 2020.
+20. Salem ML, El-Hennawy D. The possible beneficial adjuvant effect of influenza vaccine to minimize the severity
+of COVID-19. Med Hypotheses 2020;140:109752.
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+EVALUACIÓN DE LA INCIDENCIA Y PERFIL DE RIESGO DE COVID-19 SEGÚN COMORBILIDAD PREVIA EN ADULTOS ≥50 AÑOS DEL ÁREA DE TARRAGONA
+
+Anexo I
+Códigos CIE-10 usados para la identificación de condiciones de riesgo/comorbilidades
+en la población de estudio.
+Comorbilidades y condiciones de riesgo según códigos CIE-10
+[Clasificación Internacional de Enfermedades, 10ª revisión]
+Enfermedad neurológica
+
+Demencia
+
+F01-F03
+
+Ictus
+
+I63, I61
+
+Insuficiencia renal crónica
+
+N18-N19
+
+Cáncer (neoplasia sólida o hematológica) en últimos 5 años
+
+C00-C97
+
+Enfermedad reumatológica
+Enfermedad inflamatoria intestinal
+
+Enfermedad respiratoria crónica
+
+Artritis reumatoide
+
+M05-M09
+
+Lupus sistémico
+
+M32
+
+Colitis ulcerosa
+
+K50
+
+Enfermedad de Crohn
+
+K51
+
+Bronquitis crónica/enfisema
+
+J41-J44
+
+Asma
+
+J45-J46
+
+Otras enfermedades pulmonares
+
+P27, E84, J47
+
+Insuficiencia cardíaca congestiva I50
+Enfermedades cardíacas crónicas
+
+Enfermedad coronaria
+
+I20-I22, I25
+
+Otras cardiopatías crónicas
+
+I05-I08, I11, I35-I37, I42, I51.7
+
+Fibrilación auricular
+Enfermedad hepática crónica
+
+I48
+Hepatitis vírica crónica
+
+B18
+
+Cirrosis
+
+K74
+
+Hepatitis alcohólica
+
+K70
+
+Hipertensión
+
+I10, I11, I12 o I15
+
+Diabetes mellitus
+
+E10-E14
+
+Hipercolesterolemia
+
+E78
+
+Obesidad
+
+E66
+
+Alcoholismo
+
+Z10
+
+Tabaquismo
+
+F17
+
+Rev Esp Salud Pública. 2020; 94: 26 de junio e202006065
+
+15
+
+

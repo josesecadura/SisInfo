@@ -1,0 +1,16 @@
+D:\git\SisInfo\Fylt.Domain\bin\Debug\net9.0\Fylt.Domain.deps.json
+D:\git\SisInfo\Fylt.Domain\bin\Debug\net9.0\Fylt.Domain.dll
+D:\git\SisInfo\Fylt.Domain\bin\Debug\net9.0\Fylt.Domain.pdb
+D:\git\SisInfo\Fylt.Domain\bin\Debug\net9.0\Fylt.Infrastructure.dll
+D:\git\SisInfo\Fylt.Domain\bin\Debug\net9.0\Fylt.Infrastructure.pdb
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.csproj.AssemblyReference.cache
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.AssemblyInfoInputs.cache
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.AssemblyInfo.cs
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.csproj.CoreCompileInputs.cache
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.sourcelink.json
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Dom.0146C2A9.Up2Date
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.dll
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\refint\Fylt.Domain.dll
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\Fylt.Domain.pdb
+D:\git\SisInfo\Fylt.Domain\obj\Debug\net9.0\ref\Fylt.Domain.dll

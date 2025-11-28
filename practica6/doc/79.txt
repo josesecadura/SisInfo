@@ -1,0 +1,1257 @@
+PUBLICACIÓN BIMESTRAL DE LA UNIVERSIDAD DE CIENCIAS MÉDICAS DE LA HABANA | Editorial Ciencias Médicas
+
+Revista Habanera
+de Ciencias Médicas
+
+AÑO 2020
+19(2) MARZO-ABRIL
+ISSN 1729 - 519X
+
+_____________________________________________________________________________________________________
+
+CIENCIAS CLÍNICAS Y PATOLÓGICAS
+ARTÍCULO DE REVISIÓN
+Características clínico-epidemiológicas de la COVID-19
+Clinical-epidemiological characteristics of COVID-19
+
+Manuel Ramón Pérez Abreu1,2 , Jairo Jesús Gómez Tejeda1
+Ronny Alejandro Dieguez Guach3
+
+,
+
+1Universidad
+
+de Ciencias Médicas de Holguín. Holguín, Cuba.
+Docente “Fermín Valdés Domínguez”, Servicio de Medicina Interna. Holguín, Cuba.
+3Universidad de Ciencias Médicas de Holguín, Facultad de Ciencias Médicas “Mariana Grajales Coello”.
+Holguín, Cuba.
+2Hospital
+
+Cómo citar este artículo
+Pérez Abreu MR, Gómez Tejeda JJ, Dieguez Guach RA. Características clínico-epidemiológicas de la COVID-19. Rev haban cienc
+méd [Internet]. 2020 [citado
+]; 19(2):e_3254. Disponible en:
+http://www.revhabanera.sld.cu/index.php/rhab/article/view/3254/2505
+
+Recibido: 28 de marzo del 2020.
+Aprobado: 11 de abril del 2020.
+_____________________________________________________________________________________________________
+
+RESUMEN
+Introducción: La COVID-19 es causada por el
+nuevo coronavirus que se descubrió en la ciudad
+de Wuhan, provincia de Hubei, China a finales de
+2019.
+Objetivo: Describir las características clínicoepidemiológicas de la COVID-19.
+
+Material y Método: Se realizó una revisión
+bibliográfica a partir de un total de 33 referencias
+bibliográficas. Se utilizaron artículos e
+información
+de
+revistas
+nacionales
+e
+internacionales de las bases de datos OMS, OPS,
+Infomed. Se analizó la calidad, fiabilidad y validez
+
+Página 1
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+de los artículos seleccionados para realizar una
+adecuada revisión.
+Desarrollo: La transmisión del SARS-COV-2
+proveniente de una fuente animal a los primeros
+casos humanos no se ha confirmado. La vía de
+transmisión entre humanos más aceptada es de
+persona a persona por vía respiratoria, con un
+periodo de incubación de 1 a 14 días. Se presenta
+en la mayoría de casos con un cuadro clínico
+correspondiente a una infección respiratoria alta
+autolimitada, con variedad de sintomatología
+según grupos de riesgo, presentando una rápida
+progresión a una neumonía grave y fallo
+multiorgánico, generalmente fatal en personas
+de la tercera edad y con presencia de
+ABSTRACT
+Introduction: COVID-19 is caused by the new
+coronavirus that was discovered in Wuhan City,
+Hubei Province, China in the late 2019.
+Objective:
+To
+describe
+the
+clinicalepidemiological characteristics of COVID-19.
+Material and Method: A bibliographic review
+was made from a total of 33 bibliographic
+references. Articles and information from
+international organizations such as WHO, PAHO
+and electronic publications on the topic available
+from INFOMED were used. The quality, reliability
+and validity of the selected articles were analyzed
+to carry out an adequate review.
+Development: The transmission of SARS-COV-2
+from an animal source to the first human cases
+has not been confirmed. The most accepted
+route of transmission between humans is from
+person to person via the respiratory route, with
+an incubation period between 1 and 14 days. In
+
+comorbilidades.
+Conclusiones: Estamos en presencia de una
+pandemia en la que el pilar más importante para
+combatirla es la prevención: tomar las medidas
+necesarias para detener la transmisión, lograr
+una atención diferenciada a los grupos de riesgo,
+realizar todas las acciones pertinentes con el fin
+de identificar y neutralizar los focos de
+propagación y lograr que la población se una al
+sistema de salud de cada nación y coopere para
+combatir esta enfermedad.
+Palabras clave: coronavirus, covid-19, SARS-CoV2, epidemiología.
+
+most cases, it presents with a clinical picture
+corresponding to a self-limited upper respiratory
+infection with a variety of symptoms according to
+risk groups, presenting a rapid progression to
+severe pneumonia and multi-organ failure,
+generally fatal in the elderly and in people with
+presence of comorbidities.
+Conclusions: We are in the presence of a
+pandemic in which prevention is the most
+important means of combating it: to take the
+necessary measures to stop transmission, to
+achieve differentiated attention to risk groups, to
+carry out all relevant actions in order to identify
+and neutralize the foci of spreading and to get the
+population to join the health system of each
+nation and cooperate to combat this disease.
+Key words: coronavirus, covid-19, SARS-CoV-2.
+
+Página 2
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+INTRODUCCIÓN
+El siglo XXI se ha caracterizado desde sus inicios
+por una problemática de salud que ha afectado al
+mundo y Cuba no ha podido escapar de esta
+situación, que va desde un incremento de la
+resistencia microbiana, aumento de las
+enfermedades oncológicas hasta la aparición de
+nuevas enfermedades infecciosas emergentes y
+reemergentes, como ha sido la aparición de la
+COVID-19 a finales del pasado año.(1,2)
+Los coronavirus son una extensa familia de virus
+que pueden causar enfermedades tanto en
+animales como en humanos. En los humanos, se
+sabe que varios coronavirus causan infecciones
+respiratorias que pueden ir desde el resfriado
+común hasta enfermedades más graves como el
+síndrome respiratorio de Oriente Medio (MERS) y
+el síndrome respiratorio agudo severo (SRAS).(1)
+La COVID-19 (coronavirus disease 2019) también
+conocida como enfermedad por nuevo
+coronavirus es causada por el coronavirus 2 del
+síndrome respiratorio agudo severo (SARS-CoV2), su forma es redonda u ovalada y a menudo
+polimórfica, tiene un diámetro de 60 a 140 nm, la
+proteína espiga que se encuentra en la superficie
+del virus y forma una estructura en forma de
+barra, es la estructura principal utilizada para la
+tipificación, la proteína de la nucleocápside
+encapsula el genoma viral y puede usarse como
+antígeno de diagnóstico. Tanto el nuevo virus
+como la enfermedad eran desconocidos antes de
+que estallara el brote en Wuhan.(2)
+Produce síntomas similares a los de la gripe, entre
+los que se incluyen fiebre, tos, disnea, mialgia y
+fatiga. También se ha observado la pérdida súbita
+del olfato y el gusto (sin que la mucosidad fuese
+
+la causa). En casos graves se caracteriza por
+producir neumonía, síndrome de dificultad
+respiratoria aguda, sepsis y choque séptico que
+conduce a alrededor del 3 % de los infectados a la
+muerte, aunque la tasa de mortalidad se
+encuentra en 4,48 % y sigue ascendiendo.(3)
+La covid-19 se identificó por primera vez el 1 de
+diciembre de 2019 en la ciudad de Wuhan, capital
+de la provincia de Hubei, en la China central,
+cuando se reportó a un grupo de personas con
+neumonía de causa desconocida, vinculada
+principalmente a trabajadores del mercado
+mayorista de mariscos del sur de China de
+Wuhan. El número de casos aumentó
+rápidamente en el resto de Hubei y se propagó a
+otros territorios.(2,3)
+La rápida expansión de la enfermedad hizo que la
+Organización Mundial de la Salud, el 30 de enero
+de 2020, la declarara una emergencia sanitaria de
+preocupación internacional, basándose en el
+impacto que el virus podría tener en países
+subdesarrollados con menos infraestructuras
+sanitarias y la reconociera como una pandemia el
+11 de marzo. Hasta la fecha del 10 de abril de
+2020 se reportó 182 países con casos positivos de
+COVID-19, con 1 563 857 casos confirmados y 95
+044 fallecidos para una letalidad del 6,08 %.(3)
+En la región de las Américas se reportan 537 678
+casos confirmados; lo que constituye el 34,4 %
+del total de los casos reportados en el mundo con
+19 309 fallecidos hasta el 10 de abril de 2020 para
+una letalidad del 3,59 %; Estados Unidos de
+América es el país con mayor cantidad de casos
+reportados sobrepasando los 501 680 casos
+confirmados y 18 780 fallecidos.(2,3)
+
+Página 3
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+En Cuba hasta el 10 de abril de 2020 se
+reportaron 620 casos confirmados con la
+enfermedad, 16 fallecidos, 77 recuperados, 2415
+pacientes ingresados en vigilancia clínicoepidemiológica y otras 7 128 personas se vigilan
+en sus hogares, desde la Atención Primaria de
+Salud. En la provincia de Holguín se han
+confirmado hasta el momento 37 casos de
+COVID-19.(4)
+El número de casos confirmados aumenta
+diariamente en relación con la cantidad de
+pruebas confirmatorias realizadas, mientras que
+MATERIAL Y MÉTODOS
+Se realizó una revisión bibliográfica donde se
+consultaron como fuentes de información las
+disponibles desde el sitio del Centro Nacional de
+Información de Ciencias Médicas (Infomed) y los
+sitios web de la Organización Mundial de la Salud
+y la Organización Panamericana de la Salud.
+Se recuperaron artículos de revistas nacionales e
+internacionales en bases de datos como
+Pubmed/Medline, SciELO, Scopus y otras revistas
+en acceso abierto.
+Se utilizaron como motores de búsqueda el
+Google Scholar, Ciencia Sciencie.
+Se consideró como criterios de selección aquella
+literatura publicada más recientemente en
+DESARROLLO
+Las enfermedades infecciosas emergentes y
+reemergentes son desafíos constantes para la
+salud pública en todo el mundo. Los casos
+recientes de neumonía de causa desconocida en
+Wuhan, China, han llevado al descubrimiento de
+
+el número de personas en vigilancia fluctúa,
+porque se van descartando hacia otras
+patologías.
+Debido al reciente surgimiento de esta
+enfermedad, la situación de alarma mundial y
+nacional en que nos encontramos, el incremento
+constante de casos y muertes, en esta
+investigación nos planteamos como objetivo
+describir
+las
+características
+clínicoepidemiológicas de la COVID-19.
+
+concordancia con lo novedosa de esta
+enfermedad y materiales que estuvieran en
+idioma inglés y español, de esa revisión quedó un
+total de 33 referencias bibliográficas utilizadas.
+Se aplicaron estrategias de búsqueda utilizando
+los descriptores de la ciencia de la salud
+"coronavirus", "nuevo coronavirus", "COVID-19",
+"infección respiratoria aguda", "síndrome de
+distrés
+respiratorio
+por
+coronavirus",
+"neumonías atípicas por coronavirus" y sus
+equivalentes en inglés.
+Se analizó la calidad, fiabilidad y validez
+metodológica de los artículos seleccionados para
+realizar una adecuada revisión.
+
+un nuevo tipo de coronavirus (SARS-CoV-2), que
+son virus de RNA envueltos, comúnmente
+encontrados en humanos, otros mamíferos y
+aves, capaces de causar enfermedades
+respiratorias,
+entéricas,
+hepáticas
+y
+(4,5)
+neurológicas.
+
+Página 4
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Hasta la fecha, hay seis especies conocidas de
+coronavirus que causan enfermedades en
+humanos. Cuatro de estos (229E, OC43, NL63 y
+HKU1) causan síntomas comunes de gripe en
+personas inmunodeprimidas y dos especies
+(SARS-CoV y MERS-CoV) causan síndrome
+respiratorio agudo severo con altas tasas de
+mortalidad.(2)
+Fuente de infección
+Una incógnita que continúa siendo investigada es
+el reconocimiento del origen zoonótico de dicho
+virus, pero debido a su estrecha similitud con los
+coronavirus de murciélago, es probable que estos
+sean el reservorio primario del virus, pues con la
+reaparición de esta nueva clase de coronavirus se
+realizaron diversos estudios y se descubrió que el
+2019-nCoV es un 96 % idéntico a nivel del
+genoma a un coronavirus de murciélago, sin
+embargo otros artículos lo descartan como
+posible agente trasmisor.(5,6)
+Las autoridades chinas están llevando a cabo
+investigaciones para determinar la fuente. Con
+respecto a las características epidemiológicas de
+los casos confirmados de COVID-19 en la ciudad
+de Wuhan, China, una cohorte retrospectiva de
+41 pacientes demostró que el 66 % (27 pacientes)
+tenía contacto directo con un gran mercado de
+mariscos y animales.(6,7)
+Dada la prevalencia y la amplia distribución de los
+coronavirus en distintas especies animales, su
+amplia diversidad genética y la frecuente
+recombinación de sus genomas es esperable que
+se detecten nuevos coronavirus en casos
+humanos, especialmente en contextos y
+situaciones donde el contacto con los animales es
+estrecho.(7,8)
+
+Mecanismo de transmisión animal-humano.
+El modo en el que pudo transmitirse el virus de la
+fuente animal a los primeros casos humanos es
+desconocido. Todo apunta al contacto directo
+con los animales infectados o sus secreciones. En
+estudios realizados en modelos animales con
+otros coronavirus se ha observado tropismo por
+las células de diferentes órganos y sistemas
+produciendo
+principalmente
+cuadros
+respiratorios y gastrointestinales, lo que podría
+indicar que la transmisión del animal a humanos
+pudiera ser a través de secreciones respiratorias
+y/o
+material
+procedente
+del
+aparato
+(9,10)
+digestivo.
+Mecanismo de transmisión humano-humano.
+La vía de transmisión entre humanos se considera
+similar al descrito para otros coronavirus a través
+de las secreciones de personas infectadas,
+principalmente por contacto directo con gotas
+respiratorias de más de 5 micras (capaces de
+transmitirse a distancias de hasta 2 metros) y las
+manos o los fómites contaminados con estas
+secreciones seguido del contacto con la mucosa
+de la boca, nariz u ojos.(11,12)
+La transmisión aérea por núcleo de gotitas o
+aerosoles (capaces de transmitirse a una
+distancia de más de 2 metros) no ha sido
+demostrada para el COVID-19. Sin embargo, se
+cree que podría ocurrir durante la realización de
+procedimientos médicos invasivos del tracto
+respiratorio e incluso en su ausencia. Durante el
+brote de SARS se pudo detectar la presencia del
+virus en el aire de habitaciones de pacientes
+hospitalizados. Recientemente se ha publicado
+una alta transmisión intrahospitalaria (40 %) en
+un hospital de Wuhan, pero la información
+
+Página 5
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+incluye casos desde el 1 de enero, cuando el
+brote estaba en investigación y aún no se había
+identificado el agente causal.(10,11)
+Durante la fase sintomática es cuando se produce
+la liberación máxima de virus por las mucosas
+respiratorias, aunque esto también puede darse,
+en menor medida, en una etapa asintomática o
+en el proceso de recuperación.(13)
+La trasmisión a través de las heces es otra
+hipótesis para la cual no existe evidencia en esta
+epidemia hasta la fecha. En modelos animales, se
+ha detectado tropismo de algunos coronavirus
+por las células intestinales. Recientemente se ha
+detectado la presencia de SARS-CoV-2 en
+muestras de heces en algunos pacientes
+infectados tanto en China como en otros lugares,
+sin que se conozca el significado de este hallazgo
+en cuanto a la transmisión de la enfermedad.(14,15)
+Por otra parte, las manifestaciones clínicas
+gastrointestinales, aunque presentes no son
+demasiado frecuentes en los enfermos por el
+SARS-CoV-2, lo que indicaría que esta vía de
+transmisión, en caso de existir, tendría un
+impacto menor en la evolución de la
+epidemia.(14,15)
+Se confirmó que un hijo de madre con COVID-19
+tenía hisopos de garganta positivos después de
+30 horas del nacimiento. Esto sugiere que el
+nuevo coronavirus puede causar infección
+neonatal a través de la transmisión de madre a
+hijo, pero se necesitan más investigaciones y
+evidencias científicas para confirmar de la posible
+transmisión vertical madre –hijo, tampoco se ha
+aislado el virus en el líquido amniótico, la leche
+materna y los fluidos genitales.(14)
+
+Los autores coinciden en que podrían existir otras
+vías de transmisión aún desconocidas o pasadas
+por alto, por ejemplo, a través de microlesiones
+en piel o contacto con otras mucosas, sin
+embargo, es un hecho que las medidas
+pertinentes para evitar la propagación de
+humano a humano por vía respiratoria han dado
+buenos resultados.
+Período de incubación
+Según los datos preliminares, el período de
+incubación más frecuente se ha estimado entre 4
+y 7 días con un promedio de 5 días, habiéndose
+producido en un 95 % de los casos a los 12,5 días
+desde la exposición. Sin embargo, sobre la base
+del conocimiento de otros Betacoronavirus,
+MERS-CoV y SARS-CoV, y con los datos de los
+casos detectados en Europa en este brote, se
+considera que podría ser desde 1 hasta 14 días.
+Se informa que un caso tuvo un período de
+incubación de 27 días.(16)
+La Organización Mundial de la Salud recomienda
+el aislamiento por 14 días más luego del alta
+hospitalaria debido a que últimos estudios han
+presentado do datos de que se puede trasmitir el
+virus después de los primeros 14 días. Lo anterior
+se pone en evidencia en una publicación de
+investigadores chinos, aparecida en febrero que
+comprobó que el período puede prolongarse
+hasta los 24 días.(8,9)
+Según los primeros artículos no existía evidencia
+respecto a la transmisión a partir de pacientes
+asintomáticos o durante el periodo de
+incubación. Inicialmente se describió un caso de
+transmisión a partir de una paciente asintomática
+en Alemania, si bien posteriormente se
+
+Página 6
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+comprobó que la información era incorrecta y ha
+sido corregida por las autoridades alemanas.(17)
+La información referida anteriormente sobre la
+no trasmisión de los pacientes asintomáticos no
+coincide con la opinión de los autores, ya que el
+desconocimiento del padecimiento de la
+enfermedad posibilita su transmisión a partir de
+la realización de actividades cotidianas y otros
+elementos que bajo otras condiciones pueden
+considerarse normales, como el hecho de
+estornudar, tocar superficies y posteriormente
+tocarse la cara o viceversa, también aquellas
+personas jóvenes que padecen de rinitis alérgica
+o faringitis crónica, cuya sintomatología es
+relativamente normal para su patología de base
+pueden enmascarar
+la presencia de la
+(15,18)
+enfermedad, etc.
+Cuadro Clínico
+Con respecto a las características clínicas de los
+casos confirmados de COVID-19 en la ciudad de
+Wuhan, China, una cohorte retrospectiva de 41
+pacientes demostró que la edad promedio fue de
+49 años, con una prevalencia masculina. Se
+consideraron signos y síntomas importantes de
+COVID-19: fiebre (98 %), tos seca (76 %), disnea
+(55 %), mialgia o fatiga (44 %) y linfopenia (63
+%).(10,18)
+Las personas infectadas pueden estar
+asintomáticas o presentar un cortejo de signos y
+síntomas muy variados que oscilan desde leves a
+muy graves según las características de cada
+persona.(18)
+El inicio de COVID-19 se manifiesta
+principalmente como fiebre, pero en ocasiones
+solo se presentan escalofríos y síntomas
+respiratorios dado por tos seca leve y disnea
+
+gradual, además de fatiga e incluso diarreas.
+Otros síntomas muy frecuentes según ha
+registrado la Organización Mundial de la Salud
+(OMS), son expectoración (33 %), odinofagia (14
+%), cefalea (14 %), mialgia o artralgia (15 %),
+náuseas o vómitos (5 %), congestión nasal (5
+%).(19)
+Afortunadamente, en el 80 % de los casos por
+COVID-19 la enfermedad es leve, hasta el punto
+de confundirse con gripes o resfriados. Sin
+embargo, un 15 % de los pacientes muestra
+síntomas graves que requieren hospitalización y
+un 5 % desarrolla síntomas muy graves que deben
+tratarse en unidades de cuidados intensivos.(9)
+Los primeros casos descritos con sintomatología
+leve, corresponden a un agrupamiento notificado
+a la OMS el día 27 de enero de 2020 en Alemania.
+Ninguno de los casos presentó manifestaciones
+graves. La información preliminar describe
+sintomatología relativamente leve y buena
+evolución en casi todos los casos.(9,13)
+Los autores alertan sobre la importancia de la
+detección temprana de los pacientes en etapa
+asintomática debido a que el cuadro clínico
+puede tener una evolución tórpida inesperada y
+llevar al paciente a la muerte, aunque tenga una
+carga viral baja que no represente peligro
+inminente para su vida, es necesario que sea
+evaluado como corresponde.
+Algunos de los infectados, confirmados a partir
+de la realización de la prueba pueden ser
+asintomáticos, por lo que los autores aconsejan
+que las personas que tuvieron contacto cercano
+con estos pacientes deben ser aisladas y ser
+monitoreadas por un tiempo determinado para
+descartar la infección.
+
+Página 7
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+En este contexto, se conocen fundamentalmente
+los síntomas de los casos que han requerido
+hospitalización, los más graves, y no hay
+información publicada para hacer una
+descripción clínica completa de los casos más
+leves.(11,20,21) En otros estudios el 10,1 % de los
+pacientes presentaron síntomas digestivos
+(diarrea y náuseas) los días previos a presentar
+fiebre y disnea.(12)
+Además, múltiples profesionales sanitarios
+también han observado que algunos afectados
+pierden el sentido del olfato y del gusto durante
+varios días, opinión con la cual coinciden los
+autores por haber tratado a dos pacientes con la
+COVID-19 que han presentado trastornos del
+gusto.
+Las principales formas clínicas reconocidas por la
+OMS son las siguientes:
+Enfermedad no complicada (mínimamente
+sintomática): se presentan signos no específicos
+como fiebre, tos, dolor de garganta, congestión
+nasal, ligera cefalea, malestar general. No hay
+signos de deshidratación, disnea o sepsis. Los
+pacientes ancianos e inmunodeprimidos pueden
+presentar signos atípicos. Pueden existir
+manifestaciones digestivas como náuseas,
+vómitos y diarreas. Es, en esencia, un cuadro
+prácticamente indistinguible de otras afecciones
+virales respiratorias.(3,12)
+Infección no complicada de las vías respiratorias
+bajas no complicada (neumonía ligera): además
+de los síntomas anteriores los pacientes pueden
+presentar fiebre, puede existir tos, que puede ser
+productiva, polipnea, con estertores húmedos
+(crepitantes), o presentarse como una neumonía
+atípica, pero sin signos de gravedad y con una
+
+SpO2 con aire ambiental > 90 %. No existen signos
+de insuficiencia respiratoria ni de gravedad.(5,12)
+Neumonía grave: presencia de tos productiva,
+con fiebre, aleteo nasal, taquipnea (frecuencia
+respiratoria > 30 respiraciones/min, limitación de
+la expansibilidad torácica, con estertores
+húmedos (crepitantes), o presentarse como una
+neumonía atípica pero con signos de gravedad.
+Puede existir tiraje intercostal o supraesternal,
+cianosis central, con SpO2 con aire ambiental <90
+% y dolor pleurítico. Puede producir y asociarse a
+un síndrome de distrés respiratorio agudo.(3,12)
+Hallazgos de laboratorio
+En la serie de casos hospitalizados en Wuhan, la
+leucopenia y la linfopenia fueron los hallazgos
+hematológicos más comunes. Las alteraciones en
+la coagulación, especialmente del Dímero D y del
+tiempo de protrombina fueron más frecuentes en
+pacientes con mayor gravedad. El 37 % de los
+casos también tuvo marcadores positivos de
+citólisis hepática. La linfopenia severa, el dímero
+D elevado y productos nitrogenados elevados
+fueron marcadores relacionados con la
+mortalidad.(22)
+La OMS publicó varios protocolos para el
+diagnóstico de la enfermedad para Japón. La
+prueba de elección fue la RT-PCR en tiempo real
+(o retrotranscripción seguida de reacción en
+cadena de la polimerasa cuantitativa). Se
+realizaba en muestras respiratorias o de sangre.
+Los resultados estaban disponibles, el 30 de
+enero, en unas pocas horas o días. La prueba de
+PCR se puede realizar porque científicos chinos
+aislaron y publicaron una secuencia genética del
+coronavirus.(23)
+
+Página 8
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Los objetivos de las pruebas de diagnóstico son
+detectar las causas frecuentes de neumonía
+temprana, para apoyar actividades de control de
+enfermedades y trabajar con laboratorios de
+referencia que pueden realizar la detección de
+coronavirus y lograr una rápida acción sobre los
+pacientes y todos sus contactos realizando una
+prevención de salud adecuada en la población y
+evitar con mayor posibilidad la trasmisión del
+virus.(24)
+Comportamiento en edades pediátricas
+Sobre los casos pediátricos se han publicado
+pocas referencias, se reportan dos casos de
+infecciones por COVD-19 en niños en edad
+escolar, uno con síntomas leves y otro
+asintomático. Los síntomas descritos fueron
+fiebre (máxima de 38,3 ºC), tos leve, rinorrea,
+náuseas, diarrea, dolor abdominal, cefalea y
+astenia;
+tenía
+leucocitosis,
+linfopenia,
+neutropenia y Proteína C Reactiva elevada con
+procalcitonina
+negativa.
+No
+presentó
+alteraciones de la coagulación.(24)
+Complicaciones
+No es solo el coronavirus el que provoca el
+fallecimiento (a los parásitos no les suele
+interesar matar a sus hospedadores), sino que, en
+algunos casos, está también ocasionado por una
+respuesta inmunitaria descontrolada (llamada
+"tormenta de citoquinas") que puede provocar
+fallo multiorgánico.(25,26)
+La investigación clínica encontró que se detecta
+una alta concentración de citoquinas en el plasma
+de pacientes críticos infectados con SARS-CoV-2,
+lo que sugiere que la tormenta de citocinas se
+asociaba con la gravedad de la enfermedad.(27)
+
+Las complicaciones más frecuentes son
+neumonía y fallo multiorgánico que en ocasiones
+provocan
+la
+muerte.
+Otras
+posibles
+complicaciones que se han descrito son síndrome
+de distrés respiratorio del adulto, fallo renal,
+daño pulmonar agudo, choque séptico y
+neumonía asociada a ventilación mecánica.(16,27)
+Criterios de casos
+Contacto cercano: se refiere a personas que
+tienen contacto con un paciente confirmado o
+sospechoso de infección de COVID-19, incluidas
+las siguientes situaciones: aquellos que viven,
+estudian, trabajan o tienen otras formas de
+contacto cercano con un paciente, personal
+médico, miembros de la familia u otras personas
+que hayan tenido un contacto cercano con un
+paciente sin tomar medidas de protección
+efectivas durante el diagnóstico, tratamiento,
+enfermería y visitas, otros pacientes y sus
+acompañantes que comparten la misma sala con
+un
+paciente
+infectado,
+aquellos
+que
+compartieron el mismo transporte o elevador
+con el paciente, aquellos que son considerados
+como tales a través de investigaciones sobre el
+terreno.(28)
+Casos sospechosos: aquel paciente que clasifica
+en uno de estos grupos de criterios: paciente que
+presenta manifestaciones clínicas respiratorias
+con historia de ser un viajero o haber estado en
+contacto con personas procedentes del área de
+trasmisión de la enfermedad o de alguno de los
+países definidos por las autoridades del MINSAP
+en los últimos 14 días; que presenta
+manifestaciones clínicas respiratorias con
+historia de ser contacto de un caso confirmado en
+los últimos 14 días; fallecido por una Infección
+
+Página 9
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Respiratoria Aguda (IRA) grave sin causa aparente
+y que cumpla además al menos una de las
+siguientes condiciones: contacto con personas
+que hayan padecido la enfermedad o
+antecedentes de haber viajado en los últimos 14
+días a alguno de los países que han reportado
+casos confirmados.(3,28)
+Caso confirmado: Paciente que resulte positivo al
+estudio virológico para la COVID-19, con o sin
+sintomatología.(28)
+Caso confirmado con requerimientos de ingreso
+en cuidados intensivos: caso confirmado grave
+que cumple con los criterios de ingresos en la
+unidad de cuidados intensivos (UCI).(28)
+Principales medidas preventivas
+Ante esta situación mundial la principal labor es
+la preventiva, la OMS, ha publicado medidas para
+reducir la transmisión del virus. Son similares a las
+que se han recomendado para prevenir la
+infección por otros coronavirus e incluyen:
+Lavarse frecuentemente las manos con agua y
+jabón al toser o estornudar, cubrirse la boca y la
+nariz con la sangría o fosa cubital (la concavidad
+que forma la cara interna del brazo al flexionarlo
+por el codo).(16,29)
+Mantener al menos un metro de distancia de
+otras personas, particularmente aquellas que
+tosan, estornuden y tengan fiebre. Evitar tocarse
+los ojos, la nariz y la boca. Ir al médico en caso de
+fiebre, tos y dificultad para respirar, llamando con
+antelación si se encuentra en zonas donde se está
+propagando el virus o si se las han visitado en los
+últimos 14 días. Permanecer en casa si empieza a
+encontrarse mal, aunque se trate de síntomas
+leves como cefalea y rinorrea leve, hasta que se
+recupere si se encuentra en zonas donde se está
+
+propagando el virus o si han sido visitados en los
+últimos 14 días.(14,30)
+Para reducir las posibilidades de infectarse, las
+organizaciones sanitarias recomiendan evitar el
+contacto cercano con personas enfermas; lavarse
+las manos frecuentemente con agua y jabón; no
+tocarse los ojos, la nariz o la boca con las manos
+sin lavar y practicar una buena higiene
+respiratoria.(14,31)
+Se recomienda a las personas que ya estén
+infectadas que se queden en casa, excepto para
+recibir atención médica, llamar con antelación
+antes de visitar a un proveedor de atención
+médica, usar una mascarilla facial (especialmente
+en público), tapar la tos y los estornudos con un
+pañuelo desechable, lavarse las manos
+regularmente con agua y jabón y evitar compartir
+artículos personales del hogar. Dependiendo de
+la legislación de cada país, el contagio
+intencionado del virus está penado de acuerdo
+con el ordenamiento jurídico de donde ocurra el
+hecho.(15,16)
+Los autores coinciden con que todas las personas
+que hayan tenido contacto con pacientes que
+hayan sido catalogados como probables o
+confirmados de COVID-19, deben ser
+monitorizadas durante 14 días desde el último
+contacto que tuvieron con ellos sin protección o
+que no se cumplieron las medidas higiénicosanitarias pertinentes en el momento, además de
+limitar los traslados a lugares fuera de su lugar de
+residencia para evitar una posible propagación.
+En general, el uso de máscaras solo se ha
+recomendado cuando existe exposición con
+pacientes con enfermedades respiratorias, como
+en hospitales y consultorios.(32)
+
+Página 10
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Los autores no apoyan la idea anterior debido a
+que puede haber pacientes asintomáticos
+portadores de la COVID-19 que se convierten en
+focos trasmisores, por eso recomiendan el uso de
+máscaras protectoras en todo lugar donde haya
+casos confirmados de COVID-19. Se deben seguir
+estrictamente los lineamientos del uso de las
+máscaras, pues la mala manipulación y contacto
+de las manos con los ojos y con el lado externo de
+la máscara aumentan los riesgos.
+Entre tanto, numerosos laboratorios de
+investigación en la actualidad continúan
+buscando un tratamiento que elimine la infección
+por este virus, ya sea con medicamentos que ya
+formen parte de la industria farmacéutica y sean
+empleados para otras enfermedades, o bien
+buscando nuevas alternativas más específicas del
+virus.(33)
+Tratamiento
+Hasta el momento no está identificada una droga
+antiviral totalmente eficaz, ni una vacuna, sin
+embargo, en Cuba se desarrolló un protocolo,
+que se encuentra en constante actualización,
+para combatir la enfermedad, que incluye las
+siguientes medidas:
+Medidas generales en pacientes no complicados:
+reporte de cuidado; signos vitales como mínimo
+cada 4 horas; dieta según paciente y
+comorbilidades, reforzar las medidas de
+protección necesarias para el traslado y
+procesamiento de las muestras, vigilar la
+aparición de signos de alarma o de
+empeoramiento del cuadro clínico; medidas de
+soporte de acuerdo con el estado del paciente y
+comorbilidades.(28)
+
+Medidas especificas en Centros de Atención a
+Sospechosos: Oseltamivir (cápsulas) a 75 mg cada
+12 horas, por cinco días. Azitromicina (tabletas)
+500 mg diarios, por 3 días. De no existir
+contraindicaciones ni signos de gravedad, para su
+administración, Interferón alfa 2b (3 millones de
+unidades, por vía intramuscular, 3 veces a la
+semana, por cuatro semanas). Evaluar la
+evolución de la enfermedad y determinar
+continuidad de este tratamiento. Medicamentos
+de base para las comorbilidades y su estado de
+compensación. Medicina Natural y Tradicional
+(Homeopatía y Fito-apiterapia).(28)
+Medidas específicas en hospitales: Kaletra (200
+Lopinavir - 50 Ritonavir): 2 cápsulas cada 12
+horas, por 30 días. Cloroquina (250 mg = 150 mg
+base): 1 tableta cada 12 horas, por 10 días, en la
+paciente obstétrica mayor de 17 años con 50 o
+más kilogramos de peso emplear 500 mg dos
+veces al día por 10 días. En personas de menos de
+50 kg emplear esa dosis los dos primeros días y
+luego 500 mg una vez al día los siguientes ocho
+días. De no existir contraindicaciones ni signos de
+gravedad, para su administración, Interferón alfa
+2b, igual dosis que la anterior. Antibióticos de
+amplio espectro si sospecha sobreinfección
+bacteriana. Tratamiento de las comorbilidades,
+de acuerdo a su estado de compensación.(28)
+Medidas generales en UCI: reporte grave o
+crítico; signos vitales cada 1 hora; alimentación y
+medidas de soporte de acuerdo con el estado del
+paciente y comorbilidades; realización de
+estudios complementarios generales donde se
+incluyen (hemograma con diferencial, glicemia,
+creatinina, coagulograma, Dímero D, LDH
+Ionograma,
+gasometría,
+Rx
+de
+tórax,
+
+Página 11
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+electrocardiograma, estudio de la función
+hepática, ferritina, proteína C reactiva y estudios
+virológicos); oxígeno se comienza con 5 l/min se
+aumenta hasta el máximo de esta terapéutica en
+dependencia de las capacidades del flowmeter a
+bajo y mediano flujo (10-15 l/min),
+Oxigenoterapia en posición prona.(28)
+Medidas específicas en UCI: Kaletra (200
+
+CONCLUSIONES
+La COVID-19 está asociada a una alta
+morbimortalidad en los pacientes de la tercera
+edad y/o con presencia de enfermedades
+crónicas. Se presenta en la mayoría de los casos
+con un cuadro clínico correspondiente a una
+infección respiratoria alta autolimitada; sin
+embargo, en grupos de riesgo presenta una
+rápida progresión a una neumonía grave y fallo
+multiorgánico, generalmente fatal. Los pilares
+
+REFERENCIAS BIBLIOGRÁFICAS
+1. Carr D. Sharing research data and findings relevant
+to the novel coronavirus (COVID-19) outbreak
+[Internet]. London: Wellcome Trust 2020 [citado
+12/03/2020].
+Disponible
+en:
+https://wellcome.ac.uk/press-release/sharingresearch-data-and-findings-relevant-novelcoronavirus-covid-19-outbreak
+2. OMS. Noticias ONU. Los 13 desafíos de la salud
+mundial en esta década [Internet]. Ginebra: OMS; 13
+enero 2020 [Citado 31/01/2020]. Disponible en:
+https://news.un.org/es/search/Los%2013%20desaf%
+C3%ADos%20de%20la%20salud%20mundial%20en%
+20esta%20d%C3%A9cada
+
+Lopinavir - 50 Ritonavir): 2 cápsulas cada 12
+horas, por 30 días. Cloroquina (250 mg = 150 mg
+base): 1 tableta cada 12 horas, por 10 días. En
+casos
+confirmados
+de
+no
+existir
+contraindicaciones Interferón alfa 2b (3 millones
+de unidades, por vía intramuscular, en días
+alternos, por un mes. Antibióticos de amplio
+espectro si sospecha sobreinfección bacteriana.
+Tratamiento de las comorbilidades.(28)
+
+más importantes para la prevención de la
+enfermedad son: tomar las medidas necesarias
+para detener la transmisión persona a persona,
+lograr una atención diferenciada a los grupos de
+riesgo, una correcta realización de la historia
+epidemiológica de pacientes confirmados con el
+fin de identificar y neutralizar los focos de
+propagación y lograr que la población se una al
+sistema de salud para combatir esta enfermedad.
+
+3. OMS. Noticias ONU. Retos de salud urgentes para
+la próxima década [Internet]. Ginebra: OMS; 13
+enero 2020 [Citado 31/01/2020]. Disponible en:
+https://news.un.org/es/story/2020/01/1467872
+4. Centro Nacional de Información de Ciencias
+Médicas/INFOMED. Actualización epidemiológica.
+Nuevo coronavirus (2019-nCoV) [Citado 6/04/2020].
+La Habana: Centro Nacional de Información de
+Ciencias Médicas/INFOMED; 2020 Disponible en:
+https://temas.sld.cu/coronavirus/2020/01/28/nuevo
+-coronavirus-2019-ncov-actualizacion
+5. OMS. Home/Health topics: CORONAVIRUS. Current
+novel coronavirus (COVID-19) outbreak [Internet].
+Ginebra: OMS; 13 de enero 2020 [Citado 31/01/2020].
+
+Página 12
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+Disponible
+en:
+topics/coronavirus
+
+ISSN 1729-519X
+
+https://www.who.int/health-
+
+6. Cohen E. CDC advisers concerned about lack of
+basic information about new Wuhan coronavirus
+[Internet]. Estados Unidos: CNN Health; 2020 Ene 23
+[citado
+12/03/2020].
+Disponible
+en:
+https://edition.cnn.com/2020/01/23/health/wuhancoronavirus-cdc-advisers/index.html
+7. Huang C. Clinical features of patients infected with
+2019 novel coronavirus in Wuhan, China. The Lancet
+[Internet]. 2020 [citado 12/03/2020];395(10223):
+497-506.
+Disponible
+en:
+https://www.thelancet.com/journals/lancet/article/
+PIIS0140-6736(20)30183-5/fulltext
+8. Song Z, Xu Y, Bao L. From SARS to MERS, thrusting
+coronaviruses into the spotlight. Viruses [Internet].
+2019 [Citado 30/01/ 2020];11(1):11. Disponible en:
+https://www.mdpi.com/1999-4915/11/1/59/pdf
+9. Paules CI, Marston HD, Fauci AS. Coronavirus
+Infections—More Than Just the Common Cold. JAMA
+[Internet]. 2020 [Citado 23/01/2020];323(8):707-8.
+Disponible
+en:
+https://jamanetwork.com/journals/jama/fullarticle/2
+759815
+10. Calvo C. Recomendaciones sobre el manejo clínico
+de la infección por el nuevo coronavirus SARS-CoV2.
+An Pediatr (Barc) [Internet]. 2020 [citado
+30/03/2020];30(20):11.
+Disponible
+en:
+https://doi.org/10.1016/j.anpedi.2020.02.001
+11. Centro Nacional de Información de Ciencias
+Médicas/INFOMED. Coronavirus 2019 actualización
+[Citado 17/02/2020]. La Habana: Centro Nacional de
+Información de Ciencias Médicas/INFOMED; 2020 Feb
+17.
+Disponible
+en:
+https://temas.sld.cu/coronavirus/2019ncov/actualización17defebrerode2020
+
+12. WHO Director-General's remarks at the media
+briefing on 2019-nCoV on 11 February 2020 Mar 12
+[citado 12/03/2020];26(1): :[about 1 p.]. Disponible
+en: https://www.who.int/dg/speeches/detail/whodirector-general-s-remarks-at-the-media-briefing-on2019-ncov-on-11-february-2020
+13. Paules CI, Marston HD, Fauci AS. Coronavirus
+Infections—More Than Just the Common Cold. JAMA
+[Internet].
+2020
+Ene
+23
+[citado
+6/01/2020];323(8):707-8.
+Disponible
+en:
+https://jamanetwork.com/journals/jama/fullarticle/2
+759815
+14. Hussin A, Rothan E, Siddappa N, Byrareddy T. The
+epidemiology and pathogenesis of coronavirus
+disease (COVID-19). Outbreak
+Journal of
+Autoimmunity
+[Internet].
+2020[citado
+29/03/2020];102(433):[about 1 p.]. Disponible en:
+https://doi.org/10.1016/j.jaut.2020.102433
+15. Belasco AGS, Fonseca CD. Coronavírus 2020. Rev
+Bras
+Enferm
+[Internet].
+2020
+[citado
+12/03/2020];73(2):e2020n2.
+Disponible
+en:
+http://dx.doi.org/10.1590/0034-7167-2020730201
+16. Serra Valdés MA. Infección respiratoria aguda por
+COVID-19: una amenaza evidente. Rev haban cienc
+méd [Internet]. 2020 [citado 24/03/2020]; 19(1):1-5.
+Disponible
+en:
+http://www.revhabanera.sld.cu/index.php/rhab/arti
+cle/view/3171
+17. Cabrera Gaytán DA, Vargas Valerio A, Grajales
+Muñiz C. Infección del nuevo coronavirus: nuevos
+retos, nuevos legados. Revista Médica del Instituto
+Mexicano del Seguro Social [Internet]. 2020 [citado
+24/03/2020];52(4):438-41.
+Disponible
+en:
+http://www.redalyc.org/articulo.oa?id=4577454830
+18
+18. Centers for disease control and prevention. 2019
+novel coronavirus, wuhan, china. Information for
+healthcare professionals [Internet]. Atlanta: Centers
+
+Página 13
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+for disease control and prevention; 2020
+24/03/2020]
+Disponible
+Https://www.cdc.gov/coronavirus/2019ncov/hcp/index.html
+
+ISSN 1729-519X
+
+[citado
+en:
+
+19. Rodriguez-Morales A. Clinical, laboratory and
+imaging features of COVID-19: A systematic review
+and meta-analysis. Travel Medicine and Infectious
+Disease
+[Internet].
+2020
+Mar
+[citado
+26/03/2020];30(40):[about 2 p.]. Disponible en:
+https://doi.org/10.1016/j.tmaid.2020.101623
+20. Ramos C. Covid-19: la nueva enfermedad causada
+por un coronavirus. Salud Pública Mex [Internet].
+2020 [citado 24/03/2020];62:225-7. Disponible en:
+https://doi.org/10.21149/11276
+21. Patel A, Jernigan DB. 2019-CoV CDC Response
+Team. Initial Public Health Response and Interim
+Clinical Guidance for the 2019 Novel Coronavirus
+Outbreak — United States December 31, 2019–
+February 4, 2020. MMWR [Internet]. 2020 [citado
+24/03/2020];69(5):140-6.
+Disponible
+desde:
+https://doi.org/10.15585/mmwr.mm6905e1
+22. Dirección General de Epidemiología. Lineamiento
+estandarizado para la vigilancia epidemiológica y por
+laboratorio de enfermedad por 2019-nCoV [Internet].
+México: Secretaría de Salud; 2020 [citado
+15/02/2020].
+Disponible
+en:
+https://www.gob.mx/cms/uploads/attachment/file/
+532752/Lineamiento2019nCoV20200207.pdf
+23. Dirección General de Salud Pública, Calidad e
+Innovación. Procedimiento de actuación frente a
+casos de infección por el nuevo coronavirus (SARSCoV-2) [Internet]. La Habana: Dirección General de
+Salud Pública; 2020 [citado 24/03/2020] Disponible
+en:
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCovChina/
+documentos/Procedimiento_COVID_19.pdf
+
+24. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et
+al. Clinical characteristics and intrauterine vertical
+transmission potential of COVID-19 infection in nine
+pregnant women: A retrospective review of medical
+records. Lancet [Internet]. 2020 Feb 12 [citado
+24/03/2020];395(10226):809-15
+Disponible en:
+http://www.sciencedirect.com/science/article/pii/S0
+140673620303603
+25. Rasmussen SA, Smulian JC, Lednicky JA, Wen TS,
+Jamieson DJ. Coronavirus disease 2019 (COVID-19)
+and pregnancy: What obstetricians need to know. Am
+J Obstet Gynecol [Internet]. 2020 Feb 24 [citado
+24/03/2020];937(20):[about 2 p.]. Disponible en:
+https://doi.org/10.1016/j.ajog.2020.02.017
+26. Aragón-Nogales R, Vargas-Almanza I, MirandaNova-les MG. COVID-19 por SARS-CoV-2: la nueva
+emergencia de salud. Rev Mex Pediatr [Internet].
+2019 [citado 24/03/2020];86(6):213-8.Dispnible en:
+https://doi.org/10.35366/91871
+27. Su S, Wong G, Shi W, Liu J, Lai ACK, Zhou J, et al.
+Epidemiology,
+genetic
+recombination,
+and
+pathogenesis of coronaviruses. Trends Microbiol
+[Internet]. 2016 [citado 24/03/2020];24(6):490-502.
+Disponible
+en:
+https://doi.org/10.1016/j.tim.2016.03.003
+28. Ministerio de Salud Pública de Cuba. Protocolo
+Nacional MINSAP vs COVID-19. La Habana: MINSAP;
+2020 [citado 10/04/2020]. Disponible en:
+https://www.salud.msp.gob.cu
+29. World Health Organization. Prevención y control
+de infecciones durante la atención médica cuando se
+sospecha una nueva infección por coronavirus: Guía
+Provisional . [Internet]. Ginebra: WHO; 2020 [citado
+11
+de
+marzo
+de
+2020].
+Disponible
+en:https://www.who.int/publicationsdetail/infection-prevention-and-control-duringhealth-care-when-novel-coronavirus-(ncov)infection-is-suspected-20200125
+
+Página 14
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+30. Naranjo Domínguez A, Valdés Martín A. COVID19. Punto de vista del cardiólogo. Rev Cuban Cardiol
+[Internet]. 2020 [citado 16/04/2020];26(1):[about
+1p.].
+Disponible
+en:
+http://www.revcardiologia.sld.cu/index.php/revcardi
+ologia/article/view/951
+
+Journal of Respiratory and Critical Care Medicine
+[Internet]. 2020 [citado 24/03/2020];201(4):[about 3
+p.].
+Disponible
+en:
+https://www.atsjournals.org/doi/abs/10.1164/rccm.
+2014P7
+
+31. Palacios Cruz M. COVID-19, una emergencia de
+salud pública mundial. Rev Clin Esp [Internet]. 2020
+[citado 29/03/2020];220:149-54. Disponible en:
+https://doi.org/10.1016/j.rce.2020.03.001
+
+33. Cabrera S, Martínez Clavel L, Hérnandez Roman
+M. COVID-19. Visión del anestesiólogo. Rev Cuban
+Cardiol [Internet]. 2020 [citado 28/04/2020];
+26(1):[about
+3
+p.].
+Disponible
+en:
+http://www.revcardiologia.sld.cu/index.php/revcardi
+ologia/article/view/953
+
+32. Carlos WG, Cruz CSD, Cao B, Pasnick S, Jamil S.
+Novel Wuhan (2019-nCoV) Coronavirus. American
+
+Conflicto de intereses
+Los autores declaran no tener ningún conflicto de intereses.
+Contribución de autoría
+Todos los autores participamos en la discusión de los resultados y hemos leído, revisado y aprobado el texto final
+del artículo.
+
+Página 15
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+

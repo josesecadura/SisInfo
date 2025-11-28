@@ -1,0 +1,15 @@
+Backend (ASP.NET Core)
+
+cd Fylt.Api
+
+dotnet run
+Backend en: https://localhost:7052/swagger
+
+Frontend (Next.js / React)
+
+npm install
+
+npm run dev
+
+Frontend en: http://localhost:3000
+

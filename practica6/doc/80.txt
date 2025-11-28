@@ -1,0 +1,907 @@
+Volumen 26, No 1 (2020).
+Ene-Mar
+ISSN: 1561-2937
+Publicada y editada por ICCCV
+
+Revista Cubana de
+Cardiología y Cirugía Cardiovascular
+Órgano Oficial de la Sociedad Cubana de Cardiología
+
+Editorial
+
+COVID-19. Punto de vista del cardiólogo.
+COVID-19. Cardiologist´s viewpoint.
+
+Adrian Naranjo-Dominguez, Alexander Valdés Martín
+1
+
+Instituto de Cardiología y Cirugía Cardiovascular, Cuba
+
+Las infecciones virales respiratorias continúan
+
+La
+
+emergiendo como un reto para la salud pública,
+
+información actualizada para la población general
+
+algunos de los ejemplos en las últimas dos décadas
+
+y para los sistemas de salud y sus componentes. En
+
+lo
+
+Acute
+
+estudios iniciales del perfil epidemiológico de la
+
+Respiratory Syndrome coronavirus) en 2002, en
+
+infección COVID-19, sobresale la asociación con
+
+2009 la influenza H1N1 y en 2012 el MERS-CoV
+
+enfermedades cardiovasculares y diabetes mellitus
+
+(Middle East Respiratory Syndrome coronavirus). El
+
+entre otras condiciones,
+
+pasado diciembre de 2019 emerge el tercer nuevo
+
+mortalidad elevadas en proporción con el aumento
+
+coronavirus en los últimos 17 años, específicamente
+
+de la edad, en especial entre las personas mayores
+
+en Wuhan provincia Hubei, China; nombrado SARS-
+
+de 60 años. En dicho contexto y teniendo en cuenta
+
+CoV-2
+
+syndrome
+
+la emergencia global creada por la infección, los
+
+coronavirus 2) responsable de la enfermedad
+
+equipos de atención cardiológica deberán estar
+
+nombrada en febrero de 2020 como COVID-19 por
+
+preparados para reconocer, identificar y prevenir la
+
+la Organización Mundial de la Salud (OMS).
+
+infección COVID-19.
+
+Los primeros casos fueron reportados en diciembre
+
+Agente causal 2
+
+constituyen
+
+(severe
+
+el
+
+SARS-Cov
+
+acute
+
+(Severe
+
+respiratory
+
+de 2019, para enero de 2020, 41 pacientes se
+encontraban hospitalizados con confirmación de la
+infección COVID-19, más de la mitad de estos
+primeros
+
+pacientes
+
+presentaban
+
+como
+
+comorbilidades la diabetes, hipertensión arterial y
+
+OMS
+
+ha
+
+recomendado
+
+así
+
+4subgrupos principales: alfa, beta, gamma y delta.
+
+•229E (coronavirus alfa)
+
+confirmaban fuera de las fronteras chinas (Taiwan,
+Tailandia, Vietnam, Malaysia, Nepal, Sri Lanka,
+Cambodia, Japón, República de Corea, Emiratos
+Árabes Unidos, Estados Unidos, Filipinas, India,
+Australia, Canadá, Finlandia, Francia y Alemania).
+El reporte 50 de la OMS de fecha 10 de marzo de
+2020 reportaba 113 702 casos confirmados y 4012
+
+tasas de
+
+resfriado común hasta infecciones graves. Existen
+
+casos positivos eran reportados en 25 ciudades y
+
+56 defunciones. Para el 30 de enero, 90 casos se
+
+como
+
+de
+
+virus que causan enfermedades que van desde el
+
+Coronavirus humanos comunes:
+
+después se reportaban 1975 pacientes confirmados y
+
+difusión
+
+Los coronavirus (CoV) constituyen un grupo de
+
+enfermedades cardiovasculares. El 22 de enero, 571
+distritos de China y unas 17 muertes; solo 3 días
+
+la
+
+•NL63 (coronavirus alfa)
+•OC43(coronavirus beta)
+•HKU1(beta coronavirus)
+Otros coronavirus humanos:
+•MERS-CoV (el beta coronavirus que causa el
+Síndrome Respiratorio del Medio Oriente, o
+MERS)
+
+defunciones con un estado de alto riesgo mundial
+(Figura 1).1
+http://www.revcardiologia.sld.cu/
+
+Manuscrito Recibido: 10 Mar 2020; Aceptado: 11 Mar 2020
+ISSN 1561-2937.
+
+Volumen 26, No 1 (2020).
+Ene-Mar
+ISSN: 1561-2937
+
+Naranjo-Dominguez, A et al.
+COVID-19. Punto de vista del cardiólogo
+
+Figura 1. Países, territorios y áreas con casos reportados confirmados de COVID-19. 10 de marzo de 20201
+•SARS-CoV (el coronavirus beta que causa el
+
+transmisión zoonótica, aún en la actualidad se
+
+síndrome respiratorio agudo severo o SARS)
+
+precisa el reservorio del mismo. Los reportes
+existentes sostienen una transmisión persona-
+
+•Nuevo coronavirus 2019(SARS-CoV-2)
+
+persona primariamente, por contacto directo con
+
+Manifestaciones clínicas de la infección
+
+gotas esparcidas por la tos y estornudos de
+
+COVID-193
+
+individuos infectados. Hasta la actualidad no existe
+
+La infección puede ser leve, moderada o severa en
+
+evidencia de transmisión de madre a feto. Los
+
+correspondencia con la forma de presentación y los
+síntomas que la acompañan. Cuando no hay
+complicaciones, la infección vírica de las vías
+respiratorias altas cursa con síntomas inespecíficos
+como fiebre, tos, dolor de garganta, congestión
+nasal,
+
+malestar
+
+musculares.
+
+Los
+
+general,
+
+cefaleas
+
+ancianos
+
+y
+
+los
+
+y
+
+dolores
+pacientes
+
+inmunodeprimidos pueden presentar síntomas
+atípicos. Estos pacientes no presentan signos de
+deshidratación, septicemia ni disnea. Otras formas
+de
+
+presentación
+
+comprenden
+
+las
+
+neumonías
+
+ligeras, moderas y severas y en casos graves
+síndrome respiratorio agudo severo, septicemia,
+choque septicémico y la muerte.
+Epidemiología
+
+principales grupos de riesgo son: adultos mayores
+y pacientes con enfermedades del corazón, diabetes
+y enfermedades crónicas pulmonares4. En un
+estudio realizado5 sobre las características clínicas
+de los primeros 41 casos confirmados revelaban
+una media de edad de 49 años y destacaban
+comorbilidades como la diabetes, la hipertensión
+arterial, las enfermedades cardiovasculares, la
+enfermedad
+enfermedades
+
+pulmonar
+malignas
+
+obstructiva
+y
+
+las
+
+crónica,
+
+enfermedades
+
+crónicas del hígado, características ratificadas en
+otro estudio6 con 1099 pacientes confirmados
+procedentes de 552 hospitales en China. El número
+reproductivo básico (es el número de personas que
+a partir de una persona enferma puede ser
+infectados) oscila entre 1.4-2.5. Hasta el 10 de
+
+Se estima un período de incubación entre 1-14 días
+
+marzo de 2020 se reportaban 109 países, territorios
+
+con una media de 5-6 días, aunque recientemente
+
+o áreas afectadas fuera de China con notable
+
+se han reportado casos que podrían sugerir un
+
+preocupación en países como Italia y España. En la
+
+tiempo de incubación tan prolongado como 24 días,
+
+Región de las Américas se han notificado hasta la
+
+a la fecha de redacción de esta editorial los 14 días
+
+fecha un total de 835 casos de 13 países, con
+
+es el término de las políticas de cuarentena de la
+
+muertes registradas en Estados Unidos (25),
+
+OMS y de los Centros para la Prevención y Control
+
+Argentina (1) y Canadá (1). 7
+
+de Enfermedades (CDC). El origen se ha asociado a
+2
+
+http://www.revcardiologia.sld.cu/
+
+Rev Cuban Cardiol. Volumen 26, No 1 (2020).
+Mar 11, 2020
+
+Naranjo-Dominguez, A et al.
+COVID-19. Punto de vista del cardiólogo
+
+Implicaciones cardiovasculares
+
+adultos mayores. La OMS recomienda10:
+
+Aún no se disponen de estudios sistemáticos sobre
+
+“El
+
+afectaciones cardiovasculares por la infección de
+
+indicaciones para la higiene de manos en cinco
+
+COVID-19, sin embargo, se ha reportado la
+
+momentos: antes de tocar a un paciente, antes de
+
+existencia
+
+enfermedades
+
+realizar cualquier procedimiento limpio o aséptico,
+
+cardiovasculares como factor de riesgo. Huang y
+
+después de haber estado expuesto a líquidos
+
+colaboradores5
+
+reportan que un 23% de los
+
+corporales, después de tocar a un paciente y
+
+pacientes con
+
+antecedentes de
+
+después de tocar el entorno de un paciente. La
+
+de
+
+antecedentes
+
+cardiovasculares
+
+de
+
+requirieron
+
+enfermedades
+
+sanitario
+
+deberá
+
+seguir
+
+las
+
+de
+
+higiene de manos consiste en lavarse las manos con
+
+cuidados intensivos, mientras el 15% de todos los
+
+agua y jabón o con desinfectante de manos a base
+
+pacientes hospitalizados (N 41) poseían dicho
+
+de alcohol; es mejor lavarse las manos con
+
+antecedente solo superado o igualado por la
+
+desinfectante
+
+hipertensión (15%) y la diabetes (20%), este mismo
+
+visiblemente sucias y hay que lavarse las manos con
+
+grupo de investigadores reportó en un 12% de los
+
+agua y jabón cuando las manos estén visiblemente
+
+pacientes confirmados una injuria aguda cardíaca,
+
+sucias. Las precauciones contra la transmisión por
+
+definida como una detección superior al 99%
+
+gotículas
+
+percentil de niveles sanguíneos de troponinas o
+
+respiratorios a través de las gotículas. Utilizar una
+
+presencia
+
+de
+
+cuando
+
+evitan
+
+la
+
+las
+
+manos
+
+transmisión
+
+no
+
+de
+
+estén
+
+virus
+
+anormalidades
+
+mascarilla quirúrgica al trabajar a menos de 1-2
+
+electrocardiográficas o ecocardiográficas. Otro
+
+metros del paciente. Colocar a los pacientes en
+
+declara que un 50% de los
+
+habitaciones individuales o agrupar a los que
+
+estudio más
+pacientes
+
+nuevas
+
+necesidad
+
+personal
+
+reciente8
+
+precozmente
+
+tengan el mismo diagnóstico etiológico. Si no se
+
+(menos de 14 días) presentaban una enfermedad
+
+confirmados
+
+puede hacer un diagnóstico etiológico, agrupar a los
+
+cardiovascular. Las afectaciones cardiovasculares
+
+pacientes que tengan un diagnóstico clínico similar
+
+asociados a la infección por un coronavirus han
+
+y según los factores de riesgo epidemiológicos, con
+
+sido
+
+no
+
+una separación espacial. Al atender de cerca a un
+
+relacionadas con el SARS-CoV-2, dentro de ellas
+
+paciente con síntomas respiratorios (por ejemplo,
+
+destacan la miocarditis, insuficiencia cardíaca,
+
+tos o estornudos), usar equipos de protección
+
+reportadas
+
+en
+
+fallecidos
+
+epidemias
+
+infarto agudo de miocardio y
+
+anteriores
+
+arritmias.9
+
+ocular (mascarilla facial o gafas de protección),
+porque se pueden esparcir secreciones. Restringir
+
+Prevención
+
+los desplazamientos de los pacientes dentro de la
+
+El cardiólogo en cualquier nivel de atención deberá
+
+institución y cerciorarse de que usen mascarillas
+
+sospechar la existencia de infección por COVID-19
+
+quirúrgicas cuando salen de las habitaciones. Las
+
+así como conocer los flujogramas y protocolos de
+
+precauciones contra la transmisión por gotículas y
+
+atención para estos pacientes en general, con
+
+por contacto previenen la transmisión directa o
+
+enfermedades
+
+cuya
+
+indirecta debida al contacto con superficies o
+
+(diagnóstico,
+
+equipos contaminados (es decir, contacto con
+
+complicación
+
+cardiovasculares
+sea
+
+cardiovascular
+
+o
+
+cuarentena y manejo), ténganse en cuenta que la
+
+superficies
+
+tos y la disnea son síntomas muy frecuentes en las
+
+contaminados). Ponerse equipos de protección
+
+consultas rutinarias y de urgencias en el paciente
+
+personal (mascarilla quirúrgica, protección ocular,
+
+cardiovascular.
+
+guantes y bata) para entrar en la habitación y
+
+La prevención es la piedra angular, no solo para el
+
+quitárselo al salir. De ser posible, utilizar equipos
+
+personal de la salud sino además hacia los
+pacientes con enfermedades cardiovasculares y
+http://www.revcardiologia.sld.cu/
+
+desechables
+estetoscopios,
+
+o
+
+o
+
+tubos
+
+de
+
+específicos
+
+oxigenoterapia
+
+(por
+
+esfigmomanómetros
+
+ejemplo,
+y
+
+3
+
+Volumen 26, No 1 (2020).
+Ene-Mar
+ISSN: 1561-2937
+
+Naranjo-Dominguez, A et al.
+COVID-19. Punto de vista del cardiólogo
+
+termómetros). Si es necesario utilizar el mismo
+equipo
+
+con
+
+distintos
+
+pacientes,
+
+limpiarlo
+
+y
+
+desinfectarlo después de usarlo con cada paciente.
+
+Referencias bibliográficas
+1.
+
+2019 (COVID-19) Situation Report – 50. Avaible
+
+El personal sanitario no debe tocarse los ojos, la
+
+source/coronaviruse/situation-
+
+contaminadas, lleve o no guantes. Evitar la
+
+reports/20200310-sitrep-50-covid-
+
+contaminación de las superficies del entorno que
+
+19.pdf?sfvrsn=55e904fb_2
+
+no se utilicen directamente para el cuidado del
+y
+
+los
+
+interruptores
+
+de
+
+la
+
+luz).
+
+https://www.who.int/docs/default-
+
+in:
+
+nariz y la boca con las manos si pueden estar
+
+paciente (por ejemplo, los tiradores de las puertas
+
+World Health Organization. Coronavirus disease
+
+2.
+
+Ventilar
+
+Coronavirus | Tipos de coronavirus humanos |
+CDC [Internet]. 2020 [citado 11 de marzo de
+
+suficientemente la habitación. Evitar el traslado o
+
+2020].
+
+el desplazamiento de pacientes. Respetar las
+
+https://www.cdc.gov/coronavirus/types.html
+
+prácticas de higiene de las manos.”9
+
+3.
+
+Disponible
+
+en:
+
+Carlos WG, Cruz CSD, Cao B, Pasnick S, Jamil S.
+
+Dentro de las medidas orientadas al público en
+
+Novel
+
+general destacan9:
+
+American Journal of Respiratory and Critical
+
+1.
+
+201(4):
+
+nariz con el codo flexionado.
+3.
+
+4.
+
+5.
+
+Si tiene fiebre, tos seca y/o dificultad para
+
+Manténgase informado.
+
+Wu P, Hao X, Lau EHY, Wong JY, Leung KSM,
+the epidemiological characteristics of novel
+coronavirus infections in Wuhan, China, as at 22
+January 2020. Euro Surveill [serial on the
+Internet].
+
+2020;
+
+25(3):
+
+Available
+
+from:
+
+https://pubmed.ncbi.nlm.nih.gov/31992388
+
+respirar solicite atención médica.
+6.
+
+from:
+
+Wu JT, et al. Real-time tentative assessment of
+
+menos 1 metro entre usted y las demás personas.
+Evite tocarse los ojos, la nariz y la boca.
+
+Available
+
+ccm.2014P7.
+
+Mantenga el distanciamiento social, al
+
+4.
+
+Coronavirus.
+
+https://www.atsjournals.org/doi/abs/10.1164/r
+
+agua y jabón.
+Al toser o estornudar, cúbrase la boca y la
+
+(2019-nCoV)
+
+Care Medicine [serial on the Internet]. 2020;
+
+Lavado de manos con frecuencia con un
+
+desinfectante de manos a base de alcohol o con
+
+2.
+
+Wuhan
+
+5.
+
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et
+al. Clinical features of patients infected with 2019
+novel coronavirus in Wuhan, China. The Lancet
+[serial on the Internet]. 2020; 395(10223):
+
+Donde obtener información:
+•
+
+Available from: https://doi.org/10.1016/S0140-
+
+La Red telemática de salud de Cuba Infomed
+
+y aplicación para dispositivos androide.
+
+6736(20)30183-5.
+6.
+
+Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He
+
+•
+
+Organización Mundial de la Salud
+
+J-x, et al. Clinical Characteristics of Coronavirus
+
+•
+
+Organización Panamericana de la Salud
+
+Disease 2019 in China. New England Journal of
+
+•
+
+CDC
+
+Available
+
+Medicine
+
+[serial
+
+on
+
+the
+
+Internet].
+
+2020:
+from:
+
+https://www.nejm.org/doi/full/10.1056/NEJM
+oa2002032.
+7.
+
+Pan American Health Organization / World
+Health
+
+Organization.
+
+Coronavirus
+
+Disease
+
+(COVID-19) [Internet]. 2020 [citado 11 de marzo
+4
+
+http://www.revcardiologia.sld.cu/
+
+Rev Cuban Cardiol. Volumen 26, No 1 (2020).
+Mar 11, 2020
+
+de
+
+2020].
+
+Naranjo-Dominguez, A et al.
+COVID-19. Punto de vista del cardiólogo
+
+Disponible
+
+en:
+
+https://www.paho.org/hq/index.php?option=co
+m_content&view=article&id=15696:coronavirus
+-disease-covid-19&Itemid=4206&lang=en
+8.
+
+Su, Vincent Yi Fong y Yang, Yao-Hsu y Yang,
+Kuang-Yao y Chou, Kun-Ta y Su, Wei-Juin y
+Chen, Yuh-Min y Perng, Diahn-Warng y Chen,
+Tzeng-Ji y Chen, Pau-Chung, El riesgo de muerte
+en la nueva enfermedad de coronavirus de 2019
+(COVID-19)
+(14/02/2020).
+
+en
+
+la
+
+provincia
+
+Disponible
+
+de
+en
+
+Hubei
+SSRN:
+
+https://ssrn.com/abstract=3539655
+9.
+
+Yu CM, Wong RSM, Wu EB, Kong SL, Wong J,
+Yip GWK, et al. Cardiovascular complications of
+severe acute respiratory syndrome. Postgrad
+Med J [serial on the Internet]. 2006; 82(964):
+Available
+
+from:
+
+https://pubmed.ncbi.nlm.nih.gov/16461478
+10. World Health Organization. Prevención y control
+de infecciones durante la atención médica
+cuando se sospecha una nueva infección por
+coronavirus: Guía Provisional. [Internet]. 2020
+[citado 11 de marzo de 2020]. Disponible en:
+https://www.who.int/publicationsdetail/infection-prevention-and-control-duringhealth-care-when-novel-coronavirus-(ncov)infection-is-suspected-20200125
+
+DIRECCION PARA CORRESPONDENCIA: Adrian Naranjo
+
+Dominguez, Instituto Cardiología y Cirugía Cardiovascular,
+Cuba. E-mail: anaranjod90@gmail.com
+Los autores firmantes del manuscrito declaran no
+poseer Conflicto de intereses.
+
+Esta obra está bajo una licencia de
+Creative Commons
+Reconocimiento-NoComercial 4.0
+Internacional.
+
+http://www.revcardiologia.sld.cu/
+
+5
+
+

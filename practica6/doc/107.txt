@@ -1,0 +1,498 @@
+Documento técnico
+Manejo en urgencias del
+COVID-19
+Versión de 26 de junio de 2020
+
+Las recomendaciones incluidas en el presente documento están en continua revisión y podrán
+ser modificadas. Utilice este documento bajo su propia responsabilidad.
+
+1
+
+COORDINACIÓN
+Centro de Coordinación de Alertas y Emergencias Sanitarias.
+Dirección General de Salud Pública, Calidad e Innovación.
+
+HAN PARTICIPADO EN LA REDACCIÓN:
+Sociedad Española de Medicina de Urgencias y Emergencias (SEMES). Juan González del Castillo.
+Fernando Ayuso Baptista. Guillermina Bejarano Redondo. Francisco Javier Candel. Miguel Garvi García.
+Esther Gorjón Peramato. Agustín Julián Jiménez. Ferrán Llopis Roca. Cristina López Paredes. Alejandro
+Martín Quirós. Mar Ortega Romero. Belén Rodríguez Miranda. Martín Ruiz Grinspan. Raúl Sánchez
+Bermejo. Rodrigo Sanz Lorente. Beatriz Valle Borrego. Andrés von Wernitz Teleki. Juan González del
+Castillo. Ana Pernía Sánchez.
+Sociedad Española de Medicina Interna (SEMI). Francisco Epelde Gonzalo.
+Asociación de Especialistas en Enfermería del Trabajo (AET). Ana Guerra Cuesta. Alicia Chanca Díaz.
+Asociación Española de Enfermería de Prevención y Control de Infecciones (AEEPyCI). Inmaculada
+Fernández Moreno. Luisa Rodríguez Navas.
+Sociedad Española de Neumología y Cirugía Torácica (SEPAR). Área de Enfermería Respiratoria. David
+Peña Otero.
+Sociedad Española de Enfermería de Urgencias y Emergencias (SEEUE) / Unión Española de Sociedades
+Científicas de Enfermería (UESCE). Carlos Torralba Ruiz.
+Consejo General de Enfermería (CGE). Coordinación. Guadalupe Fontán Vinagre.
+Consejo General de Colegios Oficiales de Médicos (CGCOM). Juan Martínez Hernández.
+
+2
+
+Contenido:
+1. Introducción .............................................................................................................................. 4
+2. Herramientas de triaje .............................................................................................................. 4
+3. Identificación de casos .............................................................................................................. 5
+4. Recomendaciones generales..................................................................................................... 5
+3.1. En el servicio de admisión .................................................................................................. 5
+3.2. En el triaje........................................................................................................................... 5
+3.3. En el circuito de aislamiento .............................................................................................. 6
+4. Equipo de protección ................................................................................................................ 6
+5. Evaluación de la gravedad ......................................................................................................... 7
+6. Toma de muestras ..................................................................................................................... 8
+7. Tratamiento en urgencias ......................................................................................................... 8
+8. Limpieza, desinfección y gestión de residuos del cuarto de aislamiento ................................. 9
+9. Traslado del paciente en la urgencia extrahospitalaria ............................................................ 9
+10. Referencias ............................................................................................................................ 10
+11. Resumen de la enfermedad .................................................................................................. 11
+
+CONTROL DE REVISIONES Y MODIFICACIONES
+Nº Revisión
+
+Fecha
+
+Descripción de modificaciones
+
+1
+
+28/02/2020
+
+Edición inicial
+
+2
+
+17/03/2020
+27/03/2020
+
+Adecuación del protocolo ante el cambio de definición de caso.
+Reestructuración de apartados.
+Armonización con los criterios generales.
+
+3
+
+17/06/2020
+
+Adaptación a la nueva estrategia y corrección de errores.
+
+4
+
+26/06/2020
+
+Corrección de errores
+
+3
+
+1. Introducción
+El 31 de diciembre de 2019 las Autoridades de la República Popular China, comunicaron a la
+OMS varios casos de neumonía de etiología desconocida en Wuhan, una ciudad situada en la
+provincia china de Hubei. Una semana más tarde confirmaron que se trataba de un nuevo
+coronavirus que ha sido denominado SARS-CoV-2. Al igual que otros de la familia de los
+coronavirus, este virus causa diversas manifestaciones clínicas englobadas bajo el término
+COVID-19, que incluyen cuadros respiratorios que varían desde el resfriado común hasta
+cuadros de neumonía grave con síndrome de distrés respiratorio, shock séptico y fallo multiorgánico. La mayoría de los casos de COVID-19 notificados hasta el momento debutan con
+cuadros leves.
+Un punto de detección importante de casos de COVID-19 es la urgencia hospitalaria. El triaje
+tiene como objetivo identificar y priorizar al paciente más grave. Al tratarse de una enfermedad
+transmisible se deben extremar las medidas de precaución.
+
+2. Herramientas de triaje
+Los casos de COVID-19 pueden presentarse con distintos niveles de gravedad y, en muchos
+casos, no precisarían ser atendidos con prioridad alta. En el triaje, la toma de los 4 signos vitales
+tradicionales (temperatura, presión arterial, frecuencia cardiaca y frecuencia respiratoria)
+puede suponer un riesgo de transmisión para el personal sanitario y el público en general. La
+evaluación clásica en el ámbito de Urgencias de “ABCDE” también plantea problemas al
+emplazarse la “E” de exposición y exploración en el último lugar.
+En la literatura existen diversas propuestas de abordaje como son “constante vital 0” o
+“herramienta de detección en triaje: Identificar – Aislar – Informar”. La “constante vital 0” hace
+referencia a la necesidad de realizar una rápida detección de situaciones de riesgo epidémico
+antes de pasar a la toma de los signos vitales en el triaje. La “herramienta de detección en triaje:
+Identificar – Aislar – Informar” aporta un enfoque rápido en cuanto a cómo manejar desde triaje
+estos casos. Se propone esta última como la herramienta de detección para infección por virus
+SARS-CoV-2 en los SU.
+Figura 1. Herramienta para la detección de casos en investigación de COVID-19 en los SU.
+
+Identificar
+
+Aislar
+
+Informar
+
+4
+
+3. Identificación de casos
+Se recomienda revisar la última definición en el documento Estrategia de detección precoz,
+vigilancia y control de COVID-19 en la web del Ministerio de Sanidad.
+
+4. Recomendaciones generales
+
+
+
+
+
+
+
+
+Se recomienda disponer de dispensadores con solución hidroalcohólica al alcance de los
+pacientes y el personal y ofrecer mascarillas quirúrgicas a aquellos que acudan al centro
+sanitario con síntomas de infección respiratoria aguda.
+Se recomienda la publicación de información visual (carteles, folletos, etc.) en lugares
+estratégicos para proporcionar a los pacientes las instrucciones sobre higiene de manos,
+higiene respiratoria y tos.
+Si las condiciones de los centros lo permiten, se puede valorar establecer dos circuitos
+diferenciados: uno para pacientes con patología respiratoria y otro para el resto de motivos
+de consulta. Estos circuitos deberán indicarse con la señalética adecuada. Si existe la
+posibilidad, el personal dedicado al servicio de admisión y al triaje serán diferentes y ambos
+circuitos contarán con aparato de radiología simple y ecógrafo propios.
+El procedimiento de identificación debería comenzar en el primer contacto con los pacientes
+que acuden a los SU. En función de las características de los diferentes SU esto puede ocurrir
+en la zona administrativa del Servicio de Admisión o en el triaje.
+
+3.1. En el servicio de admisión
+
+
+
+
+
+
+Si el primer contacto se produce en el Servicio de Admisión, y considerando que se trata de
+personal no sanitario, las preguntas se limitarán a identificar a pacientes con sintomatología
+respiratoria.
+Si el criterio es positivo, se invitará al paciente a que se coloque una mascarilla tipo
+quirúrgica y se derivará al circuito de aislamiento con el fin de evitar el contacto con las
+personas que están siendo atendidas en el circuito convencional. El personal que le traslade
+hasta al circuito de aislamiento llevará una mascarilla quirúrgica.
+Una vez en el circuito de aislamiento el personal sanitario puede completar el triaje y la
+anamnesis para verificar que el paciente cumple los criterios de caso de COVID-19.
+
+3.2. En el triaje
+
+
+
+
+A diferencia del caso previo, dado que el triaje está realizado por personal sanitario, la
+identificación debe estar basada en la identificación de infección respiratoria aguda. Si el
+caso es detectado en el triaje, se invitará al paciente a que se coloque una mascarilla tipo
+quirúrgica y se derivará al circuito de aislamiento del SU.
+Si el paciente no presenta infección respiratoria aguda regresará al circuito convencional,
+cumpliendo con las precauciones estándar que incluye medidas como la higiene de manos.
+5
+
+
+
+
+
+Si el paciente presenta infección respiratoria aguda sin criterios de ingreso hospitalario y no
+forma parte de un grupo vulnerable, se considerará caso sospechoso, se le realizarán las
+pruebas oportunas (toma de muestra PCR) y se indicará aislamiento, siempre que las
+condiciones de la vivienda lo permitan. El aislamiento se mantendrá hasta transcurridos 10
+días desde el inicio de los síntomas, siempre que el cuadro clínico se haya resuelto. El
+seguimiento y el alta serán supervisados por su médico de atención primaria o de la forma
+que se establezca en cada comunidad autónoma. Ver el procedimiento de Manejo
+domiciliario de casos de COVID-19.
+Si el paciente presenta infección respiratoria aguda y cumple criterios de ingreso
+hospitalario se considerará caso probable, se procederá a su hospitalización y a la
+realización de las pruebas oportunas.
+
+3.3. En el circuito de aislamiento
+
+
+
+
+
+
+Cada hospital deberá establecer su propio procedimiento específico de aislamiento. Así
+mismo es recomendable el establecimiento de un circuito de evacuación del material
+utilizado que pueda generarse en la dicha zona.
+Al circuito de aislamiento no deberán pasar los familiares o acompañantes del paciente, que
+serán informados del procedimiento a seguir. En los casos de menores o pacientes que
+requieran acompañamiento, el paciente tendrá derecho a dicho acompañamiento y
+deberán adoptarse las medidas necesarias para su protección mediante la utilización de
+equipos de protección individual adecuados, tal y como se recogen en el punto 4 de este
+documento.
+Se debe establecer un registro de las personas que entran en la habitación, así como de las
+actividades realizadas en cada acceso y de los incidentes o accidentes que concurran en las
+mismas. Además, se elaborará un listado de las personas que han estado en contacto con el
+paciente.
+
+4. Equipo de protección individual
+
+
+
+
+El personal sanitario que atienda a casos de infección por SARS-CoV-2 o las personas que
+entren en la habitación de aislamiento (p. ej. familiares, personal de limpieza…) deben llevar
+un equipo de protección individual para la prevención de infección por microorganismos
+transmitidos por gotas y por contacto que incluya bata, mascarilla (quirúrgica o FFP2 según
+el tipo de procedimiento a realizar y siempre asegurando las existencias suficientes para las
+situaciones en las que su uso esté expresamente indicado), guantes y protección ocular.
+Los procedimientos que generen aerosoles se deben realizar únicamente si se consideran
+estrictamente necesarios para el manejo clínico del caso. Estos incluyen procedimientos
+como la intubación traqueal, el lavado bronco-alveolar, o la ventilación manual, se deberá
+reducir al mínimo el número de personas en la habitación y todos deberán llevar:
+o Una mascarilla autofiltrante FFP2 o FFP3.
+6
+
+o
+o
+o
+
+
+
+Protección ocular ajustada de montura integral o protector facial completo.
+Guantes.
+Batas de manga larga (si la bata no es impermeable y se prevé́ que se produzcan
+salpicaduras de sangre u otros fluidos corporales, añadir un delantal de plástico).
+Recomendaciones adicionales sobre la prevención y control de la infección se pueden
+consultar en el documento Prevención y control de la infección en el manejo de pacientes
+con COVID-19.
+
+5. Evaluación de la gravedad
+
+
+
+
+
+
+Ante el cambio en la situación epidemiológica el criterio de ingreso dependerá del estado
+clínico del paciente, solicitándose la PCR para todo aquel que presente clínica compatible.
+Si al paciente es preciso realizarle una radiografía de tórax se utilizará un aparato portátil
+para evitar traslados. El aparato deberá estar protegido por plásticos desechables y lavado
+posteriormente con un desinfectante aprobado para superficies en el centro.
+Al paciente se le podrá canalizar una vía venosa periférica o tomar las muestras que se
+consideren necesarias con equipo de protección individual adecuado.
+Por ello se recomienda realizar una evaluación individualizada a pacientes con clínica de
+infección respiratoria aguda. En la Tabla 1 se ofrecen algunas pautas generales.
+
+Tabla 1. Pautas generales para la evaluación de pacientes con infección respiratoria aguda en los SU.
+Paciente < 60 años, sin fiebre, insuficiencia respiratoria (saturación O2 y frecuencia respiratoria en
+rangos normales para la edad, ≥ 96% y < 20 RPM respectivamente) ni comorbilidad: evaluación habitual
+y alta según criterios habituales. Se realizará radiografía en función del criterio del clínico. Se tomará
+muestra para PCR.
+Paciente < 60 años, con fiebre y sin insuficiencia respiratoria (saturación ≥ 96% y frecuencia respiratoria
+< 20 RPM) ni comorbilidad: se realizará radiografía en función del criterio del clínico. Se tomará muestra
+para PCR.
+ Si no tiene neumonía, evaluación habitual y alta según criterios clínicos habituales.
+ Si tiene neumonía (independientemente de las características del infiltrado radiológico), realizar
+analítica (hemograma, coagulación, con D-dímero y bioquímica básica con proteína C reactiva, LDH
+y transaminasas).
+Paciente > 60 años o con comorbilidad: realización de radiografía y analítica (gasometría arterial basal,
+hemograma, coagulación con D-dímero y bioquímica básica con proteína C reactiva LDH y
+transaminasas). Se tomará muestra para PCR.
+En todos los pacientes con infección respiratoria en que sea preciso el ingreso hospitalario, debe
+solicitarse una PCR para COVID-19, debiendo permanecer en aislamiento por gotas y contacto hasta
+conocer su resultado.
+Podrá darse de alta una neumonía en pacientes < 60 años, con Pneumonia Severity Index (PSI) I-II, sin
+complicaciones radiológicas ni complicaciones analíticas, si no presentan inmunodepresión ni
+comorbilidad importante (incluida hipertensión y diabetes) siempre que se cumplan los siguientes
+supuestos:
+
+7
+
+
+
+
+
+
+
+
+
+Neumonía alveolar unilobar.
+Sin disnea
+Con saturación de O2 y frecuencia respiratoria normales
+Cifra de linfocitos > 1200
+Transaminasas normales
+LDH normal
+D-dímero < 1.000
+
+6. Toma de muestras
+
+
+
+
+Las muestras recomendadas para el diagnóstico son:
+o Tracto respiratorio superior: exudado nasofaríngeo y/o orofaríngeo.
+o Tracto respiratorio inferior: esputo (si es posible) o aspirado endotraqueal,
+especialmente en pacientes con enfermedad respiratoria grave.
+Las muestras clínicas que se envíen fuera del hospital deberán ser tratadas como
+potencialmente infecciosas y se considerarán de categoría B (deben ser transportadas en
+triple embalaje según la norma UN 3373, ver el documento Toma y transporte de muestras
+para diagnóstico por PCR de SARS-CoV-2.
+
+7. Tratamiento en urgencias
+
+
+
+
+
+
+
+
+
+Las medidas terapéuticas iniciales a instaurar dependerán en gran medida de la
+estratificación en cuanto a la gravedad clínica del paciente, por lo que resulta obligado
+observar si el paciente presenta criterios de gravedad como insuficiencia respiratoria o un
+qSOFA ≥ 2.
+Se recomienda la administración de broncodilatadores en cartucho presurizado asociado a
+cámara espaciadora o la administración de inhaladores secos para evitar la generación de
+aerosoles. En caso de emplear broncodilatadores en aerosol se recomienda una habitación
+con presión negativa si hay disponibilidad.
+No deben administrarse de forma rutinaria corticoides sistémicos para el tratamiento de la
+neumonía viral a no ser que éstos estén indicados por alguna otra razón.
+Siempre que exista disponibilidad en el centro hospitalario, en pacientes con insuficiencia
+respiratoria o shock deberá iniciarse oxigenoterapia suplementaria con una mascarilla con
+filtro de exhalado, si es posible, ajustando el flujo hasta alcanzar un saturación de oxígeno
+capilar adecuada a la edad y estado del paciente. En el caso de shock séptico deberá
+administrarse antibioterapia de manera precoz. Si el paciente presenta criterios de gravedad
+se valorará la necesidad de ingreso en una Unidad de Cuidados Intensivos.
+Deberá realizarse un manejo conservador de la fluidoterapia en pacientes con insuficiencia
+respiratoria aguda grave cuando no existe evidencia de shock, ya que una reanimación
+agresiva con fluidos podría empeorar la oxigenación.
+
+8
+
+
+
+
+
+Resulta muy importante valorar en el diagnóstico diferencial otras posibles etiologías
+frecuentes que justifiquen el cuadro clínico del paciente. En este sentido, deberá valorarse
+el inicio del tratamiento para la gripe estacional o para una infección respiratoria de origen
+bacteriano en función de la sospecha clínica o la gravedad del paciente.
+Por último, deberá tenerse en cuenta la comorbilidad del paciente a fin de evaluar si es
+preciso su tratamiento durante la estancia en Urgencias y conciliar la medicación.
+
+8. Limpieza, desinfección y gestión de residuos del cuarto de aislamiento
+
+
+
+
+
+
+
+Una vez que el paciente abandona el circuito de aislamiento, se deberá proceder a la
+desinfección de superficies, mobiliario no metálico y exterior de contenedores de residuos
+con lejía (solución de hipoclorito sódico que contenga 5000 ppm de cloro activo, dilución
+1:10 de un producto con hipoclorito en una concentración 40-50 gr/litro preparada
+recientemente).
+La desinfección de mobiliario metálico, debido al efecto corrosivo de la lejía, se realizará
+preferentemente con toallitas desinfectantes o en su defecto con el desinfectante de
+superficies disponible en el hospital. Todo el material desechable que quedó dentro de la
+habitación (jabón, papel, guantes, etc.) incluso aunque no se haya abierto, debe ser
+desechado. El personal de limpieza deberá utilizar el mismo EPI recomendado para los
+trabajadores sanitarios.
+Mientras dure el aislamiento, los residuos se consideran residuos de Clase III (se
+considerarán como residuo biosanitario especial del Grupo 3, similar a la tuberculosis).
+Si el caso es descartado los residuos se tratarán de la forma habitual.
+
+9. Traslado del paciente en la urgencia extrahospitalaria
+
+
+
+
+
+
+
+El transporte del paciente se realizará en una ambulancia con la cabina del conductor
+físicamente separada del área de transporte del paciente. El personal que intervenga en el
+transporte deberá ser informado previamente y deberá utilizar el equipo para la prevención
+de la infección por micoorganismos transmitidos por gotas y por contacto (salvo el
+conductor, si no sale de la cabina).
+El paciente deberá llevar colocada una mascarilla quirúrgica.
+Se recomienda que el paciente vaya sin acompañantes en la ambulancia. En el supuesto de
+que sea imprescindible que el paciente esté acompañado (dependiente, menor u otra
+circunstancia) el acompañante necesitará una mascarilla quirúrgica.
+Se deberá seguir los protocolos de descontaminación, mantenimiento y eliminación de
+residuos utilizados para otro tipo de microorganismos con el riesgo de propagación y
+mecanismo de transmisión similar. El interior del vehículo será limpiado posteriormente con
+una solución de hipoclorito al 1% o del desinfectante aprobado para superficies en el centro
+y se desechará en el contenedor apropiado el material de un solo uso no tributario de
+descontaminación.
+9
+
+10. Referencias
+1. Sociedad Española de Medicina de Urgencias y Emergencias (SEMES). Recomendaciones de
+actuación ante la sospecha de infección por virus de alto riesgo DE SEMES-MADRID. Versión 5.2
+de Abril de 2018.
+2. Ministerio de Sanidad. Procedimiento de actuación frente a casos de infección por el nuevo
+coronavirus (2019-nCoV). Centro de Coordinación de Alertas y Emergencias Sanitarias. Dirección
+general de Salud Pública. Versión del 30 de Enero de 2020.
+3. Ministerio de Sanidad. Informe de la dirección general de cartera básica de servicios del SNS
+y farmacia sobre el tratamiento de la infección por coronavirus (2019-ncov).
+4. World Health Organizaiton. Novel Coronavirus (2019-nCoV) technical guidance. Disponible
+en: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance
+5. World Health Organizaiton. Statement on the second meeting of the International Health
+Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019nCoV). Disponible en: https://www.who.int/news-room/detail/30-01-2020-statement-on-thesecond-meeting-of-the-international-health-regulations-(2005)-emergency-committeeregarding-the-outbreak-of-novel-coronavirus-(2019-ncov)
+6. Imperial College London. MRC Centre for Global Infectious Disease Analysis. Disponible en:
+https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+7. Centers for Disease Control and Prevention. Interim Laboratory Biosafety Guidelines for
+Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19).
+Disponible en: https://www.cdc.gov/coronavirus/2019-ncov/lab/lab-biosafety-guidelines.html
+8. Kampf G, Todt D, Pfaender S, Steinmann E. Persistence of coronaviruses on inanimate surfaces
+and its inactivation with biocidal agents. J Hosp Infect. 2020 Feb 6. doi:
+10.1016/j.jhin.2020.01.022. Disponible en: https://www.ncbi.nlm.nih.gov/pubmed/32035997
+9. Organización Panamericana de la Salud. Prevención y control de infecciones asociadas a la
+atención de la salud. OPS: Washington D. C.; 2017. Disponible en:
+https://www.paho.org/hq/index.php?option=com_docman&view=download&category_slug=g
+uias-5603&alias=47902-recomendaciones-basicas-para-la-prevencion-y-control-deinfecciones-asociadas-a-la-atencion-de-la-salud-1&Itemid=270&lang=es
+
+10
+
+11. Resumen de la enfermedad
+
+Identificar
+Signos y síntomas1
+
+Exposición
+
+1
+
+Incubación
+
+2 a 14 días
+
+Transmisión
+
+ Contacto directo con secreciones
+ Gotas respiratorias de más de 5 micras
+ Fómites
+
+Tipo de
+exposición
+
+ Contacto estrecho con un caso
+
+
+
+
+
+
+
+
+Infección respiratoria aguda
+Fiebre
+Disnea
+Tos
+Malestar general
+Neumonía
+
+La mayoría de los casos presentan una enfermedad leve
+
+Aislar
+Infección respiratoria aguda
+Paciente con mascarilla quirúrgica en zona de aislamiento en habitación individual
+Personal sanitario con equipo de protección: bata de protección, guantes, protección ocular y
+mascarilla (quirúrgica o FFP2 según tipo de asistencia y evaluación del riego))
+En procedimientos que generen aerosoles: mascarilla autofiltrante con una eficacia de filtración
+equivalente a FFP2 o FFP3, protección ocular ajustada de montura integral o protector facial completo,
+guantes, bata de manga larga. Si la bata no es impermeable y se prevé que se produzcan salpicaduras
+de sangre u otros fluidos corporales añadir un delantal de plástico
+
+Informar
+Informar a los pacientes sobre la enfermedad y las precauciones para evitar su transmisión
+
+11
+
+

@@ -1,0 +1,48 @@
+Detectan otra nueva variante de coronavirus «todavía más contagiosa» en Reino Unido
+
+El ministro de Sanidad de Reino Unido, Matt Hancock, ha anunciado el descubrimiento de otra nueva variante de coronavirus «todavía más contagiosa», en dos contactos de personas que viajaron desde Sudáfrica las últimas semanas.
+
+En una rueda de prensa celebrada esta tarde en Downing Street, Hancock ha comentado que la nueva variante «es altamente preocupante» porque «es todavía más transmisible y parece haber mutado más que la (primera) nueva variante descubierta en Reino Unido».
+
+Esta primera variante se descubrió la semana pasada. Se trata de VUI 202012/01, un linaje de coronavirus hallado en un brote epidémico en el sureste de Inglaterra y que, según datos preliminares de investigadores británicos, sería entre un 50 y un 70% más transmisible que las variantes de coronavirus ahora extendidas por Europa.
+
+«La nueva variante identificada en Reino Unido es muy diferente a la variante de Sudáfrica, tienen diferentes mutaciones», ha explicado Susan Hopkins, de la Agencia de Salud Pública de Inglaterra.
+
+«Ambas parecen ser más transmisibles. Ahora tenemos más evidencias sobre la transmisión de la variante de Reino Unido porque hemos estado estudiándola con gran detalle con nuestros compañeros de la academia. Todavía estamos investigando sobre la variante de Sudáfrica», ha añadido Hopkins.
+
+
+Por ahora, no hay evidencias de que ninguna de ellas cause una enfermedad más severa o de que sean más letales.
+
+Una variante es un linaje de virus en cuya secuencia de genes, genoma, se acumula una colección característica de cambios, o mutaciones, como si fueran los rasgos típicos en una familia. Dichas mutaciones son en la mayoría de los casos inocuas y no cambian al virus, pero a veces pueden hacerlos más transmisibles o un poco más resistentes a anticuerpos, ya estén generados por una infección natural o por una vacuna. Cuando una variante tiene cambios que cambian el comportamiento de un virus, se habla de cepa.
+
+Vigilancia y restricciones de viajes
+El ministro de Sanidad ha informado de que los dos casos en los que se halló la variante procedente de Sudáfrica están bajo estrecha observación y que sus contactos están en cuarentena. Además, ha anunciado que los viajeros procedentes de Sudáfrica en las últimas dos semanas deberán aislarse inmediatamente y que Gran Bretaña restringirá los vuelos a Sudáfrica «temporalmente», hasta que se investigue más la nueva variante.
+
+Se da la circunstancia de que esta semana varios países europeos han restringido sus vuelos a Reino Unido para evitar la expansión de la variante VUI 202012/01. Sin embargo, las autoridades sanitarias ya han anunciado que esta variante está presente en Australia, Dinamarca, Italia, Islandia y Holanda. De hecho, los investigadores sospechan que ya podría estar extendida por Europa, aunque todavía no se hubiera detectado ni esto fuera motivo de alarma.
+
+Una variante presente desde septiembre
+«Entiendo que haya que estar alerta y vigilando las variantes», ha explicado a ABC Sonia Zúñiga, investigadora del laboratorio de coronavirus del CNB-CSIC. «Pero de ahí a asegurar sin datos científicos que esta variante es más contagiosa, hay un paso», ha comentado. «Me da la impresión de que se busca meter un poco de miedo a la gente para que tenga más cuidado estas Navidades».
+
+Según ha recordado la científica, en primer lugar los investigadores británicos han estimado que la primera variante hallada en Reino Unido podría haber estado presente en Europa desde septiembre, eso sí, fuera del radar.
+
+En segundo lugar, ha comentado que no está claro que ni la primera ni la segunda variantes halladas en Reino Unido sean más contagiosas. La primera, VUI 202012/01, se halló en un brote epidémico en el sureste de Inglaterra en el que hubo un fuerte aumento de contagios: pero no se sabe si este aumento se debió a que hay una variante más contagiosa o a que la población tuvo menos precaución o hubo más desplazamientos. Esto habría aumentado la presencia de esta variante sencillamente por encontrarse allí en el momento de crecimiento de la epidemia, a causa de lo que se conoce como «efecto fundador».
+
+Precisamente esto ocurrió con una variante muy extendida por Europa y que se originó en brotes de Aragón y Cataluña en junio: no es que fuera más contagiosa, es que los viajes desde estas regiones, en pleno «desconfinamiento», facilitaron la dispersión de unos cambios genéticos surgidos de forma aleatoria.
+
+Aparte de esto, lo cierto es que la variante VUI 202012/01 presenta un número muy alto de mutaciones, 17, nueve de las cuales están en la proteína S, la llave que el virus emplea para entrar en las células humanas, al reconocer al receptor ACE2. Entre estos cambios, destaca la mutación N501Y, que en cultivos aumenta la facilidad con la que la proteína S reconoce al receptor humano. Sin embargo, esta mutación ha estado circulando desde septiembre por varios países, sin que haya acabado imponiéndose en la población.
+
+De ser más contagiosas, no serían las primeras
+«Hasta ahora, solo se conoce una variante que provoque un claro cambio en el virus», ha añadido Sonia Zúñiga. Se trata de la variante D614G, un linaje del virus que comenzó a imponerse en marzo a las variantes originales de coronavirus chino, y que ha demostrado ser más transmisible en modelos animales y en cultivos celulares. Por tanto, desde el comienzo de la pandemia la población ha estado expuesta a un coronavirus que ya de por sí era más contagioso.
+
+En todo caso, de ser la primera o la segunda variantes halladas en Reino Unido más contagiosas que D614G, «las medidas a aplicar serían las mismas: evitar los contagios», en opinión de Zúñiga.
+
+¿Afectarán a la vacuna?
+El mayor temor es que estas nuevas variantes puedan esquivar la inmunidad proporcionada por las vacunas. En primer lugar, dado que la vacunación apenas ha comenzado en Reino Unido, los anticuerpos cuya producción inducen son muy raros entre la población. Por eso, los virus todavía no han tenido la necesidad de adaptarse a ellos: en caso de ser más escurridizos ante las vacunas, lo serían por pura casualidad, y no lo serían mucho.
+
+En segundo lugar: «Las vacunas generan anticuerpos policlonales», según Sonia Zúñiga. Es decir, no producen un único anticuerpo contra la proteína S, sino una amplia batería de ellos, que reconocen distintas zonas de la proteína. Además los producen en exceso, de forma que, en el caso de que una variante fuera más resistente a una vacuna, lo sería solo parcialmente, gracias tanto a la cantidad como a la diversidad de anticuerpos que generan.
+
+«Como mucho, podría ocurrir que la vacuna perdiera un poco de eficacia, pero hay que recordar que las vacunas de Pfizer y Moderna (las primeras que se administrarán en Europa y Estados Unidos) son muy eficaces (su eficacia supera el 90%)», en palabras de la experta en coronavirus.
+
+Por último, ambos tipos de vacunas se caracterizan por su facilidad para cambiar e incorporar nuevas secuencias de la proteína S, que recogieran posibles cambios del virus. Esta misma semana, Ugur Sahin, cofundador de BioNTech y creador de la vacuna de Pfizer, consideraba que es «muy probable» que su vacuna funcione contra la primera cepa mutada detectada en Gran Bretaña.
+
+De todas formas, comentó que, en caso de que fuera necesario, también podrían adaptar la vacuna a nuevas mutaciones del virus en un plazo de seis semanas. Si la vacuna de Pfizer fallase, quedarían muchas más opciones: según datos de la Organización Mundial de la Salud (OMS), hay al menos 200 vacunas en desarrollo.

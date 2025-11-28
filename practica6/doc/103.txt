@@ -1,0 +1,483 @@
+			 				 					 						 							 								 									Guías clínicas
+
+								 									Ayuda en consulta
+
+								 									Medicamentos
+
+								 									Herramientas
+
+								 									Formación
+
+									 										Tienda
+
+
+
+
+
+					 					 						 						 						 						 						 							Cursos
+
+							 | Mis cursos
+
+							 | Casos clínicos
+
+							 | Preguntas clínicas
+
+							 | Metodología de la investigación
+
+							 | Bioética
+
+
+
+
+
+	 		 			 		 			 				 			 					 							 								Inicio 								 								 > Ayuda en consulta 								 											 	> Información para pacientes 												> Enfermedad por coronavirus 2019 (COVID-19)
+
+
+
+
+
+Enfermedad por coronavirus 2019 (COVID-19)
+
+
+				 					Fecha de la última actualización: 31/07/2020
+
+				 				Fecha de la última revisión: 31/07/2020
+
+
+
+
+
+Información
+
+
+
+
+
+Índice de contenidos
+
+
+									 									Introducción
+
+¿Cuáles son las causas?
+
+¿Qué factores de riesgo debo tener presentes?
+
+¿Cuáles son los síntomas más frecuentes?
+
+¿Cómo se diagnostica la COVID-19?
+
+¿Cuál es el tratamiento para la COVID-19?
+
+¿Cómo puedo prevenir la COVID-19?
+
+¿Qué debo hacer para cuidarme si tengo COVID-19?
+
+¿Cuándo tengo que solicitar atención médica?
+
+Más información
+
+Bibliografía
+
+Autores
+
+
+
+
+
+Guías clínicas relacionadas
+
+
+
+
+
+Introducción
+
+
+Los coronavirus son una familia de virus que suelen causar enfermedades en animales, aunque algunos pueden afectar también a humanos. En las personas pueden producir infecciones respiratorias que pueden ir desde un resfriado común hasta enfermedades más graves. En el 80% de los casos, la infección por este nuevo coronavirus, denominado oficialmente SARS-CoV-2, produce síntomas respiratorios de carácter leve. Con el nombre de COVID-19 se denomina la enfermedad respiratoria producida por este virus.
+
+
+
+Este virus y la enfermedad infecciosa que produce son tan "nuevos" y poco conocidos que vamos avanzando poco a poco en su conocimiento y manejo de la infección, y vamos actualizando las recomendaciones en función de este conocimiento.
+
+subir
+
+
+
+
+
+¿Cuáles son las causas?
+
+
+El SARS-CoV-19 (COVID-19) se propaga de persona a persona por el contacto con las gotas respiratorias que proceden de personas infectadas (al toser, estornudar e incluso hablar) y que se transmiten directamente a la boca, nariz y ojos de la persona sana. También mediante las secreciones de la persona infectada que contaminan las manos o los objetos con los que pueden entrar en contacto: superficies de muebles y objetos, pomos de puertas, cubiertos, toallas, etc.
+
+
+
+También se ha encontrado en la sangre y en las heces, aunque se desconoce el peso que puedan tener estas vías en el contagio.
+
+
+
+La evidencia actual pone de manifiesto que es poco probable el contagio a través de estas gotitas a una distancia mayor de los 2 metros.
+
+
+
+Asimismo, se ha demostrado la transmisión de la infección a partir de casos asintomáticos, en la fase previa (1 - 2 días antes) a la aparición de los síntomas y hasta 5 -6 días después de la desaparición de los síntomas.
+
+
+
+En general, desde que te contagias con el virus hasta que tienes síntomas pasan entre 4 y 7 días de promedio, tiempo que se puede alargar hasta los 14 días. Es por ello que las cuarentenas se han establecido en este plazo de tiempo.
+
+
+
+Hasta ahora no se demostrado que las mascotas y animales de compañía tengan riesgo de padecer la enfermedad ni que sean capaces de transmitirla a los humanos. Tampoco hay evidencia de que los alimentos sean una fuente de transmisión del coronavirus.
+
+subir
+
+
+
+
+
+¿Qué factores de riesgo debo tener presentes?
+
+
+	Los factores a tener en cuenta para saber si perteneces a un grupo de riesgo son los siguientes:
+
+	 		Eres mayor de 60 años.
+
+	 		Presentas inmunosupresión congénita (inmunodeficiencia) o adquirida (quimioterapia contra el cáncer).
+
+	 		Si sufres patologías crónicas y/o varias enfermedades a la vez: hipertensión arterial, diabetes, enfermedades cardiovasculares, enfermedades pulmonares.
+
+	 		Cualquier persona que se encuentre hospitalizada por una infección respiratoria aguda con criterios de gravedad (neumonía, síndrome de distrés respiratorio agudo, fallo multiorgánico, shock séptico, ingreso en UCI) en la que se hayan descartado otras posibles enfermedades infecciosas que puedan justificar el cuadro.
+
+	 		Las personas que viven o que trabajan en instituciones cerradas, en particular las personas mayores que viven en residencias geriátricas.
+
+
+
+	Por otra parte, eres especialmente susceptible de sufrir la enfermedad si has mantenido contacto estrecho con casos probables o confirmados.Se considera contacto estrecho si has estado en contacto con una persona con síntomas compatibles o que ya ha sido diagnosticada de la COVID-19, desde 48 horas antes del inicio de los síntomas o del diagnóstico si la persona no tiene sintomas.
+
+	Las condiciones actuales de la definición de contacto estrecho son: haber proporcionado cuidados o haber estado en el mismo lugar que la persona enferma a menos de 2 metros de distancia y durante más de 15 minutos sin las medidas de protección adecuadas.
+
+Los contactos estrechos deben realizar cuarentena domiciliaria durante 14 días desde el último contacto:
+
+
+
+	 		Quédate en tu domicilio, preferiblemente en tu habitación.
+
+	 		No salgas de casa, excepto para lo imprescindible, por ejemplo, acudir a tu centro de salud si así te la dicho tu profesional sanitario de referencia.
+
+	 		Evita salir de tu habitación.
+
+	 		Evita el contacto con tus convivientes del domicilio.
+
+	 		Si sales de tu habitación, hazlo con mascarilla.
+
+
+
+subir
+
+
+
+
+
+¿Cuáles son los síntomas más frecuentes?
+
+
+	La COVID-19 se manifiesta como una infección respiratoria aguda, aunque se conocen casos asintomáticos o con pocos síntomas. La mayoría de los casos son leves y los síntomas más comunes al inicio de la enfermedad son:
+
+	 		Fiebre.
+
+	 		Cansancio, malestar general.
+
+	 		Tos seca.
+
+	 		Sensación de falta de aire.
+
+
+
+	 También se han descrito síntomas como
+
+	 		Disminución o pérdida del olfato y del gusto.
+
+	 		Escalofríos.
+
+	 		Dolor de garganta.
+
+	 		Dolores musculares.
+
+	 		Dolor de cabeza.
+
+	 		Debilidad general.
+
+	 		Diarrea.
+
+	 		Vómitos.
+
+	 		Lesiones cutáneas.
+
+
+
+subir
+
+
+
+
+
+¿Cómo se diagnostica la COVID-19?
+
+
+En la actualidad el diagnóstico más fiable de la COVID-19 se basa en la prueba de la PCR (siglas en inglés de la Reacción en Cadena de la Polimerasa). En esta prueba se detecta el material genético del virus, si lo hay, en las personas. Se realiza tomando una muestra del interior de la nariz o la faringe, que se toma mediante la ayuda de un bastoncillo con una rotunda de algodón en su punta. Si hay matgerial genético del virus, la prueba es POSITIVA, lo que significa que la persona ha tenido un contacto reciente con el virus y que tiene el virus en su organismo en ese momento.
+
+subir
+
+
+
+
+
+¿Cuál es el tratamiento para la COVID-19?
+
+
+En este momento no hay evidencia de ensayos clínicos que permitan recomendar un tratamiento específico para pacientes con infección de la COVID-19. Se están llevando a cabo tratamientos experimentales con medicamentos antivíricos, pero aun no se dispone de resultados definitivos.
+
+
+
+En el 80% de los casos con síntomas respiratorios leves, el tratamiento se basa en aliviar la sintomatología: antitérmicos si hay fiebre, analgésicos si hay dolor, hidratación, reposo, etc. En los casos más graves o complicados, el ingreso hospitalario o en la UCI será imprescindible. Allí se pueden llevar a cabo tratamientos de soporte respiratorio, administración de fármacos por vía intravenosa, etc. Lo más importante es asegurar un tratamiento lo antes posible y adaptar el tratamiento a las condiciones de cada persona y sus enfermedades asociadas, si las tiene.
+
+subir
+
+
+
+
+
+¿Cómo puedo prevenir la COVID-19?
+
+
+La mejor forma de prevenir la enfermedad es que evites la exposición al virus. Y la manera más eficaz de conseguirlo es evitando estar en contacto con otras personas. Los virus no viajan solos, los llevamos con nosotros y los diseminamos nosotros. El autoaislamiento en casa es la mejor manera de evitar que nuestros virus contagien a otras personas y que los virus de los otros nos contagien a nosotros.
+
+
+
+Sin embargo, existen algunas medidas preventivas que puedes adoptar en tu vida cotidiana:
+
+
+
+	 		Lávate las manos muy frecuentemente con agua y jabón o con desinfectante de manos a base de alcohol.
+
+	 		Utiliza la mascarilla: aunque existen diferencias entre Comunidades Autónomas, en general su uso es obligatorio para todos los mayores de 6 años, con muy pocas excepciones.
+
+	 		Tápate la boca con un pañuelo de papel cuando tosas o estornudes. Tira el pañuelo inmediatamente en una papelera y lávate las manos inmediatamente después.
+
+	 		También puedes cubrirte la boca con la parte interior del codo y lavarte las manos inmediatamente después. No compartas utensilios personales como toallas, vasos, platos, cubiertos o cepillo de dientes.
+
+	 		Evita tocarte los ojos, la nariz y la boca.
+
+	 		Limpia y desinfecta los objetos y las superficies que tocas con frecuencia (como el teléfono móvil), usando un producto común de limpieza de uso doméstico en rociador o toallita.
+
+	 		Mantén al menos 2 metros de distancia con otras personas.
+
+
+
+	Si eres cuidador de una persona afectada por COVID-19, es importante que no tengas factores de riesgo de complicaciones. Además, adopta las siguientes medidas:
+
+	 		Utiliza guantes para cualquier contacto con la persona enferma.
+
+	 		Utiliza mascarilla cuando compartas espacio con la persona enferma.
+
+	 		Lávate las manos siempre que entres en contacto, aunque hayas usado guantes.
+
+
+
+subir
+
+
+
+
+
+¿Qué debo hacer para cuidarme si tengo COVID-19?
+
+
+Si estás en aislamiento domiciliario por un caso leve:
+
+
+
+	 		Quédate en casa, evita salir de la habitación, mantenla ventilada y con la puerta cerrada.
+
+	 		Utiliza tu propio baño. Si lo tienes que compartir, desinféctalo antes de que lo use otra persona.
+
+	 		Evita distancias menores de 2 metros con otras personas.
+
+	 		Ten en la habitación productos para la higiene de manos.
+
+	 		Evita las visitas en tu domicilio.
+
+	 		Ten un cubo de basura con pedal en la habitación y tira los productos de desecho en una bolsa de plástico colocada dentro del cubo. Anúdala antes de tirarla.
+
+	 		Ponte la mascarilla si sales a espacios comunes o entra alguien en la habitación, y lávate las manos al salir.
+
+	 		Limpia a diario las superficies que se tocan a menudo, baño e inodoro, con bayetas desechables y lejía (una parte de lejía y 99% de agua). Lávate las manos al terminar.
+
+	 		La ropa de la persona enferma se debe lavar por separado con el detergente habitual, a una temperatura de entre 60º y 90 ºC.
+
+
+
+subir
+
+
+
+
+
+¿Cuándo tengo que solicitar atención médica?
+
+
+Si notas un empeoramiento en tu situación, comunícalo telefónicamente a tu profesional de referencia, a los servicios sanitarios especiales de tu Comunicad Autónoma o al 112.
+
+
+
+Si otra persona que comparte el domicilio empieza a mostrar síntomas, no debería acudir a un centro sanitario. Lo mejor es contactar telefónicamente con tu profesional de referencia o llamar al teléfono de información habilitado por tu Comunidad Autónoma.
+
+
+
+Los servicios sanitarios valorarán tu estado de salud y te informarán sobre las medidas a tomar en cada caso.
+
+subir
+
+
+
+
+
+Más información
+
+
+	 		Lavarse las manos paso a paso en 60 segundos. CANAL ENFERMERO - Consejo General Enfermería: https://www.youtube.com/watch?v=aUV5wzScbnc
+
+	 		Ministerio de Sanidad. Teléfonos de información en cada Comunidad Autónoma: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/telefonos.htm
+
+	 		Ministerio de Sanidad. Información sobre el coronavirus para la ciudadanía. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm
+
+	 		Situación y consejos ante el coronavirus SARS-CoV-2 (COVID-19): https://www.clinicbarcelona.org/prensa/ultima-hora/situacion-y-consejos-ante-coronavirus-sars-cov-2
+
+	 		Centro Europeo para la Prevención y el Control de Enfermedades (ECDC): https://www.ecdc.europa.eu/en/novel-coronavirus-china
+
+
+
+subir
+
+
+
+
+
+Bibliografía
+
+
+	 		Centers for Disease Control and Prevention (CDC). Coronavirus disease 2019 (COVID-19) [consultado 14-2-2020]. Disponible en: https://www.cdc.gov/coronavirus/about/index.html
+
+	 		World Health Organization (WHO). Coronavirus disease (COVID-19) technical guidance [consultado17-3-2020]. Disponible en: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance
+
+
+
+subir
+
+
+
+
+
+Autores
+
+
+	 		 			 				 			 				 			 				Salvador Giménez Serrano 			 				Médico de Atención Primaria (1)
+
+		 			 				 			 				 			 				Mercè Piera Fernández 			 				Médica de Atención Primaria (2)
+
+
+
+				(1) CAP Sarrià. Barcelona
+
+				(2) Consorci Sanitari de Terrassa. Barcelona
+
+
+
+subir
+
+
+
+Conflicto de intereses: Los autores declaran no tener ningún conflicto de intereses.
+
+
+
+
+
+				 					 					 						ocultar
+
+
+
+
+
+Acerca de
+
+
+		 			 			 Fisterra
+
+			 			 	Metodología
+
+			 			 Comité
+
+
+
+
+
+Suscríbase
+
+
+		 			 			 Acceso personal
+
+			 			 Instituciones
+
+			 			 Prueba gratis
+
+			 			 Boletines
+
+
+
+
+
+Ayuda
+
+
+		 			 			 FAQ's
+
+			 			 Atención al cliente
+
+
+
+
+
+	 		 		Elsevier España S.L.U. © 2020. Todos los derechos reservados.
+
+
+
+		Esta web utiliza cookies. Para obtener mas información o denegar su uso, por favor visite la Página de cookies.
+
+		 		 		 		 		Términos y condiciones
+
+		 -
+
+		 		 		 		Política de Privacidad
+
+		 		 |
+
+
+
+
+
+© Descargado el 17/12/2020. Para uso personal exclusivamente. No se permiten otros usos sin autorización. Copyright ©2020. Elsevier Inc. Todos los derechos reservados.
+
+	 	 	 	 	En cumplimiento de la normativa europea GDPR, hemos actualizado nuestra Política de privacidad. Ver Política de privacidad
+
+Utilizamos cookies propias y de terceros con la finalidad de mejorar su experiencia en la página web y estar al día sobre su utilización por los usuarios.
+
+Usted puede bloquear el uso de cookies, sin embargo, alguna de ellas puede ser esencial para que la página web funcione correctamente.
+
+Por favor, seleccione el botón “Acepto” para confirmar que usted ha leído y acepta los términos de nuestra Política de cookies. Ver política de cookiesAcepto
+
+
+
+
+

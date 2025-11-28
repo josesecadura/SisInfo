@@ -1,0 +1,47 @@
+¿Qué es la COVID-19?
+
+El SARS-CoV-2, causante de la COVID-19, es un virus de ARN monocateriano, perteneciente a la orden Nidovirales, familia Coronaviridae y de subfamilia Orthocoronavirinae, y se convierte en el séptimo coronavirus en infectar a los humanos.7) El análisis filogenético basado en secuencias genómicas completas muestra que los murciélagos son el reservorio de origen del SARS-CoV-2, habiendo controversia entre el pangolín como animal hospedador intermedio.8) El SARS-CoV-2 presenta una tasa de mortalidad que oscila entre 3 % y 4 %, a diferencia del SARS-CoV y MERS-CoV con 10 % y 35 % respectivamente.9
+
+La transmisión de SARS-CoV-2 ocurre predominantemente a través de gotículas respiratorias y fomites. Hasta la actualidad, no se ha descrito la transmisión transplacentaria. Sin embargo, se describe la enfermedad neonatal debida a la transmisión postnatal.10 La fiebre, tos y la dificultad para respirar son los síntomas más comunes reportados en 83 %, 82 % y 31 % de los pacientes, respectivamente.11) Los pacientes que desarrollan Síndrome de Dificultad Respiratoria Aguda pueden empeorar rápidamente y morir por insuficiencia orgánica múltiple . También se ha informado que alrededor de 2 a 10 % de los pacientes con COVID-19 presentaban síntomas gastrointestinales como diarrea, vómitos y dolor abdominal,12 adicionalmente otros síntomas más infrecuentes son la ageusia y agnosia.13 Para el diagnóstico se realizan pruebas moleculares como el RT-PCR y la prueba serológica ELISA de IgM. La combinación de ambas mejora la sensibilidad de detección.14
+
+COVID-19 en adultos mayores
+
+Por primera vez en la historia, existe una mayor probabilidad de que la población pueda alcanzar los 60 años o más.15 La existencia de factores que contribuyen e influyen en la transición de envejecimiento son complejos, aunque el SARS-CoV-2 infecta a personas de todas las edades, el riesgo de enfermar de manera grave se incrementa con la edad a partir de los 40 años, y especialmente en personas que superan los 60 años de edad.16
+
+Epidemiología
+
+Se recopilaron datos epidemiológicos de diferentes países afectados por la COVID-19. En los Estados Unidos se evidenció que los adultos mayores tenían más probabilidad de desarrollar la infección grave en comparación a otros grupos etarios. En México, la edad promedio de personas contagiadas por SARS-CoV-2 fue de 44 años,17 mientras que en Chile, indican que 7,2 % de los casos correspondió a personas de 60 años a más. Otro estudio en Italia, reportó que el promedio de edad de personas fallecidas por el SARS-CoV-2 fue de 81 años.18) Además, la misión de la OMS en China reportó que la mayoría de casos (77,8%) oscila entre los 30 y 69 años, los adultos mayores presentan más síntomas graves.19
+
+Respecto a la mortalidad, el Centro Chino para el Control y Prevención de Enfermedades, reportó que la tasa de letalidad bruta en China fue 2,3 % en pacientes infectados por SARS-CoV-2, siendo los más afectados las personas mayores de 80 años, quienes presentaron una tasa de letalidad de 14,8 %.20) Asimismo, un estudio en Corea del Sur reportó que de 4 212 casos confirmados con la COVID-19, 22 fallecieron; de ellos, 20 (90,9 %) tenían 50 años o más y presentaron una tasa de letalidad de 1,2 % vs 0,2 % en personas menores (p = 0,001).21
+
+Los adultos mayores que viven en hogares para personas de la tercera edad corren mayor riesgo de contagio por SARS-CoV-2, debido a las características de la convivencia colectiva como los espacios reducidos; la otra cara de la moneda es para los que viven solos, ya que afrontar este tipo de crisis es particularmente difícil para este grupo etario.22
+
+Recomendaciones para el manejo y tratamiento
+
+Las enfermedades en adultos mayores suelen manifestarse de manera atípica y presentar un cuadro clínico vago e inespecífico a diferencia de los otros grupos etarios.23) Los factores contribuyentes incluyen los cambios fisiológicos propios de la vejez, presencia de múltiples afecciones, presencia de comorbilidades asociadas con la edad como las enfermedades cardíacas y pulmonares, Diabetes mellitus, demencia senil y la polifarmacia.24
+
+La fiebre es uno de los síntomas más comunes y es un método clave de tamizaje para el diagnóstico de la COVID-19; sin embargo, se ha evidenciado que los cambios fisiológicos en adultos mayores afectan la sensibilidad térmica, disminuye así su capacidad de detectar y responder a los cambios de temperatura, y los hace vulnerables a los extremos térmicos.25) Además, la tos, cansancio y la falta de aire pueden presentarse debido a los cambios en el tejido pulmonar propios de la edad.26
+
+Actualmente, no existe un manejo estándar en adultos mayores infectados con el SARS-CoV-2, existen propuestas que aún se siguen investigando.27) Es imprescindible que los adultos mayores, familiares, cuidadores y personal médico conozcan las recomendaciones para evitar un futuro contagio. En un paciente adulto mayor hospitalizado, el monitoreo de signos y síntomas en progresión y la evolución de una enfermedad crónica preexistente son importantes.28
+
+Desde un punto de vista biológico, el envejecimiento es la consecuencia de la acumulación de daños moleculares y celulares a lo largo del tiempo, lo que lleva a un descenso gradual de las capacidades físicas y mentales y los hace más vulnerables a la COVID-19; por tal razón la implementación de medidas preventivas que disminuyan el contagio por SARS-CoV-2 son prioritarias.29
+
+COVID-19 en personas con sobrepeso y obesidad
+
+Recientes estudios reportaron que la prevalencia de sobrepeso y obesidad a nivel mundial fue de 39 % y 13 %, respectivamente, según la OMS.30 Asimismo, engloba distintos factores de riesgo que puede conducir a numerosas enfermedades crónicas, entre las que se incluyen la diabetes, enfermedades cardiovasculares y el cáncer. La obesidad tiene un papel importante en la patogénesis de la infección por SARS-CoV-2. De hecho, el sistema inmune, es clave en la fisiopatología de la inflamación del tejido adiposo inducida por la obesidad, la cual produce una disfunción metabólica.31
+
+Epidemiología
+
+Peng y otros realizaron un análisis retrospectivo de 112 pacientes con infección por COVID-19 ingresados ​​en el distrito occidental del Hospital Unión, en Wuhan, encontraron que el índice de masa corporal (IMC) del grupo crítico (25,5 [23,0, 27,5] kg/m2) fue significativamente mayor (p = 0,003), que las personas con un IMC adecuado (22,0 [20,0, 24,0] kg/m2), y los dividieron en dos grupos, sobrevivientes (84,8 %) y no sobrevivientes (15,18 %). Entre los no sobrevivientes, 88,2 % tenían un IMC> 25 kg/m2, que es una proporción significativamente mayor que en los sobrevivientes (18,9 %) (p <0,001).32 Asimismo, Liu y otros, realizaron un estudio en el Hospital Universitario de Jianghan, donde compararon pacientes con un IMC normal y elevado, encontraron que los que los de mayor masa corporal tenían mayor probabilidad de desarrollar la enfermedad grave (27,0 ± 2,5) en comparación con los que tenían un IMC adecuado (22,0 ± 1,3) (p <0,001).33
+
+Un aspecto a resaltar, es que durante la pandemia del virus Influenza H1N1 (gripe porcina), esta se presentó más en personas con obesidad y comorbilidades.34 Por ejemplo, en EEUU se reportaron 268 pacientes infectados por H1N1 en los que se calculó el IMC, 58 % tenía obesidad (IMC> 30) y 67 % de ellos tenía obesidad mórbida (IMC> 40); además presentaban enfermedades subyacentes asociadas a esta en 66 % de los obesos.35 Aunque los efectos de SARS-CoV-2 en pacientes con obesidad aún no se han esclarecido en su totalidad, la experiencia recogida de la Influenza H1N1, debería servir para adoptar medidas preventivas en pacientes con estos antecedentes.36
+
+El tejido adiposo puede servir como reservorio para el adenovirus humano Ad-36, el virus de la gripe A, el VIH, el citomegalovirus, el Trypanosoma gondii y la Mycobacterium tuberculosis.37
+
+Recomendaciones para el manejo y tratamiento
+
+No existe actualmente un consenso para esta presentación clínica, aunque es bien sabido que la obesidad severa está asociada con el síndrome de apnea del sueño, así como con la disfunción del surfactante, que puede contribuir a un peor escenario en el caso de la infección por COVID-19.34 Además, la DM-2 y la obesidad pueden coincidir en un paciente determinado por lo cual un inadecuado control glucémico puede ocasionar un deterioro de la función ventilatoria y, por lo tanto, contribuir a un peor pronóstico en estos pacientes.38
+
+Se recomienda que el abordaje de las personas con obesidad sea realizado por un equipo multidisciplinario, las personas con obesidad deben limitar la ingesta energética procedente de grasas y azúcares, deben aumentar el consumo de frutas y verduras, y realizar una actividad física periódica (60 minutos diarios para los jóvenes y 150 minutos semanales para los adultos) en el interior de su vivienda debido al aislamiento social.39
+
+Por lo tanto, se recomienda tener precauciones adicionales para pacientes con obesidad durante esta pandemia, siempre que se sospeche una infección por COVID-19, la detección debe ser sistemática, especialmente si el paciente tiene obesidad.40 El tejido adiposo puede ser un modelo de investigación para ayudar a comprender la patogénesis de la infección por SARS-CoV-2 y así desarrollar un tratamiento efectivo.41

@@ -1,0 +1,19 @@
+Evaluación de nueve pruebas serológicas rápidas para la detección del SARS-CoV-2
+
+Marcela Mercado
+
+Objetivo.
+Evaluar la capacidad operativa de nueve pruebas serológicas rápidas para detectar la respuesta de anticuerpos IgM/IgG en el suero de pacientes con SARS-CoV-2 en diferentes etapas clínicas.
+
+Métodos.
+Se diseñó un estudio transversal de las pruebas serológicas rápidas para comparar su rendimiento respecto del diagnóstico del SARS-CoV-2. Se utilizaron en total 293 muestras, inclusive muestras de suero de pacientes negativos, asintomáticos y sintomáticos.
+
+Resultados.
+La sensibilidad de las pruebas evaluadas fue baja y moderada en las muestras de suero del grupo de pacientes asintomáticos y en el grupo de pacientes con menos de 11 días desde el inicio de los síntomas. 
+La especificidad de las pruebas de anticuerpos anti-SARS-CoV-2 varió entre 86,5%-99% para la IgM y 86,5%-99,5% para la IgG. La sensibilidad y la razón de verosimilitud (likelihood ratio) fueron diferentes según los grupos de estudio. 
+La utilidad de estas pruebas se limita a los pacientes sintomáticos y su sensibilidad es superior al 85% después de 11 días de la aparición de los síntomas.
+
+Conclusiones.
+Las pruebas serológicas no son una estrategia adecuada para la identificación de los pacientes asintomáticos y presintomáticos. 
+Las pruebas serológicas rápidas para la detección de anticuerpos específicos anti-SARS-CoV-2 pueden ser utilizadas como ayuda diagnóstica, pero el diagnóstico debe ser confirmado por RT-PCR. 
+Las pruebas rápidas deben reservarse para los pacientes con síntomas que duren más de 11 días.

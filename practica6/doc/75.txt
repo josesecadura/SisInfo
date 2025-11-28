@@ -1,0 +1,906 @@
+Rev Peru Med Exp Salud Publica. 2020;37(2):327-34.
+
+ARTÍCULO DE REVISIÓN
+
+CONSIDERACIONES SOBRE LA SALUD MENTAL
+EN LA PANDEMIA DE COVID-19
+Jeff Huarcaya-Victoria
+1
+2
+a
+
+1,2,a
+
+Facultad de Medicina, Universidad de San Martín de Porres, Lima, Perú.
+Departamento de Psiquiatría, Hospital Nacional Guillermo Almenara Irigoyen, Lima, Perú.
+Médico psiquiatra.
+
+RESUMEN
+
+Desde diciembre de 2019 se han reportado 414 179 casos de personas con la enfermedad por coronavirus
+(COVID-19). Como resultado del rápido incremento de casos confirmados y muertes, la población general
+y el personal de salud experimentaron problemas psicológicos, como ansiedad, depresión y estrés. Si bien
+la información científica sobre la COVID-19 se incrementa constantemente, esta se centra en los aspectos
+genéticos y epidemiológicos del virus y en las medidas de salud pública, dejando de lado los posibles efectos
+en la salud mental. Con la finalidad de resumir la evidencia actual, presentamos una revisión narrativa de
+los efectos de la pandemia de COVID-19 sobre la salud mental. Hasta el momento, se ha informado la
+presencia de ansiedad, depresión y reacción al estrés en la población general. Además, en el personal de
+salud también se han encontrado problemas de salud mental, especialmente en las profesionales mujeres,
+el personal de enfermeria y aquellos que trabajan directamente con casos sospechosos o confirmados
+de COVID-19. En los esfuerzos realizados para disminuir la propagación de la enfermedad, se debe
+prestar atención al diagnóstico y tratamiento de los problemas de salud mental. Creemos que abordarlos
+adecuadamente empoderará al Perú en la contención y erradicación de la COVID-19.
+Palabras clave: COVID-19; Coronavirus; Infecciones por Coronavirus; Pandemias; Salud Mental;
+Trastornos Mentales; Depresión; Ansiedad; Estrés Psicológico; Perú (fuente: DeCS BIREME).
+
+MENTAL HEALTH CONSIDERATIONS ABOUT THE
+COVID-19 PANDEMIC
+ABSTRACT
+
+Since December 2019, 414,179 cases of people with coronavirus disease 2019 (COVID-19) have been
+reported. As a result of the rapid increase in confirmed cases and deaths, population and health personnel,
+have experienced psychological problems, such as anxiety, depression, and stress. Although scientific
+information on COVID-19 is constantly increasing, it mainly focuses on genetic, epidemiological aspects,
+and public health measures, leaving aside possible effects on mental health. In order to summarize the
+current evidence, we present a narrative review of the effects of the COVID-19 pandemic on mental health.
+So far, the presence of anxiety, depression, and stress has been reported mostly in general population.
+Nonetheless, mental health issues have also been reported in health care workers, especially among female
+professionals, nurses, and those who work directly with suspected or confirmed cases of COVID-19. In
+efforts to reduce the spread of the disease, attention should be paid to the diagnosis and treatment of mental
+health issues. We believe that addressing them adequately will empower Peru to contain and eradicate
+COVID-19.
+Citar como: Huarcaya-Victoria J.
+Consideraciones sobre la salud
+mental en la pandemia de COVID-19.
+Rev Peru Med Exp Salud Publica.
+2020;37(2):327-34. doi: https://doi.
+org/10.17843/rpmesp.2020.372.5419
+_________________________________
+Correspondencia: Jeff David
+Huarcaya Victoria; Universidad
+de San Martín de Porres, Instituto
+de Investigación, Av. Alameda del
+Corregidor, 1531, La Molina, Lima,
+Perú; jhuarcayav@usmp.pe
+_________________________________
+Recibido: 27/03/2020
+Aprobado: 08/04/2020
+En línea: 18/04/2020
+
+Keywords: COVID-19; Coronavirus; Coronavirus Infections; Pandemics; Mental Health; Mental
+Disorders; Depression; Anxiety; Stress Psychological; Peru (source: MeSH NLM).
+
+INTRODUCCIÓN
+La pandemia actual por la enfermedad del coronavirus (COVID-19) originado en Wuhan, provincia de Hubei de la República Popular China, se ha extendido a muchos países. El 30 de enero
+de 2020, el Comité de Emergencia de la Organización Mundial de la Salud (OMS) catalogó a
+este brote como una emergencia de salud global basada en las crecientes tasas de notificación de
+casos en China y otros países (1). Según el informe de situación 65 de la OMS del 25 de marzo de
+2020, en el mundo se han reportado 414 179 casos confirmados y 18 440 muertes (2). En el Perú,
+hasta el 26 de marzo, se han notificado 580 casos confirmados y nueve muertes (3).
+Debido a la alta contagiosidad del virus y al número cada vez mayor de casos confirmados
+y muertes en el mundo, las emociones y los pensamientos negativos se extienden amenazando
+
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+327
+
+Salud mental y la COVID-19
+
+Rev Peru Med Exp Salud Publica. 37(2):327-34.
+
+la salud mental de la población. Según la experiencia de
+epidemias y pandemias pasadas, se conoce que los pacientes
+y el personal de salud pueden padecer situaciones de miedo
+a la muerte y presentar sentimientos de soledad, tristeza e
+irritabilidad (4-7).
+Según un informe de Nature, se publicaron al menos 54
+artículos académicos sobre la COVID-19 desde el inicio de
+la pandemia (8). La gran mayoría de ellos se enfocan en las
+características clínicas y epidemiológicas de la enfermedad,
+la caracterización genómica del virus y las políticas de
+salud pública para enfrentar la pandemia. Sin embargo,
+a pesar de la relevancia de los problemas de salud mental
+durante las pandemias, es poca la información disponible
+en el contexto de la COVID-19. Por lo tanto, el presente
+artículo tiene por objetivo revisar la evidencia actual sobre
+problemas psiquiátricos y de salud mental relacionados con
+la pandemia por COVID-19.
+
+Artículos identificados a través de
+la búsqueda en PubMed
+n = 65
+
+Artículos excluidos por no guardar
+relación directa con el tema de revisión
+n = 25
+
+Artículos potencialmente elegibles
+para la revisión narrativa
+n = 40
+Artículos excluídos
+• No se tuvo acceso
+n=2
+• No escritos en inglés o español
+n=1
+Artículos incluidos en la revisión
+n = 37
+
+BÚSQUEDA Y SELECCIÓN DE
+ARTÍCULOS
+
+Figura 1. Diagrama de flujo del proceso de identificación y
+selección de artículos
+
+Se realizó una revisión narrativa, a partir de una búsqueda
+en Pubmed de todos los artículos publicados desde el 1 de
+diciembre de 2019 hasta el 24 de marzo de 2020. Se emplearon
+los términos: (COVID-19 OR COVID 19 OR coronavirus)
+AND (psychiatry OR mental health OR psychology). Se
+seleccionaron aquellos artículos que contenían información
+relacionada con los efectos psiquiátricos, psicológicos y de
+salud mental de la COVID-19 escritos en inglés o en español.
+Se realizó un cribado de los artículos elegibles y se revisaron
+los títulos y resúmenes de todos los artículos encontrados.
+De los 65 artículos encontrados se descartaron 25 por
+no tener relación directa con el tema. Luego se excluyeron
+dos artículos debido a la falta de acceso (9,10) y uno por no
+estar en inglés o español (11). Finalmente, se incluyeron 37
+artículos, nueve de los cuales fueron trabajos originales (12-20);
+cuatro, revisiones narrativas (21-24); y 24, cartas al editor (25-48)
+(Figura 1).
+
+(felicidad y satisfacción). Esto generó un comportamiento
+errático entre las personas, lo cual es un fenómeno común, ya
+que existe mucha especulación sobre el modo y la velocidad de
+trasmisión de la enfermedad, actualmente, sin un tratamiento
+definitivo (21).
+Además, la cuarentena incrementa la posibilidad de
+problemas psicológicos y mentales, principalmente por el
+distanciamiento entre las personas. En ausencia de comunicación interpersonal, es más probable que los trastornos depresivos y ansiosos ocurran o empeoren (41,44). Por otro lado,
+la cuarentena reduce la disponibilidad de intervenciones
+psicosociales oportunas y de asesoramiento psicoterapéutico de rutina (41). Los siguientes problemas de salud mental
+surgirán durante la pandemia:
+
+SALUD MENTAL EN LA POBLACIÓN
+GENERAL
+Inicialmente el brote del SARS‐CoV‐2 en China causó alarma
+y estrés en la población general. El miedo a la enfermedad se
+podría explicar por la novedad e incertidumbre que genera (26).
+El creciente número de pacientes y casos sospechosos
+suscitaron la preocupación del público por infectarse. El miedo
+se exacerbó por los mitos y por la desinformación en las redes
+sociales y medios de comunicación, a menudo impulsado
+por noticias erróneas y por la mala comprensión de los
+mensajes relacionados al cuidado de la salud (28). Luego de la
+declaración de emergencia en China (15), un estudio reveló un
+incremento de las emociones negativas (ansiedad, depresión
+e indignación) y una disminución de las emociones positivas
+
+328
+
+Ansiedad por la salud
+
+Ocurre cuando algunos cambios o sensaciones corporales
+son interpretados como síntomas de alguna enfermedad. Se
+caracteriza por interpretaciones catastróficas de sensaciones
+y cambios corporales, creencias disfuncionales acerca de la
+salud y la enfermedad, y malos mecanismos adaptativos.
+En el contexto de la pandemia de COVID-19, las personas
+con altos niveles de ansiedad por la salud son susceptibles
+de interpretar sensaciones corporales inofensivas como
+evidencia de que se encuentran infectados, lo que incrementa
+su ansiedad, influye en su capacidad para tomar decisiones
+racionales y en su comportamiento. Esto ocasiona conductas
+desadaptativas, como acudir frecuentemente a los centros
+de salud para descartar la enfermedad, excesivo lavado de
+manos, retraimiento social y ansiedad por comprar (25).
+Pese a que algunas de estas conductas son, por lo general,
+consecuentes con las recomendaciones de los salubristas; sin
+embargo, las personas con ansiedad por la salud las llevan
+al extremo, lo que genera consecuencias deletéreas para el
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+Rev Peru Med Exp Salud Publica. 2020;37(2):327-34.
+
+individuo y su comunidad (p. ej. comprar en exceso materiales de
+protección personal, como mascarillas, guantes y jabones puede
+generar desabastecimiento en la comunidad). Por el contrario,
+los bajos niveles de ansiedad por la salud también podrían ser
+perjudiciales, ya que es posible que las personas crean que no
+pueden ser contagiadas e incumplan las recomendaciones de
+salud pública y de distanciamiento social (25).
+
+Depresión
+
+Un estudio chino realizado en la fase inicial de la pandemia
+en 1210 personas descubrió que el 13,8% presentó síntomas
+depresivos leves; el 12,2%, síntomas moderados; y el 4,3%,
+síntomas graves (19). Se observaron mayores niveles de depresión en los varones, en personas sin educación, en personas
+con molestias físicas (escalofríos, mialgia, mareo, coriza y
+dolor de garganta) y en personas que no confiaban en la habilidad de los médicos para diagnosticar una infección por
+COVID-19 (19). Asimismo, se informaron menores niveles de
+depresión en las personas que se enteraron del incremento
+de pacientes recuperados y en las personas que siguieron las
+recomendaciones de salud pública (19).
+En las personas que sufren el fallecimiento repentino
+de un ser querido por la COVID-19, la incapacidad de despedirse puede generar sentimientos de ira, tristeza y resentimiento, lo que podría generar el desarrollo de un duelo
+patológico (21). Por lo tanto, el personal médico debe estar
+capacitado para comunicar las malas noticias de manera
+adecuada y evitar un impacto negativo en los familiares. A
+pesar de su importancia, en diversos estudios se ha documentado que los médicos no han recibido un entrenamiento
+formal para comunicar malas noticias. Es necesario que los
+especialistas en salud mental faciliten a los médicos conceptos precisos sobre este asunto (49).
+Debido a que se desaconseja que el personal no esencial,
+como psiquiatras, psicólogos y trabajadores sociales de salud
+mental, ingresen a las salas de aislamiento para pacientes con
+COVID-19, los profesionales que se encuentran en la primera línea de respuesta tienen que brindar intervenciones
+psicosociales a los pacientes hospitalizados (31). Por lo tanto,
+es importante que los clínicos comprendan las similitudes y
+diferencias entre los síntomas de la COVID-19 y un episodio
+depresivo. Los síntomas como fatiga, trastornos del sueño,
+trastornos del apetito, disminución de la interacción social y
+pérdida de interés en las actividades habituales se observan
+tanto en la depresión clínica como en las infecciones virales.
+Clínicamente, sin embargo, los síntomas psicológicos centrales de la depresión (desesperanza, inutilidad, pesimismo
+y culpa) serían más típicos de la depresión (50).
+
+Reacciones al estrés
+
+En otro estudio chino realizado en 52 730 personas durante
+la fase inicial de la pandemia se descubrió que el 35% de los
+participantes experimentaron estrés psicológico, con niveles
+más altos en las mujeres (18). Además, las personas entre 18 y
+30 años, y los mayores de 60 años, tuvieron niveles más altos
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+Huarcaya-Victoria J
+
+de estrés psicológico. Las puntuaciones más altas en el grupo
+de 18 a 30 años podrían deberse a que usan las redes sociales
+como medio principal de información, lo cual puede desencadenar fácilmente el estrés (18). Por otro lado, dado que
+la tasa de mortalidad más alta por la COVID-19 se produce
+en los adultos mayores, no es sorprendente que ellos tengan
+más posibilidades de sufrir de estrés (18). A esto debemos
+agregar que los adultos mayores tienen un acceso limitado
+al Internet y al uso de teléfonos inteligentes, por lo que solo
+una proporción muy pequeña de ellos se podría beneficiar
+de los servicios de salud mental en línea (42).
+En otro estudio, realizado por Wang et al. (19) en 1210
+personas de China durante la fase inicial de la pandemia,
+se reveló que el 24,5% del total de personas presentaron un
+impacto psicológico mínimo; el 21,7%, un impacto moderado; y el 53,8%, un impacto moderado-grave. Además, el ser
+mujer, estudiante y tener algunos síntomas físicos se asociaron con un mayor impacto psicológico estresante durante el
+brote de la enfermedad (19).
+Esta pandemia también tiene un impacto psicológico en
+los estudiantes universitarios. Cao et al. (12) estudiaron a 7143
+estudiantes de medicina durante la fase inicial de la pandemia
+y descubrieron que el 0,9% de ellos mostraron síntomas ansiosos graves; el 2,7%, moderados y el 21,3% leves. Además, el
+vivir en un área urbana, tener estabilidad económica familiar
+y vivir con los padres fueron factores protectores frente a la
+ansiedad. No obstante, el tener un conocido diagnosticado
+con la COVID-19 empeora los niveles de ansiedad (12).
+La presencia de síntomas por trastorno de estrés postraumático (TEPT) fue descrito por Liu et al. (17), quienes
+hallaron una prevalencia del 7% en las zonas de China más
+afectadas por la pandemia, lo cual supera lo reportado en
+otras epidemias y sugiere que la enfermedad tuvo un mayor
+impacto estresante en la población general. Lo más importante de este estudio son las diferencias encontradas entre las
+características del TEPT según el género. Las mujeres tuvieron más síntomas de hiperactividad, recuerdos angustiosos
+recurrentes y alteraciones negativas cognitivas y del estado
+de ánimo.
+Si bien, existen informes de síntomas neurológicos en
+pacientes con encefalitis viral por la COVID-19, no hemos
+encontrado artículos donde se investigue la presencia de síntomas mentales en dichos pacientes (51). No obstante, podemos predecir las consecuencias esperadas en la salud mental
+de estas personas, las cuales pueden incluir experiencias de
+temor, ansiedad y depresión (29).
+Otro punto por evaluar es la repercusión directa o indirecta
+que puede producir el virus en el cerebro. Se sabe que los
+coronavirus pueden ser capaces de replicarse dentro del sistema
+nervioso central de algunos individuos, como lo demuestra la
+presencia de ARN en los cerebros de pacientes con esclerosis
+múltiple. El reciente desarrollo de ensayos para la medición de
+anticuerpos contra cepas prevalentes de coronavirus permite
+estudiar la exposición a este virus y el vínculo con otras
+
+329
+
+Salud mental y la COVID-19
+
+Rev Peru Med Exp Salud Publica. 37(2):327-34.
+
+enfermedades (50). Hay estudios que asocian la exposición
+al coronavirus con enfermedades neuropsiquiátricas, como la
+aparición de los primeros episodios psicóticos (52).
+
+SALUD MENTAL EN LOS PACIENTES
+CON ENFERMEDADES MENTALES
+PREVIAS
+En la pandemia de COVID-19 la atención global se ha centrado
+en los pacientes infectados y en el personal de salud de primera
+línea, sin embargo, algunas poblaciones marginadas por la
+sociedad han sido pasadas por alto. Resulta preocupante el efecto
+de la pandemia en las personas con trastornos psiquiátricos.
+La ignorancia del impacto diferencial de la pandemia en estos
+pacientes no solo obstaculiza cualquier objetivo de prevenir una
+mayor propagación de la enfermedad, sino que también aumenta
+las desigualdades de salud ya existentes (43). Los problemas (43) de
+los pacientes con trastornos mentales preexistentes pueden ser:
+1) Las enfermedades mentales podrían incrementar el
+riesgo de infecciones debido a un deterioro cognitivo, poca
+conciencia del riesgo y pocos esfuerzos de protección personal
+de los pacientes.
+2) Si una persona con una enfermedad mental da positivo
+en la prueba de detección de COVID19, tendría más barreras
+para acceder adecuadamente a los servicios de salud, esto asociado con la discriminación relacionada con la enfermedad
+mental.
+3) La pandemia de COVID-19 también ocasiona síntomas reactivos como estrés, depresión y ansiedad, todo lo
+cual puede agravar el estado de salud mental de las personas
+con un diagnóstico psiquiátrico previo.
+Respecto a lo que pueda suceder en los hospitales
+psiquiátricos en el Perú, es conveniente repasar la experiencia
+descrita en China. Zhu et al. (48) mencionan que el personal que
+trabaja en los hospitales psiquiátricos de China no fue notificado
+oportunamente sobre los factores que pueden incrementar
+el riesgo del brote por la COVID-19. Además, mencionan la
+existencia de una serie de problemas a la hora de contener la
+pandemia en los hospitales psiquiátricos (Tabla 1).
+Durante esta pandemia se han escuchado pocas voces en
+defensa de esta población, grande y a la vez vulnerable. Las
+pandemias nunca afectan a todas las personas por igual, y las
+desigualdades siempre pueden impulsar la propagación de
+infecciones. Como profesionales de la salud mental debemos
+solicitar la atención necesaria y adecuada de esta población
+vulnerable (43).
+
+SALUD MENTAL EN EL PERSONAL DE
+SALUD
+En la lucha contra la COVID-19, los profesionales de la salud de Wuhan se enfrentaron a una enorme presión debido
+a un alto riesgo de infección y falta de protección adecuada
+
+330
+
+Tabla 1. Problemas que se encuentran en las salas de hospitalización
+psiquiátrica en China descritos en los inicios de la pandemia de
+COVID-19
+1) Las salas de hospitalización generalmente se encuentran abarrotadas.
+2) Como suele suceder en los hospitales psiquiátricos, sus salas no fueron
+diseñadas para los estándares de aislamiento contra enfermedades
+respiratorias infecciosas ni se encuentran equipadas con dispositivos de
+presión negativos.
+3) Las fuentes de infección no pueden ser encontradas de manera
+oportuna, ya que los pacientes no son sensibles ni están preocupados por
+lo que pueda suceder a su alrededor.
+4) Es difícil para los pacientes de psiquiatría, especialmente aquellos
+con trastornos psicóticos, aceptar y cooperar con las medidas de
+autoaislamiento.
+5) El personal médico de las salas de psiquiatría no se encontraba
+adecuadamente capacitado para hacer frente a estas enfermedades
+infecciosas.
+6) No existen guías de práctica clínica para la prevención y el manejo
+de enfermedades infecciosas en los pacientes con enfermedades
+psiquiátricas.
+7) Los pacientes con un trastorno psicótico tienen disminuida la
+percepción de los cambios en el entorno y carecen de un sentido de
+autoprotección.
+Fuente: Zhu et al. (48)
+
+ante una posible contaminación, aislamiento, incremento de
+la demanda de trabajo, frustración, cansancio por las largas
+jornadas laborales, falta de contacto con sus familiares y trato con pacientes que expresan emociones negativas (34). El
+personal encargado de los recursos humanos de los servicios
+de salud debe ser consciente de las consecuencias mentales
+que podrían generarse en este contexto. Durante las etapas
+iniciales de las emergencias sanitarias, el personal de salud
+puede presentar síntomas depresivos, ansiosos y similares al
+TEPT, los cuales no solo repercuten en la atención y toma de
+decisiones (las principales herramientas de lucha contra la
+COVID-19), sino también en su bienestar (34). Al respecto ya
+han sido publicadas algunas investigaciones empíricas.
+Huang et al. (13) estudiaron la salud mental del personal
+de salud de primera línea en la pandemia de COVID-19, entre el 7 y el 14 de febrero de 2020, para lo cual aplicaron la
+escala de autoevaluación de ansiedad (SAS, por sus siglas en
+inglés) y la escala de autoevaluación de trastorno de estrés
+postraumático (PTSD-SS, por sus siglas en inglés) a un total
+de 230 profesionales de la salud. Los investigadores descubrieron que la incidencia de ansiedad en el personal médico fue del 23,1% y que fue mayor en el personal femenino.
+La incidencia de trastornos por estrés fue del 27,4%, la cual
+también fue mayor en el personal femenino.
+Lai et al. (14) realizaron un estudio trasversal en 1257 profesionales de la salud de 34 hospitales de China, entre el 29
+de enero y el 3 de febrero de 2020, con la finalidad de estudiar los niveles de depresión, ansiedad, insomnio y reacción al estrés. El personal encuestado informó la presencia
+de síntomas depresivos (50,4%), ansiosos (44,6%), insomnio
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+Huarcaya-Victoria J
+
+Rev Peru Med Exp Salud Publica. 2020;37(2):327-34.
+
+(34,0%) y reacción al estrés (71,5%). Además, el personal de
+enfermería, las mujeres, los trabajadores de atención médica
+de primera línea que atendían directamente a los pacientes
+sospechosos de tener la COVID-19 y el personal médico que
+trabaja en Wuhan informaron grados más severos de problemas en su salud mental. De todas estas variables, trabajar
+en la primera línea de diagnóstico, tratamiento y atención
+de pacientes con la COVID-19 fueron las que se asociaron
+significativamente con un mayor riesgo de síntomas depresivos, ansiosos, insomnio y reacción de estrés.
+Otro problema al que pueden estar expuestos los profesionales de la salud es el trauma vicario o indirecto, que consiste en
+la afectación involuntaria de estos profesionales a desarrollar síntomas similares a los de sus pacientes, víctimas de algún
+trauma. Los síntomas pueden ser la pérdida de apetito, fatiga,
+insomnio, irritabilidad, atención deficiente, miedo y desesperación (16). Para abordar este problema, Li et al. (16) realizaron
+un estudio en 526 enfermeras (234 enfermeras de primera
+línea y 292 enfermeras de segunda línea) y 214 personas de la
+población general. Los resultados de este estudio evidenciaron
+que los niveles de trauma vicario fueron significativamente más
+bajos en las enfermeras de primera línea. Además, los puntajes
+fueron mayores en la población general en comparación con las
+enfermeras de primera línea, lo cual podría deberse a que estas
+profesionales son voluntarias y tienen una mayor preparación
+psicológica y más conocimiento de la pandemia que las demás
+enfermeras o la población en general (16).
+También se debe considerar el estigma hacia los profesionales de la salud. Si bien no se han encontrado estudios en
+la actual pandemia, las investigaciones realizadas durante otras
+epidemias o pandemias demostraron que entre el 20% y el
+49% de los profesionales de la salud experimentaron estigma
+social relacionado con su trabajo y el temor de la comunidad
+y familiares de ser contagiados por ellos. En un estudio realizado en 187 enfermeras durante el brote del MERS-CoV
+se encontró que el estigma influye en la salud mental, ya sea de
+forma directa o indirecta teniendo como mediador al estrés (53).
+De la revisión de estos estudios podemos advertir varios
+problemas de salud mental que enfrentan los profesionales
+de la salud durante esta pandemia. En general, podemos
+mencionar que las profesionales, las enfermeras y quienes
+trabajan directamente con casos sospechosos o confirmados
+de COVID-19 tienen mayor riesgo de padecer de problemas
+de salud mental. Si se desea contener adecuadamente la pandemia, se debe propiciar el cuidado de la salud mental del
+personal de salud.
+
+¿QUÉ HACER? LA EXPERIENCIA DE
+OTROS PAÍSES
+Con toda la evidencia publicada hasta la fecha, tanto de pandemias pasadas como de la actual, parece ser que, además de
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+los esfuerzos en varios niveles para prevenir la propagación
+de la enfermedad, se deben desarrollar programas para detectar y tratar problemas de salud mental (44).
+Si bien, los datos epidemiológicos sobre los problemas de
+salud mental de los pacientes sospechosos o diagnosticados
+con COVID-19 y del personal de salud aún son escasos y se
+desconoce cuál es la mejor forma de responder a los desafíos durante esta enfermedad, la experiencia de anteriores
+pandemias y lo realizado en otros países puede ser útil (37,40).
+
+Identificar los grupos de alto riesgo
+
+La evidencia revisada hasta el momento indica que los
+grupos más vulnerables en esta pandemia son las mujeres,
+los estudiantes universitarios y adultos mayores (18,19). Es plausible
+considerar, además, a personas con enfermedades mentales
+preexistentes (43,48) o con condiciones físicas incapacitantes (38). Se
+debe generar evidencia en la realidad peruana, ya que algunos
+grupos vulnerables pueden depender de factores socioculturales,
+como los estudiantes universitarios (45).
+
+Creación de equipos multidisciplinarios de salud
+mental
+
+Tanto a nivel regional como nacional, se deben crear equipos que
+incluyan la participación de psiquiatras, psicólogos, enfermeras
+psiquiátricas y otros trabajadores de salud mental (18). Estos
+deben ser los encargados de educar sobre las consecuencias
+psicológicas más comunes, fomentar conductas mentalmente
+saludables y empoderar a los pacientes, familiares y prestadores
+de salud (27). Se deben generar guías e instrucciones de manejo
+de estos pacientes, en los servicios de salud mental (23).
+
+Mejorar el tamizaje de comorbilidades psiquiátricas
+
+Debido al limitado número de profesionales de la salud mental
+en el Perú, es esencial que todos los médicos, especialmente los
+que laboran en áreas de emergencia, mejoren sus habilidades
+para buscar y reconocer síntomas mentales en los pacientes.
+
+Intervención psicoterapéutica
+
+Estratégicamente se utilizan programas de intervención remota.
+Durante las pandemias pasadas, los servicios de internet y el
+uso de teléfonos inteligentes no eran masivos, debido a eso, los
+servicios de salud mental en línea eran escasos. Sin embargo,
+en los últimos años ocurrió una masificación del acceso a
+Internet y del uso de teléfonos inteligentes, lo que permite a los
+profesionales de la salud a proveer mejores servicios durante
+esta pandemia (24). En China, la intervención psicoterapéutica
+en línea es durante las 24 horas, todos los días de la semana.
+En estos programas se incluyen intervenciones como la terapia
+cognitivo-conductual para tratar la depresión, ansiedad
+e insomnio. También se han desarrollado programas de
+inteligencia artificial que pueden ser de utilidad. Por ejemplo, se
+
+331
+
+Salud mental y la COVID-19
+
+Rev Peru Med Exp Salud Publica. 37(2):327-34.
+
+pueden identificar las personas con riesgo de suicidio a través
+del programa Tree Hole Rescue (36,47).
+Otra posible intervención es la terapia de cartas estructuradas (41), la cual puede realizar la función de consulta, diagnóstico y tratamiento. Se envía un formulario con preguntas
+estructuradas en las que se incluye una página para el paciente
+y una página de intervención y continuación (Tabla 2).
+Sin embargo, las medidas de consulta remota tienen
+grandes deficiencias, como la carencia de datos del historial
+médico, datos psicométricos, lenguaje corporal, entre otros.
+Los servicios de consultas de salud mental remotas no pueden reemplazar los servicios presenciales. Solo deben utilizarse como respaldo de emergencia temporal en circunstancias excepcionales, como en la actual pandemia (22).
+
+Intervención en el personal de salud
+
+Se deben desarrollar planes adecuados de intervenciones psicosociales basados en equipos interdisciplinarios (Figura 2).
+Algunas medidas generales pueden ser horarios de trabajo
+más cortos, periodos de descanso regulares y turnos rotativos
+para aquellos que trabajan en áreas de alto riesgo (35). La experiencia en The Second Xiangya Hospital, de la provincia de Hunan, nos dice que la mejor forma de prevenir problemas mentales en el personal de salud es brindar un espacio adecuado
+para que puedan descansar y aislarse momentáneamente de
+sus familias, ofrecer una adecuada alimentación y suministros
+diarios, facilitar información sobre la enfermedad y sobre las
+medidas de protección, desarrollar reglas detalladas y claras
+para el uso y manejo de los equipos de protección, aconsejar
+Tabla 2. Modelo de carta estructurada
+Página del paciente
+1) Preséntese brevemente. Escriba su género, edad, nivel educativo
+y oficio.
+2) ¿Tiene alguna enfermedad subyacente que cree que es necesario
+informarle a su terapeuta o psiquiatra?
+3) ¿Cuál es tu pregunta? Resuma el contenido de la pregunta en una
+oración.
+4) Elija su emoción más prominente entre las siguientes: depresión,
+ansiedad, preocupación y susto, desesperación e indefensión. Si no
+puede encontrar la emoción correspondiente, escriba su emoción
+prominente por separado.
+5) ¿Tiene alguna otra pregunta?
+Página de intervención
+1) Posibles razones de sus emociones actuales, cómo puede aliviarlas
+o cómo aprender a vivir con ellas.
+2) Su desempeño actual puede ser parte de ___ (se considera un cierto problema psicológico o diagnóstico de trastorno mental) y, si es
+posible, complete la escala de autoevaluación que se le proporcionó.
+3) ¿Tiene alguna otra pregunta?
+Fuente: Xiao et al. (41)
+
+332
+
+Personas que
+brindan apoyo
+telefónico
+relacionadas con
+problemas
+mentales
+
+Psiquiatras:
+participan con
+intervenciones
+médicas y
+prescripción
+de psicofármacos
+de ser necesario.
+
+Apoyo
+psicológico en
+línea
+
+Equipo médico
+de intervención
+psicológica
+
+Respuesta
+psicosocial
+
+Gerentes y
+personal de
+prensa: coordinan
+el trabajo del
+equipo, gestión y
+publicidad.
+
+Intervención y
+apoyo
+Expertos en
+psicológico
+intervenciones
+psicológicas: formulan
+los materiales y reglas
+de intervenciones
+psicológicas, además
+de proveer guía y
+supervisión técnica.
+
+Elaborado a partir de: Kang et al. (34)
+
+Figura 2. Equipos interdisciplinarios conformados en China para proteger la salud mental del personal sanitario
+
+sobre técnicas de relajación y manejo del estrés, y fomentar
+las visitas de los consejeros psicológicos a las áreas de descanso del personal de salud para escuchar sus dificultades y
+brindarle el apoyo necesario (30,32). Se ha demostrado que la
+confianza es un aspecto clave del bienestar psicológico, ya que
+ayuda a mejorar la motivación, el rendimiento y la calidad de
+la atención. La experiencia de la pandemia de H1N1 en Japón
+en el 2009 nos sugiere que la confianza entre los trabajadores
+es un elemento importante para que el personal de la salud
+esté dispuesto a trabajar durante una crisis de salud pública,
+ya que fomenta mejores interacciones sociales y cooperación
+entre los profesionales sanitarios (33).
+
+Brindar información adecuada a la población
+general
+
+El gobierno chino realizó un esfuerzo para concientizar a
+la población sobre las estrategias de prevención e intervención,
+proporcionando actualizaciones diarias en las redes sociales y
+sitios webs (28). Esta información, actualizada y precisa, debe
+centrarse en el número de casos recuperados, el tratamiento
+(desarrollo de medicamentos o vacunas) y el modo de trasmisión, así como sobre el número de casos infectados y su
+ubicación. Si las personas reciben suficiente información y
+confían en el gobierno y en las autoridades de salud se podría
+reducir la ansiedad y la vulnerabilidad percibida (20,21). Al parecer,
+el gobierno del Perú sigue esta recomendación, ya que brinda
+diariamente mensajes sobre la situación actual de la pandemia.
+Los profesionales de la salud mental pueden compartir estrategias para lidiar con el estrés psicológico. Por ejemplo, los expertos
+del Peking University Sixth Hospital brindaron sugerencias para
+que el público pueda lidiar con el estrés (Figura 3).
+La presente revisión tiene algunas limitaciones, siendo la
+más importante el haber usado solo a Pubmed como único
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+Huarcaya-Victoria J
+
+Rev Peru Med Exp Salud Publica. 2020;37(2):327-34.
+
+CONCLUSIONES
+
+Evaluar la
+precisión
+de la
+información
+divulgada
+
+Mejorar los
+sistemas de
+apoyo social
+(p. ej.,
+familiares y
+amigos)
+
+Eliminar
+el estigma
+asociado con
+la pandemia
+
+Mantener
+una vida
+normal en
+condiciones
+seguras
+
+Utilizar el
+sistema de
+servicios
+psicosociales:
+asesoramiento
+telefónico,
+teleconsultas,
+etc.
+
+Elaborado a partir de: Bao et al. (28)
+
+Figura 3. Sugerencias de los expertos del Peking University Sixth Hospital para que la población afronte el estrés producido durante la pandemia de COVID-19
+
+buscador de artículos, por lo que la evidencia proporcionada
+debería tomarse con cautela ya que no representa la totalidad de esta. Como fortaleza se destaca la rapidez en la sistematización de información sobre el tema de revisión.
+
+En cualquier emergencia sanitaria los problemas de salud
+mental son comunes y pueden ser barreras para las intervenciones médicas y de salud mental. De acuerdo con la evidencia revisada, se ha demostrado que durante la fase inicial de
+la pandemia de COVID-19 fue común la presencia de ansiedad,
+depresión y reacción al estrés en la población general. Además,
+en el personal de salud también se encontraron problemas de
+salud mental, especialmente en las profesionales, las enfermeras
+y en quienes trabajan directamente con casos sospechosos o
+confirmados de COVID-19.
+Para lograr controlar la pandemia de COVID-19 en el
+Perú, se requiere un manejo adecuado e integral de la atención en salud mental. La experiencia de otros países nos señala que adherirse a las recomendaciones mencionadas en
+esta revisión ayudaría a mejorar la salud mental de la población y del personal de salud.
+Contribuciones de los autores: JHV participó en la concepción del
+artículo, búsqueda bibliográfica, redacción, revisión crítica y aprobación
+final del artículo.
+Conflictos de interés: El autor declara no tener conflictos de interés.
+Fuentes de financiamiento: Autofinanciado.
+
+REFERENCIAS BIBLIOGRÁFICAS
+1.
+
+Velavan TP, Meyer CG. The COVID-19 epidemic. Trop Med Int Health.
+2020;25(3):278-80. doi: 10.1111/tmi.13383.
+2. World Health Organization. Coronavirus disease 2019 (COVID-19).
+Situation Report-65 2020 [citado el 25 marzo de 2020]. Disponible en:
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200325-sitrep-65-covid-19.pdf?sfvrsn=2b74edd8_2.
+3. Plataforma digital unica del Estado Peruano. Coronavirus en el Perú:
+casos confirmados [Internet]. Lima; 2020 [citado el 25 marzo de 2020].
+Disponible en: https://www.gob.pe/8662.
+4. Chan AO, Huak CY. Psychological impact of the 2003 severe acute respiratory syndrome outbreak on health care workers in a medium size regional
+general hospital in Singapore. Occup Med (Lond). 2004;54(3):190-6. doi:
+10.1093/occmed/kqh027.
+5. Chen WK, Cheng YC, Chung YT, Lin CC. The impact of the SARS
+outbreak on an urban emergency department in Taiwan. Med Care.
+2005;43(2):168-72. doi: 10.1097/00005650-200502000-00010.
+6. Khalid I, Khalid TJ, Qabajah MR, Barnard AG, Qushmaq IA. Healthcare
+Workers Emotions, Perceived Stressors and Coping Strategies During
+a MERS-CoV Outbreak. Clin Med Res. 2016;14(1):7-14. doi: 10.3121/
+cmr.2016.1303.
+7. Jeong H, Yim HW, Song YJ, Ki M, Min JA, Cho J, et al. Mental health status
+of people isolated due to Middle East Respiratory Syndrome. Epidemiol
+Health. 2016;38:e2016048. doi: 10.4178/epih.e2016048.
+8. Stoye E. China coronavirus: how many papers have been published?
+Springer Nature; 2020 [citado 26 marzo de 2020]. Disponible en:
+https://www.nature.com/articles/d41586-020-00253-8.
+9. Chung JPY, Yeung WS. Staff Mental Health Self-Assessment During the
+COVID-19 Outbreak. East Asian Arch Psychiatry. 2020;30(1):34. doi:
+10.12809/eaap2014.
+10. Dong L, Bouey J. Public Mental Health Crisis during COVID-19 Pandemic, China. Emerg Infect Dis. 2020;26(7). doi: 10.3201/eid2607.200407.
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+11. Qu X, Zhou XD. Psychological intervention in oral patients in novel
+coronavirus pneumonia outbreak period. Zhonghua Kou Qiang Yi Xue
+Za Zhi. 2020;55(0):E003. doi: 10.3760/cma.j.cn112144-20200213-00053.
+12. Cao W, Fang Z, Hou G, Han M, Xu X, Dong J, et al. The psychological impact of the COVID-19 epidemic on college students in China. Psychiatry
+Res. 2020;287:112934. doi: 10.1016/j.psychres.2020.112934.
+13. Huang JZ, Han MF, Luo TD, Ren AK, Zhou XP. Mental health survey of
+230 medical staff in a tertiary infectious disease hospital for COVID-19.
+Zhonghua Lao Dong Wei Sheng Zhi Ye Bing Za Zhi. 2020;38(0):E001.
+doi: 10.3760/cma.j.cn121094-20200219-00063.
+14. Lai J, Ma S, Wang Y, Cai Z, Hu J, Wei N, et al. Factors Associated With
+Mental Health Outcomes Among Health Care Workers Exposed to
+Coronavirus Disease 2019. JAMA Netw Open. 2020;3(3):e203976. doi:
+10.1001/jamanetworkopen.2020.3976.
+15. Li S, Wang Y, Xue J, Zhao N, Zhu T. The Impact of COVID-19 Epidemic
+Declaration on Psychological Consequences: A Study on Active Weibo
+Users. Int J Environ Res Public Health. 2020;17(6). doi: 10.3390/ijerph17062032.
+16. Li Z, Ge J, Yang M, Feng J, Qiao M, Jiang R, et al. Vicarious traumatization
+in the general public, members, and non-members of medical teams
+aiding in COVID-19 control. Brain Behav Immun. 2020. doi: 10.1016/j.
+bbi.2020.03.007.
+17. Liu N, Zhang F, Wei C, Jia Y, Shang Z, Sun L, et al. Prevalence and
+predictors of PTSS during COVID-19 outbreak in China hardest-hit
+areas: Gender differences matter. Psychiatry Res. 2020;287:112921. doi:
+10.1016/j.psychres.2020.112921.
+18. Qiu J, Shen B, Zhao M, Wang Z, Xie B, Xu Y. A nationwide survey
+of psychological distress among Chinese people in the COVID-19
+epidemic: implications and policy recommendations. Gen Psychiatr.
+2020;33(2):e100213. doi: 10.1136/gpsych-2020-100213.
+19. Wang C, Pan R, Wan X, Tan Y, Xu L, Ho CS, et al. Immediate Psychological Responses and Associated Factors during the Initial Stage of the
+
+333
+
+Rev Peru Med Exp Salud Publica. 37(2):327-34.
+
+20.
+
+21.
+22.
+
+23.
+24.
+
+25.
+
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+
+2019 Coronavirus Disease (COVID-19) Epidemic among the General
+Population in China. Int J Environ Res Public Health. 2020;17(5). doi:
+10.3390/ijerph17051729.
+Zhong BL, Luo W, Li HM, Zhang QQ, Liu XG, Li WT, et al. Knowledge,
+attitudes, and practices towards COVID-19 among Chinese residents during
+the rapid rise period of the COVID-19 outbreak: a quick online cross-sectional survey. Int J Biol Sci. 2020;16(10):1745-52. doi: 10.7150/ijbs.45221.
+Ho CS, Chee CY, Ho RC. Mental Health Strategies to Combat the Psychological Impact of COVID-19 Beyond Paranoia and Panic. Ann Acad
+Med Singapore. 2020;49(1):1-3.
+Jiang X, Deng L, Zhu Y, Ji H, Tao L, Liu L, et al. Psychological crisis intervention during the outbreak period of new coronavirus pneumonia from
+experience in Shanghai. Psychiatry Res. 2020;286:112903. doi: 10.1016/j.
+psychres.2020.112903.
+Li W, Yang Y, Liu ZH, Zhao YJ, Zhang Q, Zhang L, et al. Progression of
+Mental Health Services during the COVID-19 Outbreak in China. Int J
+Biol Sci. 2020;16(10):1732-8. doi: 10.7150/ijbs.45120.
+Lima CKT, Carvalho PMM, Lima I, Nunes J, Saraiva JS, de Souza RI,
+et al. The emotional impact of Coronavirus 2019-nCoV (new Coronavirus disease). Psychiatry Res. 2020;287:112915. doi: 10.1016/j.psychres.2020.112915.
+Asmundson GJG, Taylor S. How health anxiety influences responses
+to viral outbreaks like COVID-19: What all decision-makers, health
+authorities, and health care professionals need to know. J Anxiety Disord.
+2020;71:102211. doi: 10.1016/j.janxdis.2020.102211.
+Asmundson GJG, Taylor S. Coronaphobia: Fear and the 2019-nCoV
+outbreak. J Anxiety Disord. 2020;70:102196. doi: 10.1016/j.janxdis.2020.102196.
+Banerjee D. The COVID-19 outbreak: Crucial role the psychiatrists can
+play. Asian J Psychiatr. 2020;50:102014. doi: 10.1016/j.ajp.2020.102014.
+Bao Y, Sun Y, Meng S, Shi J, Lu L. 2019-nCoV epidemic: address mental
+health care to empower society. Lancet. 2020;395(10224):e37-e8. doi:
+10.1016/s0140-6736(20)30309-3.
+Carvalho PMM, Moreira MM, de Oliveira MNA, Landim JMM, Neto
+MLR. The psychiatric impact of the novel coronavirus outbreak. Psychiatry Res. 2020;286:112902. doi: 10.1016/j.psychres.2020.112902.
+Chen Q, Liang M, Li Y, Guo J, Fei D, Wang L, et al. Mental health care for
+medical staff in China during the COVID-19 outbreak. Lancet Psychiatry.
+2020;7(4):e15-e6. doi: 10.1016/s2215-0366(20)30078-x.
+Duan L, Zhu G. Psychological interventions for people affected by the
+COVID-19 epidemic. Lancet Psychiatry. 2020;7(4):300-2. doi: 10.1016/
+s2215-0366(20)30073-0.
+Fessell D, Cherniss C. COVID-19 & Beyond: Micro-practices for Burnout Prevention and Emotional Wellness. J Am Coll Radiol. 2020. doi:
+10.1016/j.jacr.2020.03.013.
+Imai H. Trust is a key factor in the willingness of health professionals to work
+during the COVID-19 outbreak: Experience from the H1N1 pandemic in
+Japan 2009. Psychiatry Clin Neurosci. 2020. doi: 10.1111/pcn.12995.
+Kang L, Li Y, Hu S, Chen M, Yang C, Yang BX, et al. The mental health of
+medical workers in Wuhan, China dealing with the 2019 novel coronavirus.
+Lancet Psychiatry. 2020;7(3):e14. doi: 10.1016/s2215-0366(20)30047-x.
+Liang Y, Chen M, Zheng X, Liu J. Screening for Chinese medical staff
+mental health by SDS and SAS during the outbreak of COVID-19. J
+Psychosom Res. 2020;133:110102. doi: 10.1016/j.jpsychores.2020.110102.
+Liu S, Yang L, Zhang C, Xiang YT, Liu Z, Hu S, et al. Online mental health
+services in China during the COVID-19 outbreak. Lancet Psychiatry.
+2020;7(4):e17-e8. doi: 10.1016/s2215-0366(20)30077-8.
+
+334
+
+Salud mental y la COVID-19
+
+37. Park SC, Park YC. Mental Health Care Measures in Response to the 2019
+Novel Coronavirus Outbreak in Korea. Psychiatry Investig. 2020;17(2):856. doi: 10.30773/pi.2020.0058.
+38. Shigemura J, Ursano RJ, Morganstein JC, Kurosawa M, Benedek DM.
+Public responses to the novel 2019 coronavirus (2019-nCoV) in Japan:
+Mental health consequences and target populations. Psychiatry Clin
+Neurosci. 2020. doi: 10.1111/pcn.12988.
+39. Xiang YT, Li W, Zhang Q, Jin Y, Rao WW, Zeng LN, et al. Timely research
+papers about COVID-19 in China. Lancet. 2020;395(10225):684-5. doi:
+10.1016/s0140-6736(20)30375-5.
+40. Xiang YT, Yang Y, Li W, Zhang L, Zhang Q, Cheung T, et al. Timely
+mental health care for the 2019 novel coronavirus outbreak is urgently
+needed. Lancet Psychiatry. 2020;7(3):228-9. doi: 10.1016/s22150366(20)30046-8.
+41. Xiao C. A Novel Approach of Consultation on 2019 Novel Coronavirus
+(COVID-19)-Related Psychological and Mental Problems: Structured
+Letter Therapy. Psychiatry Investig. 2020;17(2):175-6. doi: 10.30773/
+pi.2020.0047.
+42. Yang Y, Li W, Zhang Q, Zhang L, Cheung T, Xiang YT. Mental health
+services for older adults in China during the COVID-19 outbreak. Lancet
+Psychiatry. 2020;7(4):e19. doi: 10.1016/s2215-0366(20)30079-1.
+43. Yao H, Chen JH, Xu YF. Patients with mental health disorders in the
+COVID-19 epidemic. Lancet Psychiatry. 2020;7(4):e21. doi: 10.1016/
+s2215-0366(20)30090-0.
+44. Zandifar A, Badrfam R. Iranian mental health during the COVID-19 epidemic. Asian J Psychiatr. 2020;51:101990. doi: 10.1016/j.ajp.2020.101990.
+45. Zhai Y, Du X. Mental health care for international Chinese students
+affected by the COVID-19 outbreak. The lancet Psychiatry. 2020;7(4):e22.
+doi: 10.1016/s2215-0366(20)30089-4.
+46. Zhou X. Psychological crisis interventions in Sichuan Province during
+the 2019 novel coronavirus outbreak. Psychiatry Res. 2020;286:112895.
+doi: 10.1016/j.psychres.2020.112895.
+47. Zhou X, Snoswell CL, Harding LE, Bambling M, Edirippulige S, Bai X, et
+al. The Role of Telehealth in Reducing the Mental Health Burden from
+COVID-19. Telemed J E Health. 2020. doi: 10.1089/tmj.2020.0068.
+48. Zhu Y, Chen L, Ji H, Xi M, Fang Y, Li Y. The Risk and Prevention of
+Novel Coronavirus Pneumonia Infections Among Inpatients in Psychiatric Hospitals. Neurosci Bull. 2020;36(3):299-302. doi: 10.1007/
+s12264-020-00476-9.
+49. León-Amenero D, Huarcaya-Victoria J. El duelo y cómo dar malas
+noticias en medicina. An Fac med. 2019;80(1):86-91. doi: 10.15381/
+anales.v80i1.15471.
+50. Okusaga O, Yolken RH, Langenberg P, Lapidus M, Arling TA,
+Dickerson FB, et al. Association of seropositivity for influenza and
+coronaviruses with history of mood disorders and suicide attempts. J
+Affect Disord. 2011;130(1-2):220-5. doi: 10.1016/j.jad.2010.09.029.
+51. Zhou L, Zhang M, Gao J, Wang J. Sars-Cov-2: Underestimated damage
+to nervous system. Travel Med Infect Dis. 2020:101642. doi: 10.1016/j.
+tmaid.2020.101642.
+52. Severance EG, Dickerson FB, Viscidi RP, Bossis I, Stallings CR, Origoni
+AE, et al. Coronavirus Immunoreactivity in Individuals With a Recent
+Onset of Psychotic Symptoms. Schizophrenia bulletin. 2009;37(1):1017. doi: 10.1093/schbul/sbp052.
+53. Park JS, Lee EH, Park NR, Choi YH. Mental Health of Nurses Working
+at a Government-designated Hospital During a MERS-CoV Outbreak:
+A Cross-sectional Study. Arch Psychiatr Nurs. 2018;32(1):2-6. doi:
+10.1016/j.apnu.2017.09.006.
+
+https://doi.org/10.17843/rpmesp.2020.372.5419
+
+

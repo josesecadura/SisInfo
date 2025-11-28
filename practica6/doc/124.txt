@@ -1,0 +1,13 @@
+Los primeros datos de un pequeño estudio clínico dirigido por investigadores del Instituto Nacional del Cáncer indican que un medicamento contra el cáncer podría ayudar a pacientes con problemas respiratorios por casos graves de COVID-19.
+
+Aunque la función del sistema inmunitario es combatir enfermedades, a veces reacciona en forma exagerada y causa daños. En algunos pacientes con COVID-19 grave, esta respuesta extrema del sistema inmunitario al virus puede afectar el funcionamiento de los pulmones y causar problemas respiratorios graves. El tratamiento con oxígeno adicional y ventiladores puede ayudar a estos pacientes graves a respirar mejor y, en ocasiones, a mantenerse con vida.
+
+El medicamento acalabrutinib se usa para tratar ciertos cánceres de la sangre. Actúa bloqueando una proteína que juega un papel clave en el sistema inmunitario del cuerpo. El estudio busca averiguar si es posible ayudar a los pacientes con COVID-19 grave a respirar mejor bloqueando esta proteína.
+
+Los investigadores descubrieron que, en la mayoría de los pacientes tratados, el medicamento redujo la reacción exagerada del sistema inmunitario al COVID-19 y mejoró significativamente la respiración.
+
+Se les administró un curso de 10 a 14 días de acalabrutinib a 19 participantes del estudio, 11 de ellos recibían oxígeno adicional y ocho estaban con ventiladores. A los pocos días de recibir el medicamento, en la mayoría de las personas del grupo de oxígeno adicional la inflamación disminuyó y la respiración mejoró. Ocho de esos 11 pacientes dejaron de necesitar oxígeno adicional y obtuvieron el alta del hospital.
+
+Los beneficios del medicamento fueron menos dramáticos para los participantes con ventiladores. Cuatro de los ocho pudieron ser desconectados del ventilador, y a dos se les pudo dar el alta.
+
+Estos resultados no se deben considerar como asesoría clínica, y el acalabrutinib no ha sido aprobado oficialmente como tratamiento para el COVID-19. Ahora, esta estrategia se está poniendo a prueba en un estudio clínico aleatorio y controlado para comprender cuáles son las opciones de tratamiento más eficaces y seguras para pacientes con COVID-19 grave.

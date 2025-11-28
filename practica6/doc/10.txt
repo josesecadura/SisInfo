@@ -1,0 +1,1099 @@
+Rev Esp Salud Pública. 2020; Vol. 94: 24 de junio e1-9.
+
+www.mscbs.es/resp
+Recibido: 2 de junio de 2020
+Aceptado: 12 de junio de 2020
+Publicado: 24 de junio de 2020
+
+ORIGINAL
+
+DEMOCRACIA Y MORTALIDAD POR COVID-19 EN EUROPA
+Ramón Mazzucchelli (1,2), Alberto Agudo Dieguez (3), Elisa M. Dieguez Costa (4) y Natalia Crespí Villarías (5)
+(1) Unidad de Reumatología. Hospital Universitario Fundación Alcorcón. Madrid. España.
+(2) Departamento de epidemiología y salud pública. Universidad Rey Juan Carlos I. Madrid. España.
+(3) Estudiante de Educación Secundaria Obligatoria. Kensington School. Pozuelo de Alarcón. España.
+(4) Unidad de Diagnóstico por Imagen. Vithas Nuestra Señora de America. Madrid. España.
+(5) Centro de Salud La Rivota. Alcorcón. España.
+Los autores declaran que no existe ningún conflicto de interés.
+
+RESUMEN
+
+Fundamentos: En Europa hay una gran variabilidad en
+
+la mortalidad por Covid-19 entre los diferentes países. Mientras
+que algunos países, como Grecia, Bielorrusia o Ucrania, la
+mortalidad no alcanza los 5 casos por cada 100.000 habitantes
+actualmente, otros países como Bélgica, España o Reino Unido
+sobrepasan marcadamente los 50 casos por cada 100.000 habitantes. En general, se especula en que el motivo de esta variabilidad es multifactorial (entre ellos, motivos de índole política),
+pero existen escasos estudios que asocien factores relacionados
+con esta variabilidad. El objetivo de este trabajo fue analizar los
+factores/marcadores de riesgo de índole político que pudieran
+explicar la variabilidad en la mortalidad por Covid-19 entre los
+diferentes países europeos.
+Métodos: Estudio ecológico, observacional retrospectivo, de ámbito multinacional, basado en la explotación de
+la base de datos proporcionada por el European Centre for
+Disease Prevention and Control que recoge la información diaria a nivel mundial de los nuevos casos y fallecidos. Se calculó
+la mortalidad acumulada de Covid-19 en países europeos (con
+más de 100 fallecidos a fecha de 1 de mayo de 2020), hasta el
+29 de mayo de 2020. Se recogieron variables de carácter político de los países incluidos en el estudio de diferentes fuentes. Las variables analizadas fueron: índice de democracia y los
+diferentes factores incluidos en él, sistema político del país e
+índice de corrupción del país. Por otra parte, se recogieron medidas políticas específicas implementadas en los distintos países, como los días transcurridos desde la notificación del primer
+infectado hasta llegar a los 100 infectados, así como los días
+transcurridos hasta el confinamiento, hasta el cierre de colegios
+o hasta el cese de reuniones. También se recogió el número de
+infectados hasta la fecha de confinamiento. Para el análisis estadístico de la asociación entre la variable dependiente (mortalidad) y los factores estudiados se calcularon índices de correlación, y la asociación se estudió a través de modelos de regresión
+lineal univariante y multivariante.
+Resultados: A fecha de 1 de mayo de 2020, 27 países
+europeos contaban con al menos 100 fallecidos. La media de la
+mortalidad fue de 19,83 casos por cada 100.000 hab. (DE 22,4)
+y una mediana de 7,95. La mortalidad varió desde un mínimo
+de 1,49 casos por cada 100.000 hab. en Ucrania hasta 82,19 casos por cada 100.000 hab. en Bélgica. De los factores analizados, tanto el índice de democracia (como los factores incluidos
+en él) como el sistema político (democracia plena frente a no)
+y el índice de corrupción se asociaron estadísticamente con la
+mortalidad. También, el tiempo transcurrido hasta la implantación de las medidas políticas se asoció con mortalidad.
+Conclusiones: En Europa, existe un degradado de oeste a este (de mayor a menor) en la mortalidad por Covid-19.
+Parte de la variabilidad de la mortalidad observada puede explicarse por factores de índole política.
+Palabras clave: Covid-19, Mortalidad, Europa,
+Democracia.
+Correspondencia:
+Ramón Mazzucchelli
+Hospital Universitario Fundación Alcorcón
+C/ Budapest, nº1
+28922 Alcorcón, Madrid
+rmazzucchelli@fhalcorcon.es
+
+ABSTRACT
+
+Democracy and Covid-19 mortality in Europe
+Background: In Europe there is a great variability in
+
+mortality by Covid-19 among different countries. While some
+countries, such as Greece, Belarus or Ukraine, have a mortality rate of less than 5 cases/100,000 inhabitants, other countries
+such as Belgium, Spain or the United Kingdom have a mortality rate of well over 50 cases/100,000 inhabitants. It is generally
+considered that the reason for this variability is multifactorial
+(including political reasons), but there are few studies that associate factors related to this variability. The objective of this
+work was to analyse political risk factors/markers that could
+explain the variability in mortality due to Covid-19 among different European countries.
+Methods: This is a retrospective, multinational, ecological study based on the exploitation of the database provided by
+the European Centre for Disease Prevention and Control which
+collects daily information worldwide on new cases and deaths.
+The accumulated mortality of Covid-19 in European countries
+(with more than 100 deaths on 01/05/2020) was calculated up
+to 29/05/2020. Political variables were compiled from different
+sources in the countries included in the study. The variables
+analysed were: the democracy index and the different factors
+included in it, the country’s political system and the country’s
+corruption index. On the other hand, specific political measures
+implemented in the different countries were collected, such as
+the number of days elapsed from the notification of the first infected person to 100 infected persons, to lockdown, to the closure of schools or the cancelation of meetings. The number of
+people infected up to the date of lockdown was also registered.
+For the statistical analysis of the association between the dependent variable (mortality) and the factors studied, correlation
+index were calculated, and the association was studied through
+univariate and multivariate linear regression models.
+Results: At May 1 2020, 27 European countries had at
+least 100 deaths. The mean mortality was 19.83 cases/100,000
+inhabitants (SD 22.4) and a median of 7.95. Mortality varied
+from a minimum of 1.49 cases/100,000 population in Ukraine
+to 82.19 cases/100,000 population in Belgium. About factors
+analyzed both the democracy index (as well as the factors included in it), the political system (full democracy vs. no) and
+the corruption index were statistically associated with mortality. Also, the time until the implementation of the political measures was associated with mortality.
+Conclusions: In Europe, there is a west to east (from
+highest to lowest) gradient in the mortality of Covid-19. Some
+of the observed mortality variability can be explained by political factors.
+Key words: Covid-19, Mortality, Europe, Democracy.
+
+Cita sugerida: Mazzucchelli R, Agudo Dieguez A, Dieguez
+Costa EM, Crespí Villarías N. Democracia y mortalidad por Covid-19 en Europa. Rev Esp Salud Pública. 2020; 94: 24 de junio
+e202006073
+
+Ramón Mazzucchelli et al
+
+INTRODUCCIÓN
+A finales de diciembre de 2019, un brote de
+una enfermedad emergente (Covid-19) debido
+a un nuevo coronavirus (denominado SARSCoV-2) comenzó en Wuhan (China), y se propagó rápidamente en un número considerable de
+países(1,2). La epidemia fue declarada pandemia
+por la Organización Mundial de la Salud (OMS)
+el 12 de marzo de 2020(3). Desde entonces, la
+infección por el virus ha aumentado exponencialmente y se ha extendido por todo el mundo.
+El 13 de marzo de 2020, el Director General
+de la OMS, Tedros Adhanom Ghebreyesus, dijo
+que Europa se había convertido en el epicentro de la pandemia. Cuando escribimos estas líneas, se han comunicado un total de 6.288.301
+casos y se han producido 374.327 muertos en
+196 países. La OMS ha declarado una emergencia de salud pública de interés internacional
+debido al brote de Covid-19(3). El virus es altamente infeccioso y puede causar la transmisión
+de persona a persona. Cada 24 horas, los casos de Covid-19 aumentan en varias veces. La
+OMS está vigilando muy de cerca la propagación del SARS-CoV-2 a través de un sistema de
+vigilancia mundial. La situación actual exige la
+aplicación de leyes estrictas que ayuden a inhibir una mayor propagación de Covid-19. Es necesario que los gobiernos y las organizaciones
+privadas den un paso adelante y trabajen juntos
+durante esta pandemia.
+En Europa hay una gran variabilidad en la
+incidencia y mortalidad por Covid-19 entre
+los diferentes países. Mientras que algunos
+países, como Grecia, Bielorrusia o Ucrania,
+la mortalidad no alcanza los 5 casos por
+cada 100.000 habitantes, otros países como
+Bélgica, España o Reino Unido sobrepasan
+marcadamente los 50 casos por cada 100.000
+habitantes. Probablemente, esta variabilidad es
+multifactorial. La cuestión que planteamos es
+qué países cuentan con las mejores herramientas
+
+2
+
+para luchar contra este virus. ¿Existen diferencias
+entre países democráticos y autoritarios a la
+hora de luchar contra el virus? En general, los
+científicos sociales tienden a estar de acuerdo,
+aunque con reservas, en que la democracia es
+beneficiosa para la salud pública(4). Sin embargo,
+la Covid-19 está planteando importantes dudas
+en este argumento. En general, parece que a
+nivel mundial los países autoritarios se están
+ganando elogios por su respuesta, mientras que
+en las principales democracias sus resultados no
+han sido tan satisfactorios(4).
+El objetivo de este trabajo fue analizar la incidencia y mortalidad por Covid-19 en Europa,
+así como discernir si los actores en el orden político estaban o no asociados a la variabilidad
+observada.
+
+MATERIALES Y MÉTODOS
+Se trató de un estudio ecológico, observacional retrospectivo, de ámbito multinacional, basado en la explotación de la base de datos proporcionada por el European Centre for Disease
+Prevention and Control(5) (ECDC) que recoge
+la información diaria a nivel mundial de los
+nuevos casos y fallecidos. Se recogieron los datos de países europeos con al menos 100 fallecidos a fecha de 1 de mayo de 2020. Se calculó la incidencia (casos/población), mortalidad
+(muertos/población) y letalidad (muertos/casos) acumuladas a fecha de 1 de mayo de 2020,
+por cada 100.000 habitantes para cada país.
+Se recogieron desde diferentes bases de datos de acceso público (WHO, Banco mundial
+de datos, EUpedia y otras fuentes) hasta un
+total de 175 variables diferentes, que incluyeron factores genéticos(6), demográficos(7), económicos(8), relacionados con la salud(7) y políticos(9), así como otras variables desde bases
+de datos como https://ourworldindata.org/ o
+https://www.worldometers.info/.
+
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+DEMOCRACIA Y MORTALIDAD POR COVID-19 EN EUROPA
+
+Para este estudio se analizaron las siguientes
+variables: índice de democracia(9) y los 5 elementos que lo componen (I, Proceso electoral
+y pluralismo; II, Funcionamiento del gobierno;
+III, Participación política; IV, Cultura política;
+V, Libertades civiles). También de esta misma
+fuente se recogió el sistema político de cada
+país (democracia plena, democracia no-plena y
+régimen autoritario), así como el índice de corrupción. Se buscó si el primer ministro/presidente del país era hombre o mujer.
+
+Para analizar la asociación entre la incidencia, mortalidad y letalidad y los factores recogidos se estimaron los coeficientes de correlación
+lineal de Pearson y se ajustaron modelos de regresión lineal univariante y multivariante. En el
+análisis multivariante, se presenta el coeficiente
+de determinación R2 para cuantificar la proporción de variabilidad explicada por el modelo.
+
+De la web de la Universidad de Oxford se recogió el Stringency Index(10), un número que va
+de 0 a 100 y que refleja diferentes aspectos de la
+respuesta de los gobiernos ante la pandemia, así
+como las fechas en las que cada país tomó las
+medidas de confinamiento, cierre de colegios y
+prohibición de reuniones. Se calcularon los días
+hasta estos estadios, así como el número de infectados hasta el confinamiento.
+
+El presente estudio, al utilizar datos agregados de bases de datos de acceso público, no requirió la autorización por parte del Comité de
+Ética de Investigación.
+
+Métodos estadísticos. Se describieron las características principales de los 27 países incluidos en el estudio. Los datos cuantitativos fueron descritos con media, mediana, desviación
+estándar y rango intercuartílico. Los datos categóricos fueron expresados con frecuencias
+absolutas y relativas. En el análisis univariante, para estudiar las diferencias por sexo según
+la variable primer ministro/presidente se realizaron los test Chi-cuadrado en el caso de variables cualitativas, y T de Student o el test de
+U de Mann Whitney, según la distribución de
+los datos, en el caso de variables cuantitativas.
+Todos los test se consideraron bilaterales y con
+un nivel de significación de p<0,05.
+A partir de los casos registrados en el ECDC,
+se calculó la incidencia (casos/población), mortalidad (muertos/población) y letalidad (muertos/
+casos) acumuladas a fecha de 1 de mayo de 2020,
+por cada 100.000 habitantes para cada país.
+
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+El análisis estadístico se realizó usando los
+paquetes IBM SPSS 24.0.
+
+RESULTADOS
+Hasta el 1 de mayo de 2020, un total de 27
+países europeos habían tenido al menos 100 fallecidos. En la tabla 1 se indican los 27 países
+incluidos, los regímenes políticos, así como las
+tasas de incidencia, mortalidad y letalidad acumulada a fecha de 28 de mayo de 2020. En la
+figura 1 se representa la variabilidad en la mortalidad en Europa. En esta figura se aprecia un
+degradado de oeste a este (de mayor a menor
+mortalidad) con un índice de correlación (IC)
+con la longitud geográfica de -0,698 (p<0,001).
+La incidencia acumulada media en el periodo
+estudiado fue de 218,01 (DE=156,11) por cada
+100.000 hab. La mortalidad media fue de 17,48
+(DE=20,08) por cada 100.000 hab. y la letalidad fue 6,99 (DE=5,04) por cada 100.000 hab.
+Del total de 175 variables recogidas, las variables que analizaron fueron 16. El 63% de los
+países fueron clasificados como democracia
+plena, un 29,6% como democracia con alguna
+limitación y un 7,4% eran países autoritarios.
+El 74,1% de los países tenía un hombre como
+
+3
+
+Ramón Mazzucchelli et al
+
+Tabla 1
+Incidencia, Mortalidad y Letalidad
+acumulada en países de Europa con
+al menos 100 fallecidos (1/05/2020).
+Incidencia Mortalidad
+ac /100.000 ac /100.000 Letalidad
+(%)
+habitantes habitantes
+
+País
+
+Variables
+
+N
+
+n
+(%)
+
+Sistema Politico
+
+27
+
+-
+
+-
+
+17 (63)
+
+Luxemburgo(1)
+
+659,51
+
+18,10
+
+2,74
+
+Irlanda(1)
+
+511,82
+
+33,77
+
+6,60
+
+España(1)
+
+509,18
+
+58,04
+
+11,40
+
+506,47
+
+82,19
+
+16,23
+
+420,20
+
+2,31
+
+0,55
+
+Reino Unido(1)
+
+404,77
+
+56,91
+
+14,06
+
+Italia(1)
+
+383,46
+
+54,84
+
+14,30
+
+Suiza(1)
+
+360,63
+
+19,42
+
+5,39
+
+350,84
+
+41,89
+
+11,94
+
+Portugal
+
+307,30
+
+13,31
+
+4,33
+
+Países Bajos(1)
+
+266,67
+
+34,26
+
+12,85
+
+Incidencia ac /
+100.000 hab.
+Mortalidad ac /
+100.000 hab.
+
+Rusia(3)
+
+262,36
+
+2,87
+
+1,09
+
+Letalidad %
+
+Francia(1)
+
+222,54
+
+42,79
+
+19,23
+
+Moldavia(1)
+
+217,86
+
+7,95
+
+3,65
+
+Alemania
+
+217,61
+
+10,19
+
+4,68
+
+Dinamarca(1)
+
+198,57
+
+9,80
+
+4,93
+
+Austria(1)
+
+186,99
+
+7,55
+
+4,04
+
+Serbia(2)
+
+161,84
+
+3,45
+
+2,13
+
+Noruega(1)
+
+158,08
+
+4,44
+
+2,81
+
+DI: I Electoral
+process and pluralism
+DI: II Functioning
+of government
+DI: III Political
+participation
+
+Finlandia(1)
+
+122,20
+
+5,67
+
+4,64
+
+96,49
+
+6,31
+
+6,54
+
+86,02
+
+3,00
+
+3,49
+
+Eslovenia(2)
+
+71,25
+
+5,22
+
+7,33
+
+Polonia(2)
+
+60,10
+
+2,73
+
+4,55
+
+Ucrania
+
+(2)
+
+50,16
+
+1,50
+
+2,99
+
+Hungría(2)
+
+39,32
+
+5,29
+
+13,46
+
+Grecia(2)
+
+27,09
+
+1,63
+
+6,02
+
+Bélgica(1)
+Bielorrusia
+
+Suecia
+
+(3)
+
+(1)
+(1)
+
+(1)
+
+Rumania(2)
+Rep. Checa
+
+(2)
+
+(1) democracia plena; (2) democracia limitada;
+(3) autoritarios.
+
+4
+
+Tabla 2
+Descriptiva de las variables
+de características políticas incluidas
+en este estudio.
+
+1 Democracia plena
+n (%)
+2 Democracia
+no plena n (%)
+3 Autoritario
+n (%)
+Primer Ministro H:M
+
+- 8 (29,6)
+-
+
+2 (7,4)
+
+27
+
+Hombre n (%)
+
+- 20 (74,1)
+
+Mujer n (%)
+
+- 7 (25,9)
+
+Variables
+
+Desv.
+N Media Mediana
+típ.
+27 218,01 191,19
+
+156,11
+
+27
+
+17,48
+
+7,93
+
+20,08
+
+27
+
+6,99
+
+5,09
+
+5,04
+
+Test/1.000 hab (18/05/2020) 27
+
+35,88
+
+35,00
+
+22,24
+
+Test/caso confirmado
+
+27
+
+16,31
+
+10,58
+
+16,08
+
+Índice de Corrupción
+
+27
+
+63,44
+
+64,00
+
+18,96
+
+Democracy Index (DI)
+
+27
+
+7,59
+
+8,03
+
+1,78
+
+27
+
+8,76
+
+9,58
+
+2,23
+
+27
+
+6,92
+
+7,50
+
+2,25
+
+27
+
+7,04
+
+6,67
+
+1,58
+
+DI: IV Political culture 27
+
+7,06
+
+6,88
+
+2,00
+
+DI: V Civil liberties
+
+27
+
+8,18
+
+8,53
+
+1,72
+
+23
+
+23,17
+
+16,00
+
+14,41
+
+26
+
+20,04
+
+14,50
+
+14,55
+
+26
+
+19,73
+
+13,50
+
+17,09
+
+Dias hasta
+confinamiento(1)
+Dias hasta cierre
+colegios(1)
+Dias hasta cancelacion
+reuniones(1)
+Stringency Index
+
+26 5.102,035.129,54 764,45
+
+N de casos acumulados
+24 1.725,38 496,00 2.498,75
+hasta confinamiento
+
+H:M, Hombre frente a Mujer; hab, habitantes;
+ac, acumulado; DI, Democracy Index;
+(1), dias desde 1er infectado hasta.
+
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+DEMOCRACIA Y MORTALIDAD POR COVID-19 EN EUROPA
+
+Figura 1
+Variación de la mortalidad/100.000 habitantes en Europa.
+
+primer ministro, y en el 25,9% restante era una
+mujer. El resto de las variables incluidas en el
+estudio se resumen en la tabla 2.
+En el análisis de regresión lineal univariante,
+de los 16 factores analizados, todos excepto dos
+(número de test por cada 1.000 hab. y primer
+ministro hombre o mujer) mostraron asociación
+estadística significativa (p<0,05) (tabla 3).
+En el análisis de regresión lineal multivariante, el modelo que incluía el índice de corrupción, el índice de democracia, los factores
+culturales, políticos y de libertades civiles, así
+como el número de casos hasta el confinamiento, se mostraron como factores independientes
+y estadísticamente significativos, permitiendo
+explicar el 98% de la variabilidad de la mortalidad en Europa.
+Mortalidad, incidencia y letalidad según sistema político. Se agruparon los países que no tenían democracia plena. La media de la incidencia en aquellos países con democracia plena fue
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+de 328,49 (DE=151,3), y en los que no contaban
+con democracia plena de 127,48 (DE=124,3;
+p=0,002). La mortalidad en los países con democracia plena fue de 29,47 (DE=23,3) y en los
+que no de 3,43 (DE=1,6; p<0,001). Por último,
+la letalidad en aquellos países con democracia
+plena fue de 8,45 (DE=5,3) y en los que no de
+4,81 (DE=3,7; p=0,072) (figura 2). En los países con democracia plena, la media de los días
+que transcurrieron hasta el confinamiento fue
+de 27,87 (DE=15,1), mientras que en el resto de
+los países fue de 14,38 (DE=7,5; p=0,029). La
+media de días hasta el cierre de colegios en los
+primeros fue de 25 (DE=15,7), mientras que en
+los segundos fue de 10,67 (DE 4,1; p=0,013).
+La media del número de casos hasta la fecha
+de confinamiento en los países con democracia plena fue de 2.391,75 (DE=2.814,754),
+mientras que en los segundos fue de 392,63
+(DE=701,9; p=0,060).
+Mortalidad, incidencia y letalidad según el
+sexo del primer ministro. La incidencia media
+en aquellos países cuyo primer ministro
+5
+
+Ramón Mazzucchelli et al
+
+Tabla 3
+Resultado del análisis de la variabilidad de la mortalidad en Europa:
+Modelos de regresión lineal univariante.
+Mortalidad /100.000 Hab.
+Variables
+
+Coeficientes
+Índice de
+no
+Correlación
+estandarizados (Pearson)
+
+Sig.
+
+Intervalo
+de confianza
+de 95% para B
+Límite Límite
+inferior superior
+
+B
+
+Beta
+
+6,125
+
+0,553
+
+0,003
+
+2,319
+
+9,930
+
+DI I Proceso electoral y pluralismo
+
+4,160
+
+0,527
+
+0,005
+
+1,400
+
+6,921
+
+DI II Funcionamiento del gobierno
+
+4,667
+
+0,513
+
+0,006
+
+1,454
+
+7,880
+
+DI III Participación política
+
+8,902
+
+0,552
+
+0,003
+
+3,360
+
+14,443
+
+DI IV Cultura política
+
+5,862
+
+0,527
+
+0,005
+
+1,967
+
+9,758
+
+DI V libertades civiles
+
+6,282
+
+0,527
+
+0,005
+
+2,110
+
+10,454
+
+Democracia plena frente a no
+
+-35,955
+
+-0,739
+
+0,000 -49,442 -22,468
+
+Primer Ministro H: M
+
+-16,803
+
+-0,260
+
+0,190 -42,519
+
+8,913
+
+Índice de Corrupción
+
+0,559
+
+0,482
+
+0,011
+
+0,141
+
+0,978
+
+Test/1.000 hab
+
+0,454
+
+0,316
+
+0,108
+
+-0,108
+
+1,015
+
+Test/caso confirmado
+
+-0,482
+
+-0,578
+
+0,002
+
+-0,761
+
+-0,202
+
+Dias hasta 100 infectados
+
+1,463
+
+0,554
+
+0,003
+
+0,558
+
+2,368
+
+Dias hasta confinamiento(1)
+
+1,166
+
+0,716
+
+0,000
+
+0,649
+
+1,683
+
+Dias hasta cierre colegios(1)
+
+0,980
+
+0,666
+
+0,000
+
+0,517
+
+1,443
+
+Dias hasta cancelacion reuniones(1)
+
+0,781
+
+0,548
+
+0,004
+
+0,279
+
+1,283
+
+N de casos acumulados hasta confinamiento
+
+0,007
+
+0,843
+
+0,000
+
+0,005
+
+0,008
+
+Indice de Democracia
+
+H:M, Hombre frente a Mujer; hab, habitantes; ac, acumulado; DI, Democracy Index; (1), dias desde 1er
+infectado hasta.
+
+era hombre fue de 233,87 (DE=175,9) y en
+los que era mujer la media fue de 172,91
+(DE=91,37; p=0,392). La mortalidad en los
+países cuyo primer ministro era hombre fue de
+20,9 (DE=22,7) y en los que era mujer de 7,53
+6
+
+(DE=5,16; p=0,138). Por último, la letalidad
+en aquellos países en que su primer ministro
+era hombre fue de 7,9 (DE=5,65) y en los
+que era mujer de 4,39 (DE=1,61; p=0,122)
+(figura 2).
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+DEMOCRACIA Y MORTALIDAD POR COVID-19 EN EUROPA
+
+Figura 2
+Incidencia, mortalidad y letalidad comparada según sistema político
+y sexo del primer ministro.
+
+DISCUSIÓN
+Los principales hallazgos de nuestro estudio son:
+i) En Europa hay un degradado de oeste a este
+(de mayor a menor), tanto en la incidencia
+como en la mortalidad por Covid-19.
+ii) Factores de orden político, como son el índice de democracia, el índice de corrupción y
+el sistema político del país se asocian con una
+mayor o menor incidencia y mortalidad por
+Covid-19.
+iii) Tanto la incidencia como la mortalidad es
+mayor en los países con democracia plena que
+en el resto.
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+iv) Los gobiernos de los países con democracia
+plena tomaron las medidas de confinamiento,
+cierre de colegios y prohibición de reuniones
+de forma más tardía que los gobiernos sin democracia plena.
+v) Aunque en los medios de comunicación se
+especula con mejores resultados en países en
+los que su gobierno está dirigido por una mujer,
+en nuestro estudio las diferencias observadas
+no son estadísticamente significativas.
+Se ha debatido durante mucho tiempo sobre
+el valor de la democracia para la salud. Se argumenta que las presiones electorales y las libertades políticas de los regímenes democráticos
+contribuyen a mejorar la salud y a prolongar la
+7
+
+Ramón Mazzucchelli et al
+
+vida(11). Estas afirmaciones tienen apoyo empírico en las ciencias políticas, económicas y de
+la salud pública(4,12), aunque no sin desafíos, ya
+que algunos demuestran que la conexión es débil o inexistente(13). Se han propuesto una serie
+de mecanismos para que la democracia mejore
+la salud, entre los que se incluyen:
+–– Los medios de comunicación abiertos a la
+información y la oposición garantizan que la
+información sobre la salud fluya, tanto hacia el
+público como desde el público hacia el gobierno, sobre cómo calibrar la política.
+–– La rendición de cuentas: los votantes pueden
+castigar a los líderes que fracasan.
+–– Las redes de conocimiento y los grupos de
+interés que permiten la asociación para impulsar una buena política.
+Sin embargo, el relato del éxito de China y el
+fracaso de Europa y de los Estados Unidos ha
+suscitado la preocupación de que la Covid-19
+represente una mala noticia sobre el valor y el
+futuro de la gobernanza democrática(4). Otros
+estudios, como el nuestro, muestran una correlación entre la democracia y peores resultados,
+así como respuestas políticas menos eficaces(14).
+La respuesta eficaz frente a las pandemias requiere la capacidad de actuar rápidamente, aplicar con eficacia y lograr el cumplimiento público(4). Como vemos en nuestro estudio, los
+países con democracia plena son más lentos en
+tomar las medidas de confinamiento, cierre de
+colegios y prohibición de reuniones.
+Nuestro estudio presenta limitaciones, entre
+ellas las propias de los estudios ecológicos,
+incluida la denominada “falacia ecológica”(15).
+Esto determina que, como los grupos de
+sujetos no son homogéneos en términos de
+exposición, las inferencias causales están
+limitadas por la asociación que tiene lugar
+en el grupo en lugar del individuo, es decir,
+8
+
+es incorrecto extrapolar los datos de la
+población al individuo. Otras limitaciones
+incluyen la multicolinealidad (es difícil
+separar los efectos observados de dos o más
+variables) y la ambigüedad temporal(15).
+En resumen, en Europa tanto la incidencia
+como la mortalidad por Covid-19 muestra un
+degradado de oeste a este (de más a menos), habiendo una gran variabilidad entre países. Los
+factores políticos explican en parte esta variabilidad, y en general se observa que mayores
+niveles de democracia se asocian a mayor incidencia y mortalidad por la Covid-19.
+
+BIBLIOGRAFÍA
+1. Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+and coronavirus disease-2019 (COVID-19): The epidemic
+and the challenges. Int J Antimicrob Agents 2020 March
+01;55(3):105924.
+2. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S et al. Risk
+Factors Associated With Acute Respiratory Distress
+Syndrome and Death in Patients With Coronavirus Disease
+2019 Pneumonia in Wuhan, China. JAMA Intern Med 2020
+March 13.
+3. WHO Director-General’s opening remarks at the media briefing on COVID-19 - 11 March 2020. Available
+at: https://www.who.int/dg/speeches/detail/who-directorgeneral-sopening-remarks-at-the-media-briefing-on-covid19---11-march-2020.
+4. Kavanagh MM, Singh R. Democracy, Capacity
+and Coercion in Pandemic Response-COVID 19 in
+Comparative Political Perspective. J Health Polit Policy
+Law 2020 May 28.
+5. ecdc. Home Publications & data Download today’s data
+on the geographic distribution of COVID-19 cases worldwide. Available at: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distributioncovid-19-cases-worldwide.
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+DEMOCRACIA Y MORTALIDAD POR COVID-19 EN EUROPA
+
+6. Origins, spread and ethnic association of European haplogroups and subclades. Available at: https://www.eupedia.com/. Accessed 1/06/2020.
+7. WHO. European Health Information Gateway. 2020;
+Available at: https://gateway.euro.who.int/en/.
+8. Worldbank. The World Bank. 2020; Available at: https://
+www.worldbank.org/.
+9. The Economist. Democracy-index 2019. 2020; Available
+at: https://www.eiu.com/topic/democracy-index.
+10. Hale, Thomas, Sam Webster, Anna Petherick, Toby
+Phillips and Beatriz Kira (2020). Oxford COVID-19
+Government Response Tracker, Blavatnik School of
+Government. 2020; Available at: https://www.bsg.ox.ac.
+uk/research/research-projects/coronavirus-governmentresponse-tracker.
+
+Rev Esp Salud Pública. 2020; 94: 24 de junio e202006073
+
+11. Ruger JP. Democracy and health. QJM 2005 April
+01;98(4):299-304.
+12. Bollyky TJ, Templin T, Cohen M, Schoder D, Dieleman
+JL, Wigley S. The relationships between democratic experience, adult health, and cause-specific mortality in 170
+countries between 1980 and 2016: an observational analysis. Lancet 2019 April 20;393(10181):1628-1640.
+13. Ross M2. Is Democracy Good for the Poor? American
+Journal of Political Science; 50(4):860–874.
+14. (14) Cepaluni, Gabriel, Michael Dorsch, and Réka
+Branyiczki. Political Regimes and Deaths in the Early
+Stages of the COVID-19 Pandemic. APSA Preprints.
+15. Morgenstern H. Ecologic studies in epidemiology: concepts, principles, and methods. Annu Rev Public Health
+1995;16:61-81.
+
+9
+
+

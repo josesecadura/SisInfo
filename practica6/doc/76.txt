@@ -1,0 +1,898 @@
+PUBLICACIÓN BIMESTRAL DE LA UNIVERSIDAD DE CIENCIAS MÉDICAS DE LA HABANA | Editorial Ciencias Médicas
+
+Revista Habanera
+de Ciencias Médicas
+
+AÑO 2020
+19 (SUPLEMENTO)
+ISSN 1729 - 519X
+
+_____________________________________________________________________________________________________
+
+CIENCIAS CLÍNICAS Y PATOLÓGICAS
+ARTÍCULO DE REVISIÓN
+Efectos de la COVID-19 en la salud mental de la población
+Effects of COVID-19 on the mental health of the population
+
+Victoria de la Caridad Ribot Reyes1,2
+, Niurka Chang Paredes3
+Antonio Lázaro González Castillo2,4
+
+,
+
+1Instituto
+
+de Medicina Legal. La Habana, Cuba.
+de Ciencias Médicas de La Habana. La Habana, Cuba.
+3Policlínico Universitario “Puentes Grandes”. La Habana, Cuba.
+4Hospital Docente Clínico Quirúrgico “Joaquín Albarrán”. La Habana, Cuba.
+2Universidad
+
+Cómo citar este artículo
+Ribot Reyes VC, Chang Paredes N, González Castillo AL. Efectos de la COVID-19 en la salud mental de la población. Rev haban
+cienc
+méd
+[Internet].
+2020
+[citado
+];
+19(Supl.):
+e3307.
+Disponible
+en:
+http://www.revhabanera.sld.cu/index.php/rhab/article/view/3307
+
+Recibido: 15 de abril del 2020.
+Aprobado: 29 de abril del 2020.
+_____________________________________________________________________________________________________
+
+RESUMEN
+Introducción: El mundo vive una situación
+excepcional por el avance de la pandemia
+producida por el coronavirus 2 del síndrome
+respiratorio agudo grave y la inédita medida de
+
+aislamiento social preventivo y obligatorio
+utilizada por varios países. Esta situación genera
+un impacto psicosocial que ha sido
+insuficientemente abordado.
+
+Página 1
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Objetivo: Analizar la repercusión que sobre la
+salud mental pudiera provocar la COVID-19 y las
+medidas para su prevención y control, así como
+las estrategias para favorecerla.
+Material y Métodos: Se realizó una revisión
+bibliográfica en el período comprendido entre
+marzo y abril de 2020. Se consultaron fuentes de
+información disponibles en la Biblioteca Virtual
+de Salud de la red telemática infomed, entre
+ellas,
+las
+bases
+de
+datos
+SciELO,
+Pubmed/Medline, Cumed, Lilacs. Se usó además
+el buscador Google académico. Se utilizaron los
+buscadores propios de las diferentes fuentes y se
+diseñó una estrategia de búsqueda a través de
+palabras claves, en español e inglés. Se
+recuperaron 7 citas bibliográficas en materiales
+cubanos y se seleccionaron para nuestro estudio
+ABSTRACT
+Introduction: The world is experiencing an
+exceptional situation due to the advance of the
+pandemic caused by the severe acute respiratory
+syndrome coronavirus 2 and the unprecedented
+preventive and mandatory measure of social
+isolation used by various countries. This situation
+generates a psychosocial impact that has been
+insufficiently addressed.
+Objective: To analyze the repercussion that
+COVID-19 could cause on mental health and the
+measures for its prevention and control, as well
+as the strategies to favor it.
+Material and Methods: A bibliographic review
+was performed in the period between March and
+April 2020. Information sources available in the
+Virtual Health Library on the Cuban National
+Health Care Network and Portal (INFOMED) were
+
+un total de 21 referencias.
+Desarrollo: Se describen elementos que integran
+la
+salud
+mental
+como
+constructo
+multidisciplinario y los principales efectos que
+sobre la misma producen las epidemias. Se
+presentan estrategias para potenciar conductas
+que tributen a la salud mental en el contexto
+actual.
+Conclusiones: A la par de las medidas sanitarias,
+urge potenciar la resiliencia, el crecimiento
+personal, las relaciones intrafamiliares y la
+atención especial a los grupos vulnerables para
+así minimizar el impacto psicosocial de la
+epidemia en la población.
+Palabras claves: Salud mental, impacto
+psicosocial, epidemia, coronavirus, COVID-19.
+
+consulted, including the SciELO, Pubmed /
+Medline, Cumed, and Lilacs databases. Google
+Scholar search engine was also used. The search
+engines of the different sources were used and a
+search strategy using keywords in Spanish and
+English was designed. Seven bibliographic
+citations were retrieved from Cuban materials
+and a total of 21 references were selected for our
+study.
+Development: Elements that integrate mental
+health as a multidisciplinary construct and the
+main effects that the epidemics produce on it are
+described. Strategies to promote behaviors that
+contribute to mental health in the current
+context are presented.
+Conclusions: Along with health measures, there
+is an urgent need to strengthen resilience,
+
+Página 2
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+personal growth, intra-family relationships and
+special attention to vulnerable groups in order to
+minimize the psychosocial impact of the epidemic
+on the population.
+INTRODUCCIÓN
+La Organización Mundial de la Salud (OMS) ha
+equiparado la salud mental con el bienestar
+subjetivo, la percepción de la propia eficacia,
+autonomía,
+competencia,
+dependencia
+intergeneracional y autorrealización de las
+capacidades intelectuales y emocionales.(1)
+Incluye, por tanto, las capacidades para afrontar
+las tensiones normales de la vida, trabajar de
+forma productiva y fructífera y para hacer
+contribuciones a la comunidad.(2)
+En situaciones de crisis (guerras, desplazamientos
+forzados, migración, desastres naturales,
+epidemias, etétera), las consecuencias para la
+salud física de las personas resultan evidentes,
+por lo que han sido objeto de atención por la
+Medicina desde su surgimiento como ciencia. Sin
+embargo, el estudio de sus consecuencias en el
+plano psicológico es relativamente reciente e
+insuficientemente estudiado.(3,4)
+Actualmente, el mundo vive una situación
+excepcional por el avance de la que denominan la
+primera pandemia global de la historia.(5) Su inicio
+puede ubicarse en diciembre de 2019. En Wuhan
+(Hubei, China), se alertó sobre la presencia de un
+brote epidémico de una nueva enfermedad
+respiratoria grave (SARS, del inglés severe acute
+respiratory síndrome), rápidamente se identificó
+el agente: un nuevo coronavirus, inicialmente
+llamado nCoV-19. En enero de 2020, la OMS
+
+Keywords: Mental health, psychosocial impact,
+epidemic, coronavirus, COVID-19.
+
+declaró la alerta sanitaria internacional, ocupó
+todos los medios informativos y redes
+sociales.(6,7,8,9)
+Excepcional resulta también la inédita medida de
+aislamiento social preventivo y obligatorio
+utilizada por varios países.(5)
+En Cuba, se diseñó y se ha ido implementando un
+protocolo de actuación, con alcance nacional, con
+vistas a la prevención, control, mejor manejo de
+los casos, así como a la protección de los
+trabajadores de la salud y la población.(10) Este
+incluye el distanciamiento social y la información
+a la población por representantes del Ministerio
+de Salud Pública (MINSAP) acerca del avance
+epidemiológico de la enfermedad y las diferentes
+medidas adoptadas al respecto.
+En este nuevo contexto, caracterizado por una
+total alteración de la rutina socio-familiar y el
+enfrentamiento a una enfermedad con altos
+niveles de contagio, se hace necesario
+profundizar sobre sus efectos psicológicos, así
+como las estrategias a desarrollar para favorecer
+la salud mental personal y comunitaria.
+El objetivo de esta investigación es analizar la
+repercusión que sobre la salud mental pudiera
+provocar la COVID-19 y las medidas para su
+prevención y control, así como las estrategias
+para favorecerla.
+
+Página 3
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+MATERIAL Y MÉTODOS
+Se hizo una revisión bibliográfica entre marzo y
+abril de 2020. Se realizó la búsqueda de
+referencias en las bases de datos bibliográficas
+Pubmed/Medline, ScienceDirect y SciELO y se
+utilizó el buscador Google Académico. Para la
+recuperación de la información se aplicó una
+estrategia de búsqueda con las palabras clave:
+"coronavirus", "COVID-19", "epidemia", "salud
+mental", "impacto psicosocial" y sus equivalentes
+en inglés. Además, se utilizó literatura de
+consulta disponible en el repositorio de libros de
+autores cubanos y la biblioteca virtual de salud de
+DESARROLLO
+La Salud Mental constituye uno de los objetivos
+priorizados de la OMS, aunque la magnitud y el
+impacto que suponen los trastornos mentales no
+se corresponden con los recursos que se dedican
+a su investigación y atención.(11) En un informe
+sobre su promoción, publicado en 2004,(12) se
+identifica una serie de enfoques utilizados en la
+comprensión de lo que se denomina “salud
+mental positiva” (SMP) y los reconoce como
+esfuerzos necesarios en la construcción de una
+mirada de la salud mental que se aleja de los
+modelos biomédico y comportamental.
+A partir de este análisis, Muñoz(2) propone un
+modelo compuesto por seis dominios y una serie
+de subdominios relacionados que podrían
+caracterizar la SMP de los individuos, sean estos
+sanos o con alguna enfermedad mental:
+• Actitudes hacia ti mismo: hace referencia a la
+importancia de la autopercepción y el
+autoconcepto que se produce con el actuar
+diario. Se compone de subdominios: accesibilidad
+
+Infomed.
+Se consideró como criterios de selección aquella
+literatura publicada más recientemente,
+teniendo en cuenta lo novedoso de esta
+enfermedad, materiales que estuvieran en
+idioma inglés, español o portugués y en los que
+fuera posible recuperar el texto completo.
+Se analizó la calidad, fiabilidad y validez
+metodológica de los artículos seleccionados para
+realizar una adecuada revisión. Se seleccionaron
+finalmente un total de 21 fuentes bibliográficas.
+
+del yo a la conciencia, concordancia yo real con el
+yo ideal, autoestima y sentido de identidad.
+• Crecimiento y autoactualización: habla del
+sentido de vida y si se actúa en coherencia con
+este.
+Incluye
+los
+subdominios
+de
+autoactualización como fuerza motivacional por
+el desarrollo de las potencialidades humanas y la
+implicación en la vida, como el empuje a
+participar en el desarrollo y cuidado de su vida y
+al de los demás.
+• Integración: hace referencia a la capacidad de
+poder incluir en la vida todas aquellas
+experiencias que suceden, tanto positivas como
+negativas; así como la capacidad para poder
+aceptar en integridad. Depende del equilibrio
+psíquico del individuo, su filosofía personal y la
+resistencia para afrontar el estrés.
+• Autonomía: da cuenta de cómo el individuo
+establece relaciones con el mundo que le rodea y
+sus semejantes, y cómo las decisiones incluyen a
+otras personas, es sinónimo de independencia y
+
+Página 4
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+autodeterminación.
+• Percepción de la realidad: implica la capacidad
+para percibir adecuadamente esta, poder dar
+cuenta de las circunstancias de manera objetiva y
+evitar en lo posible hacer juicios y la capacidad
+para desarrollar empatía frente a las vivencias de
+los demás.
+• Dominio del entorno: está vinculado a dos
+temas fundamentales como son el éxito (que
+hace énfasis en el logro y alcanzar los resultados)
+y en la adaptación (que hace referencia al
+proceso para llegar a la meta).
+La salud mental puede asumirse entonces como
+un constructo multidisciplinario que integra
+condiciones personales, determinantes sociales y
+políticas públicas.(13) En situaciones de desastres,
+epidemias y otras emergencias humanitarias, se
+producen cambios bruscos en las dinámicas
+relacionales, lo cual tiene un impacto importante
+en la salud mental (en ocasiones, poco abordada
+por ser menos visible en estadios iniciales).
+Ante la aparición del brote epidémico de una
+enfermedad infecciosa producida por el
+coronavirus 2 del síndrome respiratorio agudo
+grave (SARS-CoV-2), también conocida como
+COVID-19 (acrónimo del inglés COronaVIrus
+Disease 2019), las autoridades sanitarias y
+gubernamentales han adoptado medidas que
+intentan limiten al máximo la propagación de la
+enfermedad. Entre estas se encuentran la
+cuarentena y el aislamiento.(14)
+Si bien aún es pronto para poder evaluar los
+efectos que la epidemia y las medidas para su
+contención van a tener sobre la salud mental de
+las poblaciones, se plantea una serie de
+
+repercusiones esperadas, y es hacia la prevención
+de estas que deben enfocarse las intervenciones.
+Desde la perspectiva de la salud mental, una
+epidemia de gran magnitud implica una
+perturbación psicosocial que puede exceder la
+capacidad de manejo de la población afectada.
+Puede considerarse, incluso, que toda la
+población sufre tensiones y angustias en mayor o
+menor medida. Así es que se estima un
+incremento de la incidencia de trastornos
+psíquicos (entre una tercera parte y la mitad de la
+población expuesta podrá sufrir alguna
+manifestación psicopatológica, de acuerdo con la
+magnitud del evento y el grado de
+vulnerabilidad). Aunque debe destacarse que no
+todos los problemas psicológicos y sociales que
+se presentan podrán calificarse como
+enfermedades, la mayoría serán reacciones
+normales ante una situación anormal. Los
+efectos, generalmente, son más marcados en las
+poblaciones que viven en condiciones precarias,
+poseen escasos recursos y tienen limitado acceso
+a los servicios sociales y de salud.(15)
+Aunque cada persona reacciona de modo distinto
+ante situaciones estresantes, una epidemia
+infecciosa como la actual implica el
+distanciamiento social, la cuarentena y el
+aislamiento, por lo que los sentimientos que se
+experimentan con más frecuencia son Ansiedad,
+Preocupación o Miedo en relación con:(14)
+• El propio estado de salud y el de familiares,
+amigos y conocidos.
+• La experiencia de autoobservación, o de ser
+observado por otros, por síntomas y signos de
+haber contraído la infección.
+
+Página 5
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+• El tiempo que está restando al trabajo por este
+proceso, con la consecuente pérdida de ingresos
+y seguridad en el puesto de trabajo, así como las
+repercusiones familiares que esto conlleva.
+• La necesidad de prever el abastecimiento de
+alimentos, medicamentos, cuidados médicos u
+otros bienes necesarios.
+• La preocupación por poder seguir cuidando a
+familiares.
+• La incertidumbre o frustración por desconocer
+la duración de esta situación.
+• La soledad asociada con el sentimiento de
+haber sido excluido del mundo y sus seres
+queridos.
+• El malestar o la rabia ante la posibilidad de ser
+contagiado por la negligencia de “otros”.
+• El aburrimiento y frustración por no estar
+conectado a la rutina habitual de la vida.
+• El deseo de beber alcohol o consumir sustancias
+de abuso para afrontar esta situación.
+• Los síntomas depresivos como desesperanza,
+cambios en el apetito o alteraciones del sueño.
+Esta situación se relaciona además con la
+exposición constante a noticias de riesgos y
+miedos que profundizan sensaciones de
+victimización, de malestar y vulnerabilidad
+personal. Algunos medios, sobre todo las redes
+sociales, promueven así una victimización
+indirecta, es decir, la percepción de que podemos
+ser las próximas víctimas, en este caso, del virus.
+De hecho, se plantea que, en situaciones de
+riesgos, la dimensión emocional-afectiva de los
+procesos de recepción de información se
+intensifica sobre la dimensión cognitiva. El riesgo
+no solo se expresa en cálculo de probabilidades,
+sino también en la experiencia
+de
+
+incertidumbre.(5)
+En este sentido, Villegas-Chiroque(6) plantea que,
+desde antaño hasta la actualidad, la primera
+reacción humana a las terribles epidemias es el
+pánico, el temor al sufrimiento y la muerte. Este
+miedo súbito, extraordinario, que oscurece la
+razón, acompaña al hombre durante la aparición
+de todas las epidemias: lepra, peste, VIH/sida,
+tuberculosis, cólera, SARS, ébola, entre otras. Al
+pánico le sigue la huida y el sentimiento de culpa:
+la enfermedad como castigo. En la actualidad, el
+miedo vende y se intensifica con las noticias,
+redes sociales y el cine: se genera zozobra social
+(no hay tratamientos, falta de equipamiento
+médico y hospitales, etcétera) y también
+económica (caída bursátil, aumento de la
+moneda extranjera, etcétera), lo que dificulta la
+implementación de medidas de contingencia
+fáciles y razonables, y se favorece el caos, la
+enfermedad y la muerte sobre los más
+vulnerables: pacientes en pobreza extrema.
+El impacto psicosocial puede exceder la
+capacidad de manejo de la población afectada; se
+estima un incremento de la incidencia de
+trastornos
+mentales
+y
+manifestaciones
+emocionales, de acuerdo con la magnitud de la
+epidemia y el grado de vulnerabilidad de la
+población (entre una tercera parte y la mitad de
+la población expuesta podrá sufrir alguna
+manifestación psicopatológica, de acuerdo con la
+magnitud del evento y el grado de
+vulnerabilidad). Aunque debe destacarse que no
+todos los problemas psicológicos y sociales que
+se presentan podrán calificarse como
+enfermedades; la mayoría serán reacciones
+normales ante una situación anormal. Los
+
+Página 6
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+efectos, generalmente, son más marcados en las
+poblaciones que viven en condiciones precarias,
+poseen escasos recursos y tienen limitado acceso
+a los servicios sociales y de salud.(15,16)
+Se hace necesario entonces la evaluación del
+riesgo psicosocial, el cual se define como la
+probabilidad de que un evento traumático
+exceda un valor específico de daños, en términos
+sociales y de salud mental. Es el resultado de la
+interacción entre las condiciones externas
+(amenaza) e internas (vulnerabilidad). Está
+relacionado también con otros riesgos
+(ambientales, sanitarios, económicos, entre
+otros).
+La epidemia (amenaza por microrganismos
+circulantes) es el factor externo, con respecto a la
+población, que representa la potencial ocurrencia
+de la enfermedad en un gran número de
+personas. La vulnerabilidad es la condición
+interna de un sujeto o grupo expuesto a una
+amenaza epidémica, que corresponde a su
+disposición intrínseca para ser dañado; por
+ejemplo, en el orden biológico, el estado del
+sistema inmunológico. En la valoración del riesgo
+psicosocial se introduce un tercer elemento, la
+indignación, que es el conjunto de factores que
+hace que la población se enoje, esté furiosa o, al
+menos, preocupada. Los expertos muchas veces
+no prestan la debida atención a lo que genera la
+indignación; por otro lado, la gente
+frecuentemente no entiende o no está de
+acuerdo con la información y valoraciones
+proporcionadas por autoridades y técnicos. Por lo
+tanto, no resulta sorprendente que la percepción
+y valoración del riesgo cambie de un grupo a otro.
+Se han definido en la percepción del riesgo
+
+numerosos factores de indignación. Una
+aproximación apropiada a la problemática de
+salud mental implica la comprensión de la
+percepción del riesgo por la población y los
+factores que generan molestia/indignación.(16)
+Es necesario reconocer las diferencias de
+vulnerabilidad de los distintos grupos
+poblacionales, en especial, las relacionadas con el
+género, la edad y el nivel socio-económico. El
+impacto en la salud mental de una epidemia,
+generalmente, es más marcado en las
+poblaciones que viven en condiciones precarias,
+poseen escasos recursos y tienen limitado acceso
+a los servicios sociales y de salud. Existen también
+riesgos de origen ocupacional, tal como los
+propios miembros de los equipos de respuesta
+que trabajan en la emergencia (incluido los
+trabajadores de las morgues). En general, los
+grupos más vulnerables son los que han tenido
+mayores pérdidas y tienen dificultades para
+reconstruir sus vidas y red de apoyo social
+después de la epidemia. Las pérdidas
+experimentadas
+pueden
+tener
+efectos
+diferenciados sobre los diferentes grupos
+poblacionales. Por ejemplo, la respuesta
+emocional de los hombres puede ser la ingesta
+exagerada de alcohol o las conductas violentas;
+las mujeres tienden a comunicarse entre sí, así
+como a buscar apoyo y comprensión para sí
+misma y su familia. Los ancianos pueden estar en
+situaciones de vulnerabilidad como resultado de
+enfermedades crónicas y discapacitantes, déficit
+nutricional, así como carecer de apoyo familiar y
+social; generalmente, están en peores
+condiciones físicas para enfrentar la enfermedad
+epidémica. Los niños y niñas tienen una menor
+
+Página 7
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+comprensión de lo que está sucediendo y
+enfrentan limitaciones en comunicar lo que
+sienten. La situación creada por una epidemia
+afecta todos los aspectos del desarrollo de la
+niñez (físico, psíquico y social).(15,16)
+En este sentido, experiencias discutidas sobre las
+intervenciones psicosociales en el caso de brotes
+de Ébola en África señalan:(16)
+a) Necesidad de involucrar a comunidades antes,
+durante y después de la epidemia.
+b) Invertir en la formación y supervisión de
+trabajadores para el apoyo psicosocial y de salud
+mental.
+c) Mejorar la atención a los huérfanos y otros
+niños afectados.
+d) Integrar las intervenciones psicosociales y de
+salud mental en el marco de referencia de salud
+pública.
+Son varios los sistemas de salud que se han
+pronunciado en cuanto a medidas concretas para
+garantizar los servicios de salud mental durante
+la epidemia y minimizar los trastornos a
+consecuencia de esta. La División de Atención
+Primaria Chilena estableció un plan de
+enfrentamiento a la enfermedad que incluye:(17)
+- Evaluación, caso a caso, de las necesidades de
+atención psicosociales de los usuarios del
+programa de salud mental (infantil y adultos),
+manteniendo las horas de atención, en
+aquellas personas que presentan riesgo
+psicosocial, riesgo de conducta suicida y
+riesgo de mayor afectación por situación de
+COVID-19. Para ello se recomienda hacer un
+censo de la población bajo control con
+problemas de salud mental en situación de
+alto riesgo.
+
+Coordinación de la entrega bimensual o
+trimestral de fármacos para pacientes
+crónicos durante meses de invierno, de
+acuerdo con la capacidad de entrega y
+almacenamiento de cada establecimiento.
+- Resguardo de la prescripción y despacho de
+recetas de los usuarios del programa de Salud
+Mental.
+- Seguimiento telefónico de la población bajo
+control de Salud Mental por los Equipos de
+Salud.
+La Sociedad Española de Psiquiatría elaboró un
+material gráfico que contiene información
+general sobre el virus, las fuentes confiables para
+obtener información y ofrece sugerencias para
+tener una conducta saludable mientras se
+mantengan las medidas de salud pública. Estas
+incluyen la realización de ejercicios físicos, la
+organización de rutinas familiares, una
+periodicidad vigilia-sueño estable y saludable,
+participación en actividades comunitarias
+(aplausos colectivos al personal sanitario,
+confección de nasobucos, etcétera), reiniciar
+actividades, aficiones dejadas por falta de tiempo
+(lectura, informática, música, idiomas), mantener
+comunicación telefónica con amistades y
+aprender técnicas de relajación.(18)
+En Cuba, tenemos la fortaleza de una atención
+primaria de salud que incluye servicios de salud
+mental en todos los policlínicos, centros que
+además se encuentran preparados para
+enfrentar esta situación epidemiológica; y a estos
+niveles se desarrolla un plan de preparación y
+capacitación del personal de salud.(19) Esta
+concepción permite descentralizar la atención y
+acercarla al entorno familiar de los pacientes.(20)
+-
+
+Página 8
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Además, se han mantenido los servicios de
+atención a la urgencia psiquiátrica en los
+hospitales generales y se garantiza el ingreso, de
+ser necesario. La televisión y otros medios de
+comunicación divulgan orientaciones de
+profesionales de la salud mental acerca de cómo
+aprovechar el aislamiento social para desarrollar
+experiencias de crecimiento personal y familiar.
+La información que sobre la enfermedad se
+ofrece es estructural, está contextualizada y está
+a cargo de profesionales sanitarios de alto
+prestigio. No solo se muestra la cantidad de
+infectados, sino también de quiénes fueron
+dados de alta; qué porcentaje de la población
+total implican esos infectados y cómo se
+comporta en el resto del mundo. Se explican
+además, al detalle, las medidas que se han ido
+
+implementando de forma escalonada, los
+objetivos que buscan y las razonas para ponerlas
+en vigor. En opinión de Segura MS,(5) esta manera
+contribuye a dimensionar en forma más cabal el
+fenómeno y reducir así la sensación de lo
+absolutamente novedoso, amenazante e
+incontrolable y, de este modo, ayuda a cuidar la
+salud mental.
+Si bien es cierto que la situación de
+distanciamiento social generada por la
+cuarentena puede afectar psicológicamente,(21)
+es posible promover salud mental a partir de
+entornos que permitan a las personas adoptar y
+mantener modos de vida saludables. El papel de
+la cultura, los medios de comunicación, los
+profesionales sanitarios, las comunidades y las
+familias, es fundamental para garantizarla.
+
+CONCLUSIONES
+En el enfrentamiento a la COVD-19, a la par del
+aislamiento social y otras medidas sanitarias,
+urge potenciar la resiliencia, el crecimiento
+personal, las relaciones intrafamiliares y la
+
+atención especial a los grupos vulnerables para
+así minimizar el impacto psicosocial de la
+epidemia en la población.
+
+REFERENCIAS BIBLIOGRÁFICAS
+1. González Menéndez R. Sandoval Ferrer JE.
+Manual de Psiquiatría. La Habana: ECIMED;
+2019.
+2. Muñoz CO, Restrepo D, Cardona D.
+Construcción del concepto de salud mental
+positiva. Revisión sistemática. Rev Panam Salud
+Pública
+[Internet].
+2016
+[Citado
+11/03/2020];39(3):166-73.
+Disponible
+en:
+http://www.scielosp.org/pdf/rpsp/2016.v39n3/
+166-173/es
+3. Ventura Velázquez RE. Atención psicosocial en
+
+desastres. Temas para entrenamiento. La
+Habana: ECIMED; 2011.
+4. Ramos Valverde RA. La salud mental en
+situación de desastre. Una aproximación a sus
+particularidades. Revista Electrónica Dr. Zoilo
+Marinello Vidaurreta [Internet]. 2013 [Citado
+21/03/2020];38(11):[aprox. 2 p.]. Disponible en:
+https://revzoilomarinello.sld.cu/index.php/zmv/
+article/view/423/pdf_95
+5. Segura MS. Con alerta pero sin pánico. El rol de
+los medios durante la pandemia. Revista de la
+
+Página 9
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+Facultad de Ciencias Médicas de Córdoba
+[Internet]. 2020 [Citado 8/04/2020];77(1):55-8.
+Disponible
+en:
+http://revistas.unc.edu.ar/index.php/med/articl
+e/view/28066/29334
+6. Villegas Chiroque M. Pandemia de COVID-19:
+pelea o huye. Rev Exp Med. 2020 EneMarz;6(1):3-4.
+7. Rodríguez Morales AJ, Sánchez Duque JA,
+Hernández Botero S, Pérez Díaz CE, Villamil
+Gómez WE, Méndez CA, et al. Preparación y
+control de la enfermedad por coronavirus 2019
+(COVID-19) en América Latina. Acta Med Perú
+[Internet]. 2020 [Citado 08/04/2020];37(1):3-7.
+Disponible
+en:
+http://doi.org/1035663/amp.2020.371.909
+8. Aragón Nogales R, Vargas Almanza I, Miranda
+Novales MG. COVID-19 por SARS-CoV-2: la nueva
+emergencia de salud. Rev Mex Pediatr [Internet].
+2019
+[Citado
+08/04/2020];86(6):213-8.
+Disponible
+en:
+http://www.medigraphic.com/pdfs/pediat/sp2019/sp196a.pdf
+9. Serra Valdés MA. Infección respiratoria aguda
+por COVID-19: una amenaza evidente. Rev haban
+cienc
+méd
+[Internet].
+2020
+[Citado
+10/04/2020];19(1):1-5.
+Disponible
+en:
+https://www.revhabanera.sld.cu/index.php/rha
+b/article/view/3171
+10. MINSAP. Protocolo Nacional MINSAP vs
+COVID-19. La Habana: Ministerio de Salud
+Pública; 2020.
+11. Tortella Feliú M, Baños RM, Barrantes N,
+Botella C, Fernández Aranda F, García Campayo J,
+et al. Retos de la investigación psicológica en
+salud mental. Clínica y Salud [Internet]. 2016
+
+[Citado 05/04/2020];27:37-43. Disponible en:
+https://scielo.isciii.es/pdf/clinsa/v27n1/original6
+.pdf
+12. Organización Mundial de la Salud. Promoción
+de la Salud Mental: conceptos, evidencia
+emergente, práctica: informe compendiado
+[Internet]. Ginebra: Organización Mundial de la
+Salud; 2004. [Citado 11/03/2020] Disponible en:
+https://www.who.int/mental_health/evidence/
+promocion de_la salud mental.pdf
+13. Macaya Sandoval XC, Pihan Vyhmeister R,
+Vicente Parada B. Evolución del constructo de
+Salud mental desde lo multidisciplinario.
+Humanidades Médicas [Internet]. 2018 [Citado
+05/04/2020];18(2):215-23.
+Disponible
+en:
+https://scielo.sld.cu/pdf/hmc/v18n2/1727-8120hmc-18-02-338.pdf
+14. Sociedad Española de Psiquiatría. Guía
+COVIDSAM para la intervención en salud mental
+durante el brote epidémico de COVID-19.
+Madrid: Sociedad Española de Psiquiatría; 2020.
+15. Organización Panamericana de la Salud.
+Protección de la salud mental en situaciones de
+epidemias [Internet].
+Washington DC:
+Organización Panamericana de la Salud; 2009
+[Citado
+05/04/2020].
+Disponible
+en:
+http://www.paho.org/hq/dmdocuments/2009/P
+andemia%20de%20influenza%20y%20Salud%20
+mental%20Esp.pdf
+16. Organización Panamericana de la Salud.
+Protección de la salud mental y atención
+psicosocial en situaciones de epidemias
+[Internet]. Washington DC:
+Organización
+Panamericana de la Salud; 2016. [Citado
+05/04/2020].
+Disponible
+en:
+http://www.paho.org/disasters/index.php?optio
+
+Página 10
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+Revista Habanera de Ciencias Médicas
+
+ISSN 1729-519X
+
+n=com_docman&view=download&category_slu
+g=informes-tecnicos&alias=2539-proteccionsalud-mental-atencion-psicosocial-situacionesepidemias-2016-539&Itemid=1179&lang=en
+17.
+Ministerio
+de
+Salud
+de
+Chile.
+Recomendaciones generales para la organización
+de la atención en establecimientos de atención
+primaria de salud en contexto de pandemia SARSCoV-2 [Internet]. Santiago de Chile: Ministerio de
+Salud de Chile; 2020. [Citado 04/04/2020].
+Disponible en: http://diprece.minsal.cl/wpcontent/uploads/2020/03/RECOMENDACIONESGENERALES-ESTABLECIMIENTOS-APS-V.6.pdf
+18. Sociedad Española de Psiquiatría. Cuide su
+salud mental durante la cuarentena por
+coronavirus. Madrid: Sociedad Española de
+Psiquiatría; 2020.
+19. González Rivero MC. Enfermedad por
+Coronavirus (COVID-19). Atención Primaria.
+Salud del barrio. Boletín de la Biblioteca Médica
+
+Nacional [Internet].
+2020 Abr [Citado
+12/04/2020];4:[aprox. 2 p.]. Disponible en:
+https://files.sld.cu/bmn/files/2020/04/salud-delbarrio-especial-abril-2020.pdf
+20. Gomes Silva D, Pearce de Oliveira Brito JN,
+Astrês Fernandes M, Pinheiro Landim Almeida
+CA, Campêlo Lago E. Concepção de Profissionais
+da Estratégia Saúde da Família sobre a Saúde
+Mental na Atenção Básica. Rev Eletrônica Saúde
+Mental Álcool Drog [Internet]. 2017 [Citado
+04/04/2020];13(3):118-24.
+Disponible
+en:
+https://pepsic.bvsalud.org/pdf/smad/v13n3/02.
+pdf
+21. Ruiz M. Salud mental y Covid-19: consejos
+para combatir el aislamiento por la pandemia
+[Internet]. La Habana: Gaceta Medica; 2020 Abr
+[Citado
+04/04/2020].
+Disponible
+en:
+http://gacetamedica.com/profesion/saludmental-y-covid-19-consejos-para-combatir-elaislamiento-por-la-pandemia/
+
+Conflicto de intereses
+Los autores declaran que no existen conflictos de intereses.
+Contribución de autoría
+Todos los autores participamos en la discusión de los resultados y hemos leído, revisado y aprobado el texto final
+del artículo.
+
+Página 11
+Este es un artículo en Acceso Abierto distribuido según los términos de la Licencia Creative Commons Atribución–
+NoComercial 4.0 que permite el uso, distribución y reproducción no comerciales y sin restricciones en cualquier medio,
+siempre que sea debidamente citada la fuente primaria de publicación.
+
+

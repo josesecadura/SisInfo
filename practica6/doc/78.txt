@@ -1,0 +1,1188 @@
+Informe científico sobre vías de transmisión SARS-CoV-2
+Para el Ministerio de Ciencia e Innovación de España
+29-Oct-2020
+Contribuyen: Antonio Alcamí (CBM-CSIC), Margarita del Val (CBM-CSIC), Miguel Hernán
+(Harvard University), Pello Latassa (Gobierno La Rioja), José Luis Jiménez (Colorado
+University), Xavier Querol (IDAEA-CSIC), Ana Robustillo (Hospital Universitario La Paz), Gloria
+Sánchez (IATA-CSIC), Alfonso Valencia (BSC-CNS)
+Posibles Vías de Transmisión
+Posición de la OMS
+Según el último informe de la OMS sobre ‘Vías de transmisión de SARS-CoV-2: Implicaciones
+en toma de precauciones para prevenir la infección‘ del 9 de julio de 2020 (WHO, 2020a) se
+reconocen las siguientes vías como posibles:
+●
+
+●
+
+●
+●
+
+Gotículas, o gotas de Flugge de gran tamaño, que se emiten al hablar, cantar, toser,
+estornudar y respirar, y que pueden impactar en los ojos, fosas nasales, o boca de otra
+persona a menos de 1 m (CDC, 1996; WHO 2020a).
+Aerosoles. Partículas más pequeñas que se emiten conjuntamente con las gotículas y
+que por su reducido tamaño pueden permanecer en suspensión en el aire. Pueden
+infectar por inhalación y deposición en diferentes partes del sistema respiratorio. Pueden
+ser respiradas en proximidad cercana (e.g. conversación entre dos personas) o
+compartiendo el aire en espacios cerrados. La OMS indica que la vía por aerosoles está
+limitada a ambientes interiores mal ventilados (entendiendo por ventilación la renovación
+de aire interior por aire fresco exterior) y con alta densidad de ocupación
+Contacto directo o primario, contacto físico de una persona infectada con otra.
+Fómite o contacto indirecto, generalmente un objeto o superficie que ha sido tocado por
+una persona infectada, o en el que se han depositado gotículas y/o aerosoles generadas
+por una persona infectada (Chia et al. 2020; Zhou et al. 2020; Guo et al. 2020), y que
+luego lo toca otra persona. Estudios controlados en laboratorio demuestran la estabilidad
+de SARS-CoV-2 infeccioso en diferentes superficies donde se depositó una
+concentración conocida de virus (van Doremalen et al. 2020). Sin embargo, no hay
+evidencia en situaciones reales de la recuperación de infectividad viral en muestras
+tomadas de superficies donde se detectan genomas virales por PCR (Zhou et al. 2020),
+y publicaciones recientes cuestionan la relevancia de encontrar genomas virales en
+superficies en la transmisión del virus (Goldman 2020; Mondelli et al. 2020). La vía de
+contagio por superficies se considera minoritaria (CDC, 2020b). Un estudio en el Reino
+Unido, comparando personas que se lavaban las manos con gran frecuencia con otras
+que no, encontró una reducción de la transmisión del 16% (Al-Ansary et al., 2020).
+
+1
+
+Descripción de las gotas y aerosoles
+Cuando respiramos, hablamos, gritamos, cantamos, tosemos, y estornudamos emitimos
+abundantes partículas: gotículas y aerosoles. Las gotículas infectan por impacto en los ojos,
+fosas nasales, o boca, y caen al suelo hasta a 1-2 m de la persona que las emite. Los aerosoles
+infectan por inhalación, y viajan más de 1-2 m antes de caer al suelo.
+
+Figura 1: ilustración de las formas de transmisión del SARS-CoV-2, mostrando el spray de
+gotículas balísticas, los aerosoles de diferentes tamaños, y los fómites. De Milton (2020),
+modificada por D. Milton (comunicación personal, 19-Oct-2020).
+Las gotículas son generalmente de tamaños de 100 a 1000 μm (0,1 a 1 mm) y los aerosoles son
+inferiores a 100 μm (Wells, 1934; Prather, 2020b). Un tamaño de 100 micras es necesario para
+el comportamiento balístico de las gotas (Chen et al., 2020) y para caer al suelo en 1-2 m (Wells,
+1934; Xie et al., 2007). Un error muy extendido atribuye incorrectamente la frontera entre gotas
+y aerosoles a las 5 μm. Los CDC cometieron un error en 1990, cuando la tuberculosis era la
+principal preocupación de las enfermedades de transmisión aérea. La tuberculosis sólo puede
+infectar cuando el patógeno llega a los alvéolos, lo que solo es posible para aerosoles de menos
+de unas 5 μm (US EPA, 2020). Los CDC confundieron en su guía de prevención de infecciones
+el tamaño que puede penetrar en los pulmones (5 μm) con el que cae al suelo en 1-2 m (100
+μm). Los CDC reconocieron este error ya en 2007 (CDC, 2007), pero este ha persistido en una
+gran cantidad de publicaciones (e.g. Klompas et al., 2020; Conly et al., 2020), incluyendo en los
+documentos de la OMS hasta la fecha (WHO, 2020a). El Dr. Anthony Fauci recientemente
+admitió públicamente el error de las 5 μm (Fauci, 2020). Este error ha creado mucha confusión,
+al dar la apariencia de que las gotículas eran muchísimo más numerosas de lo que son en
+realidad.
+La concentración (en número) emitida en aerosoles es mucho mayor que la de gotículas, unas
+~1000 veces al hablar. El ratio aerosoles/gotículas disminuye en emisiones producidas por tos,
+respecto a las emitidas cuando hablamos (Somsen et al., 2020; Johnson et al., 2011). La emisión
+durante la tos se produce a 2-7 m/s. Una gotícula de 500 μm tarda 1 s en caer por gravedad
+describiendo una trayectoria balística de 1 m de amplitud (de ahí la necesidad de 1,5 m de
+distanciamiento), mientras que en ambientes interiores los aerosoles pueden estar en
+suspensión, con lo cual permite (en espacios interiores con mala ventilación) al aerosol y virus
+2
+
+alcanzar distancias mayores desde la emisión, manteniendo propiedades infectivas (por lo
+menos hasta 4,8 m según Lednicky et al., 2020). Ma et al. (2020) midieron la emisión en
+aerosoles de millones de copias de SARS-CoV-2 por hora de personas infectadas en la fase
+temprana de la enfermedad, aunque la emisión no era continua sino esporádica.
+Debido a su menor tamaño, la infectividad del virus presente en aerosoles puede ser mayor al
+penetrar profundamente en los pulmones, y podrían causar una mayor severidad de la
+enfermedad COVID-19. Esta “infección anisotrópica” se observa para la gripe, en la que la dosis
+infectiva (con síntomas similares) es 100.000 veces mayor por deposición en la nariz que en los
+pulmones (Alford et al., 1966; Little et al., 1979), y también se observó para la viruela (Milton,
+2012).
+Otras posibles vías de transmisión
+●
+
+●
+
+●
+
+●
+
+Heces y orina. Se han detectado trazas del ARN del SARS-CoV-2 en heces y orina de
+personas infectadas, pero solo muy infrecuentemente se han aislado virus infecciosos en
+muestras de heces de pacientes con COVID-19 (Wang et al., 2020; Xiao et al., 2020;
+Zhang et al., 2020). A pesar de ello, el papel de la transmisión fecal-oral o fecalrespiratoria se considera limitada ya que hasta la fecha sólo se conoce un informe que
+indique esta vía de transmisión (Yuan et al., 2020).
+Sangre. Se ha detectado ARN del SARS-CoV-2 en plasma o suero, se ha replicado en
+células sanguíneas. Sin embargo, el papel de la transmisión sanguínea sigue siendo
+incierto. El riesgo de transmisión por esta vía parece ser bajo porque no se han reportado
+casos de transmisión por transfusión sanguínea, a pesar de que los bancos de sangre no
+criban a sus donantes con PCR de diagnóstico o serología para anticuerpos frente a
+SARS-CoV-2
+De madre a hijo. No hay evidencia de transmisión intrauterina del SARS-CoV-2 de
+mujeres embarazadas infectadas a sus fetos. Se han encontrado fragmentos de ARN
+viral en muestras de leche materna de madres infectadas con SARS-CoV-2, pero ningún
+virus viable. La OMS recomienda que las mujeres lactantes con COVID-19 confirmada o
+posible continúen amamantando, ya que los beneficios de transmitir al bebé nutrientes y
+anticuerpos frente a múltiples patógenos son muy superiores a los riesgos.
+De animales a personas. La evidencia actual sugiere que los humanos infectados con
+SARS-CoV-2 pueden infectar a otros mamíferos, incluidos perros, gatos y visones de
+granja. Sin embargo, no está clara la eficacia y frecuencia de estas transmisiones, y si
+estos mamíferos infectados representan un riesgo significativo de transmisión a humanos.
+
+Transmisión por Aerosoles
+Las agencias de salud pública de EE.UU., Alemania y Reino Unido coinciden en señalar la
+inhalación de aerosoles como una de las principales vías de contagio del SARS-CoV-2:
+●
+
+CDC de EE.UU.: “These particles can be inhaled into the nose, mouth, airways, and lungs
+and cause infection. This is thought to be the main way the virus spreads” (CDC, 2020a).
+Aunque de manera algo confusa al mezclar varias definiciones de gotículas y aerosoles,
+
+3
+
+la CDC admite que los aerosoles son la forma más importante de contagio, dado que sólo
+los aerosoles pueden ser inhalados (Milton, 2020; Prather et al., 2020b).
+●
+
+Instituto Robert Koch de Alemania: “The main route of transmission for SARS-CoV-2 is
+the respiratory uptake of virus-containing particles that arise when breathing, coughing,
+speaking and sneezing. Depending on the particle size and the physical properties, a
+distinction is made between larger droplets and smaller aerosols, with the transition
+between the two forms being fluid. While larger respiratory particles in particular sink
+quickly to the ground, aerosols can also float in the air for long periods of time and
+distribute themselves in closed rooms. [...] If you stay in small, poorly or non-ventilated
+rooms for a long time, the probability of transmission by aerosols can increase even over
+a distance greater than 1,5 m, especially if an infectious person that emits a particularly
+large number of small particles (aerosols) for a long time stays in the room and exposed
+persons inhale particularly deeply or frequently. Due to the accumulation and distribution
+of the aerosols in the room, maintaining the minimum distance for infection prevention
+may no longer be sufficient” (RKI, 2020).
+La Agencia Alemana del Medio Ambiente (UBA) dio a conocer el 15-Oct-2020 un manual
+de instrucciones para la ventilación en las escuelas que indica cuándo, por qué y cómo
+ventilar las aulas para reducir riesgo de infección. Recomiendan ventilar las aulas con
+regularidad cada 20 minutos durante unos cinco minutos con las ventanas abiertas de par
+en par. Esto implica reconocer la vía de transmisión por aerosoles, dado que es la única
+vía afectada por la ventilación. Se ha agregado a la fórmula del gobierno alemán para
+combatir el coronavirus y han invertido mucho en sensores, sistemas de ventilación y
+purificadores (ver más abajo).
+
+●
+
+Public Health England en Reino Unido: “SARS-CoV-2 is primarily transmitted between
+people through respiratory (droplet and aerosol) and contact routes. Transmission risk is
+highest where people are in close proximity (within 2 metres). Airborne transmission can
+occur in health and care settings in which procedures or support treatments that generate
+aerosols are performed. Airborne transmission may also occur in poorly ventilated indoor
+spaces, particularly if individuals are in the same room together for an extended period of
+time” (PHE, 2020).
+
+Importancia relativa de gotículas y aerosoles
+Como hemos visto, el SARS-CoV-2 es un virus de transmisión fundamentalmente respiratoria.
+Hay consenso en la comunidad científica que la transmisión está dominada por la suma de
+gotículas balísticas y aerosoles (e.g. CDC 2020a, 2020b; RKI, 2020; PHE, 2020), con un intenso
+debate en la comunidad científica sobre la importancia relativa de estas dos vías (e.g. CDC
+2020a; WHO, 2020a; Lewis, 2020; Morawska and Milton, 2020; Conly et al., 2020; Klompas et
+al., 2020; Prather et al., 2020a, 2020b). La dificultad de obtener pruebas científicas contundentes
+sobre el predominio de una vía u otra se debe a que se pueden producir al mismo tiempo en
+proximidad cercana entre dos personas. Es importante revisar la evidencia en favor y en contra
+de las dos vías.
+
+4
+
+Resumen de la evidencia a favor de la transmisión por aerosoles
+●
+
+●
+
+●
+
+●
+
+La capacidad de transmisión de SARS-CoV-2 se caracteriza por una gran contribución al
+contagio de los brotes de superpropagación, con 10-20% de los infectados causando el
+80% de las infecciones secundarias (Adam et al., 2020; Lau et al., 2020; Kupferschmidt,
+2020), lo que lleva a una gran dispersión en el factor R (Endo et al., 2020). Los brotes
+que se han estudiado en detalle son sólo explicables con contribución importante de los
+aerosoles (e.g. Miller et al., 2020; Shen et al., 2020; Li et al., 2020; Park et al., 2020). Uno
+de los casos más claros de los estudiados hasta la fecha es probablemente el del coro
+Skagit en EEUU, dado que la descripción detallada de las actividades permiten excluir un
+contagio significativo por superficies o gotículas (Miller et al., 2020). Ningún evento de
+superpropagación que se ha analizado demuestra de manera convincente, o ni siquiera
+apunta a una mayoría de casos a través de gotículas.
+El riesgo de infección en el ambiente interior es unas 20 veces mayor que al aire libre
+(Nishiura et al., 2020; Qian et al., 2020). La OMS en su informe de febrero de 2020 sobre
+las condiciones causantes de las infecciones en China, expone que la mayoría (78-85%)
+de los 1.836 infectados rastreados en 1.308 brotes se infectaron en ambientes familiares
+o de amistades, y que los ambientes interiores con exposiciones prolongadas son los que
+más facilitan la transmisión (WHO, 2020b). En un estudio posterior, Qian et al. (2020)
+describieron para 1.245 casos en China que el 80% de los casos incluían entre la
+posibilidad de infección ambientes interiores en familia o amistades, y un 34% habían
+utilizado el transporte público (no siendo necesariamente la causa). Esta gran diferencia
+es más fácil de explicar si el contagio está dominado por aerosoles. La velocidad típica
+del viento en exteriores es de 0,2 a 5 m/s, mientras que en aire interior es mucho más
+reducida, 0,05-0,15 m/s. La mayor velocidad del aire en el exterior crea una dispersión
+mayor de los aerosoles emitidos, pero apenas afecta a las gotículas, salvo en situaciones
+de viento muy intenso. Además, el aire exhalado está normalmente más caliente que el
+aire ambiente, y se eleva (Chen et al., 2020). Esto ayuda a la dispersión de los aerosoles
+al aire libre. En interiores la dispersión está limitada por el techo, y eventualmente ese
+aire vuelve a bajar al mezclarse el aire en el local. No es posible explicar la gran diferencia
+en contagio entre ambientes interiores y al aire libre si la transmisión estuviera dominada
+por gotículas balísticas.
+En interiores se observa un aumento de la probabilidad de infección de COVID-19 en
+espacios cerrados con poca ventilación (CDC, 2020a; WHO; 2020a). La ventilación
+generalmente produce velocidades de aire pequeñas, que no perturban a los aerosoles
+en proximidad cercana o las gotículas. Sin embargo tiene un gran impacto en reducir el
+nivel general de aerosoles en un espacio cerrado. Enfermedades aceptadas de
+transmisión aérea como la tuberculosis también muestran una gran reducción de contagio
+con la ventilación (Wargocki et al., 2002; Du et al., 2020; Zhu et al., 2020).
+Dada la mucha mayor concentración de aerosoles en proximidad cercana que en el aire
+compartido en una habitación, si los aerosoles que se acumulan en una habitación con
+baja ventilación pueden llegar a infectar a muchas personas, lo harán con mucha más
+facilidad cuanto mayor sea la proximidad. Este contagio por aerosoles en proximidad
+puede confundirse con el contagio por gotículas.
+
+5
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+●
+
+Un modelo matemático detallado de gotículas y aerosoles en proximidad cercana muestra
+que, al hablar en el rango de distancias típicas, la dosis (volumen inhalado o impactado)
+es de 100 a 2000 veces más grande a través de aerosoles que de gotículas. Solo al toser
+en dirección a otra persona la dosis a través de gotículas y aerosoles es comparable
+(Chen et al., 2020). Aunque se trate de un modelo, con las incertidumbres
+correspondientes, esta publicación avala la importancia de los aerosoles en escenarios
+realistas de transmisión. Tampoco conocemos ningún estudio similar que llegue a la
+conclusión opuesta, de que las gotículas dominen el contagio al hablar. Esto se debe a
+que por cada gotícula que se emite al hablar, se emiten unos 1000 aerosoles. La gotícula
+tiene una sola oportunidad en su trayectoria para impactar unos objetivos muy pequeños
+(ojos, interior de las fosas nasales, o boca). Los aerosoles flotan como el humo y tienen
+muchas oportunidades de ser inhalados. De esta manera la situación física favorece
+enormemente a los aerosoles. Parte de la importancia atribuida a las gotículas puede
+derivar del error de las 5 μm (descrito más arriba), que hacía pensar que las gotículas
+eran mucho más numerosas de lo que son en realidad.
+Para todas las enfermedades en que se ha estudiado (tuberculosis, sarampión, gripe y
+virus respiratorio sincitial (VRS)), se encuentra mayor cantidad de los patógenos en el
+conjunto de los aerosoles que en el de las gotículas (Fennelly et al., 2020).
+La transmisión por aerosoles está plenamente aceptada para la tuberculosis, el
+sarampión y la varicela (Riley et al., 1957; Riley et al., 1978; Leclair et al., 1980; Bloch et
+al., 1985; Sepkowitz et al., 1996). Hay evidencia de transmisión por aerosoles para la
+gripe, rinovirus, VRS, SARS, y MERS (Dick et al., 1987; Yu et al., 2004; Tellier et al.,
+2006; Cowling et al., 2013; Kulkarni et al., 2015; Kim et al., 2016; Tellier et al., 2019). En
+contraste, la transmisión por gotículas nunca ha sido demostrada directamente para
+ninguna enfermedad, ni tampoco para la COVID-19 (Chen et al., 2020).
+Un estudio reciente demuestra la presencia de virus infeccioso en aerosoles recogidos a
+4,8 m de un paciente infectado (Lednicky et al., 2020). Esta demostración es importante,
+dado que por ejemplo nunca se han conseguido cultivar los patógenos del sarampión
+(Bishoff et al., 2016) o de la tuberculosis a partir de muestras de aire de una habitación,
+y en el caso de la tuberculosis a pesar de muchos intentos durante casi un siglo. Para la
+tuberculosis solo se consiguió cultivar el patógeno tras encerrar a pacientes en una caja
+25 veces más pequeña que una habitación normal (Morawska and Milton, 2020b). La
+nueva tecnología VIVAS (Aerosol Devices, 2020), que permite recoger aerosoles
+preservando la integridad de las partículas virales, fue probablemente crucial para el
+resultado de Lednicky et al.
+El virus mantiene propiedades infectivas varias horas en aerosoles generados en
+condiciones experimentales (van Doremalen et al., 2020; Smither et al., 2020; Schuit et
+al., 2020; Fears et al., 2020; Morris et al., 2020).
+La transmisión por aerosoles ha sido demostrada con hurones y hamsters (Richard et al.,
+2020; Sia et al., 2020).
+Dos estudios han estimado la proporción de cada una de las vías de infección en
+diferentes situaciones a través de modelos matemáticos inversos, incluyendo el crucero
+Diamond Princess y un hospital. En ambos casos la proporción estimada para aerosoles
+era mayor del 50% (Jones et al., 2020; Azimi et al., 2020).
+
+6
+
+Resumen de los argumentos en contra de la transmisión por aerosoles
+Hay una serie de argumentos que se mencionan frecuentemente en la literatura científica para
+argumentar que la transmisión del SARS-CoV-2 por aerosoles es poco importante (e.g. WHO,
+2020a; Klompas et al., 2020; Conly et al., 2020). De esta conclusión, por eliminación, con
+frecuencia se extrae la consecuencia de que la transmisión por gotículas debe ser dominante.
+En esta sección examinamos brevemente estos argumentos (Jimenez, 2020a).
+Frecuentemente se afirma que si el SARS-CoV-2 se transmitiese por el aire:
+●
+●
+●
+●
+●
+●
+
+El alcance de la COVID-19 sería mucho más grande de lo que ya es.
+La COVID-19 se comportaría como el sarampión, con una gran facilidad de contagio.
+El factor R0 ~2.5-3.5 sería mucho mayor.
+No sería posible explicar casos en los que no se observan contagios, por ejemplo en
+hospitales (Conly et al., 2020).
+La tasa de ataque en hogares sería más alta de lo que es (20-40%).
+Se observarían casos de contagio a mayores distancias.
+
+Estos argumentos se basan en suposiciones adicionales, que normalmente no se hacen
+explícitas, pero que son necesarias para pasar de las observaciones a la conclusión de que los
+aerosoles no son importantes en ningún caso para la transmisión del SARS-CoV-2:
+●
+
+●
+
+La suposición más importante es asumir que, si el SARS-CoV-2 se transmite de forma
+importante por aerosoles, todas las personas infectadas por COVID-19 emiten aerosoles
+continuamente con similar y gran intensidad. Sin embargo, esta suposición no es cierta
+para enfermedades aceptadas como de transmisión aérea. Por ejemplo, casos de no
+contagio en presencia de enfermos fueron usados como la mayor evidencia para
+considerar al sarampión como una enfermedad transmitida por gotículas durante 7
+décadas (Bloch et al., 1985). Y estudios cuantitativos de transmisión de la tuberculosis
+muestran una gran variedad en la cantidad de aerosoles infecciosos emitidos (Beggs et
+al., 2003). Para el SARS-CoV-2, se observa un pico de contagiosidad corto justo antes y
+durante la aparición de los primeros síntomas (He et al., 2020; Ferretti et al., 2020). Los
+pacientes muy enfermos de COVID-19 suelen ser muy poco contagiosos, al contrario que
+para el SARS de 2003 en que los pacientes graves dominaban el contagio. Esta baja
+contagiosidad de los pacientes graves ayuda a explicar casos de no contagio en
+hospitales. Estudios experimentales de emisiones de SARS-CoV-2 de pacientes
+muestran una emisión esporádica, y no continua (Ma et al., 2020). Finalmente, las
+emisiones de aerosoles están ligadas a las actividades de vocalización, y son por tanto
+variables, y se sabe que algunas personas emiten 10 veces más aerosoles al hablar que
+otras (Asadi et al., 2019). Por todas estas razones, no es razonable interpretar situaciones
+complejas en el mundo real sin tener en cuenta el potencial de una gran variabilidad en
+la emisión de aerosoles infecciosos al aire.
+También se asume frecuentemente que todas las enfermedades de transmisión por
+aerosoles tienen que ser muy contagiosas. En realidad esto es una consecuencia de la
+historia de este campo. La negación de la transmisión de enfermedades por el aire por
+
+7
+
+●
+
+Chapin (1910), que se convirtió después en un paradigma en este campo, creó una gran
+resistencia. Por esta razón, durante el siglo XX, solo enfermedades muy contagiosas
+pudieron ser demostradas y ampliamente aceptadas como de transmisión por aerosoles.
+Enfermedades con una componente de transmisión por aerosoles, pero menos
+contagiosas, se han seguido describiendo como enfermedades transmitidas por
+gotículas. No existe ninguna razón para que sea una ley de la naturaleza que
+enfermedades que se transmiten por aerosoles tengan que ser muy contagiosas. La
+contagiosidad depende de la cantidad de patógeno emitido, la durabilidad del patógeno
+en aerosoles, y los lugares de deposición de los aerosoles en el sistema respiratorio y
+sus dosis infecciosas en la persona susceptible. Es suficiente con tal de que la
+contagiosidad sea suficiente para permitir sobrevivir a la enfermedad.
+Finalmente, se asume que casos de contagio a mayores distancias se podrían identificar
+en las circunstancias actuales. Sin embargo, históricamente solo se han podido identificar
+en casos de ausencia completa de transmisión comunitaria, como el famoso caso de
+transmisión aérea de la viruela en Alemania (Gelfand and Posch, 1971).
+
+Necesidades de investigación
+Hay una serie de preguntas muy relevantes que quedan por responder:
+●
+
+●
+
+●
+●
+
+●
+
+Estimar con mayor certeza la proporción de transmisiones que ocurren por cada una de
+las vías de transmisión y las condiciones ambientales que facilitan cada tipo de
+transmisión.
+Demostrar la dosis infecciosa de SARS-CoV-2 necesaria para que ocurra la transmisión
+por aerosoles entre personas. Esto permitiría monitorizar los niveles de virus en aerosoles
+en un ambiente particular y evaluar si estos niveles representan un riesgo de contagio.
+Aplicar las nuevas tecnologías de captura suave de patógenos del aire para investigar la
+infectividad del SARS-CoV-2 en diferentes situaciones.
+Determinar si la COVID-19 es una enfermedad anisotrópica, i.e. si la infección por
+aerosoles puede causar una enfermedad más severa al penetrar más profundamente en
+los pulmones, en comparación con la infección a través de las vías respiratorias
+superiores.
+Existen casos de convivientes y familiares que no contagian a nadie del grupo
+conviviente, y casos en que se contagian todos. Investigar en estos brotes controlados si
+la mala ventilación o la alta ocupación de las viviendas favorecen el contagio por
+aerosoles, y explican el segundo tipo de situación, y mejorar en ese caso la información
+a los ciudadanos para remarcar la importancia de la suficiente ventilación también en los
+domicilios. Estudiar si esto ocurre más en barrios con menos recursos y mayor densidad
+de convivientes y apoyar a la población con información sobre la importancia de ventilar
+y si fuera necesario con suministro de filtros adecuados si es necesario. O si por el
+contrario la variabilidad es causada por una gran variación en la emisión de aerosoles
+infecciosos, o por factores genéticos u otros.
+
+8
+
+¿Qué medidas pueden resultar eficaces para reducir el riego?
+Explicación del mecanismo de transmisión por aerosoles
+●
+
+Explicar a la población la importancia de la transmisión por el aire, a través de aerosoles
+respiratorios expulsados por personas infectadas, que se mueven en el aire como el
+humo. Como ha dicho el virólogo alemán (e importante asesor de Angela Merkel)
+Christian Drosten: “simplemente tenemos que reconocer que la transmisión por aerosoles
+juega un papel importante.” Y “Tenemos que hablar con el público. Todo el mundo tiene
+que saber los principios básicos de la transmisión del virus. No es suficiente imponer
+medidas que la gente no entiende. La cooperación de la población es una de las acciones
+más importantes.”
+
+Mascarillas, tipos y por qué y para qué
+●
+
+●
+
+Recomendar y explicar el buen ajuste de la mascarilla. El énfasis erróneo en las gotas ha
+creado la percepción de que la mascarilla es un parapeto para proteger contra proyectiles,
+cuyo ajuste no es muy importante. El símil del humo ayuda a entender la gran importancia
+de este ajuste.
+Esforzarse a nivel gubernamental por incrementar la calidad de las mascarillas en uso
+por la población, dada la gran variación extrema en la filtración y adaptabilidad
+ergonómica facial (clave para forzar el aire a ser filtrado y no acceder por huecos entre la
+mascarilla y cara) de diferentes tipos de mascarillas de tela, con algunas llegando a
+niveles muy altos de filtrado, mientras que otras apenas filtran el 10% de los aerosoles
+(Volckens, 2020).
+
+Como se ha ido repitiendo en diferentes informes, como por ejemplo CSIC (2020a), en la
+regulación europea existen normas para mascarillas quirúrgicas y dispositivos de protección
+respiratoria. La eficacia de estos dispositivos depende de tres factores:
+-
+
+La eficiencia de filtración del material que compone el dispositivo.
+El ajuste del dispositivo a la fisonomía humana, es decir, la ausencia de fugas.
+La respirabilidad que ello permite.
+
+Los ensayos para ello son claramente diferentes, y solamente las máscaras protectoras FFP2 y
+FFP3 han de cumplir los requisitos de los tres ensayos. Así las mascarillas quirúrgicas, reguladas
+por la norma EN 14683:2019, se aplican para evitar que la persona que la lleva propague o emita
+patógenos y cumple un test de filtración bacteriana para caracterizar solamente la capacidad de
+filtración del material del cual está hecha la mascarilla. Sin embargo, las mascarillas quirúrgicas
+pueden proporcionar una protección sustancial a la persona que las lleva contra respirar
+aerosoles presentes en el aire ambiente, sobretodo para partículas mayores de 1 micra que se
+estiman las más importantes para la transmisión del SARS-CoV-2 (Shakia et al., 2017). Las
+mascarillas higiénicas tienen una menor eficacia de protección y en España, tanto no reutilizables
+(de un solo uso) como reutilizables, estas deben cumplir, tanto no reutilizables (de un solo uso)
+como reutilizables, los requisitos establecidos en las especificaciones técnicas UNE 0064-
+
+9
+
+1:2020, UNE 0064-2:2020, UNE 0065:2020 o cualquier norma equivalente que garantice el
+cumplimiento de los criterios de aceptación establecidos en las citadas especificaciones; que son
+mucho menos exigentes que las de aplicación en las quirúrgicas (Consumo, 2020).
+Los equipos de protección individual (medias máscaras FFP2, FFP3) están diseñados para
+proteger a la persona que la lleva de las partículas que hay en el ambiente y se regulan por la
+norma EN 149:2001, en la que se hace referencia a la norma EN 13274- 7:2019 para evaluar la
+capacidad filtrante del material con que se produzcan. Además han de cumplir los requisitos de
+la norma EN 149:2001 que describe el ensayo de ajuste de la media máscara a la fisonomía
+humana y la fuga por la válvula de exhalación (si existe). Estas medias máscaras pueden o no
+llevar válvula de exhalación de aire. Si no la llevan, protegen tanto a quien la lleva del resto como
+a la inversa (al resto frente a la persona que la lleva). Si llevan válvula de exhalación, solo protege
+a la persona que la lleva, pero no evita que dicha persona emita potencialmente patógenos en
+caso de estar enferma. Las mascarillas higiénicas han de cumplir requisitos filtrantes menos
+exigentes que las quirúrgicas, y tampoco aplican los ensayos de fuga.
+Higiene
+●
+
+Continuar con la higiene de manos, dado que la transmisión por superficies, aunque
+minoritaria, está aceptada por la mayoría de la comunidad científica.
+
+Distancia y exteriores
+●
+●
+●
+
+●
+
+●
+
+Recomendar hacer todas las actividades posibles al aire libre, dado que al aire libre, con
+distancia, y con mascarilla bien ajustada, la probabilidad de contagio es muy baja.
+Recordar a la población que hay bastantes casos de contagio documentados en
+exteriores, si la distancia no se respeta y no se usa la mascarilla.
+Mantener la distancia social. Aunque esta medida se explica por aerosoles, en vez de
+gotículas (salvo tos y estornudo), la medida es la misma, y se entiende muy bien con el
+símil del humo.
+Reducir la ratio alumnos/m2 en escuelas, ya que a pesar de recomendarse no superar un
+alumno por 4 m2, en muchas aulas españolas, especialmente de secundaria, no se
+cumple.
+Prescribir aislamiento para los casos y cuarentena para sus contactos. Esto implica que
+una persona debe permanecer en un lugar designado o en el domicilio tras una situación
+en la que la transmisión del SARS-CoV-2 haya ocurrido o haya podido ocurrir (ECDC,
+2020). La cuarentena podría tener un mayor beneficio en enfermedades donde la
+transmisión pueda darse durante el periodo asintomático (Day et al., 2006). A pesar de
+que la evidencia es limitada, la cuarentena parece ser importante para reducir el número
+de infecciones y resulta más eficaz en combinación con otras medidas de prevención y
+control (Nussbaumer-Streit et al., 2020).
+
+10
+
+Ventilación y filtración
+●
+
+●
+
+●
+
+●
+
+●
+●
+
+●
+
+●
+
+Para actividades en interiores, reducir en lo posible la duración y la cantidad de personas.
+Facilitar el teletrabajo para todos los puestos en que esto sea posible, y la escuela y
+docencia en general por internet cuando sea necesario.
+Recomendar bajar la voz en espacios interiores, dada la mucha mayor emisión de
+aerosoles respiratorios al hablar que al respirar (10 veces más) y sobre todo al gritar o
+cantar fuerte (50 veces más) (Buonnano et al., 2020b).
+Mantener abiertos espacios exteriores como parques, salvo medida extrema en caso de
+un confinamiento total, dada la mucho más baja probabilidad de contagio en exteriores
+que en interiores. Respecto a parques, playas y otros espacios abiertos, tener en cuenta
+al considerar su cierre que el contagio en espacios abiertos es 20 veces menos probable
+que en espacios cerrados en condiciones similares de distancia social. Además, facilitan
+la práctica de ejercicio físico que, además de ser saludable y rebajar el estrés, favorece
+el equilibrio del sistema inmunitario, que es lo más importante que tiene nuestro
+organismo para defenderse de las infecciones y, en concreto, del coronavirus.
+Para ventilar y filtrar espacios interiores y reducir riesgo de infección Morawska et al
+(2020), Minguillón et al. (2020), Vargas et al. (2020) y GTM (2020) resumen las medidas
+principales: a) conseguir una ventilación natural adecuada, abriendo puertas y ventanas;
+b) si no es posible la ventilación natural y existe un sistema centralizado de circulación de
+aire, evitar recircular el aire y suministrar aire exterior al sistema; o bien sustituir de 30 a
+50% del aire recirculado por aire exterior; c) cuando a) y b) no son posibles filtrar el aire
+interior con purificadores de aire equipados con filtros HEPA (certificación que garantiza
+una alta retención de aerosoles de todos los tamaños) y germicidas sobre ellos. Probar y
+regular los diferentes modelos de filtros HEPA, donde existe una gran variación en
+calidad.
+Recomendar la ventilación frecuente y adecuada también en domicilios, especialmente
+cuando hay un conviviente infectado comprobado o probable.
+Para espacios interiores, incrementar la ventilación hasta 12,5 litros / segundo / persona
+(L/s/p). Los brotes de superpropagación se han observado con valores de 1 a 3 L/s/p. El
+Ministerio de Sanidad recomienda este valor, adaptado de las recomendaciones de
+expertos y de REHVA (Ministerio de Sanidad, 2020).
+Medir CO2 en espacios interiores con medidores de tecnología infrarroja no dispersiva
+(NDIR), de coste moderado (~150 Euros). Establecer un sistema para que cada escuela,
+empresa etc. disponga de un medidor que se comparte entre diferentes clases etc.
+Identificar los espacios que sobrepasan las 700 partes por millón (ppm), y priorizar las
+acciones de ventilación y adicionales en esos espacios.
+Considerar priorizar qué espacios se pueden mantener abiertos y con qué aforo basado
+en niveles de CO2, y en las diferencias de riesgo de contagio entre diferentes actividades
+(Jimenez, 2020b; Peng and Jimenez, 2020), empezando con un programa piloto.
+Proponer que sea obligatorio a medio plazo disponer de un medidor en tiempo real de
+CO2 en locales publicos que sea visible desde todo el local, lo que es posible con un coste
+moderado.
+
+11
+
+●
+
+●
+
+●
+
+●
+
+Permitir el uso de purificadores de bajo coste, consistentes en el ensamblado de un
+ventilador y filtros de alta eficacia (Tham et al., 2018; Ballester et al., 2020; Rosenthal et
+al., 2020), para situaciones de pandemia, como alternativa de coste más bajo a los
+purificadores comerciales con filtros HEPA. Esto permitiría disponer de soluciones viables
+que podrían aplicarse de forma generalizada en casos en que no se dispone de
+purificadores portátiles comerciales. Si se dimensionan adecuadamente (CADR, Clean
+Air Delivery Rate, de 5 renovaciones por hora; Allen et al., 2020), proporcionan una tasa
+de retención de aerosoles perfectamente adecuada. No hay ninguna razón objetiva para
+exigir que los filtros sean de tipo HEPA, como se indica por ejemplo en Ministerio de
+Sanidad (2020). Los HEPA pueden ser un requisito importante para ciertas situaciones
+donde se realiza un paso único por el filtro (como hospitales), pero no para recirculación
+continua en una habitación, donde el parámetro importante es el CADR. Por ejemplo, un
+dispositivo con filtro F7 (norma EN 779, eficiencia de retención en torno al 85%) y caudal
+de 118 m3/h proporciona exactamente el mismo CADR que un equipo con filtro HEPA y
+caudal de 100 m3/h. Los estudios realizados demuestran que tampoco existen
+impedimentos reales desde el punto de vista de seguridad de uso (Ballester et al., 2020).
+Existe únicamente una laguna formal en cuanto a requisitos de homologación o marcado
+CE. Pero dado que los equipos que componen estos purificadores de bajo coste sí deben
+cumplir dichos requisitos, sería suficiente verificar que al ensamblarlos no se generan
+situaciones adicionales de riesgo significativo, como indican los análisis que se han
+realizado.
+En espacios donde ventilación y filtrado no son posibles o suficientes (como cárceles,
+salas de espera de urgencias en hospitales etc.) utilizar sistemas de desinfección por
+rayos ultravioleta con diseño, instalación, y mantenimiento por profesionales, que eviten
+totalmente la irradiación de las personas (Wells, 1943; Walker and Ko, 2007; Xu et al.,
+2003, 2005; Buonanno et al., 2020).
+Evitar el uso de sprays de desinfectantes en aire exterior, por ejemplo con camiones de
+fumigación, dado que solo desinfectan las superficies, que no transmiten bien esta
+enfermedad, y que el virus pierde infectividad rápidamente con luz ultravioleta solar al
+aire libre (Schuit et al., 2020). Desaconsejar el uso de sprays de desinfectantes (como
+hipoclorito sódico u ozono) en aire interior salvo que el lugar no vaya a ser ocupado en
+las 3 horas siguientes (o tras al menos 3 escalas de tiempo de ventilación, si dicha tasa
+ha sido determinada previamente por personal cualificado).
+No invertir dinero público a corto plazo en la compra de sistemas de limpieza de aire por
+plasmas, oxidación, fotocatálisis, o iones, a no ser que se confirme su seguridad. Hacerlo
+únicamente si se investiga simultáneamente el posible riesgo de formación de
+compuestos químicos tóxicos en el aire interior por estos sistemas, que no se ha
+investigado en la literatura científica hasta la fecha. Los compuestos orgánicos volátiles
+(COVs) y los NOx son muy abundantes en interiores (Price et al., 2019), y estos procesos
+químicos los degradan, formando compuestos más oxidados (y potencialmente más
+tóxicos) como formaldehído, peróxidos, nitratos, y ácido nítrico, así como aerosoles
+orgánicos secundarios (Isaacman-Van Wertz et al., 2018).
+
+12
+
+Como ejemplo de este tipo de medidas, el 20/10/2020 la BBC anunció que el gobierno alemán
+está invirtiendo 450 millones de euros en la mejora de los sistemas de ventilación en los edificios
+públicos para ayudar a detener la propagación del coronavirus (https://www.bbc.com/news/worldeurope-54599593). Las subvenciones se destinan a mejorar la circulación del aire en oficinas
+públicas, museos, teatros, universidades y escuelas. El objetivo principal es actualizar los
+sistemas centralizados de aire existentes, en lugar de instalar nuevos, que cuestan más. La
+financiación también incluye sensores de CO2 para evaluar el grado de ventilación alcanzado.
+El gobierno indica que debe aplicarse ventilación natural o cambiar la centralizada para alcanzar
+los niveles requeridos, y cuando no sea posible ninguna de las dos opciones, al menos
+purificadores de aire móviles.
+Transporte público en ciudades
+Como cualquier entorno, el transporte público urbano puede tener un riesgo variable de
+infecciones. No se ha podido demostrar que este sea un foco relevante de las mismas, tal vez
+porque es extraordinariamente difícil de demostrar que un individuo se haya infectado en
+itinerario o en su trabajo. El riesgo puede y debe reducirse mucho, y puede ofrecer una alta
+seguridad, equiparable a otros entornos en donde no se atribuyen altos riesgos. Un grupo de
+investigadores del CSIC (2020b) proponía una serie de recomendaciones para ello que a
+continuación se resumen:
+●
+●
+●
+
+●
+●
+●
+●
+
+Uso obligatorio de mascarillas.
+Instalación de dosificadores de gel hidroalcoholico en vehículos, vagones, estaciones y
+andenes.
+Mantenimiento de distancia 1,5 m entre pasajeros, a alcanzar: i) potenciando teletrabajo
+para reducir viajeros, ii) escalonando las entradas a los puestos de trabajo para evitar
+hora punta; iii) incrementando frecuencias en horas punta, iv) instalando y operando
+medidores de aforo y limitando el mismo.
+Incrementando al máximo la ventilación (aire exterior introducido en el interior de
+vehículos y vagones).
+Mejora de sistemas de filtrado.
+Desinfectando de forma efectiva superficies y conductos de aire de los vehículos y
+vagones.
+Se recomienda además no hablar, y sobre todo cantar y gritar, en los transportes públicos
+(como es el caso en Japón).
+
+Transporte público de largo recorrido
+Se recomiendan gran parte de las medidas anteriores, pero con especial énfasis en la mejora de
+sistemas de filtrado y ventilación. Los aviones en este ámbito tienen los sistemas muy
+optimizados, con flujos verticales, ventilación con aire fresco, y ultra-filtrado con germicidas del
+aire recirculado (CSIC, 2020b). Se deberían de tomar estos diseños como objetivo para trenes y
+autocares de larga distancia. .
+
+13
+
+Conclusión del grupo redactor
+Existe una evidencia significativa sobre la transmisión de la infección por SARS-CoV-2
+por vía de aerosoles. Hay también un apoyo sustancial de la comunidad científica a la
+posibilidad de que sea la forma de transmisión dominante, y a que sea la forma más
+habitual de contagio en eventos de super-propagación. Existe una falta de evidencia que
+apoye la importancia de la vía de las gotículas, y es bien posible que esta vía haya sido
+sobreestimada. Dada la situación, el grupo redactor de este informe propone actuaciones
+en positivo basadas en el principio de precaución.
+Si las medidas de precaución para evitar la transmisión por aerosoles se suman a las existentes
+(y no las sustituyen) y no son extremadamente costosas, ante la evidencia científica existente se
+aconseja aplicarlas. ¿No vale la pena promover actividades en exteriores, ventilar o filtrar para
+disminuir riesgos para reducir transmisión por aerosoles? Podemos disminuir riesgos si estas
+medidas se añaden a las ya aceptadas del uso de mascarillas, higiene, distanciamiento, trabajo
+a distancia y evitación de eventos con alta densidad de personas, especialmente en interiores.
+
+Referencias
+Adam, D.C., P. Wu, J.Y. Wong, E.H.Y. Lau, T.K. Tsang, S. Cauchemez, G.M. Leung, B.J.
+Cowling. Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong. Nat
+Med, 2020. https://doi.org/10.1038/s41591-020-1092-0
+Aerosol Devices (2020). BioSpot-VIVAS™ – an Enhanced Bioaerosol Sampler, accessed 12 Oct.
+2020. https://aerosoldevices.com/biospot-vivas-sampler/
+Al-Ansary, L.A., G.A. Bawazeer, E. Beller, J. Clark, J. Conly, C. Del Mar, E. Dooley, E. Ferroni,
+P. Glasziou, T. Hoffman, T. Jefferson, S. Thorning, M. van Driel, M. Jones. Physical interventions
+to interrupt or reduce the spread of respiratory viruses. Part 2 - Hand hygiene and other hygiene
+measures:
+systematic
+review
+and
+meta-analysis.
+Medrxiv,
+2020.
+https://doi.org/10.1101/2020.04.14.20065250
+Alford R.H., Kasel J.A., Gerone P.J., Knight V. Human Influenza Resulting from Aerosol
+Inhalation. P Soc Exp Biol Med. 122(3): 800-804, 1966. http://doi.org/10.3181/00379727-12231255
+Allen J., J.Spengler, E. Jones, J. Cedeno-Laurent. 5-Step Guide to Checking Ventilation Rates
+in
+Classrooms.
+Harvard
+Healthy
+Buildings
+Program,
+2020.
+https://schools.forhealth.org/ventilation-guide/
+Amirian, E.S. Potential fecal transmission of SARS-CoV-2: Current evidence and implications for
+public health. International Journal of Infectious Diseases, 95, 363-370, 1201-9712, 2020.
+https://doi.org/10.1016/j.ijid.2020.04.057
+
+14
+
+Asai, S., et al. Aerosol emission and superemission during human speech increase with voice
+loudness. Scientific Reports 9, 2348, 2019. https://www.nature.com/articles/s41598-019-38808-z
+Azimi, P., Z. Keshavarz, J.G. Cedeno Laurent, B.R. Stephens, J.G. Allen. Mechanistic
+Transmission Modeling of COVID-19 on the Diamond Princess Cruise Ship Demonstrates the
+Importance
+of
+Aerosol
+Transmission.
+medRxiv
+2020.07.13.20153049;
+https://doi.org/10.1101/2020.07.13.20153049
+Ballester J., P. Remacha, E. Tizné, A. Pina, L. Ojeda, A. Campos. Purificadores de aire
+artesanales – Tests y observaciones, Informe realizado por LIFTEC (Centro Mixto Univ.
+Zaragoza/CSIC), 2020. http://lci.unizar.es/Purificadores
+Beggs, C.B., Noakes, C.J.,Sleigh, P. A., Fletcher, L. A., Siddiqi, K. The transmission of
+tuberculosis in confined spaces: an analytical review of alternative epidemiological models. TInt
+J
+Tuberc
+Lung
+Dis.,
+7(11),
+1015-1026,
+2003.
+https://www.ingentaconnect.com/content/iuatld/ijtld/2003/00000007/00000011/art00002#
+Bischoff, W.E., McNall, R.J., Blevins, M.W., et al. Detection of Measles Virus RNA in Air and
+Surface Specimens in a Hospital Setting. J. Infect. Dis. 213:600–603, 2016.
+https://academic.oup.com/jid/article/213/4/600/2459431
+Bloch, A.B., W.A. Orenstein, W.M. Ewing, W.H. Spain, G.F. Mallison, K.L. Herrmann, A.R.
+Hinman. Measles Outbreak in a Pediatric Practice: Airborne Transmission in an Office Setting.
+Pediatrics, 75 (4) 676-683, 1985. https://pediatrics.aappublications.org/content/75/4/676.long
+Buonanno, M., Welch, D., Shuryak, I., and Brenner, D.J. Far-UVC light (222 nm) efficiently and
+safely inactivates airborne human coronaviruses. Scientific Reports 10, 10285, 2020a.
+https://www.nature.com/articles/s41598-020-67211-2
+Buonanno, G., Morawska, L., and Stabile, L. Quantitative assessment of the risk of airborne
+transmission of SARS-CoV-2 infection: Prospective and retrospective applications. Environment
+International, 145, 106112, 2020b. https://doi.org/10.1016/j.envint.2020.106112
+CDC (1996), Guidelines for Isolation Precautions in Hospitals Hospital Infection Control Advisory
+Committee,
+Accessed
+15-Oct-2020.
+https://wonder.cdc.gov/wonder/prevguid/p0000419/p0000419.asp
+CDC (2007), Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in
+Healthcare Settings; I. Review of Scientific Data Regarding Transmission of Infectious Agents in
+Healthcare
+Settings.
+2007.
+Accessed
+22
+Aug.
+2020.
+https://www.cdc.gov/infectioncontrol/guidelines/isolation/scientific-review.html
+CDC (2020a), COVID-19 Frequently Asked Questions, Updated 9 Oct. 2020, accessed 18 Oct
+2020; https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Spread
+
+15
+
+CDC (2020b), How COVID-19 Spreads. Updated Oct. 5, 2020, accessed 18 Oct 2020;
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
+CSIC (2020a), Emisión y exposición a SARS-CoV-2 y opciones de filtración.
+https://www.csic.es/sites/default/files/informe_caracteristicas_sars-cov2_y_opciones_filtracion_idaea-csic_15_abril.pdf
+y
+https://www.csic.es/es/actualidad-delcsic/una-guia-del-csic-muestra-como-se-deben-ventilar-las-aulas-para-reducir-el
+CSIC (2020b), Filtros de aire en diferentes sectores y posibilidades de eliminación del virus
+SARS-CoV-2.
+https://digital.csic.es/bitstream/10261/210764/3/INFORME%20FILTROS%20AIRE%20%20v19.pdf
+Chapin, C.V. The sources and modes of infection. John Wiley & Sons, New York, 1910.
+https://archive.org/details/sourcesmodesofin00ch
+Chen, W., N. Zhang, J. Wei, H, Yen, Y. Li. Short-range airborne route dominates exposure of
+respiratory infection during close contact. Build Environ, 176, 106859, 2020.
+https://doi.org/10.1016/j.buildenv.2020.106859
+Chia, P.Y., K. K. Coleman, Y.K. Tan, S.W.X. Ong, M. Gum, S.K. Lau, X.F. Lim, A.S. Lim, S.
+Sutjipto, P.H. Lee, T.T. Son, B.E. Young, D.K. Milton, G.C. Gray, S. Schuster, T. Barkham, P.P.
+De, S. Vasoo, M. Chan, B.S.P. Ang, B.H. Tan, Y.S. Leo, O.T. Ng, M.S.Y. Wong, K. Marimuthu,
+and Singapore 2019 Novel Coronavirus Outbreak Research Team. Detection of air and surface
+contamination by SARS-CoV-2 in hospital rooms of infected patients. Nat Commun., 11, 2800,
+2020. https://doi.org/10.1038/s41467-020-16670-2
+Conly, J., W.H. Seto, D. Pittet, A. Holmes, M. Chu, P.R. Hunter, on behalf of the WHO Infection
+Prevention and Control Research and Development Expert Group for COVID-19. Use of medical
+face masks versus particulate respirators as a component of personal protective equipment for
+health care workers in the context of the COVID-19 pandemic. Antimicrob Resist Infect Control 9,
+126, 2020. http://doi.org/10.1186/s13756-020-00779-6
+Consumo (2020). Ministerio de Consumo de España. Guía de compra de mascarillas, 2020.
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/0
+30520_GUIA_COMPRA_MASCARILLAS.pdf
+Cowling, B.J., D.K.M. Ip, V.J. Fang, P. Suntarattiwong, S.J. Olsen, J. Levy, T.M. Uyeki, G.M.
+Leung, J.S.M. Peiris, T. Chotpitayasunondh, H. Nishiura, J.M. Simmerman. Aerosol transmission
+is an important mode of influenza A virus spread. Nat. Commun. 4:1935, 2013. doi:
+10.1038/ncomms2922
+Day, T.,Park, A., Madras, N., Gumel, A., and Wu, J. When Is Quarantine a Useful Control Strategy
+for Emerging Infectious Diseases? Am J Epidemiol. 163: 479–485., 2006.
+https://academic.oup.com/aje/article/163/5/479/61137
+
+16
+
+Dick E.C., L.C. Jennings, K.A. Mink, C.D. Wartgow, S.L. Inhorn. Aerosol transmission of
+rhinovirus colds. J Infect Dis. 156(3):442-8 1987. http://doi.org/10.1093/infdis/156.3.442
+Du C.R., S.C. Wang, M.C. Yu, T. F. Chiu, J. Y. Wang, P. C. Chuang, R. Jou, P. C. Chan, C.
+Tai . Fang. Effect of ventilation improvement during a tuberculosis outbreak in ia de
+underventilated
+university
+buildings.
+Indoor
+Air.
+30,
+422-432,
+2020.
+https://doi.org/10.1111/ina.12639
+ECDC (2020). European Centers for Disease prevention and Control. Rapid Risk Assessment:
+Increased transmission of COVID-19 in the EU/EEA and the UK – twelfth update, 24-sep-2020.
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-risk-assessment-increasedtransmission-12th-update-september-2020.pdf
+Endo, A., et al. Estimating the overdispersion in COVID-19 transmission using outbreak sizes
+outside China. Wellcome Open Res. 5: 67, 2020. https://wellcomeopenresearch.org/articles/567/v3
+Fauci, A. COVID-19: Public Health and Scientific Challenges. Harvard Medical School Grand
+Rounds
+,
+Harvard
+University,
+10-Sep-2020.
+Accessed
+30-Sep-2020.
+https://masscpr.hms.harvard.edu/event/harvard-medical-school-grand-rounds-featuring-dranthony-s-fauci
+Fears A.C., W.B. Klimstra, P. Duprex, A. Hartman, S.C. Weaver, K.S. Plante, D. Mirchandani,
+J.A. Plante, P.V. Aguilar, D. Fernández, A. Nalca, A. Totura, D. Dyer, B. Kearney, M. Lackemeyer,
+J.K. Bohannon, R. Johnson, R.F. Garry, D.S. Reed, C.J. Roy. Emerg Infect Dis., 26(9), 21682171, 2020. https://dx.doi.org/10.3201/eid2609.201806
+Fennelly KP. Particle sizes of infectious aerosols: implications for infection control. Lancet Respir
+Med, 8(9), 914-924, 2020. http://doi.org/10.1016/S2213-2600(20)30323-4
+Ferretti, L., A. Ledda, C. Wymant, L. Zhao, V. Ledda, L. Abeler-Dorner, M. Kendall, A. Nurtay, H.Y. Cheng, T.-C. Ng, H.-H. Lin, R. Hinch, J. Masel, A.M. Kilpatrick, C. Fraser. The timing of COVID19 transmission. medRxiv 2020.09.04.20188516; https://doi.org/10.1101/2020.09.04.20188516
+Gelfand, H.M., J. Posch. The recent outbreak of smallpox in Meschede, West Germany, Am J
+Epidemiol, 93(4) 234–237, 1971. https://doi.org/10.1093/oxfordjournals.aje.a121251
+Garner, J.S.. Guidelines for Isolation Precautions in Hospitals. CDC Prevention Guidelines
+Database
+(Archive),
+accessed
+27
+Oct
+2020
+https://wonder.cdc.gov/wonder/prevguid/p0000419/p0000419.asp
+GTM. “Informe del Grupo de Trabajo Multidisciplinar sobre “COVID-19 en Espacios Interiores, en
+Particular Restaurantes.” Informe para el Ministerio de Ciencia e Innovación, 2020.
+https://www.ciencia.gob.es/stfls/MICINN/Ministerio/FICHEROS/GTM_Restaurantes.pdf
+
+17
+
+Goldman E. Exaggerated risk of transmission of COVID-19 by fomites. Lancet Infect Dis. 20(8),
+892-893, 2020. http://doi.org/10.1016/S1473-3099(20)30561-2
+Guo Z.D., Z.Y. Wang, S.F. Zhang, X. Li, L. Li, C. Li, Y. Cui, R.B. Fu, Y.Z. Dong, X.Y. Chi, M.Y.
+Zhang, K. Liu, C. Cao, B. Liu, K. Zhang, Y.W. Gao, B. Lu, W. Chen. Aerosol and Surface
+Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan,
+China, 2020. Emerg Infect Dis. 26(7):1583-1591, 2020. http://doi.org/10.3201/eid2607.200885
+He, X., E.H.Y. Lau, P. Wu, X. Deng, J. Wang, X. Hao, Y. Chung Lau, J.Y. Wong, Y. Guan, X. Tan,
+X. Mo, Y. Chen, B. Liao, W. Chen, F. Hu, Q.Zhang, M. Zhong, Y. Wu, L. Zhao, F. Zhang, B.J.
+Cowling, F. Li, G.M. Leung. Temporal dynamics in viral shedding and transmissibility of COVID19. Nat Med, 26, 672–675, 2020. https://doi.org/10.1038/s41591-020-0869-5
+Isaacman-VanWertz, G., P. Massoli, R. O’Brien, C. Lim, J.P. Franklin, J.A. Moss, J.F. Hunter,
+J.B. Nowak, M.R. Canagaratna, P.K. Misztal, C. Arata, J.R. Roscioli, S.T. Herndon, T.B. Onasch,
+A.T. Lambe, J.T. Jayne, L. Su, D.A. Knopf, A.H. Goldstein, D.R. Worsnop, J.H. Kroll. Chemical
+evolution of atmospheric organic carbon over multiple generations of oxidation. Nat Chem. 10,
+462–468, 2018. https://www.nature.com/articles/s41557-018-0002-2
+Jimenez, J.L. COVID-19 Data Dives: Why Arguments Against SARS-CoV-2 Aerosol
+Transmission
+Don't
+Hold
+Water.
+Medscape
+perspective,
+2020a.
+https://www.medscape.com/viewarticle/934837
+Jimenez, J.L. COVID-19 Aerosol Transmission Estimator. https://tinyurl.com/covid-estimator
+Johnson G.R. L. Morawska, Z.D. Ristovskia, M. Hargreaves, K. Mengersen, C.Y.H. Chaob, M.P.
+Wan, Y. Li, X.Xie, D. Katoshevski, S. Corbette. Modality of human expired aerosol size
+distributions. J Aerosol Sci. 42 839–851, 2011. https://doi.org/10.1016/j.jaerosci.2011.07.009
+Jones, R.M. Relative contributions of transmission routes for COVID-19 among healthcare
+personnel providing patient care. J Occup Environ Hyg, 17:9, 408-415, 2020.
+http://doi.org/10.1080/15459624.2020.1784427
+Kang, M., J. Wei, J. Yuan, J. Guo, Y. Zhang, J. Hang, Y. Qu, H. Qian, Y. Zhuang, X. Chen, X.
+Peng, T. Shi, J. Wang, J. Wu, J. He, Y. Li, N. Zhong. Probable Evidence of Fecal Aerosol
+Transmission of SARS-CoV-2 in a High-Rise Building. Ann Intern Med, in press, 2020.
+https://doi.org/10.7326/M20-0928
+Kim, S.H., Chang, S.Y., Sung, M., et al. Extensive viable Middle East respiratory syndrome
+(MERS) coronavirus contamination in air and surrounding environment in MERS isolation wards.
+Clin. Infect. Dis. 63:363–9. , 2016. https://doi.org/10.1093/cid/ciw239
+
+18
+
+Klompas, M., M.A. Baker, C. Rhee. Airborne Transmission of SARS-CoV-2: Theoretical
+Considerations and Available Evidence. J. Am. Med. Assoc. 324(5):441-442, 2020.
+http://doi.org/10.1001/jama.2020.12458
+Kulkarni H, Smith CM, Lee DDH, Hirst RA, Easton AJ, O'Callaghan C. Evidence of respiratory
+syncytial virus spread by aerosol: time to revisit infection control strategies? Am J Respir Crit Care
+Med 194:306–16, 2015. https://doi.org/10.1164/rccm.201509-1833OC
+Kupferschmidt, K. Why do some COVID-19 patients infect many others, whereas most don’t
+spread
+the
+virus
+at
+all?
+Science,
+2020.
+Accessed
+27
+Oct.
+2020.
+https://www.sciencemag.org/news/2020/05/why-do-some-covid-19-patients-infect-many-otherswhereas-most-don-t-spread-virus-all
+Lau, M.S.Y., B. Grenfell, M. Thomas, M. Bryan, K. Nelson, B. Lopman. Characterizing
+superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia,
+USA. PNAS., 117 (36) 22430-22435; 2020. http://doi.org/10.1073/pnas.2011802117
+Leclair, J.M., J.A. Zaia, M.J. Levin, R.G. Congdon, D.A. Goldmann. Airborne Transmission of
+Chickenpox
+in
+a
+Hospital.
+N
+Engl
+J
+Med,
+302:450-453,
+1980.
+http://doi.org/10.1056/NEJM198002213020807
+Lednicky J.A., M. Lauzardo, Z. Hugh Fan, Antarpreet Jutla, Trevor B. Tilly, Mayank Gangwar,
+Moiz Usmani, Sripriya Nannu Shankar, Karim Mohamed, Arantza Eiguren-Fernandez, Caroline
+J. Stephenson, Md. Mahbubul Alam, Maha A. Elbadry, Julia C. Loeb, Kuttichantran
+Subramaniam, Thomas B. Waltzek, Kartikeya Cherabuddi, J. Glenn Morris, Chang-Yu Wu,, 2020.
+Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients. Int. J. Infect. Dis.
+http://doi.org/10.1016/j.ijid.2020.09.025
+Lewis D. Is the coronavirus airborne? Experts can’t agree. Nature, 580, 175, 2020.
+https://doi.org/10.1038/d41586-020-00974-w
+Li, Y., H. Qian, J. Hang, X. Chen, L. Hong, P. Liang, J. Li, S. Xiao, J. Wei, L. Liu, M. Kang.
+Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant.
+medRxiv 2020.04.16.20067728; https://doi.org/10.1101/2020.04.16.20067728
+Little J.W., R.G. Douglas Jr, W.J.Hall, F.K. Roth. Attenuated influenza produced by experimental
+intranasal inoculation. J Med Virol. 3(3):177-88, 1979. http://doi.org/10.1002/jmv.1890030303
+Liu Y., Z. Ning, Y. Chen, M. Guo, Y. Liu, N. Kumar Gali, L. Sun, Y. Duan, J. Cai, D. Westerdahl,
+X. Liu, K. Xu, K.-f. Ho, H. Kan, Q. Fu, K. Lan. Aerodynamic analysis of DARS-CoV-2 in two Wuhan
+hospitals. Nature, 582(7813):557-560 2020. https://doi.org/10.1038/s41586-020-2271-3
+Ma, J., X. Qi, H. Chen, X. Li, Z. Zhang, H. Wang, L. Sun, L. Zhang, J. Guo, L. Morawska, S.A
+Grinshpun, P. Biswas, R.C. Flagan, M. Yao. Coronavirus Disease 2019 Patients in Earlier Stages
+Exhaled Millions of Severe Acute Respiratory Syndrome Coronavirus 2 Per Hour. Clin Inf Dis,
+ciaa1283, 2020. https://doi.org/10.1093/cid/ciaa1283
+
+19
+
+Massachusetts Consortium on Pathogen Readiness. Harvard Medical School Grand Rounds featuring
+Dr.
+Anthony
+S.
+Fauci.
+Accessed
+27
+Oct.
+2020.
+https://masscpr.hms.harvard.edu/event/harvard-medical-school-grand-rounds-featuring-dranthony-s-fauci
+Miller, S.L., W.W. Nazaroff, J.L. Jimenez, A. Boerstra, G. Buonanno, S.J. Dancer, J. Kurnitski,
+L.C. Marr, L. Morawska, C. Noakes. Transmission of SARS-CoV-2 by inhalation of respiratory
+aerosol in the Skagit Valley Chorale superspreading event. Indoor Air, 2020.
+https://doi.org/10.1111/ina.12751
+Milton, D.K. A Rosetta Stone for Understanding Infectious Drops and Aerosols. Journal of the
+Pediatr Inf Dis Soc, 9: 413–415, 2020. https://doi.org/10.1093/jpids/piaa079
+Milton, Donald K. What was the primary mode of smallpox transmission? Implications for
+biodefense. Front Cell Inf Mi, 2:150, 2012. https://doi.org/10.3389/fcimb.2012.00150
+Minguillón, M.C., X. Querol, J.M. Felisi, T. Garrido. Guía para ventilación en aulas. Instituto de
+Diagnóstico Ambiental y Estudios del Agua, IDAEA-CSIC, y Mesura, 2020. http://bit.ly/3m8UREh
+Ministerio de Sanidad, Asociaciones Profesionales, y Ministerio de Transición Ecológica y Reto
+Demográfico. Recomendaciones de operación y mantenimiento de los sistemas de climatización
+y ventilación de edificios y locales para la prevención de la propagación del SARS-COV-2, (Julio,
+2020).
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/
+Recomendaciones_de_operacion_y_mantenimiento.pdf
+Mondelli M.U., M. Colaneri, E.M. Seminari, F. Baldanti, R. Bruno. Low risk of SARS-CoV-2
+transmission by fomites in real-life conditions. Lancet Infect Dis. 29:S1473-3099(20)30678-2
+2020. http://doi.org/10.1016/S1473-3099(20)30678-2
+Morawska, L., J.W. Tang, W. Bahnfleth, P.M. Bluyssen, A. Boerstra, G. Buonanno, J. Cao, S.
+Dancer, A. Floto, F. Franchimon, C, Haworth, J. Hogeling, C. Isaxon, J.L. Jimenez, J. Kurnitski,
+Y.Li, M. Loomans, G. Marks, M. Yao. How can airborne transmission of COVID-19 indoors be
+minimised? Environ. Int, 142, 105832, 2020. https://doi.org/10.1016/j.envint.2020.105832
+Morawska, L., and Milton, D.K. It Is Time to Address Airborne Transmission of Coronavirus
+Disease 2019 (COVID-19). Clin Infect Dis, ciaa939, 2020a. https://doi.org/10.1093/cid/ciaa939
+Morawska, L., and Milton, D.K. Reply to Chagla et al., and Thomas, Clin Infect Dis, ciaa1121,
+2020b. https://doi.org/10.1093/cid/ciaa1121
+Morris, D., K.C. Yinda, A. Gamble, F.W. Rossine, Q. Huang, T. Bushmaker, R.J. Fischer, M.J.
+Matson, N. van Doremalen, P.J. Vikesland, L.C. Marr, V.J. Munster, J.O. Lloyd-Smith. The effect
+of temperature and humidity on the stability of SARS-CoV-2 and other enveloped viruses. BiorXiv
+preprint, 2020. https://doi.org/10.1101/2020.10.16.341883
+
+20
+
+New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG) and Environmental
+and Modelling Group (EMG). Hand hygiene to limit SARS-CoV-2 transmission.
+Scientific Advisory Group for Emergencies. 2020.
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/fi
+le/897598/S0574_NERVTAG-EMG_paper_-_hand_hygiene_010720_Redacted.pdf
+Nishiura H., H. Oshitani, T. Kobayashi, T. Saito, T. Sunagawa, T. Matsui, T. Wakita, MHLW
+COVID-19 Response Team, M. Suzuki. Closed environments facilitate secondary transmission
+of
+coronavirus
+disease
+2019
+(COVID-19).
+medRxiv,
+2020
+https://doi.org/10.1101/2020.02.28.20029272
+Nussbaumer-Streit, B., Mayr, V., Dobrescu, A.I., Chapman, A., Persad, E., Klerings, I., Wagner,
+G., Siebert, U., Ledinger, D., Zachariah, C., Gartlehner, G.Quarantine alone or in combination
+with other public health measures to control COVID 19: a rapid review. Cochrane Database of
+Systematic Reviews, 14-Sep-2020. https://doi.org/10.1002/14651858.CD013574.pub2
+Park S., Kim Y., Yi S., Lee S., Na B., Kim C., et al. Coronavirus Disease Outbreak in Call Center,
+South
+Korea.
+Emerg
+Infect
+Dis.
+26(8):1666-1670,
+2020.
+https://dx.doi.org/10.3201/eid2608.201274
+Peng, Z., and Jimenez, J.L.. Exhaled CO2 as COVID-19 infection risk proxy for different indoor
+environments and activities. MedRxiv, doi: https://doi.org/10.1101/2020.09.09.20191676, 2020.
+https://www.medrxiv.org/content/10.1101/2020.09.09.20191676v1
+PHE. Public Health England. Guidance - COVID-19: epidemiology, virology and clinical features,
+updated
+19
+October
+2020,
+accessed
+27
+October
+2020.
+https://www.gov.uk/government/publications/wuhan-novel-coronavirus-backgroundinformation/wuhan-novel-coronavirus-epidemiology-virology-and-clinical-features
+Prather K.A., C.C. Wang, R.T. Schooley. Reducing transmission of SARS-CoV-2. Science. 368:
+1422, 2020a. https://science.sciencemag.org/content/368/6498/1422
+Prather, K.A., L.C. Marr, R.T. Schooley, M.A. McDiarmid, M.E. Wilson, D.K. Milton. Airborne
+transmission of SARS-CoV-2, Science 370: 303-304, 2020b. DOI: 10.1126/science.abf0521.
+https://science.sciencemag.org/content/370/6514/303.2
+Price, D.J., D.A. Day, D. Pagonis, H. Stark, L. Algrim, A.V. Handschy, S. Liu, J.E. Krechmer, S.L.
+Miller, J. Hunter, J.A. de Gouw, P.J. Ziemann, J.L. Jimenez. The budgets of organic carbon
+composition and oxidation in indoor air. Environ. Sci. Technol., 53, 22, 13053-13063, 2019.
+https://doi.org/10.1021/acs.est.9b04689
+Qian, H., T. Miao, L. Liu, X. Zheng, D. Luo, Y. Li. Indoor transmission of SARS-CoV-2. medRxiv
+2020.04.04.20053058; https://doi.org/10.1101/2020.04.04.20053058
+Riley, R.L. Aerial dissemination of pulmonary tuberculosis. Am. Rev. Tuberc. 76:931–941, 1957.
+https://pubmed.ncbi.nlm.nih.gov/13488004/
+
+21
+
+Riley, E.C., G. Murphy, R.L. Riley. Airborne spread of measles in a suburban elementary school.
+Am J Epidemiol., 107(5):421-32, 1978. https://doi.org/10.1093/oxfordjournals.aje.a112560
+Richard, M., A. Kok, D. de Meulder, T.M. Bestebroer, M.M. Lamers, N.M.A. Okba, M.F. van
+Vlissingen, B. Rockx, B.L. Haagmans, M.P.G. Koopmans, R.A.M. Fouchier. S. Herfst. SARSCoV-2 is transmitted via contact and via the air between ferrets. Nat Commun. 11, 3496, 2020.
+https://doi.org/10.1038/s41467-020-17367-2
+Robert Koch Institute. RKI - Coronavirus SARS-CoV-2 - Steckbrief zur Coronavirus-Krankheit2019
+(COVID-19).
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+Rosenthal J. (CEO Tex-Air Filters), How a MERV 13 Air Filter and a Box Fan Can Help Fight
+Covid-19, Aug. 2020, https://www.texairfilters.com/how-a-merv-13-air-filter-and-a-box-fan-canhelp-fight-covid-19/
+Sepkowitz, K.A. How Contagious Is Tuberculosis? Clinical Infectious Diseases, 23, 5, 954–962
+1996. https://doi.org/10.1093/clinids/23.5.954
+Schuit, M., et al. Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight. The J Infect
+Dis, 222, 564–571, 2020. https://doi.org/10.1093/infdis/jiaa334
+Shakya, K.M.,A. Noyes, R. Kallin, R.E. Peltier. Evaluating the efficacy of cloth facemasks in
+reducing particulate matter exposure. J Expo Sci Environ Epid, 27, 352–357, 2017.
+https://www.nature.com/articles/jes201642
+Shen Y., Li C., Dong H., et al. Community Outbreak Investigation of SARS-CoV-2 Transmission
+Among
+Bus
+Riders
+in
+Eastern
+China.
+JAMA
+Intern
+Med.,
+2020.
+https://doi.org/10.1001/jamainternmed.2020.5225
+Sia, S.F., L. Yan, A.W.H. Chin, K. Fung, K.-T. Choy, A.Y.L. Wong, P. Kaewpreedee, R.A.P.M.
+Perera, L.L.M. Poon, J.M. Nicholls, M. Peiris, H.-L. Yen. Pathogenesis and transmission of SARSCoV-2 in golden hamsters. Nature 583, 834–838 (2020). https://doi.org/10.1038/s41586-0202342-5
+Smither, S.J., Eastaugh, L.S., Findlay, J.S., Lever, M.S. Experimental aerosol survival of SARSCoV-2 in artificial saliva and tissue culture media at medium and high humidity. Emerging
+Microbes & Infections 9, 1415-1417, 2020. https://doi.org/10.1080/22221751.2020.1777906
+Stadnytskyi V., C.E. Bax, A. Bax, P. Anfinrud. The airborne lifetime of small speech droplets and
+their potential importance in SARS-CoV-2 transmission. Proc. Natl. Acad. Sci. U.S.A. 117 (22)
+11875-11877, 2020. https://doi.org/10.1073/pnas.2006874117
+Somsen G.A., C. Rijn, S. Kooij, R.A. Bem, D. Bonn. Lancet Respir Med 8, 7, 658-659, 2020.
+https://doi.org/10.1016/S2213-2600(20)30245-9
+
+22
+
+Tellier, R. Review of Aerosol Transmission of Influenza A Virus. Emerg Infect Dis. 12: 1657–1662,
+2006. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372341/
+Tellier, R., Li, Y., Cowling, B.J., J.W. Tang. Recognition of aerosol transmission of infectious
+agents: a commentary. BMC Infect Dis, 19, 101, 2019. https://doi.org/10.1186/s12879-019-3707y
+Tham, K. W., Parshetti, G. K., Balasubramanian, R., Sekhar, C., & Cheong, D. K. W. Mitigating
+particulate matter exposure in naturally ventilated buildings during haze episodes. Build Environ,
+128, 96-106, 2018. https://doi.org/10.1016/j.buildenv.2017.11.036
+United States Environmental Protection Agency (2020). Particle Pollution Exposure. Updated 15
+Aug. 2017, accessed 27 Oct 2020. https://www.epa.gov/pmcourse/particle-pollution-exposure
+van Doremalen, N. et al. N. Engl. J. Med. 382:1564-1567, 2020. http://doi.org/ggn88w
+Wells, W.F. On air-borne infection: Study II. Droplets and droplet nuclei. Am J Epidemiol, 20, 611–
+618, 1934. https://doi.org/10.1093/oxfordjournals.aje.a118097
+Vargas, F.; Ruiz de Adana, M.; Marín, I.; Moreno, Stella. Transmisión del SARS-CoV-2 por gotas
+respiratorias, objetos contaminados y aerosoles (vía aérea). Revisión de evidencias [23 julio
+2020].
+https://www.sanidadambiental.com/wp-content/uploads/2020/09/Transmisi%C3%B3ndel-SARS-CoV-2-por-gotas-respiratorias-objetos-contaminados-y-aerosoles.pdf
+Volckens, J. Colorado State University Mask Testing Database, accessed 25-Oct-2020.
+http://jv.colostate.edu/masktesting/
+Walker, C.M., and Ko, G. Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols. Environ.
+Sci. Technol. 41, 5460–5465, 2007. https://pubs.acs.org/doi/10.1021/es070056u
+Wang, W., Y. Xu, R. Gao, R. Lu, K. Han, G. Wu, et al. Detection of SARS-CoV-2 in different types
+of clinical specimens. Journal of the American Medical Association, 2020a.
+https://doi.org/10.1001/jama.2020.3786
+Wargocki P, Sundell J, Bischof W, et al. Ventilation and health in non-industrial indoor
+environments: report from a European Multidisciplinary Scientific Consensus Meeting
+(EUROVEN). Indoor Air, 12(2):113-128, 2002. https://doi.org/10.1034/j.1600-0668.2002.01145.x
+Wells, W.. Air disinfection in day schools. American Journal of Public Health and the Nations
+Health, 33, 1436-1443, 1943. https://ajph.aphapublications.org/doi/10.2105/AJPH.33.12.1436
+WHO, 2020a. Scientific briefing: Transmission of SARS-CoV-2: implications for infection
+prevention precautions. 9 July 2020. Geneva: World Health Organization; 2020.
+https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-forinfection-prevention-precautions
+
+23
+
+WHO, 2020b. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)
+16-24
+February
+2020.
+Geneva:
+World
+Health
+Organization;
+2020.
+https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-finalreport.pdf
+Xiao F, Sun J, Xu Y, et al. Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19.
+Emerging Infectious Diseases. 26(8):1920-1922 2020. http://doi.org/10.3201/eid2608.200681
+Xie X., Y. Li, A.T.Y. Chwang, P.L. Ho, W.H. Seto. How far droplets can move in indoor
+environments – revisiting the Wells evaporation–falling curve. Indoor Air, 17, 211-225, 2007.
+https://doi.org/10.1111/j.1600-0668.2007.00469.x
+Xu et al. Efficacy of ultraviolet germicidal irradiation of upper-room air in inactivating bacterial
+spores and Mycobacteria in full-scale studies, Atmos. Environ. 37:405-419, 2003.
+https://doi.org/10.1016/S1352-2310(02)00825-7
+Xu et al. Impact of environmental factors on efficacy of upper-room air ultraviolet germicidal
+irradiation for inactivating airborne Mycobacteria, Environ. Sci. Technol., 39:9656-9664, 2005.
+https://pubs.acs.org/doi/10.1021/es0504892
+Yu I.T., Li Y., Wong T.W., et al. Evidence of airborne transmission of the severe acute respiratory
+syndrome
+virus.
+N.
+Engl.
+J.
+Med.
+350:1731–9,
+2004.
+https://www.nejm.org/doi/full/10.1056/NEJMoa032867
+Yuan, J., MD, Zongqiu Chen, MD, Chenghua Gong, B.Sc, Hui Liu, M.Sc, Baisheng Li, MD, Kuibiao
+Li, M.Sc, Xi Chen, MPH, Conghui Xu, B.Sc, Qinlong Jing, MD, Guocong Liu, B.Sc, Pengzhe Qin,
+B.Sc, Yufei Liu, B.Sc, Yi Zhong, B.Sc, Lijuan Huang, B.Sc, Bao-Ping Zhu, MD, PhD, Zhicong
+Yang, MD, Sewage as a Possible Transmission Vehicle During a Coronavirus Disease 2019
+Outbreak in a Densely populated Community: Guangzhou, China. Clin Infect Dis, ciaa1494, 2020.
+https://doi.org/10.1093/cid/ciaa1494
+Zhang, Y., C. Chen, S. Zhu, C. Shu, D. Wang, J. Song. Isolation of 2019-nCoV from a stool
+specimen of a laboratory-confirmed case of the coronavirus disease 2019 (COVID-19)
+China CDC Wkly, 2 (8) (2020), pp. 123-124.
+Zhou J., J.A. Otter, J.R. Price, C. Cimpeanu, D.M. Garcia, J. Kinross, P.R. Boshier, S. Mason, F.
+Bolt, A.H. Holmes, W.S. Barclay. Investigating SARS-CoV-2 surface and air contamination in an
+acute healthcare setting during the peak of the COVID-19 pandemic in London. Clin. Infect. Dis.
+8:ciaa905 2020. https://doi.org/10.1093/cid/ciaa905
+Zhu S, S. Jenkins, K. Addo, M. Heidarinejad, S.A. Romo, A. Layne, J. Ehizibolo, D. Dalgo, N.W.
+Mattise, F. Hong, O.O. Adenaiye, J.P. Bueno de Mesquita, B.J. Albert, R. Washington-Lewis, J.
+German, S. Tai, S. Youssefi, D.K. Milton, J.Srebric. Ventilation and laboratory confirmed acute
+respiratory infection (ARI) rates in college residence halls in College Park, Maryland. Environ Int.
+137:105537, 2020. https://doi.org/10.1016/j.envint.2020.105537
+
+24
+
+25
+
+

@@ -1,0 +1,698 @@
+Rev Esp Salud Pública. 2020; Vol. 94: 17 de abril e1-9.
+
+www.mscbs.es/resp
+Recibido: 17 de marzo de 2020
+Aceptado: 7 de abril de 2020
+Publicado: 17 de abril de 2020
+
+REVISIÓN PANORÁMICA
+
+CONSECUENCIAS MATERNAS Y NEONATALES DE LA INFECCIÓN
+POR CORONAVIRUS COVID-19 DURANTE EL EMBARAZO: UNA SCOPING REVIEW
+Rafael A. Caparros-Gonzalez (1)
+(1) Facultad de Ciencias de la Salud. Departamento de Enfermería. Universidad de Granada. Granada. España.
+Los autores declaran que no existe ningún conflicto de interés.
+
+RESUMEN
+
+Fundamentos: La enfermedad por coronavirus
+2019 (COVID-19) es una nueva patología, declarada
+emergencia de salud pública por la Organización Mundial
+de la Salud, que puede tener consecuencias negativas en
+las embarazadas y sus recién nacidos. El objetivo fue explorar el conocimiento disponible sobre las consecuencias
+de desarrollar COVID-19 en las embarazadas y en los recién nacidos durante el embarazo.
+Métodos: Se realizó una Scoping Review, en la que
+se usó la búsqueda de artículos en los directorios DeCS
+(“embarazo”, “coronavirus”, “salud”) y MeSH (“pregnan*”, “pregnant women”, “coronavirus”), uniendo los
+términos con el operador booleano AND. Se buscó en las
+bases de datos Web of Science, Scopus, BVS, Scielo y
+CUIDEN. Además, se aplicó la metodología PRISMA.
+Resultados: Se identificaron 10 estudios en los que
+se evalúo la salud materna y neonatal tras infección materna por COVID-19. Las embarazadas parecían no presentar síntomas graves. Los neonatos se veían afectados
+en mayor medida. Se informó de un fallecimiento de un
+recién nacido prematuro cuya madre tuvo neumonía por
+COVID-19. No pareció haber transmisión vertical de madre a hijo, aunque esta información no era concluyente.
+Conclusiones: El COVID-19 parece ser más benigno con las embarazadas que con sus recién nacidos.
+Palabras clave: SARS-CoV-2, COVID-19, Embarazo, Neonato, Recién nacido.
+
+Correspondencia:
+Rafael A. Caparros-Gonzalez
+Facultad de Ciencias de la Salud
+Departamento de Enfermería
+Universidad de Granada
+Parque Tecnológico de la Salud
+Av. Ilustración, 60
+18016 Granada, España
+rcg477@ugr.es
+
+ABSTRACT
+
+Maternal and neonatal consequences
+of coronavirus COVID-19 infection
+during pregnancy: a scoping review
+Background: Coronavirus disease 2019 (COVID-19)
+is a new pathology, declared a public health emergency by
+the World Health Organization, which can have negative
+consequences for pregnant women and their newborns. The
+aim of this study was to explore the available knowledge on
+the consequences of developing COVI-19 in pregnant women and their neonates.
+Methods: Scoping Review, in which the search for
+articles was conducted using DeCS (“pregnancy”, “coronavirus”, “health”) and MeSH (“pregnan*”, “pregnant women”, “coronavirus”), linking the terms with
+the Boolean AND operator. Databases used were Web of
+Science, Scopus, BVS, Scielo and CUIDEN. In addition,
+the PRISMA methodology was applied.
+Results: Ten studies were identified that assessed maternal and neonatal health after maternal COVID-19 infection. Pregnant women seem to had no serious symptoms.
+Neonates appeared to be affected to a greater extent. A
+death was reported in a premature newborn whose mother
+had COVID-19 pneumonia. There did not appear to be
+vertical transmission from mother to child. Nevertheless,
+this information was not conclusive.
+Conclusions: COVID-19 appears to be more benign
+with pregnant women than with their neonates.
+Keywords: SARS-CoV-2, COVID-19, Pregnancy,
+Neonate, New-born.
+
+Cita sugerida: Caparros-Gonzalez RA. Consecuencias maternas y neonatales de la infección por coronavirus COVID-19
+durante el embarazo: una scoping review. Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+Rafael A. Caparros-Gonzalez
+
+INTRODUCCIÓN
+La enfermedad por coronavirus 2019
+(COVID-19) es una nueva patología con un rápido aumento de infectados y defunciones desde que se identificó por primera vez en Wuhan
+(China) en el mes de diciembre de 2019(1).
+Aunque los datos de los que se dispone en la
+actualidad sobre sus efectos en las embarazadas y la descendencia son aún escasos, la información respecto a sus consecuencias en las
+vías respiratorias pueden servir de guía sobre
+cómo puede afectar a la embarazada y a su feto
+en desarrollo(1).
+
+los eventos prenatales que pueden afectar a la
+salud del feto en desarrollo se ha descrito la exposición a virus(8).
+Debido al especial cuidado que debemos dar
+a las embarazadas y sus neonatos(9) y por todo
+lo comentado anteriormente, el objetivo de
+este estudio fue explorar el conocimiento disponible sobre las consecuencias de desarrollar
+COVID-19 en las embarazadas y en los recién
+nacidos durante el embarazo.
+
+MATERIAL Y MÉTODOS
+Para este estudio se utilizó la metodología
+referente a una scoping review (revisión
+exploratoria)(10,11) para poder llevar a cabo
+un mapeo inicial de la literatura. Las
+características de una scoping review son
+que resulte sistemática y rigurosa. Además,
+permite la posibilidad de generar hipótesis, así
+como proponer qué ámbitos de estudios están
+parcialmente desarrollados(12).
+
+Los coronavirus son virus que producen infección en humanos y animales. Más concretamente, es una patología zoonótica, es decir,
+puede transmitirse de animales a humanos(2).
+Pueden causar cuadros clínicos desde el resfriado común hasta otros de más importancia como
+el Síndrome Respiratorio Agudo Grave (SARS)
+y el Síndrome Respiratorio de Oriente Próximo
+(MERS-CoV)(2). La Organización Mundial de
+la Salud (OMS) declaró a finales de enero de
+2020 que en la actualidad nos enfrentamos a
+una pandemia y emergencia de salud pública
+internacional como consecuencia de la enfermedad por COVID-19(3).
+
+De este modo, se llevó a cabo la búsqueda de artículos usando los directorios DeCS (“embarazo”,
+“coronavirus”, “salud”) y MeSH (“pregnan*”,
+“pregnant women”, “coronavirus”), uniendo los
+términos con el operador booleano AND.
+
+Durante el embarazo, una variedad de circunstancias ambientales pueden afectar a la
+salud materna y neonatal(4,5,6). En este sentido,
+se conoce cómo el entorno de la embarazada
+puede crear una huella permanente en la fisiología fetal, la cual durará toda su vida. Así, tal y
+como se afirma desde la teoría de los Orígenes
+del Desarrollo de la Salud y la Enfermedad
+(Developmental Origin of Health and Disease;
+DOHaD) promulgada por el epidemiólogo
+David Barker, durante el desarrollo prenatal se
+produce una programación fetal que va a determinar la salud y la enfermedad de ese individuo
+a lo largo de toda su vida extrauterina(7). Entre
+
+Los criterios de inclusión aplicados fueron:
+artículos en idioma español o inglés, publicados
+en los últimos 2 años (debido a la novedad de
+la temática), que incluyeran el texto completo,
+con población de mujeres embarazadas, y que
+abordaran las consecuencias maternas y/o neonatales de la infección por coronavirus durante el embarazo. Además, se usaron otras fuentes de información como la Sociedad Española
+de Ginecología y Obstetricia (SEGO), el Royal
+College of Obstetricians and Gynaecologists
+(UK), The Royal College of Midwives (UK),
+Royal College of Paediatrics and Child Care
+(UK) y el informe final de la OMS en la misión
+
+2
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+CONSECUENCIAS MATERNAS Y NEONATALES DE LA INFECCIÓN POR CORONAVIRUS COVID-19 DURANTE EL EMBARAZO: UNA SCOPING REVIEW
+
+conjunta China-OMS sobre el COVID-19. Los
+criterios de exclusión fueron artículos de opinión y estudios en animales.
+Las bases de datos en las que se realizó la
+búsqueda fueron la plataforma Web of Science,
+Scopus, BVS, Scielo y CUIDEN. Como
+otras fuentes, se empleó Google Scholar para
+identificar posibles artículos no indexados
+en las bases de datos usadas. La búsqueda se
+llevó a cabo entre febrero-marzo de 2020. En
+la figura 1 se muestra el diagrama de flujo
+según el modelo PRISMA(13), que refleja el
+proceso de búsqueda y selección de artículos
+según los criterios de inclusión. Finalmente,
+
+se seleccionaron 10 estudios para su posterior
+análisis.
+
+RESULTADOS
+La novedad de la temática hizo que se incluyeran en esta scoping review 10 estudios(14,15,16,17,18,19,20,21,22,23) que cumplieron con los
+criterios de inclusión. En la tabla 1 se pueden
+ver los resultados principales de los estudios
+empíricos incluidos (n=5)(14,15,16,17,18). Todos los
+estudios empíricos (n=5) eran observacionales,
+bien de caso único o series de casos. La muestra total de los 5 estudios empíricos era de 64
+embarazadas y 65 neonatos (un embarazo fue
+
+Número de registros identificados
+mediante búsqueda en base de datos
+(n=26)
+
+Número de registros adicionales
+identificados mediante otras fuentes
+(n=3)
+
+Número de registros tras
+eliminar duplicados
+(n=18)
+
+Número de registros cribados
+(n=18)
+
+Número de
+registros excluidos
+(causa: participantes no
+embarazadas ó SARS-CoV
+(n=3)
+
+IDONEIDAD
+
+Número de artículos de texto completo
+evaluados para su idoneidad
+(n=15)
+
+Número de artículos de texto
+completo excluidos,
+con sus razones (n=5)
+Artículos de opinión (n=1)
+Estudios en animales (n=4)
+
+INCLUSIÓN
+
+CRIBADO
+
+IDENTIFICACIÓN
+
+Figura 1
+Diagrama de flujo del proceso de búsqueda y selección de artículos.
+
+Número de estudios incluidos
+en la revisión
+(n=10)
+Fuente: Modificado de Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA statement).
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+3
+
+4
+
+Tipo de
+estudio
+
+China
+
+China
+
+Liu
+(2020)(17)
+
+Zhu
+(2020)(18)
+
+Observacional
+41 casos
+
+22-40
+semanas
+
+35 semanas
+
+30 años Observacional
+de 10 casos 38 semanas
+
+No se
+aporta
+
+Caso único
+
+30 años
+
+Li
+(2020)(16)
+
+China
+
+29 años Observacional
+37 semanas
+de 9 casos
+
+Sí
+
+Sí
+
+Sí
+
+Sí
+
+Sí
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Sí
+
+No
+
+No
+
+No
+
+Sí
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Sí
+
+No
+
+No
+
+No
+
+No
+
+Parto y
+Cesárea
+
+Parto y
+Cesárea
+
+Cesárea
+electiva
+
+Cesárea
+electiva
+
+Parto y
+cesárea
+
+Positivo a
+COVID-19
+
+Positivo a
+COVID-19
+
+Positivo a
+COVID-19
+
+Positivo a
+COVID-19
+
+Positivo a
+COVID-19
+
+de
+Semanas de Afectación Fallecimiento Afectación Afectación Fallecimiento Tipo
+parto/
+Resultados
+gestación
+materna
+Neonatal
+materno
+neonatal
+nacimiento maternos
+media
+(Sí/No)
+(Sí/No) de placenta
+
+China 29,7 años Observacional
+36 semanas
+de 3 casos
+
+Edad
+media
+materna
+
+Chen
+(2020b)(15) China
+
+Chen
+(2020a)(14)
+
+Autor
+principal País
+y año
+publicación
+
+Tabla 1
+Resultados maternos y neonatales de los estudios empíricos incluidos.
+
+Rafael A. Caparros-Gonzalez
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+CONSECUENCIAS MATERNAS Y NEONATALES DE LA INFECCIÓN POR CORONAVIRUS COVID-19 DURANTE EL EMBARAZO: UNA SCOPING REVIEW
+
+gemelar). El 100% (n=5) de los estudios empíricos se realizaron en China(14,15,16,17,18). Por otro
+lado, se incluyó un estudio sobre recomendaciones para obstetras basadas en el coronavirus
+SARS-CoV y en el Middle East Respiratory
+Syndrome (MERS)(19). Además, se añadió en la
+revisión un consenso de expertos de China para
+el manejo perinatal y neonatal en la prevención y control de COVID-19(20). Finalmente,
+entre los documentos incluidos en esta revisión exploratoria se encontraban tres informes
+de recomendaciones para profesionales de la
+salud elaborados por la Sociedad Española de
+Ginecología y Obstetricia (SEGO), el Royal
+College of Obstetricians and Gynaecologists
+(UK), The Royal College of Midwives (UK),
+Royal College of Paediatrics and Child Care
+(UK) y la misión conjunta China-OMS sobre el
+COVID-19(21,22,23).
+Afectación materna y de placenta por COVID-19.
+En el total de los 5 estudios empíricos, las embarazadas dieron positivo a la infección por
+COVID-19(14,15,16,17,18).
+Aunque el síntoma predominante de las embarazadas fue la fiebre(14,15,16,17,18), ésta no apareció en algunos casos hasta después del parto
+o cesárea(14,15,16,17,18). En un caso, la embarazada
+debutó con colecistitis(18). La inmensa mayoría
+de las embarazadas no tuvo neumonía grave, ni
+precisó de cuidados intensivos. Además, ninguna falleció(14,15,16,17,18), siendo dadas de alta sin
+excesivas complicaciones a los pocos días de
+ingreso. Según los estudios revisados, sólo una
+tuvo que ser trasladada a una zona de cuidados
+críticos, pero igualmente fue dada de alta(14).
+No se detectó coronavirus COVID-19 en las
+placentas analizadas(14,16), aunque una placenta mostraba morfología de hemangioma coriónico(14) y otra una gran zona de infarto(14).
+Ninguna placenta mostraba cambios relacionados con corioamnionitis(14). Las muestras de líquido amniótico, sangre de cordón umbilical,
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+leche materna y de hisopo oro-faríngeo de los
+recién nacidos fueron negativas en 6 casos en
+un estudio(15). Las muestras de líquido amniótico, sangre de cordón umbilical, de placenta y
+leche materna también resultaron negativas en
+un estudio de caso único de una gestante positiva a SARS-CoV-2(16).
+Los informes técnicos, de consenso para
+profesionales y la misión conjunta China-OMS
+determinaron que las embarazadas no eran más
+propensas a infectarse de COVID-19(19,21,23),
+manifestando la gran mayoría sólo sintomatología
+de leve a moderada, parecida a un resfriado o
+gripe. Eran más susceptibles sólo aquellas que
+presentaban alguna enfermedad de base, como
+diabetes, una enfermedad pulmonar crónica o un
+estado de inmunosupresión(22).
+Afectación neonatal por infección materna a
+COVID-19. A los neonatos de las madres que
+dieron positivo por COVID-19 se les tomaron muestras en busca del coronavirus SARSCoV-2, siendo el resultado negativo en tres
+neonatos a los que se les tomaron muestras orofaríngeas en un estudio(14), en nueve neonatos a
+los que se les tomaron muestras oro-faríngeas
+en otro estudio del mismo grupo de investigación(15) y también en un estudio de caso único(16).
+No se encontraron síntomas de disnea ni asfixia
+en los neonatos(14,15,16). La frecuencia cardiaca
+prenatal fue reportada únicamente en un estudio de caso único, siendo la cifra de 110 latidos
+por minuto(16). Este bebé nació sin complicaciones mediante cesárea. En uno de los estudios en
+el que se realizó un análisis clínico de 10 neonatos nacidos de madres con resultado positivo
+por COVID-19 se encontraron un 40% (n=4) de
+nacimientos a término y un 60% (n=6) de nacimientos prematuros(18). Además, en este mismo
+estudio se informó de dos neonatos que fueron
+pequeños para la edad gestacional (PEG) y uno
+que fue grande para la edad gestacional (GEG)
+(18)
+. De estos neonatos, un total de seis presentaron disnea, además de dos que tuvieron fiebre y
+5
+
+Rafael A. Caparros-Gonzalez
+
+trombocitopenia, junto con taquicardia, vómitos y neumotórax en un caso(18). A la fecha de
+uno de los estudios incluidos en esta revisión(18),
+un total de 5 neonatos habían sido dados de alta
+hospitalaria, cuatro permanecían ingresados
+y estables, y uno había fallecido debido a las
+complicaciones.
+El grupo de consenso de China en relación al
+manejo neonatal informó de dos casos de neonatos que resultaron positivos por SARS-CoV-2,
+siendo los casos con peor pronóstico aquellos
+que además presentaban prematuridad(20).
+Transmisión intrauterina vertical de COVID-19
+desde la embarazada al feto en desarrollo. La
+transmisión vertical hace referencia al paso de
+microorganismos desde la madre al bebé antes
+y después del nacimiento, mediante sangre de
+cordón a través de la placenta, a través del canal del parto o mediante la lactancia materna(18).
+Todos los estudios empíricos de esta revisión
+reportaron ausencia de transmisión vertical del
+coronavirus desde la madre embarazada al feto
+en desarrollo(14,15,16,17,18). Sin embargo, cabe señalar que hubo un neonato de uno de los estudios al cual no se le realizó la prueba y se
+desconoce por lo tanto si resultó o no infectado por el COVID-19 en el periodo perinatal(18).
+Además, como se ha comentado, la afectación
+materna tuvo consecuencias negativas en alguno de los neonatos.
+El Royal College of Obstetricians and
+Gynaecologists (UK), The Royal College of
+Midwives (UK) y Royal College of Paediatrics
+and Child Care (UK)(22) determinaron en su
+documento de consenso para profesionales que
+no existía evidencia de transmisión vertical
+(durante el embarazo) de madre a hijo. Por
+otro lado, desde el grupo de expertos de China,
+desde las recomendaciones de la American
+Gynaecology Association y la Sociedad
+Española de Ginecología y Obstetricia afirmaban
+
+6
+
+que es imposible descartar la circunstancia de
+trasmisión vertical(19,20,21).
+
+DISCUSIÓN
+El objetivo de este estudio es conocer el
+estado actual en cuanto a las posibles consecuencias negativas de la infección materna por
+COVID-19 sobre la propia salud de la embarazada y el neonato. Además, se trata de ofrecer claridad sobre la transmisión vertical del
+COVID-19 de la madre al feto.
+Los estudios en torno al COVID-19 durante
+el embarazo están despertando interés, aunque
+sólo se han desarrollado investigaciones empíricas en China. La presente revisión constituye
+el primer estudio realizado en España que aborda la salud de la embarazada y del recién nacido en relación al COVID-19. El síntoma predominante en las embarazadas de esta revisión
+es la fiebre, que no siempre aparece antes del
+nacimiento del bebé(14,15,16). Cabe señalar la ausencia de gravedad del COVID-19 en las embarazadas(14,15,16,17,18,19,21,23). Esto contradice lo informado previamente respecto al SARS-CoV en
+Hong Kong en 2003, en un estudio en el que se
+afirmaba que el SARS fue mucho más grave en
+embarazadas que en no embarazadas(19), requiriendo en algunos casos ingreso en una unidad
+de cuidados intensivos. Incluso en el SARS de
+2003 se informó del fallecimiento de algunas
+embarazadas como consecuencia del coronavirus que les infectó entonces(19).
+En cuanto a las consecuencias neonatales del
+COVID-19, sólo se informa del fallecimiento de
+un bebé, posiblemente acrecentado por su peso
+al nacer de 2.200 g y su nacimiento prematuro(18).
+En cuanto al resto de neonatos, al menos
+aparentemente no se observan complicaciones
+duraderas(14,15,16,17,18). Es importante señalar
+que casi todos los recién nacidos a los que se
+evaluaba en busca del COVID-19 dan resultado
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+CONSECUENCIAS MATERNAS Y NEONATALES DE LA INFECCIÓN POR CORONAVIRUS COVID-19 DURANTE EL EMBARAZO: UNA SCOPING REVIEW
+
+negativo, salvo un caso en que no se realiza la
+prueba. Se desconoce si es el bebé fallecido(18).
+No se encuentra COVID-19 en ninguna de las
+muestras de líquido amniótico, leche materna o
+sangre de cordón analizadas(14,15,16,17,18).
+Hasta la fecha, con la información de la que
+se dispone, no existe evidencia suficiente para
+verificar que el COVID-19 se transmita verticalmente de madre a bebé(14,15,16,17,18,21).
+Las asociaciones profesionales internacionales, conscientes del problema de salud pública al que nos enfrentamos, han desarrollado
+algunas recomendaciones para los profesionales que se dedican a la salud de las embarazadas(19,20,21,22,23). Estas recomendaciones incluyen
+el manejo de la embarazada durante el embarazo, parto y posparto con riesgo o infección
+por COVID-19(19,21,22). Además, incluyen recomendaciones en torno al cuidado de los recién
+nacidos(20). La salud de las embarazadas y los
+neonatos debe ser una prioridad(24,25,26).
+En conclusión, no existe evidencia de
+una mayor susceptibilidad a la infección por
+COVID-19 en embarazadas que en mujeres
+no embarazadas(19). Además, tampoco existe evidencia que apoye la transmisión vertical
+de SARS-CoV-2 de la madre al bebé(14,15,16,21,22).
+Esto se ve apoyado por la ausencia de SARSCoV-2 en muestras de leche materna, líquido
+amniótico y sangre de cordón umbilical de recién nacidos de madres con COVID-19(14,15,16).
+Según los estudios incluidos en esta revisión, la
+afectación en recién nacidos es bastante escasa,
+existiendo sólo un caso de un neonato fallecido, posiblemente debido a su prematuridad y
+bajo peso(18).
+Como limitaciones de este estudio, no se incluyeron en la búsqueda artículos publicados
+en idioma chino. Además, sólo incluye embarazadas con resultado positivo a SARS-Co-2 y no
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+aquellas con sintomatología pero sin diagnóstico de COVID-19.
+Finalmente, me gustaría tener la oportunidad
+de agradecer a todas las personas que de alguna
+manera están tratando de dar respuesta a esta
+pandemia mundial.
+
+BIBLIOGRAFÍA
+1. Yang H, Wang C, Poon LC. Novel coronavirus infection and pregnancy. Ultrasound Obstet Gynecol. 2020,
+55:435-437.
+2. Ministerio de Sanidad. Informe técnico. Enfermedad por
+coronavirus, COVID-19 [internet]. [cited 2020 March 30].
+Available from https://www.mscbs.gob.es/profesionales/
+saludPublica/ccayes/alertasActual/nCov-China/documentos/20200306_ITCoronavirus.V2.pdf.
+3. World Health Organization. Responding to community
+spread of COVID-19. Interim guiadance. 2020, 1-6.
+4. Caparros-Gonzalez RA, García-García I, Mariñas-Lirola
+JC, Peralta-Ramírez MI. Protocolo del estudio de cohortes GESTASTRESS sobre los efectos del estrés durante el
+embarazo mediante la medida del cortisol en cabello de la
+mujer y del recién nacido. Rev Esp Salud Publica. 2018;92.
+e201804027.
+5. Gutiérrez Oyarce A, Ferrero A, Estarlich M, Esplugues
+A, Iñiguez C, Ballester F. Exposición ambiental a dióxido
+de nitrógeno y salud respiratoria a los 2 años en la Cohorte
+INMA-Valencia. Gac Sanit. 2019;32:507-12.
+6. Caparros-Gonzalez RA, Romero-Gonzalez B, GonzalezPerez R, Lucena-Prieto L, Perez-Garcia M, Cruz-Quintana
+F, Peralta-Ramirez MI. Maternal and neonatal hair cortisol levels are associated with infant neurodevelopment at six months of age. Journal of Clinical Medicine.
+2019;8(11):e2015.
+7. Barker DJ. Fetal origins of coronary heart disease. BMJ.
+1995 Jul 15;311(6998):171-174.
+
+7
+
+Rafael A. Caparros-Gonzalez
+
+8. O’Leary DR, Kuhn S, Kniss KL, Hinckley AF,
+Rasmussen SA, Pape WJ, Kightlinger LK, Beecham BD,
+Miller TK, Neitzel DF, Michaels SR. Birth outcomes following West Nile Virus infection of pregnant women in the
+United States: 2003-2004. Pediatrics. 2006;117(3):e53745.
+
+infection in nine pregnant women: a retrospective review
+of medical records. The Lancet. 2020b; 395:809-815.
+16. Li Y, Zhao R, Zheng S, Chen X, Wang J, Sheng X,
+Zhou J, Cai H, Fang Q, Yu F, Fan J. Early Release-Lack
+of Vertical Transmission of Severe Acute Respiratory
+Syndrome Coronavirus 2, China. Emerg Infect Dis. 2020.
+
+9. Vázquez-Lara JM, Gómez-Salgado J, FernándezCarrasco FJ, Brieba del Río P, Vázquez-Lara M, RodríguezDíaz L. Asistencia al parto inminente extrahospitalario.
+Actuaciones durante este proceso y cuidados a la madre y al
+recién nacido. Rev Esp Sal Publica. 2018;92. e201809063.
+10. Munn Z, Peters MD, Stern C, Tufanaru C, McArthur
+A, Aromataris E. Systematic review or scoping review?
+Guidance for authors when choosing between a systematic or scoping review approach. BMC Medical Research
+Methodology. 2018;18(1):143.
+11. Manchado Garabito R, Tamames Gómez S, López
+González M, Mohedano Macías L, Veiga de Cabo J.
+Revisiones sistemáticas exploratorias. Med Segur Trab.
+2009; 55:12-19.
+12. Medina Hérnandez NS, Duarte Climents G, Lorido
+Muñoz R, Miranda Barrero E, Sánchez Gómez MB, Gómez
+Salgado J. ¿Por qué las embarazadas no se vacunan de la
+gripe?: una scoping review. Rev Esp Sal Publica. 2020; 93.
+e201904018.
+13. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred
+reporting items for systematic reviews and meta-analyses:
+the PRISMA statement. PLoS Med. 2009;6: e1000097.
+14. Chen S, Huang B, Luo DJ, Li X, Yang F, Zhao Y, Nie
+X, Huang BX. Pregnant women with new coronavirus infection: a clinical characteristics and placental pathological
+analysis of three cases. Chinese J Pathol. 2020a;49:E005.
+15. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, Li J,
+Zhao D, Xu D, Gong Q, Liao J. Clinical characteristics and
+intrauterine vertical transmission potential of COVID-19
+
+8
+
+17. Liu H, Liu F, Li J, Zhang T, Wang D, Lan W. Clinical
+and CT Imaging Features of the COVID-19 Pneumonia:
+Focus on Pregnant Women and Children. The Lancet. 2020
+18. Zhu H, Wang L, Fang C, Peng S, Zhang L, Chang
+G, Xia S, Zhou W. Clinical analysis of 10 neonates born
+to mothers with 2019-nCoV pneumonia. Transl Pediatr.
+2020;9:51-60.
+19. Rasmussen SA, Smulian JC, Lednicky JA, Wen TS,
+Jamieson DJ. Coronavirus Disease 2019 (COVID-19) and
+Pregnancy: What obstetricians need to know. Am J Obstet
+Gynecol. 2020; 1-35.
+20. Wang L, Shi Y, Xiao T, Fu J, Feng X, Mu D, Feng Q,
+Hei M, Hu X, Li Z, Lu G. Chinese expert consensus on the
+perinatal and neonatal management for the prevention and
+control of the 2019 novel coronavirus infection. Ann Transl
+Med. 2020;8:1-8.
+21. Sociedad Española de Ginecología y Obstetricia
+(SEGO). Recomendaciones para la prevención de la infección y el control de la enfermedad por coronavirus 2019
+(COVID-19) en la paciente obstétrica. [internet]. [cited
+2020 March 31]. Available from http://www.rhaprofesional.com/wp-content/uploads/2020/03/SEGO_España.pdf.
+22. Royal College of Obstericians and Gynecologists, The
+Royal College of Midwives, Royal College of Paediatrics
+and Child Care. Coronavirus (COVID-19) Infection in
+Pregnancy. Information for healthcare professionals. [internet]. [cited 2020 March 31]. Available from http://
+www.rhaprofesional.com/wpcontent/uploads/2020/03/
+Royal_College_of_Obstetricians_and_Gynaecologists_
+ReinoUnido.pdf.
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+CONSECUENCIAS MATERNAS Y NEONATALES DE LA INFECCIÓN POR CORONAVIRUS COVID-19 DURANTE EL EMBARAZO: UNA SCOPING REVIEW
+
+23. Joint Mission World Health Organization-China.
+Report of the WHO-China Joint Mission on Coronavirus
+Disease 2019 (COVID-19). [internet]. [cited 2020 March
+31]. Available from https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid19-final-report.pdf.
+24. Schwartz DA, Graham AL. Potential Maternal and
+Infant Outcomes from (Wuhan) Coronavirus 2019-nCoV
+Infecting Pregnant Women: Lessons from SARS, MERS,
+and Other Human Coronavirus Infections. Viruses.
+2020;12(2):194.
+
+Rev Esp Salud Pública. 2020; 94: 17 de abril e202004033
+
+25. Caparros-Gonzalez RA, Perra O, Alderdice F,
+Lynn F, Lobel M, García-García I, Peralta-Ramírez
+MI. Psychometric validation of the Prenatal Distress
+Questionnaire (PDQ) in pregnant women in Spain. Women
+Health. 2019;59:937-52.
+26. Caparros-Gonzalez RA, Romero-Gonzalez B,
+Quesada-Soto JM, Gonzalez-Perez R, Marinas-Lirola JC,
+Peralta-Ramírez MI. Maternal hair cortisol levels affect
+neonatal development among women conceiving with assisted reproductive technology. J Reprod Infant Psychol.
+2019;37:480-9.
+
+9
+
+

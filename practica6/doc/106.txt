@@ -1,0 +1,897 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/340298621
+
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un
+preprint en bioRxiv sobre el coronavirus y sus efectos en la comunicación
+cientíﬁca
+Preprint · March 2020
+DOI: 10.13140/RG.2.2.12666.44485
+
+CITATIONS
+
+READS
+
+0
+
+4,456
+
+2 authors:
+Emilio Delgado López-Cózar
+
+Alberto Martín-Martín
+
+University of Granada
+
+University of Granada
+
+349 PUBLICATIONS 4,135 CITATIONS
+
+88 PUBLICATIONS 1,087 CITATIONS
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Google Scholar as a tool for scientific evaluation View project
+
+All content following this page was uploaded by Emilio Delgado López-Cózar on 31 March 2020.
+
+The user has requested enhancement of the downloaded file.
+
+SEE PROFILE
+
+La viralidad de la ciencia defectuosa:
+el contagioso impacto mediático de un preprint en bioRxiv sobre el
+coronavirus y sus efectos en la comunicación científica
+Emilio Delgado López-Cózar, Alberto Martín-Martín
+Facultad de Comunicación y Documentación
+Universidad de Granada
+edelgado@ugr.es, albertomartin@ugr.es
+
+SUMARIO
+1. El caso: anatomía del preprint viral publicado en bioRxiv
+2. El impacto mediático del preprint: viralidad de la ciencia escandalosa
+3. El impacto científico del preprint: el castigo del olvido
+4. Las lecciones de este caso: reflexionando sobre los nuevos retos de la comunicación científica
+4.1 Abriendo de par en par las puertas del peer review
+4.2 Acelerando la comunicación de la ciencia
+4.3 Abriendo la caja de pandora de la ciencia: el acceso abierto a los datos y las publicaciones.
+Ciencia abierta, de verdad…
+4.4 La vacuna contra los virus informativos: alfabetización en in-formación al cuadrado
+5. A modo de conclusión
+Referencias bibliograficas
+TABLE OF CONTENTS
+1. The case: the anatomy of the viral preprint published in bioRxiv
+2. The media impact of preprint: the virality of flawed science
+3. The scientific impact of preprint: the punishment of oblivion
+4. Lessons from this case: reflecting on the new challenges of scientific communication
+4.1 Opening the doors of peer review wide open
+4.2 Accelerating science communication
+4.3 Opening the pandora's box of science: open access to data and publications. True Open
+Science...
+4.4 The vaccine against information viruses: in-formation literacy, squared
+5. By way of conclusion
+Bibliographic references
+RESUMEN
+El 31 de enero un trabajo de investigación no revisado se publicó en el repositorio bioRxiv afirmando
+haber encontrado "misteriosas similitudes" entre el virus SARS-CoV-2 y el virus del SIDA (HIV-1),
+sugiriendo que estas coincidencias no "eran de naturaleza fortuita". Este caso ha demostrado ser un
+buen ejemplo de cómo un desarrollo reciente en la comunicación científica, como el uso creciente de
+la publicación de documentos de trabajo de biomedicina no revisados en repositorios, puede influir en
+las ya acaloradas conversaciones en redes sociales de masas sobre el brote de COVID-19.
+El trabajo recibió inmediatamente fuertes críticas de expertos y fue retirado voluntariamente por los
+autores dos días después de su publicación inicial. Hasta la fecha, el trabajo ha recibido dos citas
+según Google Scholar: una de un artículo que explora el impacto de las preimpresiones en esta crisis,
+y otra de un artículo que refuta sus afirmaciones. Mientras tanto una docena de otros estudios sobre
+el COVID-19 publicados en similares fechas ya han recibido más de un centenar de citas. En contraste
+con la clara respuesta de la comunidad científica (rechazo rápido, seguido de su silencioso eco en la
+literatura posterior), este informe se convirtió, hasta el 19 de marzo de 2020, en el trabajo de
+investigación más compartido de todos los tiempos en las redes sociales según los datos de
+altmetric.com. Esta plataforma ha registrado más de 22,000 tweets y más de 50 noticias que
+mencionan este estudio.
+Este caso demuestra que incluso cuando la comunidad científica exhibe una alta inmunidad a la
+información inexacta, la sociedad en general no está equipada con los mismos mecanismos de
+defensa, especialmente cuando la información se presenta con apariencia científica. La creciente
+tendencia hacia la ciencia abierta trae muchos potenciales beneficios, pero también desafíos como la
+necesidad de aumentar la cultura científica de la población en general.
+P á g i n a 1 | 20
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Se comentan los cambios que se están produciendo en la comunicación científica como consecuencia
+de esta crisis de salud global: velocidad en la publicación de resultados de investigación a través de
+los repositorios, eficacia de la revisión por pares en abierto, significado de las nuevas métricas de
+impacto, viralidad de la ciencia defectuosa en la población y necesidad de una vacunación masiva a
+través de una alfabetización informativa.
+PALABRAS CLAVE
+Comunicación Científica / Publicación científica / Revistas científicas / Repositorios / Revisión por pares
+/ Acceso Abierto / Impacto científico / Recuento de Citas / Métricas Alternativas / Redes sociales /
+
+The virality of flawed science:
+the contagious media impact of a coronavirus-related preprint on bioRxiv and
+its effects on scientific communication
+ABSTRACT
+On January 31th, an unrevised report published in the preprint server bioRxiv claimed to have found
+"uncanny similarities" between the new SARS-CoV-2 virus and HIV-1, suggesting that these
+coincidences were "unlikely to be fortuitous in nature". This case has proved to be a good example of
+how a recent development in scientific communication, such as the growing use of preprints in
+biomedicine, is able to influence the already heated conversations in mass social media about the
+COVID-19 outbreak.
+The paper immediately received heavy criticism from experts and was voluntarily withdrawn by the
+authors two days after its initial publication. To this date, the paper has received two citations according
+to Google Scholar: one from a paper that explores the impact of preprints in this crisis, and one from
+an article that refutes its claims. For reference, a dozen of other COVID-19 studies published around
+the same time have already received well over a hundred citations. In striking contrast to the clear
+response from the scientific community (swift rejection, followed by the silent treatment in the
+subsequent literature), this report was, until March 19th 2020, the most shared research work of all time
+on social media according to data from altmetric.com. This platform has recorded over 22,000 tweets
+and over 50 news pieces mentioning this study.
+This case shows that even when a community of experts displays a high immunity to inaccurate
+information, the society at large is not necessarily equipped with the same defence mechanisms,
+especially when information is presented with the veneer of science. The growing trend of doing science
+in the open brings many potential benefits, but also challenges like the need to increase the scientific
+culture of the general population.
+We discuss the changes that are taking place in scientific communication as a result of this global health
+crisis: speed in the publication of research results through repositories, effectiveness of open peer
+review, meaning of new impact metrics (altmetrics), virality of faulty science in the population, and the
+need for mass vaccination through information literacy.
+KEYWORDS
+Scholarly communication / Scientific communication / Preprints / Working Papers / Scientific Journals
+/ Repositories / bioRxiv / medRvix / Peer Review / Open peer review / Open Access / Citations Count
+/ Altmetrics / Social Media
+
+Citar como:
+Delgado López-Cózar, Emilio; Martín-Martín, Alberto (2020). La viralidad de la ciencia defectuosa: el contagioso
+impacto mediático de un preprint en bioRxiv sobre el coronavirus y sus efectos en la comunicación científica.
+Granada, 30 de marzo de 2020
+Historia de la publicación:
+1ª edición, Granada 30 marzo 2020
+2ª edición, Granada 31 marzo 2020
+
+2
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+La alarma desatada a nivel mundial por la enfermedad COVID-19, causada por el
+coronavirus denominado SARS-CoV-2, está teniendo también sus efectos en la
+comunicación de la ciencia. La necesidad de alcanzar rápidamente certezas sobre la
+nueva y desconocida enfermedad infecciosa ha impelido a los investigadores a poner
+a disposición de todos de manera inmediata los resultados de sus indagaciones. Y no
+hay un medio más rápido en biomedicina que los repositorios temáticos como bioRxiv,
+medRxiv, chemRxiv, arxiv, socArXiv o institucionales. La rapidez del proceso de
+depósito, la facilidad para actualizar la publicación con nuevas versiones que
+introduzcan correciones o mejoras en la investigación sugeridas por los lectores y la
+posibilidad de ponerlos en abierto para incrementar el eco de los resultados empujan
+a los investigadores a explorar estos nuevos caminos. Pareciera como si de pronto
+hubieran desaparecido las dudas y los recelos a utilizar esos nuevos medios de
+comunicación, a la espera de su publicación definitiva o no en revistas científicas
+especializadas, cuyos procesos de revisión por pares, enlentecen la disposición
+pública de los hallazgos.
+Nunca hasta hoy en el campo de conocimiento de las ciencias biológicas, y
+especialmente en las biomédicas, se había producido un crecimiento tan rápido y
+espontáneo del número de preprints depositados en repositorios frente al de artículos
+publicados en revistas en los medios tradicionales de publicación (Kupferschmidt
+2020a). Una búsqueda en Dimensions sobre los trabajos publicados en 2020 sobre
+el SARS-CoV-2 nos dice que un 21% corresponden a preprints. Entre las diez fuentes
+con más publicaciones cinco son repositorios; dos de ellos los que más han publicado
+(Figura 1).
+Figura 1. Medios de publicación de los trabajos publicados sobre el SARS cov-2 en 2020
+según Dimensions
+
+3
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+1. El caso: anatomía del preprint viral publicado en bioRxiv
+El viernes 31 de enero a las 05:54 a.m. varios científicos del Indian Institute of
+Technology y de la University of Delhi, depositaban en el repositorio bioRxiv un
+artículo con el llamativo título de “Uncanny similarity of unique inserts in the 2019nCoV spike protein to HIV-1 gp120 and Gag” (Figura 2). Los investigadores hindúes
+encontraban similaridades en la secuencia genética del SARS-CoV-2 y el HIV-1, virus
+originador del SIDA, e insinuaban, y esto era lo más alarmante, que esta coincidencia
+podía no ser producto del azar. El empleo de expresiones como “Uncanny similarity”,
+“fortuitous in nature”, “astonishing”, “unexpectedly”, daban a entender la existencia de
+extrañas circunstancias en la generación de este virus, espoleando las teorías
+conspiratorias que han proliferado en todos los media sobre la intervención humana
+en el diseño y construcción del nuevo virus.
+Figura 2. Registro en bioRxiv del preprint “Uncanny similarity of unique inserts in the 2019nCoV spike protein to HIV-1 gp120 and Gag”
+
+El trabajo fue tuiteado en la cuenta oficial de bioRvix e inmediatamente recibió una
+legión de comentarios negativos tanto en Twitter como en el propio repositorio. Varios
+científicos señalaron la escasa fortaleza de los métodos empleados, la intervención
+del puro azar en los resultados y la sesgada e infundada interpretación de los mismos.
+La reacción fue fulminante:
+-
+
+El mismo sábado por la mañana, los responsables de bioRxiv decidieron
+insertar una advertencia especial (un banner en color amarillo) en todos los
+preprints publicados sobre el coronavirus pidiendo precaución en el uso de los
+resultados arrojados por esos estudios y cautela a los medios de comunicación
+a la hora de propagar noticias basados en ellos (Figura 3).
+
+4
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Figura 3. Tuit de los responsables de bioRxiv anunciando advertencia incluida en todos los
+preprints relacionados con el nuevo coronavirus
+
+-
+
+Unas horas más tarde los autores anunciaban la retirada (Figura 4). Tras
+lamentar que el trabajo alimentara las teorías conspiratorias en la emergencia
+del virus y agradeciendo las críticas y comentarios formulados por los
+científicos retiraban el artículo para revisarlo, y prometían una nueva versión
+próximamente.
+
+Figura 4. Tuit de los autores del preprint “Uncanny similarity of unique inserts in the 2019nCoV spike protein to HIV-1 gp120 and Gag” anunciando la retirada del preprint
+
+-
+
+El domingo 2 de febrero el trabajo era retirado: se incluía una nueva versión
+que contenía una declaración formal de retirada (Figura 5), insertándose en la
+cabecera del registro en bioRxiv un aviso en color rojo destacando la retirada.
+Figura 5. Última versión del preprint “Uncanny similarity of unique inserts in the 2019nCoV spike protein to HIV-1 gp120 and Gag” con el anuncio de su retirada
+
+5
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+2. El impacto mediático del preprint: viralidad de la ciencia escandalosa
+A pesar de haber transcurrido menos de 72 horas entre su publicación y retirada, el
+preprint, empezó a ser visualizado y descargado masivamente. Con casi 200.000
+descargas se ha convertido en el preprint más visualizado de bioRxiv (Figura 6).
+Figura 6. Número de visualizaciones y descargas del preprint “Uncanny similarity of unique
+inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag” en bioRxiv y posición en el
+ranking de artículos más descargados de biorRxiv según Rxivist
+
+Dado que el preprint se publicó en acceso abierto este pudo ser a su vez descargado
+y almacenado libremente en cualquier servidor, aumentando su visibilidad, y su poder
+contagioso. De hecho, resulta muy significativo el elevado número de versiones que
+Google Scholar ha identificado del preprint; con 64 casi duplica el número de
+versiones localizadas del artículo que más impacto y visibilidad ha alcanzado sobre
+el coronavirus hasta hoy (Figura 7).
+Figura 7. Número de versiones localizadas por Google Scholar del preprint “Uncanny
+similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag”
+comparado con el artículo que ha alcanzado mayor impacto sobre el nuevo coronavirus
+
+Pero donde ha obtenido un impacto desorbitante es en las redes sociales. Los
+mensajes, noticias, tuits y retuits sobre el preprint empezaron a circular profusa y
+velozmente por las redes sociales, de forma que se ha convertido en el trabajo
+científico más compartido de toda la historia de las redes sociales hasta el día 19 de
+marzo (Figura 8) (https://dimensions.altmetric.com/details/74957328#score).
+6
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Figura 8. Artículos con mayor Almetric Attention Score según la base de datos Dimensions
+(12 de marzo de 2020)
+
+Con más de 20.000 tuits y 56 noticias publicadas en distintos medios de comunicación
+(Figura 9), algunos de tanto alcance como The Angeles Times, The Guardian, The
+Scientist, Foreing Affair, Newsweek… el preprint y la información derivada de él se
+hizo viral. Twitter es el caldo de cultivo perfecto para propagar el “virus informativo”,
+pues en unas horas es capaz simplemente con un click (retuiteo) o un una glosa del
+tuit de infectar a miles de personas, que propagarán la información por otros canales
+sucesivamente.
+Figura 9 Almetric Attention Score del preprint “Uncanny similarity of unique inserts in the
+2019-nCoV spike protein to HIV-1 gp120 and Gag”
+(12 de marzo de 2020)
+
+3. El impacto científico del preprint: el castigo del olvido
+De las distinas maneras que existen de medir el impacto científico de un artículo es
+el recuento de citas el termómetro más empleado. Pues bien, a día de hoy el artículo
+ha recibido solo dos citas de acuerdo con Google Scholar, una de un artículo que
+explora el impacto mediático de los preprints en la crisis del coronavirus, y otra de un
+trabajo que refuta directamente los resultados del estudio. Esto significa un impacto
+científico, medido en términos de citas, ínfimo. Para obtener una cabal idea de lo
+pírricas que son estas cifras debe tenerse en cuenta que el artículo más citado sobre
+7
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+el coronavirus alcanzaba el 17 de marzo las 857 citas y que once artículos contabilizan
+ya más de 100 citas (Tabla 1).
+Tabla 1 Artículos sobre el nuevo coronavirus SARS cov-2 más citados según Google Scholar
+(17 de marzo de 2020)
+Título del artículo
+
+Nº citas
+
+Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+
+857
+
+Early transmission dynamics in Wuhan, China, of novel coronavirus–infected pneumonia
+Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in
+Wuhan, China: a descriptive study
+A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster
+Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–infected
+pneumonia in Wuhan, China
+Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus
+origins and receptor binding
+Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV
+outbreak originating in Wuhan, China: a modelling study
+Transmission of 2019-nCoV infection from an asymptomatic contact in Germany
+
+573
+
+A novel coronavirus outbreak of global health concern
+The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health—The latest
+2019 novel coronavirus outbreak in Wuhan, China
+Importation and human-to-human transmission of a novel coronavirus in Vietnam
+
+183
+
+448
+435
+339
+269
+237
+200
+
+105
+100
+
+En Mendeley, una red social académica muy usada por los investigadores nóveles
+para gestionar sus referencias bibliográficas, el preprint de bioRxiv no ha alcanzado
+más que 92 readers frente a los casi 2.900 obtenidos por el artículo sobre coronavirus
+de mayor impacto (Figura 10).
+Figura 10. Número de lectores según Mendeley del preprint “Uncanny similarity of unique
+inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag” comparado con el artículo que
+ha alcanzado mayor impacto sobre el nuevo coronavirus
+
+En ResearchGate, la red social científica que reúne a más científicos en el mundo, el
+preprint de bioRxiv ha obtenido 7 recomendaciones casi la mitad que el artículo de
+mayor repercusión científica sobre el coronavirus (Figura 11). Aunque
+sorprendentemente posee un mayor número de “lecturas” (visualizaciones más
+descargas).
+
+8
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Figura 11. Número de visualizaciones y recomendaciones según ResearchGate del preprint
+“Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag”
+comparado con el artículo que ha alcanzado mayor impacto sobre el nuevo coronavirus
+
+Queda evidenciado que el impacto de este trabajo en la comunidad científica ha sido
+nulo. La comunidad académica lo ha ignorado completamente, premiandolo con la
+indiferencia hacia sus resultados y omitiendo cualquier mención en los textos
+científicos.
+4. Las lecciones de este caso: reflexionando sobre los nuevos retos de la
+comunicación científica
+El radical contraste entre la aceptación y recepción de este preprint en redes sociales
+y en el ámbito científico debe hacernos reflexionar. Mientras que la comunidad
+científica ha sido capaz de permanecer inmune a una información sesgada y
+tendenciosa consiguiendo la retirada del artículo de manera inmediata y castigando
+con el olvido al trabajo en la literatura científica, otros sectores de la población han
+sido muy vulnerables a quedar infectados por una información escandalosamente
+sugestiva, que revestida de credenciales científicas y expresada por nuevos canales
+de comunicación científica, es ambigua, imprecisa, sesgada y no fundamentada.
+Lo más interesante de este caso es que evidencia de manera cruda los cambios que
+se están gestando en la forma de difundir la ciencia, avivando el intenso debate que
+se está produciendo en estos últimos años sobre las implicaciones de la publicación
+de trabajos no revisados directamente en los repositorios temáticos, especialmente
+en biomedicina.
+4.1 Abriendo de par en par las puertas del peer review
+Este caso muestra que los recelos a los nocivos efectos científicos de la publicación
+directa de informaciones científicas dudosas, sin una revisión por pares previa,
+ejecutada anteriormente a la publicación en una revista o editorial científica, pueden
+ser neutralizados. En sólo dos días múltiples científicos de diversa procedencia y
+condición, realizando una evaluación espontánea, directa y por múltiples canales
+informales, han sido capaces de obligar a la retirada de un artículo carente de rigor y
+con interpretaciones no fundadas en datos sólidos. Esta evaluación por pares ex post
+(posterior a la publicación) se ha generado de manera abierta, inmediata, con la
+participación de investigadores no seleccionados previamente por ningún editor,
+9
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+movidos exclusivamente por su propia voluntad y por su deseo de no permitir que
+investigaciones no fiables y válidas contaminen el acervo científico.
+Esta actuación espontánea posee un caracter simbólico. Hasta ahora en Biomedicina
+y otras ciencias experimentales vecinas ha regido implacablemente la conocida como
+“regla Ingelfinger”, una norma de facto propuesta en 1969 por el inefable director del
+New England Journal of Medicine que imponía el rechazo a la divulgación de los
+resultados de una investigación, por cualquier medio que sea, previa a la publicación
+en una revista científica (Ingelfinger 1969). Desde entonces buena parte de las
+revistas biomédicas y de campos vecinos han adoptado esta política, rechazando
+sistemáticamente todos aquellos manuscritos que hubieran desvelado total o
+parcialmente sus hallazgos. El concepto de “publicación” fue perfilándose
+posteriormente al mismo ritmo que las tecnologías de la edición y comunicación
+cambiaban la forma de la publicación científica. Así, se consideró que la divulgación
+de un manuscrito en Internet debiera considerarse por la revista como publicado y,
+por tanto, como no apto para ser publicado en la revista (Kassirer, Angell 1995).
+El argumento central en defensa de este sistema de publicación se asienta en la
+premisa de que los hallazgos científicos, sobre todo, en temas que pueden afectar a
+la salud, no deben ser publicados sin una previa revisión científica por especialistas.
+La revisión por pares, esto es, la evaluación por varios expertos seleccionados ad hoc
+pero ad libitum por los editores de una revista, ejerciendo la revisión normalmente de
+manera anónima, se constituyó en el eje de la publicación científica válida. La
+beatífica postura de Ingelfinger escondía la defensa de los propios intereses de las
+revistas luchando por la exclusividad de las noticias científicas frente a la
+competencia, sobre la cual se cimentaba la buena salud económica del negocio
+editorial (incremento de ventas, suscripciones, publicidad, etc…) (Altman 1996ab).
+Estos intereses, tan legítimos como prosáicos, fueron revestidos del sacrosanto amor
+por la ciencia válida y verdadera, por el respeto al rigor propio del método científico
+encarnado en la revisión por pares practicada dentro de los muros de las casas
+editoriales.
+La tardía aparición de los repositorios en biomedicina (bioRxiv en 2013 y medRxiv en
+2019), y demás ciencias experimentales (chemRxiv 2016) y su lento despertar se
+explica por el temor de los investigadores a contravenir esta norma. Los científicos,
+temerosos de no ver publicados sus artículos en las revistas que son la llave para su
+progreso en la carrera científica, han rehuído la publicación de sus preprints. Y, de
+hecho, los repositorios biomédicos, a diferencia de los de otros campos, sólo se
+conciben como el paso previo para una posterior publicación en una revista. Prueba
+de ello es que aceptan compartir un manuscrito en el repositorio en tanto en cuanto
+permitirá recibir sugerencias y comentarios que mejorarán el manuscrito antes de ser
+sometido a la revista en cuestión. Asimismo, recalcan que se trata de trabajos
+provisionales, que pueden contener errores y que no deben ser aceptados por la
+comunidad científica en tanto en cuanto no han sido revisados formalmente por pares.
+Además, y como prueba de la supremacía otorgada a la revista como medio de
+publicación, se recuerda que un manuscrito no se publicará si ya ha sido aceptado
+para su publicación, publicado en la revista, o en cualquier en otro lugar.
+Parece que las suspicacias sobre los repositorios solo se han disipado cuando las
+editoriales científicas, las propietarias de las más reputadas revistas, han descubierto
+10
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+la que hemos denominado como la nueva “ruta de oro” del negocio editorial (Delgado
+López-Cózar 2018): el pago de cuantiosos APC (Article Processing Charges) para
+asegurar el acceso abierto a los artículos es la nueva coartada de las editoriales para
+admitir sin problemas el uso previo de repositorios. Ahora ya no importa tanto que los
+investigadores hayan difundido previamente sus trabajos como preprints siempre que
+los publiquen después en una revista y coticen por ello. El argumento en defensa de
+este pingüe negocio sigue siendo la supuesta “calidad de la revisión por pares”
+realizada por las revistas que dice asegurar la relevancia, novedad, validez y rigor
+científico de lo publicado.
+Esta fé ciega en la eficacia de la revisión por pares ejercida por las revistas contrasta
+con la reiterada frecuencia de retractaciones de artículos fraudulentos, justamente
+publicados en las más reputadas revistas (https://retractionwatch.com). El supuesto
+que nos ocupa, donde la revisión por pares se ha realizado a cielo abierto, demuestra
+con una eficacia notable y con una velocidad inédita que la veracidad de un hallazgo
+cae por su propio peso y es verificada de manera inmediata por la comunidad
+científica, sin necesidad de recurrir a procesos de evaluación en revistas o editoriales,
+como se ha podido comprobar más arriba.
+Se podría arguir en contra de este nuevo modelo de comunicación que este caso
+sería atípico pues se ha filtrado convenientemente dada las trascendencia del tema
+tratado en un contexto mundial de pánico ante una enfermedad que se presenta como
+una amenaza global como es el coronavirus. Pero también este caso, demuestra la
+extraordinaria eficacia de un antídoto natural que posee la comunidad para vacunarse
+contra la mala o defectuosa ciencia. Cuando un trabajo no es riguroso queda
+relegado, recibe el peor de los castigos posibles en ciencia: ser literalmente ignorado
+en la literatura científica. Ciertamente la engrosará pero no la contaminará. Los
+científicos son lo suficientemente juiciosos para ser capaces de reconocer cuales son
+los berridos, los cantos de sirena o los melodiosos acordes de una sinfonía científica
+bien ejecutada. Y lo expresan libremente y sin cortapisas.
+4.2 Acelerando la comunicación de la ciencia
+Otra lección derivada de este caso tiene que ver con el irremisible proceso de
+aceleración de la difusión científica en el que estamos inmersos. Los repositorios
+permiten la divulgación inmediata de los resultados de una investigación. Es esta
+velocidad de transmisión una de sus principales fortalezas frente a la lentitud de las
+revistas, cuyos procesos de revisión y de edición demoran la publicación efectiva.
+Aunque es bien sabido que existen acusadas diferencias en los tiempos de
+publicación según disciplinas científicas y dentro de ellas según revistas (Björk,
+Solomon 2013), es en los campos de las ciencias experimentales (Química,
+Biomedicina, Ingenierias) donde se ha logrado acortar significativamente las
+demoras.
+La edición electrónica contribuyó decisivamente a aminorar los tiempos de difusión,
+pues liberó a la publicación científica de los frenos que imponía el soporte impreso
+(comunicación postal entre autores, editores, revisores, impresión en papel,
+distribución postal…). No obstante, en el ámbito biomédico los problemas de salud
+pública, como ocurre justamente con las enfermedades infecciosas como la que nos
+11
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+ocupa, exigieron que las revistas adoptaran procedimientos que abreviaran todavía
+más los plazos. Así, The Lancet en abril de 1997 introdujo un procedimiento de
+revisión rápida que intentaba acortar el tiempo entre la recepción y aceptación a no
+más de dos semanas y el proceso general de publicación a un mes (McNamee, Horton
+1997). Su ejemplo fue seguido dos años más tarde por el British Medical Journal
+(Goldbeck-Wood, Robinson 1999) y el Journal of the American Medical Association
+(Winker, Fontanarosa 1999). A partir de ese momento procedimientos similares se
+replicaron en casi todas las revistas de primer nivel.
+Pues bien, las mejoras tecnológicas de las telecomunicaciones y la edición digital han
+permitido hoy dar una vuelta de tuerca más. Ante situaciones extremas para la salud
+pública mundial como las que ha evidenciado la pandemia vírica que nos aqueja, cuya
+capacidad contagiosa opera a velocidades nunca vistas y con una irradiación global
+inaudita, se ha hecho patente la necesidad de disponer sin dilación de los
+descubrimientos científicos que permitan conocer el origen, la forma en que cursa la
+enfermedad y sus posibles terapias. Los repositorios, gracias a su instantaneidad,
+han sido el canal más veloz. Las revistas, conscientes de que no pueden competir en
+rapidez de publicación, han aceptado la nueva situación a regañadientes y algunas
+han hecho de la necesidad virtud aprovechándose de la revisión en abierto que sufren
+los manuscritos que simultáneamente o poco después le son sometidos; de esta
+manera pueden, constatar la acogida que reciben en la comunidad científica y
+profesional. Esto les ayuda a la toma de decisiones. Incluso han llegado a coordinarse
+con los repositorios. Para acelerar todavía más el proceso, algunos repositorios de
+preprints se han acoplado con las revistas, estableciendo pasarelas que permiten
+someter directamente a una revista el preprint depositado en el repositorio con todos
+sus metadatos asociados, evitando que los autores tengan que volver a cargar esta
+información.
+En este contexto, un efecto colateral de esta epidemia es que ha desatado una
+competencia feroz entre las revistas científicas más reputadas del mundo que luchan
+encarnizadamente por captar para sus páginas los manuscritos que contengan los
+hallazgos de investigación más impactantes sobre el coronavirus. Lancet, New
+England Journal of Medicine, Nature y todas las revistas de su saga, Science, están
+consiguiéndolo a costa de acortar todavía más los tiempos de revisión y publicación.
+Se está llegando a plazos de dos semanas y las revistas, aunque no lo reconozcan
+públicamente, están relajando sus “estrictos” controles. Publicar bajo la presión de
+ofrecer la primicia sobre la enfermedad que ha abierto una crisis de salud de fondo
+de la magnitud global que tiene esta puede espolear la publicación de trabajos
+inmaduros, sesgados, cuando no fraudulentos. Las alertas han saltado: el artículo
+publicado en el New England Journal of Medicine en el que se indicaba que cualquier
+paciente asintomático podía transmitir el virus en el período de incubación (Rothe et
+al. 2020), que tanta repercusión mediática consiguió y tanto alarmó a la población,
+presentaba sesgos en el diseño metodológico (Kupferschmidt 2020b). Hace unos días
+un editorial en el Journal of the American Medical Association alertaba de prácticas
+desviadas en la construcción de las muestras de pacientes del coronavirus estudiadas
+(Bauchner, Golub, Zylke 2020).
+En fin, se reabre un debate que nunca se ha cerrado:
+
+12
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+¿Es la revisión por pares aplicada por las revistas el certificado que asegura la
+fiabilidad y validez de lo publicado en una revista, como la mayor parte de la
+comunidad científica sigue creyendo?
+¿Si los artículos publicados en revistas pueden adolecer de los mismos peligros que
+los preprints, para qué publicar en las revistas?
+¿Si los preprints maliciosos pueden ser rechazados por la propia comunidad sin
+recurrir a las revistas, para qué las necesitamos?
+¿Cuál es el valor añadido de publicar en revistas científicas?
+¿Realmente, son sólo herramientas de edición, medios para la promoción científica
+de los investigadores o fuentes de negocio comercial?
+Nunca debe olvidarse, como escribíamos recientemente que lo que importa es lo que
+se dice no donde se dice… En esta epidemia viral que nos consume lo realmente
+relevante es el descubrimiento en sí mismo: ese antiviral que cure o alivie la
+enfermedad, esa vacuna que la prevenga y evite el contagio. ¿Qué más da donde se
+comunique? Lo que importa es la investigación no la comunicación. Recuérdese, que
+el medio no es el mensaje, es el masaje.
+4.3 Abriendo la caja de pandora de la ciencia: el acceso abierto a los datos y las
+publicaciones. Ciencia abierta, de verdad.…
+La principal virtud que ostenta la publicación directa de preprints en repositorios, como
+es el caso, es que los hallazgos de investigación que trasladan, financiadaos
+mayoritariamente con fondos públicos se hacen realmente públicos, divulgándose de
+manera abierta a la comunidad científica, profesional y a la sociedad en su conjunto
+que es la que los ha pagado con sus impuestos.
+Independientemente de ello, un rasgo distintivo de las publicaciones sobre el COVID19 es que la inmensa mayoría se están publicando en abierto. Ciertamente ante un
+hecho excepcional como el que nos está afectando se ha producido una reacción
+colectiva, en muchos casos alentada por instituciones cuya misión es fomentar la
+investigación, para que las evidencias científicas obtenidas por la investigación estén
+disponibles para todos. La declaración patrocinada por el Wellcome Trust en favor
+de compartir rápida y abiertamente los hallazgos de investigación (datos y
+publicaciones) sobre la enfermedad ha sido firmada por las principales editoriales
+científicas (Elsevier, Springer Nature, Taylor & Francis, Sage, Willey, Oxford
+University Press, Cell Press, BMJ, PLOS…), revistas científicas (New England Journal
+of Medicine, Annals of Internal Medicine), institutos de investigación (Institut Pasteur,
+Inserm), sociedades científicas (American Chemical Society, American Medical
+Informatics Association, American Physical Society, American Society for
+Biochemistry and Molecular Biology) y organismos de financiación de la investigación
+(National Institutes of Health, Japan Agency for Medical Research and
+Development, Luxembourg National Research Fund). No sólo en las páginas web
+de estas editoriales se han creado espacios reservados para el acceso a todas las
+publicaciones que poseen en sus fondos relacionadas directa o indirectamente al
+COVID-19 sino que bases de datos como la National Library of Medicine a través de
+Pubmed Central han centralizado todas las publicaciones en abierto sobre el
+coronavirus o buscadores académicos como Google Scholar ha puesto enlace directo
+a las publicaciones sobre el COVID-19 de editoriales, revistas y repositorios o como
+13
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Semantic Scholar ha lanzado un COVID-19 Open Research Dataset con 44.000
+documentos sobre coronavirus de los que 29.000 están a texto completo.
+Consecuencia de todas estas iniciativas es que el 82% de los artículos indizados en
+Web of Science y el 80% de los registrados en Scopus sobre el Covid-19 esten en
+abierto (Figura 12), datos que contrastan poderosamente con el 30% de los que eran
+accesibles sobre el SARS-CoV en 2003. Si recurrimos a Google Scholar, el porcentaje
+de publicaciones en abierto supera el 90%. Esto quiere decir, que realmente toda la
+literatura científica relevante para conocer esta enfermedad y para ayudar a resolverla
+está a disposición de los investigadores, profesionales, responsables de la salud
+pública y la sociedad en su conjunto.
+Figura 12. Porcentaje de publicaciones en abierto sobre el SARS cov-2 (Covid-19) según Web
+of Science y Scopus
+
+Nunca en la historia de la ciencia tanta información se ha puesto a disposición de
+tanta gente. Es difícil no poder acceder a la información científica relevante sobre la
+enfermedad de manera inmediata. No es cierto, como señalan Larriviére, Shu y
+Sugimoto (2020) que la literatura científica sobre el coronavirus en su conjunto no
+esté a disposición de la comunidad científica, y particularmente, de aquellos
+investigadores, centros de investigación, universidades y laboratorios que están
+diseñando las vacunas, los fármacos, los tratamientos clínicos, los cuidados o las
+políticas de salud pública. ¿Es creíble que estos centros no tengan acceso a aquellas
+publicaciones que precisen? Hoy lo que importa no es ya el acceso a la información
+sino el acceso al conocimiento elaborado. Conviene no confundir el libre acceso a la
+información con el acceso al conocimiento que ésta contiene. Hoy lo primero está
+resuelto, gracias a la perfecta sincronización que se se está logrando ente la “ruta
+verde” (publicación en repositorios) y la “ruta de oro” de la publicación científica (pago
+por publicación para figurar en abierto). Y no sólo las publicaciones son y serán
+accesibles sino que los mismos datos, esos sobre los que realmente se pueden
+edificar nuevos hallazgos, se están compartiendo. Es admirable el libre acceso a las
+múltiples secuenciaciones del genoma del virus que se están haciendo en el mundo,
+que se comparten y analizan en tiempo real.
+Por tanto, el dilema hoy no es ya si acceder a la información o no, como plantean
+Larriviére, Shu y Sugimoto (2020); el gran reto que está planteando crudamente esta
+pandemia es como extraer conocimiento de tanta información como es accesible.
+Estamos hablando del big data y de las herramientas de minería que sean capaces
+de obtener conocimiento de la masa de resultados y datos de investigación publicados
+y que sean directamente aplicables a la resolución de los problemas planteados. Es
+14
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+la analítica de datos de lo que estamos hablando, la piedra sobre la que se construirá
+una auténtica “inteligencia artificial”. Ese es el nuevo escenario en el que se
+desenvolverá la ciencia y su comunicación en el futuro, y en el que algunas
+corporaciones se están ya posicionando. El futuro será de quien sea capaz de diseñar
+herramientas inteligentes que sepan extraer el conocimiento aquilatado en tantas
+publicaciones.
+4.4 La vacuna contra los virus informativos: alfabetización en in-formación al
+cuadrado
+Este caso tambien enseña que la tendencia creciente a hacer la ciencia abierta de
+forma directa e inmediata también posee sus peligros. Los efectos de las noticias
+supuestamente científicas, aquellas que aparecen revestidas de las convenciones del
+método científico, pueden ser letales fuera de los circuitos académicos conocida la
+predisposición humana a alentar la noticias truculentas y alarmantes. La población,
+en general, enganchada hoy a redes sociales puede ser receptiva a informaciones
+falsas. Twitter es el perfecto caldo de cultivo: el enlace al preprint o información
+simplista y deformada basada en él empieza a pasar de mano en mano a miles de
+personas en cuestión de horas. Inmediatamente, si la información es alarmante y
+apocalíptica, recibe la atención de los medios de comunicación (periódicos,
+televisiones…) que actúan como amplificadores de la información, aunque muchas
+de estas noticias y reportajes intenten desmontar los bulos contenidos en el preprint,
+como ocurre en este caso. A partir de ahí, se expande más en blogs de todo tipo,
+siendo etiquetado y comentado en los más variados sitios web. Ahí se queda
+instalado, corroyendo la mente de muchos sectores de la población que dan pábulo
+a conspiraciones paranoicas infundiendo directamente pánico. En fin, esta es la
+consecuencia más funesta de este tipo de preprints. Y pocos sucesos como este han
+causado un impacto mundial de tanto calado, por lo que las teorías conspiranóicas
+han proliferado y multiplicado viralmente, como este virus. Baste leer esta entrada en
+la Wikipedia: impresiona. Bien es verdad que como brillantemente apuntaba Rafa
+Latorre hace unos días el problema radica en que los bulos acuden a las mentiras
+como los buitres a la carroña y que estos no existirían de no haber mentes
+predispuestas a acogerlos.
+El extraordinario impacto mediático que ha alcanzado este preprint vendría a
+demostrar, una vez más, como las noticias falsas, y sobre todo las que tienen
+apariencia científica como ésta, se difunden más rápido, más amplia y más
+profundamente que las noticias verdaderas en la sociedad (Vosoughi, Roy, Aral
+2018). No obstante, por una vez, y sin que sirva de precedente, lo virtuoso ha
+derrotado a lo defectuoso. Ha ocurrido la singular paradoja de que el artículo que ha
+demostrado empíricamente, como se hace en ciencia, que este coronavirus es
+producto del azar y su origen responde exclusivamente a coordenadas naturales,
+desmontando las infundadas teorías de intervención humana en el diseño y
+propagación del virus, se ha convertido en tres días en el artículo con más impacto
+altmétrico (Figura 13) de la historia, desbancando al preprint que había originado las
+especulaciones.
+
+15
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Figura 13. Artículos con mayor Altmetric Attention Score según la base de datos Dimensions
+(22 de marzo de 2020)
+
+Figura 14 Altmetric Attention Score del artículo “The proximal origin of SARS-CoV-2”
+(22 de marzo de 2020)
+
+A la luz de estos datos suministradas por las denominadas métricas alternativas
+resulta oportuno reflexionar sobre su empleo para medir la repercusión de los trabajos
+científicos más allá de los propios recintos académicos y, sobre todo, acerca de su
+real significado. El uso generalizado de las altmetrics proporcionadas bien por
+Altmetric.com y PlumXmetrics tanto en los portales de revistas, como en repositorios,
+agregadores y bases de datos, las ha convertido en un icono más del paisaje
+bibliométrico que conforma el nuevo ecosistema de comunicación científica que está
+emergiendo. Justamente porque ya se han convertido en un elemento simbólico más
+susceptible de ser tomado como una representación cabal de la calidad y relevancia
+de una investigación científica debe ponernos en guardia y activar nuestros
+mecanismos de escepticismo intelectual. Estamos en pleno debate sobre cuál es el
+auténtico significado de estos nuevos números; aunque ya sabemos que miden cosas
+distintas que las citas, desconocemos su verdadera naturaleza y alcance.
+Este caso, bien sea por el lado del preprint como del artículo publicado en Nature
+Medicine que lo entierra, demuestra que una máxima atención mediática no equivale
+a mayor calidad y relevancia científica. Conocer si el origen del virus es natural o
+artificial es importante desde el punto de vista de sus efectos políticos (posibles
+problemas geoestratégicos) y sociales (alarma generada en la población). Ahora bien,
+16
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+desde el punto de vista puramente científico y, lo más crucial, desde la óptica sanitaria
+es un asunto interesante pero sin repercusión directa en la mejora del diagnóstico,
+prevención, tratamiento y cura de la epidemia vírica. De hecho los artículos que han
+contribuido a arrojar luz sobre estas cuestiones son curiosamente los más citados y,
+aun teniendo una alta repercusión altmétrica, no han llegado a los niveles
+estratosféricos de los trabajos que estamos analizando. Nos tememos que la
+relevancia altmétrica se asocie a información científica o pseudocientífica alarmante,
+escandalosa, llamativa, ruidosa, efectista. Parece que los dos los principales
+ingredientes de la atención mediática son: la popularidad y la emoción. La clave está
+en alcanzar la “popularidad” y a ella se llega incrementado la recepción y aceptación
+por el pueblo en el sentido literal del término. Llegar a amplias capas de la población
+y atraer su atención, aunque sea momentánea, implica mayores audiencias y eso se
+refleja en el impacto mediático en las redes sociales, medios al que acceden
+amplísimos sectores de la población. El otro ingrediente necesario es la carga
+emocional de la información: si esta no es capaz de despertar interés y conmoción,
+generar expectación, alterar el ánimo, positiva o negativamente, aunque sea de forma
+pasajera, será difícil que la información se viralice.
+Por tanto, informaciones generales, que afectan y pueden ser recibidas por mucha
+gente, si son universales mucho mejor y con un toque sensacionalista son candidatas
+a sobresalir en estas nuevas métricas. Está bien entenderlo así e intepretarlo
+adecuadamente en el contexto científico.
+En el momento en que escribimos estas líneas (25 de marzo de 2020), otro artículo
+científico se ha encumbrado a la cima del impacto altmétrico relegando al tercer lugar
+al preprint que ha dado inicio a esta nota, y confirmando las ideas que estamos
+transmitiendo. La carta publicada en New England Journal of Medicine el 17 de marzo
+indagando el grado de permanencia y estabilidad del virus SARS-CoV-2 en el aire y
+en distintas superficies (plásticos, metales, ropa) ha roto, de nuevo, los marcadores
+de impacto altmétrico. Afecta a tantas situaciones cotidianas (respirar, tocar cualquier
+objeto, abrir una puerta, coger una bolsa, llevar el carro del supermercado…), genera
+tanto miedo al posible contagio y puede ser explicado en un lenguaje tan simple para
+la población que contiene una viralidad mediática prodigiosa. ¿Cómo compararse con
+alumbrar la imagen tridimensional del virus SARS-CoV-2, antesala necesaria del
+desarrollo de cualquier elemento activo que sea capaz de neutralizarlo? o ¿Cómo
+equipararse con el trabajo que da a conocer cuales son las características clínicas de
+los pacientes que ingresan por coronavirus en un hospital? Es evidente, que las
+cargas virales de estos mensajes son muy diferentes y de ahí su explosión altmétrica.
+
+17
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Figura 15 Artículos con mayor Altmetric Attention Score según la base de datos Dimensions
+(25 de marzo de 2020)
+
+Y en esta ruta que marca la máxima audiencia en las redes sociales siguen jugando
+un papel capital los medios de comunicación tradicionales (televisión, radio, prensa)
+en la medida en que todavía ejercen un papel notorio no solo como mediadores sino
+como orientadores de la opinión pública. Son el altavoz, que acrecienta el eco de las
+informaciones sean o no científicas. El problema es que hoy los periodistas están al
+acecho de capturar y catapultar aquellas informaciones que potencialmente sean
+capaces de captar la atención del público. Nadie tiene mejor olfato para saber detectar
+la posible virabilidad de una información que los periodistas. Lamentablemete parece
+que el objetivo hoy no sólo es transmitir información sino vender información. ¿Qué
+es acaso una noticia? Simplemente una información que se vende. Vender más
+información para atraer más audiencia, pues de ella depende la supervivencia de los
+propios medios. Un circuito infernal al que es difícil escapar. Hoy las noticias
+científicas seleccionadas por los medios para ser difundidas en sus púlpitos
+mediáticos, cuanto más impactantes, mejor; no son transmitidas desnudas sino que
+van vestidas de narraciones atractivas para los lectores, escuchantes o televidentes.
+Es por ello por lo que son aquellas investigaciones científicas que sean capaces de
+engatusar o seducir a amplios sectores de población las que son difundidas. Y con
+ello, se contribuye a su efecto viral.
+En definitiva, y a modo de corolario de lo dicho, la creciente tendencia de hacer la
+ciencia accesible de forma directa y abierta a todos posee muchos beneficios
+potenciales, pero también supone cambios en las actitudes de todos los ciudadanos,
+pero muy especialmente de los periodistas. Exige necesariamente un incremento de
+la cultura científica de los profesionales de la comunicación y de la población general
+y, sobre todo, del desarrolo de un sistema inmunitario que sea capaz de discernir lo
+que es fiable de lo que no lo es, lo que puede ser real y puede apoyarse en hechos y
+no en opiniones, más o menos fantasiosas. No es otra cosa que el desarrollo de la
+capacidad crítica respecto a las fuentes de las informaciones y la lógica de sus
+contenidos. La parte más luctuosa del éxito mediático del preprint defectuoso que
+estamos comentando es la enfermedad mental que ha generado. Una infección de la
+mente llena de bulos, patrañas o de informaciones no verificadas deja su huella
+indeleble pues predispone a los ciudadanos a sostener opiniones, tener actitudes e
+incluso adquirir comportamientos dañinos para el equilibrio y bienestar de la sociedad.
+La única manera de evitarlo es vacunar la mente de los ciudadanos con una buena
+18
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+dosis de alfabetización informativa para que sepan encontrar, seleccionar, analizar,
+evaluar, digerir y comunicar, informaciones verosímiles y fidedignas.
+Y esta es una hercúlea tarea que incumbe a los nuevos profesionales de la
+información, que sobre los fornidos hombros, las experimentadas manos y sabios ojos
+de los bibliotecarios de antaño, tienen la nueva misión de vacunar informativamente
+a la sociedad, una versión actualizada de aquella misión que Ortega y Gasset atribuía
+a nuestra profesión en los albores del siglo XX.
+5. A modo de conclusión
+El mundo que saldrá después de esta pandemia será distinto al que enfrentamos
+antes de sufrirla. En la historia se producen hechos disruptivos que alumbran nuevos
+tiempos que ya estaban en ciernes, pero que esos hechos precipitan definitivamente.
+Los turbulentos cambios que venían anunciándose se concretan en los siguientes
+fenómenos:
+I.
+
+II.
+
+III.
+
+IV.
+
+V.
+
+La publicación directa y en abierto en repositorios temáticos o institucionales
+se ha convertido en la forma más inmediata y veloz de compartir los hallazgos
+de investigación.
+Una ciencia pública y transparente abierta a la crítica de todo y de todos es
+posible. El inmediato y efectivo rechazo de un preprint con conclusiones
+sesgadas publicado en un repositorio abierto evidencia el eficiente y correcto
+funcionamiento del control científico natural producido en un entorno abierto.
+Este modelo se postula como una alternativa a la revisión por pares previa,
+anónima y cerrada practicada en las revistas que es la que viene prevaleciendo
+hasta hoy. Tenía que ser en la Biomedicina donde se destruyeran los miedos
+y recelos a la libre circulación de las ideas científicas que la regla Ingelfinger
+había impuesto.
+La difusión de los resultados dentro de los circuitos científicos es tan rápida e
+instantánea como la producida fuera de estos círculos. La información vuela
+por las redes sociales, con la inestimable colaboración de los medios de
+comunicación, a tal velocidad que puede ser tan contagiosa como el virus que
+hoy se ha convertido en pandemia mundial.
+Si bien las mentes de los científicos están inmunizadas contra las
+informaciones científicas falsarias o defectuosas gracias al gen racional que
+habita en ellos, las mentes de los ciudadanos no lo están y pueden sufrir los
+efectos dañinos de estos virus altamente contagiosos. Estas mentes deben ser
+vacunadas con alfabetización informativa, la nueva gran misión de los
+viejos/nuevos bibliotecarios.
+Las métricas alternativas (conocidas como altmetrics) de los trabajos
+científicos reflejan un impacto mediático más relacionado con su carácter
+noticioso, su carga emocional y popularidad que con la calidad y relevancia
+científica de sus contenidos.
+
+Agradecimientos
+Agradecemos a Altmetric.com el acceso a los datos de impacto altmétrico del preprint
+Referencias bibliográficas
+19
+
+Emilio Delgado López-Cózar y Alberto Martín-Martín.
+La viralidad de la ciencia defectuosa: el contagioso impacto mediático de un preprint en bioRxiv sobre el coronavirus….
+
+Altman LK, The Ingelfinger rule, embargoes, and journal peer review. Part 1. The Lancet 1996; 347:
+1.382-1.386
+Altman LK, The Ingelfinger rule, embargoes, and journal peer review. Part 2. Lancet 1996; 347: 1.4591.463.
+Bauchner H, Golub RM, Zylke J. (2020). Editorial Concern. Possible Reporting of the Same Patients
+With COVID-19 in Different Reports. JAMA. 323, 11. doi:10.1001/jama.2020.3980
+Björk, B.C., Solomon, D. (2013). The publishing delay in scholarly peer-reviewed journals. Journal of
+informetrics, 7(4), 914-923.
+Delgado López-Cózar, E. (2018). De la ruta de oro a la ruta verde de la comunicación científica: negocio
+editorial y bibliométrico, publicación libre, acceso abierto, evaluación total e individualizada.
+https://doi.org/10.13140/RG.2.2.30852.78724
+Goldbeck-Wood, S., Robinson, R. (1999). BMJ introduces a fast track system for papers: We will offer
+to publish exceptional papers within four weeks. BMJ: British Medical Journal, 318(7184), 620.
+Ingelfinger FJ. Definition of «sole contribution». N Engl J Med 1969, 281: 676-677
+Kassirer JP, Angell M. The Internet and the journal. N Engl J Med 1995; 332: 1.709-1.710
+Kupferschmidt, K. (2020a). Preprints bring ‘firehose’of outbreak data. Science, 367 6481, 963-965
+Kupferschmidt, K. (2020b). Study claiming new coronavirus can be transmitted by people without
+symptoms was flawed. Science, 3. https://www.sciencemag.org/news/2020/02/paper-nonsymptomatic-patient-transmitting-coronavirus-wrong
+Larrivière, V., Shu, F., Sugimoto, C. The Coronavirus (COVID-19) outbreak highlights serious
+deficiencies in scholarly communication. LSE Impact Blog, 5 de marzo de 2020.
+https://blogs.lse.ac.uk/impactofsocialsciences/2020/03/05/the-coronavirus-covid-19-outbreakhighlights-serious-deficiencies-in-scholarly-communication/
+McNamee, D., & Horton, R. (1997). Fast-track to publication in the Lancet. Lancet, 349(9057), 970-970.
+que puestos a disposición de la comunidad científicaAcelerar la divulgación
+Pradhan, P., Pandey, A.K., Mishra, A., Gupta, P., Tripathi, P.K., Menon, M.B., Gomes J., Vivekanandan,
+P., Kundu, B. (2020). Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV1 gp120 and Gag. doi: https://doi.org/10.1101/2020.01.30.927871.
+Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, Zimmer T, Thiel V, Janke C,
+Guggemos W, Seilmaier M, Drosten C, Vollmar P, Zwirglmaier K, Zange S, Wölfel R, Hoelscher
+M. (2020). Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. The
+New England journal of medicine, 382(10), 970-971.
+Vosoughi, S., Roy, D., Aral, S. (2018). The spread of true and false news online. Science, 359(6380),
+1146-1151.
+Winker, M. A., Fontanarosa, P. B. (1999). JAMA-EXPRESS: rapid peer review and
+publication. JAMA, 281(18), 1754-1755.
+
+20
+
+View publication stats
+
+
