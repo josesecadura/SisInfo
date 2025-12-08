@@ -191,6 +191,11 @@ namespace Fylt.Domain.Services.UsuariosService
             await _fyltContext.SaveChangesAsync();
             return true;
         }
+
+        public Task<bool> UserNameExist(String username)
+        {
+            return _fyltContext.Usuarios.AnyAsync(u => u.Username == username);
+        }
     }
 }
 

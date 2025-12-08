@@ -39,11 +39,9 @@ actors: {
     create: "/ComentarioLike/comentario/like",
     delete: (userId: string | number, comentarioId: string | number) => `/ComentarioLike/comentario/like/${userId}/${comentarioId}`,
   },
-  // Surveys
   encuestas: {
-    // Rutas reales según EncuestaController (.NET): api/Encuesta/encuestas
     getAll: "/Encuesta/encuestas",
-    getActive: "/Encuesta/encuestas/activas", // Nuevo endpoint para solo encuestas activas
+    getActive: "/Encuesta/encuestas/activas",
     getById: (id: string | number) => `/Encuesta/encuestas/${id}`,
     create: "/Encuesta/encuestas",
     update: (id: string | number) => `/Encuesta/encuestas/${id}`,
@@ -62,6 +60,7 @@ actors: {
     update: (id: string | number) => `/Usuarios/users/${id}`,
     delete: (id: string | number) => `/Usuarios/users/${id}`,
     changePassword: (id: string | number) => `/Usuarios/users/${id}/password`,
+    userNameExists: (username: string) => `/Usuarios/UsernameExists?username=${username}`,
   },
   // Auth
   auth: {

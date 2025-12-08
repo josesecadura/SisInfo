@@ -19,7 +19,7 @@ namespace Fylt.Infrastructure.Context.Configurations
             builder.Property(x => x.NumLikes).HasColumnName("num_likes");
             builder.Property(x => x.Aprobado).HasColumnName("aprobado");
             builder.Property(x => x.Visible).HasColumnName("visible");
-
+            builder.Property(x => x.FechaCreacion).HasColumnName("fecha_creacion");
             builder.HasOne(x => x.Usuario)
                 .WithMany()
                 .HasForeignKey(x => x.IdUser)

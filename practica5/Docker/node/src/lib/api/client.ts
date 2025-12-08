@@ -33,16 +33,8 @@ export class ApiClient {
         ;(headers as Record<string, string>)["Authorization"] = `Bearer ${token}`
       }
 
-      // Use AbortController + setTimeout so it works reliably in browsers
       const controller = new AbortController()
       const timeoutId = setTimeout(() => controller.abort(), API_CONFIG.timeout)
-
-      // Debug: log request details so we can see in the browser console
-      try {
-        console.debug("[apiClient] fetch", options.method ?? "GET", url, options.body ?? null)
-      } catch (e) {
-        // ignore console errors
-      }
 
       const response = await fetch(url, {
         ...options,

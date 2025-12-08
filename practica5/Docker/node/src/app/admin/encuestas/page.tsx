@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { AuthRequired } from "@/components/auth-required"
 import { AdminHeader } from "@/components/admin-header"
 import { Pagination } from "@/components/pagination"
 import { Button } from "@/components/ui/button"
@@ -463,10 +464,11 @@ export default function EncuestasPage() {
   // ======================================================================
 
   return (
-    <div className="min-h-screen bg-background">
-      <AdminHeader currentPage="encuestas" />
+    <AuthRequired requireAdmin={true}>
+      <div className="min-h-screen bg-background">
+        <AdminHeader currentPage="encuestas" />
 
-      <main className="container mx-auto px-6 py-12">
+        <main className="container mx-auto px-6 py-12">
         <div className="mb-12 text-center">
           <h1 className="mb-4 text-3xl font-bold">Gestión de Encuestas</h1>
           <p className="text-muted-foreground">
@@ -740,6 +742,7 @@ export default function EncuestasPage() {
 
         </div>
       </main>
-    </div>
+      </div>
+    </AuthRequired>
   )
 }

@@ -10,6 +10,7 @@ import { useFriends } from "@/hooks/use-friends"
 import { useCurrentUser } from "@/hooks/use-current-user"
 import { useRouter } from "next/navigation"
 import { UserSearchResult } from "@/lib/api/services/usuarioSeguidor.service"
+import { AuthRequired } from "@/components/auth-required"
 
 export default function AmigosPage() {
   const [searchQuery, setSearchQuery] = useState("")
@@ -66,19 +67,8 @@ export default function AmigosPage() {
     router.push(`/profile/${userId}`)
   }
 
-  if (!isLoggedIn) {
-    return (
-      <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
-        <div className="text-center p-8">
-          <Users className="h-16 w-16 mx-auto mb-4 text-muted-foreground" />
-          <h1 className="text-2xl font-bold mb-2">Amigos</h1>
-          <p className="text-muted-foreground">Debes iniciar sesión para ver y buscar amigos.</p>
-        </div>
-      </div>
-    )
-  }
-
   return (
+    <AuthRequired>
     <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">Amigos</h1>
@@ -172,5 +162,6 @@ export default function AmigosPage() {
         )}
       </section>
     </div>
+    </AuthRequired>
   )
 }

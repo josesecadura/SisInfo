@@ -25,9 +25,7 @@ export const listService = {
   async getByUserId(userId: string | number) {
     const res = await apiClient.get<any>(API_ENDPOINTS.listas.getListasByUsuarioId(userId))
     
-    // Si no hay respuesta o hay error (excepto 404)
     if (!res || (!res.success && res.status !== 404)) {
-      console.warn('Error obteniendo listas del usuario:', res?.error)
       return []
     }
     

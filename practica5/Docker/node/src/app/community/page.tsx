@@ -13,6 +13,7 @@ import { CommentCard } from "@/components/comment-card"
 import { useRouter } from "next/navigation"
 import { toast } from "@/hooks/use-toast"
 import { useCurrentUser } from "@/hooks/use-current-user"
+import { AuthRequired } from "@/components/auth-required"
 
 interface CommentWithMovie extends BackendComment {
   movieImage?: string | null
@@ -134,10 +135,8 @@ export default function CommunityPage() {
     }
   }
 
-  // Función para cargar encuestas activas
   const loadEncuestas = async () => {
     try {
-      // Usar el nuevo endpoint que devuelve solo encuestas activas
       const encuestasActivas = await encuestaService.getActive()
       
       // Verificar que los campos porcentaje1-4 sean contadores de votos, no porcentajes
@@ -454,6 +453,7 @@ export default function CommunityPage() {
   }
 
   return (
+    <AuthRequired>
     <div className="container mx-auto px-4 py-8 max-w-4xl">
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">Comunidad</h1>
@@ -671,5 +671,6 @@ export default function CommunityPage() {
         </section>
       )}
     </div>
+    </AuthRequired>
   )
 }

@@ -1,4 +1,6 @@
-﻿namespace Fylt.Contracts
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+
+namespace Fylt.Contracts
 {
     public class ApiResponseBase
     {
@@ -50,6 +52,11 @@
                 Message = message,
                 Data = data
             };
+        }
+
+        internal static object? BadRequest(ModelStateDictionary modelState)
+        {
+            throw new NotImplementedException();
         }
     }
 }

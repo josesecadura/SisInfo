@@ -1,7 +1,5 @@
 "use client"
-
 import { MovieCard } from "@/components/movie-card"
-import { /* dialog removed - using dedicated movie page instead */ } from "@/components/ui/dialog"
 import { ActorCard } from "@/components/actor-card"
 import { Button } from "@/components/ui/button"
 import { ChevronLeft, ChevronRight, Play, ArrowUp, List, BarChart3, Users } from "lucide-react"
@@ -12,9 +10,19 @@ import { movieService } from "@/lib/api/services/movie.service"
 import { encuestaService, type Encuesta, type VoteEncuestaDTO } from "@/lib/api/services/encuesta.service"
 import { usuarioSeguidorService, type UserSearchResult } from "@/lib/api/services/usuarioSeguidor.service"
 import { useRouter } from "next/navigation"
-import Link from "next/link"
 import { useCurrentUser } from "@/hooks/use-current-user"
 import { toast } from "@/hooks/use-toast"
+
+interface MovieFromApi {
+  id: number
+  titulo: string
+  imagen?: string
+  valoracion?: number
+  generos?: string[]
+  fecha?: string
+  descripcion?: string
+}
+
 
 export default function HomePage() {
   const [friendsTab, setFriendsTab] = useState<"friends" | "survey">("friends")
@@ -24,18 +32,8 @@ export default function HomePage() {
   const [friends, setFriends] = useState<UserSearchResult[]>([])
   const { user, isLoggedIn } = useCurrentUser()
 
-  // Películas cargadas desde la API
-  interface MovieFromApi {
-    id: number
-    titulo: string
-    imagen?: string
-    valoracion?: number
-    generos?: string[]
-    fecha?: string
-    descripcion?: string
-  }
-
   const [movies, setMovies] = useState<MovieFromApi[]>([])
+  const [heroMovie, setHeroMovie] = useState<MovieFromApi | null>(null)
   
   const router = useRouter()
   const [actors, setActors] = useState<any[]>([])
@@ -65,6 +63,12 @@ export default function HomePage() {
             }))
           : []
         setMovies(mapped)
+
+        if (mapped.length > 0) {
+            const randomIndex = Math.floor(Math.random() * mapped.length);
+            setHeroMovie(mapped[randomIndex]);
+        }
+        
       } catch (err) {
         console.error("Error cargando películas:", err)
       }
@@ -78,7 +82,6 @@ export default function HomePage() {
     }
 
     load()
-    // mark mounted after initial load attempt so client-only changes don't break hydration
     setMounted(true)
   }, [])
 
@@ -198,25 +201,18 @@ export default function HomePage() {
     loadFriendsAndActivities()
   }, [isLoggedIn, user?.id])
 
-  // If API not ready, fall back to a small mocked list so UI doesn't break
-  const mockMoviesFallback = Array(8)
-    .fill(null)
-    .map((_, i) => ({ id: i, titulo: `Película ${i + 1}`, imagen: "/placeholder.svg", valoracion: 50 + i, generos: ["Acción"], fecha: new Date().toISOString(), descripcion: `Descripción ${i + 1}` }))
-
-  // Compute rows: popular = top by valoracion, then pick two genres
-  const sourceMovies = movies.length ? movies : mockMoviesFallback
+  const sourceMovies = movies
   const popular = [...sourceMovies].sort((a, b) => (b.valoracion ?? 0) - (a.valoracion ?? 0)).slice(0, 10)
   const genrePool: string[] = Array.from(new Set(sourceMovies.flatMap((m) => m.generos ?? [])))
   const genre1 = genrePool[0]
   const genre2 = genrePool[1] ?? genrePool[0]
   const genre1Movies = genre1 ? sourceMovies.filter((m) => (m.generos ?? []).includes(genre1)).slice(0, 10) : []
 
-  // Latest movie by fecha
   const latestMovie = [...sourceMovies]
     .filter((m) => !!m.fecha)
     .sort((a, b) => new Date(b.fecha!).getTime() - new Date(a.fecha!).getTime())[0]
 
-  // Refs para carruseles y helpers de scroll
+  const currentHeroMovie = heroMovie || latestMovie
   const popularRef = React.useRef<HTMLDivElement | null>(null)
   const genre1Ref = React.useRef<HTMLDivElement | null>(null)
 
@@ -226,19 +222,9 @@ export default function HomePage() {
   }
 
   const openMovieDialog = (movie: MovieFromApi) => {
-    // deprecated: use router.push to open movie page
     router.push(`/movie/${movie.id}`)
   }
 
-  
-  const mockFriends = [
-    { id: 1, user: "¡Pepito ha añadido una película a una de sus listas!", avatar: "" },
-    { id: 2, user: "Juan hizo una reseña de un titulo de una película", avatar: "" },
-    { id: 3, user: "María puntuó la película más rara", avatar: "" },
-    { id: 4, user: "¡Pepito ha añadido una película a una de sus listas!", avatar: "" },
-  ]
-
-  // Función para calcular porcentajes de la encuesta real
   const calculateRealPercentages = () => {
     if (!realEncuesta) return []
     
@@ -285,23 +271,6 @@ export default function HomePage() {
     
     return options
   }
-  const mockActors = [
-    {
-      name: "Will Smith",
-      description:
-        "Esta es una bonita descripción de un gran actor que nació en los Estados Unidos y que ha trabajado en la pobreza pero luego se volvió millonario por su gran trabajo.",
-    },
-    {
-      name: "Will Smith",
-      description:
-        "Esta es una bonita descripción de un gran actor que nació en los Estados Unidos y que ha trabajado en la pobreza pero luego se volvió millonario por su gran trabajo.",
-    },
-    {
-      name: "Will Smith",
-      description:
-        "Esta es una bonita descripción de un gran actor que nació en los Estados Unidos y que ha trabajado en la pobreza pero luego se volvió millonario por su gran trabajo.",
-    },
-  ]
 
   useEffect(() => {
     const loadActors = async () => {
@@ -325,27 +294,36 @@ export default function HomePage() {
   return (
     <div className="relative min-h-screen">
       {/* Hero Section */}
-      <section className="relative h-[400px] md:h-[500px] lg:h-[600px] mb-8 md:mb-12">
-        {/* Background image (latest movie) */}
-        {latestMovie ? (
+      {/* Altura ajustada: h-[300px] a lg:h-[450px] */}
+      <section className="relative h-[300px] md:h-[400px] lg:h-[450px] mb-8 md:mb-12">
+        {/* Background image (currentHeroMovie) */}
+        {currentHeroMovie ? (
           <div
             className="absolute inset-0 -z-20 bg-cover bg-center rounded-2xl"
-            style={{ backgroundImage: `url(${latestMovie.imagen})` }}
+            style={{ backgroundImage: `url(${currentHeroMovie.imagen})` }}
           />
         ) : (
           <div className="absolute inset-0 -z-20 bg-muted rounded-2xl" />
         )}
-
+        
         <div className="absolute inset-0 bg-linear-to-b from-transparent to-background" />
         <div className="relative h-full flex flex-col items-center justify-center text-center px-4 md:px-6">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-balance">{mounted && latestMovie ? latestMovie.titulo : "Películas destacadas"}</h1>
-          <p className="text-base md:text-lg text-muted-foreground max-w-2xl">{mounted && latestMovie ? latestMovie.descripcion : "Descubre las películas más interesantes."}</p>
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-balance">
+            {mounted && currentHeroMovie ? currentHeroMovie.titulo : "Películas destacadas"}
+          </h1>
           <div className="absolute inset-0 -z-10 rounded-2xl overflow-hidden mx-4 md:mx-8 mt-8" />
+          
+          {/* Botón de acción para el héroe */}
+          {currentHeroMovie && (
+            <Button 
+                onClick={() => openMovieDialog(currentHeroMovie)}
+                className="mt-6 bg-white/20 border border-white/50 backdrop-blur-sm text-white hover:bg-white/30 transition-all gap-2 text-lg px-6 py-3"
+            >
+                Ver más detalles
+            </Button>
+          )}
         </div>
       </section>
-
-      {/* Movie Detail Dialog */}
-      {/* Movie detail page handled on its own route: /movie/[id] */}
 
       {/* Main Container */}
       <div className="container mx-auto px-4 md:px-6 lg:px-8 space-y-8 md:space-y-12 pb-20">
@@ -382,6 +360,7 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* Género 1 Section */}
         <section>
           <div className="flex items-center justify-between mb-4 md:mb-6">
               <h2 className="text-2xl md:text-3xl font-bold">{genre1 ?? "Misterio"}</h2>
@@ -418,7 +397,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* Trailer */}
+        {/* Trailer Section */}
         <section className="grid md:grid-cols-2 gap-6 md:gap-8 items-center">
           {/* Video del trailer */}
           <div className="relative aspect-video rounded-xl overflow-hidden bg-black">
@@ -666,12 +645,6 @@ export default function HomePage() {
                 <h3 className="text-lg md:text-xl font-bold mb-2">Mis Listas</h3>
                 <p className="text-xs md:text-sm text-muted-foreground">Accede a tus listas desde aquí</p>
               </button>
-              {/* RANKING BOTON CENTRAL */}
-              {/* <div className="rounded-xl bg-card border border-border p-6 md:p-8 text-center opacity-50 cursor-not-allowed">
-                <BarChart3 className="h-10 w-10 md:h-12 md:w-12 mx-auto mb-3 md:mb-4 text-muted-foreground" />
-                <h3 className="text-lg md:text-xl font-bold mb-2 text-muted-foreground">Rankings</h3>
-                <p className="text-xs md:text-sm text-muted-foreground">Próximamente disponible</p>
-              </div> */}
               <button 
                 onClick={() => router.push('/community')}
                 className="rounded-xl bg-card border border-border p-6 md:p-8 text-center hover:border-primary transition-colors cursor-pointer"
@@ -699,23 +672,18 @@ export default function HomePage() {
             </button>
 
             <div ref={actorsRef} className="flex gap-4 md:gap-6 overflow-x-auto pb-4 scrollbar-hide scroll-smooth px-8">
-              {actors && actors.length > 0
-                ? actors.slice(0, 15).map((actor: any) => {
-                    // Cargar la imagen de los actores
-                    const profilePath = actor.profile_path ?? actor.ProfilePath ?? actor.Profile_path
-                    const imageUrl = profilePath ? `https://image.tmdb.org/t/p/w300${profilePath}` : (actor.Imagen ?? actor.imagen ?? actor.image)
-                    return (
-                      <ActorCard
-                        key={actor.Id ?? actor.id ?? actor.IdActor ?? actor.nombre ?? actor.name}
-                        name={actor.Nombre ?? actor.nombre ?? actor.name ?? "Actor"}
-                        description={actor.Descripcion ?? actor.descripcion ?? "Actor popular"}
-                        imageUrl={imageUrl}
-                      />
-                    )
-                  })
-                : mockActors.map((actor, i) => (
-                    <ActorCard key={i} {...actor} />
-                  ))}
+              {actors && actors.length > 0 && actors.slice(0, 15).map((actor: any) => {
+                const profilePath = actor.profile_path ?? actor.ProfilePath ?? actor.Profile_path
+                const imageUrl = profilePath ? `https://image.tmdb.org/t/p/w300${profilePath}` : (actor.Imagen ?? actor.imagen ?? actor.image)
+                return (
+                  <ActorCard
+                    key={actor.Id ?? actor.id ?? actor.IdActor ?? actor.nombre ?? actor.name}
+                    name={actor.Nombre ?? actor.nombre ?? actor.name ?? "Actor"}
+                    description={actor.Descripcion ?? actor.descripcion ?? "Actor popular"}
+                    imageUrl={imageUrl}
+                  />
+                )
+              })}
             </div>
 
             <button

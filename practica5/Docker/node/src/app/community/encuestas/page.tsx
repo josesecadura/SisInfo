@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { AuthRequired } from "@/components/auth-required"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -23,7 +24,6 @@ export default function EncuestasPage() {
   // Cargar encuestas activas
   const loadEncuestas = async () => {
     try {
-      // Usar el nuevo endpoint que devuelve solo encuestas activas
       const encuestasActivas = await encuestaService.getActive()
       
       setEncuestas(encuestasActivas)
@@ -247,10 +247,11 @@ export default function EncuestasPage() {
   }
 
   return (
-    <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
-      <div className="mb-8">
-        <Button 
-          variant="ghost" 
+    <AuthRequired>
+      <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
+        <div className="mb-8">
+          <Button 
+            variant="ghost" 
           onClick={() => router.back()}
           className="mb-4 gap-2"
         >
@@ -334,6 +335,7 @@ export default function EncuestasPage() {
           </p>
         </div>
       )}
-    </div>
+      </div>
+    </AuthRequired>
   )
 }

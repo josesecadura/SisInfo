@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState, useRef } from "react"
+import { AuthRequired } from "@/components/auth-required"
 import { AdminHeader } from "@/components/admin-header"
 import { Pagination } from "@/components/pagination"
 import { Button } from "@/components/ui/button"
@@ -100,7 +101,7 @@ export default function PeliculasPage() {
     input.click()
   }
 
-// 🔹 Mapea los campos del backend correctamente
+// Mapea los campos del backend correctamente
 const mapMovies = (data: any): Movie[] => {
   if (!Array.isArray(data)) {
     console.warn("⚠️Datos de películas no válidos:", data)
@@ -179,7 +180,7 @@ const loadMovies = async () => {
     loadMovies()
   }, [])
 
-  // 🔹 Añadir manualmente (solo frontend)
+  // Añadir manualmente (solo frontend)
   const handleAddMovie = async () => {
     try {
       const newMovie: Omit<Movie, "id"> = {
@@ -323,10 +324,11 @@ const loadMovies = async () => {
   }
 
   return (
-    <div className="min-h-screen bg-background">
-      <AdminHeader currentPage="peliculas" />
-      <main className="container mx-auto px-6 py-12">
-        {/* 🔹 Tabs de navegación (solo visual, redirigen entre páginas) */}
+    <AuthRequired requireAdmin={true}>
+      <div className="min-h-screen bg-background">
+        <AdminHeader currentPage="peliculas" />
+        <main className="container mx-auto px-6 py-12">
+        {/*  Tabs de navegación (solo visual, redirigen entre páginas) */}
         <Tabs defaultValue="peliculas" className="mb-10">
           <TabsList className="flex w-full justify-center gap-4">
             <TabsTrigger
@@ -368,7 +370,7 @@ const loadMovies = async () => {
           </div>
 
           <div className="flex justify-end gap-2">
-            {/* 🔹 Importar Películas */}
+            {/*  Importar Películas */}
             <Dialog open={isImportDialogOpen} onOpenChange={setIsImportDialogOpen}>
               <DialogTrigger asChild>
                 <Button variant="outline" className="gap-2 bg-transparent">
@@ -637,6 +639,7 @@ const loadMovies = async () => {
           </div>
         )}
       </main>
-    </div>
+      </div>
+    </AuthRequired>
   )
 }

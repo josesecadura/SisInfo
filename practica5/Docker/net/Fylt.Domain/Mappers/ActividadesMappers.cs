@@ -1,5 +1,6 @@
 ﻿using Fylt.Domain.VOs.ActividadesVOs;
 using Fylt.Infrastructure.DAOs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -13,9 +14,11 @@ namespace Fylt.Domain.Mappers
 
             return new ActividadVO
             {
-                IdUser = entity.IdUser,
-                Genero = entity.Genero,
-                Actor = entity.Actor
+                Id = entity.Id,
+                IdUsuario = entity.IdUsuario ?? 0,
+                TipoActividad = entity.TipoActividad,
+                FechaAccion = entity.FechaAccion,
+                Detalles = entity.Detalles
             };
         }
 
@@ -25,9 +28,11 @@ namespace Fylt.Domain.Mappers
 
             return new Actividad
             {
-                IdUser = vo.IdUser,
-                Genero = vo.Genero,
-                Actor = vo.Actor
+                Id = vo.Id,
+                IdUsuario = vo.IdUsuario == 0 ? null : vo.IdUsuario,
+                TipoActividad = vo.TipoActividad,
+                FechaAccion = vo.FechaAccion,
+                Detalles = vo.Detalles
             };
         }
 
@@ -37,9 +42,10 @@ namespace Fylt.Domain.Mappers
 
             return new Actividad
             {
-                IdUser = vo.IdUser,
-                Genero = vo.Genero,
-                Actor = vo.Actor
+                IdUsuario = vo.IdUsuario,
+                TipoActividad = vo.TipoActividad ?? string.Empty,
+                FechaAccion = vo.FechaAccion ?? DateTime.UtcNow,
+                Detalles = vo.Detalles
             };
         }
 

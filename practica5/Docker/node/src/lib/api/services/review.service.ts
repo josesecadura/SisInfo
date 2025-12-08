@@ -35,7 +35,6 @@ export const reviewService = {
       const payload = res?.data?.data ?? res?.data ?? []
       return payload as BackendComment[]
     } catch (e) {
-      console.error("reviewService.getAll error:", e)
       return [] as BackendComment[]
     }
   },
@@ -50,17 +49,8 @@ export const reviewService = {
   },
 
   async update(id: string | number, comment: Partial<BackendComment>) {
-    // Algunos endpoints esperan el id en la ruta y además en el body.
-    // Aceptamos objetos parciales (p. ej. { visible: true }) desde el frontend
-    // y nos aseguramos de incluir el id en el body para evitar 400 del backend.
+    
     const body = { ...(comment as Record<string, any>), id: typeof id === "number" ? id : Number(id) }
-    // Log para depuración: qué endpoint y body enviamos
-    try {
-      console.debug("[reviewService.update] PUT", API_ENDPOINTS.comentarios.update(id), body)
-      console.log("body:", body);
-    } catch (e) {
-      // no bloquear si console.debug falla
-    }
     return apiClient.put(API_ENDPOINTS.comentarios.update(id), body)
   },
 

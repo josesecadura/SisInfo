@@ -43,7 +43,6 @@ export default function ListaDetailPage({ params }: { params: Promise<{ id: stri
                 setLista(parsed)
                 setNewName(parsed.nombre || "")
             } else {
-            // Fallback: cargar desde API
                 const listaData = await listService.getById(id)
                 if (listaData) {
                 setLista(listaData)

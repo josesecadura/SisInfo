@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { AuthRequired } from "@/components/auth-required"
 import { Heart, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { CommentCard } from "@/components/comment-card"
@@ -83,9 +84,10 @@ export default function PopularesPage() {
   const hasMoreComments = currentIndex < allComments.length
 
   return (
-    <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
-      {/* Header con botón volver */}
-      <div className="flex items-center gap-4 mb-8">
+    <AuthRequired>
+      <div className="container mx-auto px-4 md:px-6 lg:px-8 py-8 max-w-4xl">
+        {/* Header con botón volver */}
+        <div className="flex items-center gap-4 mb-8">
         <Button
           variant="ghost"
           size="icon"
@@ -147,6 +149,7 @@ export default function PopularesPage() {
           </div>
         )}
       </div>
-    </div>
+      </div>
+    </AuthRequired>
   )
 }

@@ -131,11 +131,6 @@ export default function RegisterPage() {
     input.click()
   }
 
-  const handleGoogleRegister = () => {
-    // Mock Google register
-    alert("Google Sign-In no está implementado en esta demo")
-  }
-
   return (
     <div className="min-h-screen flex flex-col md:flex-row">
       {/* Left side - Branding */}
@@ -294,7 +289,7 @@ export default function RegisterPage() {
               type="button"
               variant="outline"
               className="w-full bg-white text-black hover:bg-gray-100 h-10 md:h-11"
-              onClick={handleGoogleRegister}
+              disabled
             >
               <svg className="mr-2 h-4 w-4" viewBox="0 0 24 24">
                 <path

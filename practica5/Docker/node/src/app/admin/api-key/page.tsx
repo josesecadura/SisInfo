@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { AuthRequired } from "@/components/auth-required"
 import { AdminHeader } from "@/components/admin-header"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -213,10 +214,11 @@ export default function ApiKeyPage() {
   // ======================================================================
 
   return (
-    <div className="min-h-screen bg-background">
-      <AdminHeader currentPage="api-key" />
-      
-      <main className="container mx-auto px-6 py-12">
+    <AuthRequired requireAdmin={true}>
+      <div className="min-h-screen bg-background">
+        <AdminHeader currentPage="api-key" />
+        
+        <main className="container mx-auto px-6 py-12">
         <div className="mb-12 text-center">
           <h1 className="mb-4 text-3xl font-bold">Gestión de API Keys</h1>
           <p className="text-muted-foreground">
@@ -441,6 +443,7 @@ export default function ApiKeyPage() {
           ))}
         </div>
       </main>
-    </div>
+      </div>
+    </AuthRequired>
   )
 }

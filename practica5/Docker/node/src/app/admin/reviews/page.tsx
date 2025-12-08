@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react"
 import { useRouter } from "next/navigation"
+import { AuthRequired } from "@/components/auth-required"
 import { AdminHeader } from "@/components/admin-header"
 import { Pagination } from "@/components/pagination"
 import { Button } from "@/components/ui/button"
@@ -128,10 +129,11 @@ export default function ReviewsPage() {
     }
 
     return (
-        <div className="min-h-screen bg-background">
-        <AdminHeader currentPage="reviews" />
+        <AuthRequired requireAdmin={true}>
+          <div className="min-h-screen bg-background">
+          <AdminHeader currentPage="reviews" />
 
-        <main className="container mx-auto px-6 py-12">
+          <main className="container mx-auto px-6 py-12">
             <Tabs defaultValue="reviews" className="mb-10">
             <TabsList className="flex w-full justify-center gap-4">
                 <TabsTrigger value="peliculas" onClick={() => router.push("/admin/peliculas")}>
@@ -214,6 +216,7 @@ export default function ReviewsPage() {
             ))}
             </div>
         </main>
-        </div>
+          </div>
+        </AuthRequired>
     )
 }

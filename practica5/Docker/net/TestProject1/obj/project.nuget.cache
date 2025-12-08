@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwVCM5ixuxM=",
+  "dgSpecHash": "kFwhbC7ZsiY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jseca\\Escritorio\\Docker\\Docker\\api_net\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "D:\\git\\SisInfGlobal\\SisInfo\\practica5\\Docker\\net\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jseca\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\jseca\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

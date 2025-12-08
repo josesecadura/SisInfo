@@ -14,6 +14,7 @@ import { listService } from "@/lib/api/services/list.service"
 import { CommentCardCompact } from "@/components/comment-card-compact"
 import { useToast } from "@/components/toast"
 import { useCurrentUser } from "@/hooks/use-current-user"
+import { ActividadService } from "@/lib/api/services/actividad.service"
 
 export default function MovieDetailPage() {
   const params = useParams() as { id?: string }
@@ -35,6 +36,7 @@ export default function MovieDetailPage() {
   // Estados para comentarios
   const [addCommentOpen, setAddCommentOpen] = useState(false)
   const [newComment, setNewComment] = useState("")
+  const [commentsLoading, setCommentsLoading] = useState(true)
   
   const { showToast, ToastComponent } = useToast()
   const { user: currentUser, isLoggedIn } = useCurrentUser()
@@ -54,11 +56,14 @@ export default function MovieDetailPage() {
       try {
         // Pasar el userId para obtener los likes correctos
         const userId = currentUser ? Number(currentUser.id) : undefined
+        setCommentsLoading(true)
         const all = await reviewService.getAll(userId)
         const arr = Array.isArray(all) ? all.filter((c) => Number(c.idPelicula) === Number(id)) : []
         setComments(arr)
       } catch (e) {
         console.error("Error cargando comentarios:", e)
+      } finally {
+        setCommentsLoading(false)
       }
 
       // Do not auto-load lists here. Lists are loaded on demand when user clicks the "Añadir" flow.
@@ -149,7 +154,6 @@ export default function MovieDetailPage() {
         }
       }
 
-      // fallback to localStorage if none
       if (!loaded || loaded.length === 0) {
         try {
           const stored = localStorage.getItem("fylt_user")
@@ -166,7 +170,7 @@ export default function MovieDetailPage() {
           const raw = localStorage.getItem("fylt_lists")
           if (raw) loaded = JSON.parse(raw)
         } catch (e) {
-          // ignore
+          // Empty catch block
         }
       }
 
@@ -236,6 +240,13 @@ export default function MovieDetailPage() {
       }
       
       await reviewService.create(commentData)
+      
+      // Registrar actividad de comentario publicado
+      await ActividadService.registrarActividad({
+        tipoActividad: "COMENTARIO_PUBLICADO",
+        idUsuario: Number(currentUser.id),
+        detalles: `Comentario publicado en película: ${movie?.titulo || id}`
+      })
       
       // Recargar comentarios
       const userId = currentUser ? Number(currentUser.id) : undefined
@@ -334,7 +345,9 @@ export default function MovieDetailPage() {
             </Button>
           )}
         </div>
-        {comments && comments.length > 0 ? (
+        {commentsLoading ? (
+          <div className="text-sm text-muted-foreground">Cargando comentarios...</div>
+        ) : comments && comments.length > 0 ? (
           <div className="space-y-4">
             {comments.map((c) => (
               <CommentCardCompact

@@ -8,8 +8,8 @@
         public string? Descripcion { get; set; }
         public int NumLikes { get; set; } = 0;
         public bool Visible { get; set; } = false;
-        public bool? Aprobado { get; set; } = null; // null = pendiente, true = aprobado, false = rechazado
-
+        public bool? Aprobado { get; set; } = null; 
+        public DateTime FechaCreacion { get; set; }
         public Usuario? Usuario { get; set; }
         public Pelicula? Pelicula { get; set; }
     }

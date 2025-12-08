@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Fylt.Domain.VOs.ActividadesVOs
 {
     public class CreateActividadVO
     {
-        public int IdUser { get; set; }
-        public string? Genero { get; set; }
-        public string? Actor { get; set; }
+        public int? IdUsuario { get; set; }
+        public string? TipoActividad { get; set; }
+        public DateTime? FechaAccion { get; set; }
+        public string? Detalles { get; set; }
     }
 }

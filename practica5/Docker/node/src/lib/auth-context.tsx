@@ -78,9 +78,7 @@ useEffect(() => {
 
   const login = async (email: string, password: string) => {
     try {
-      console.log("🔹 Iniciando sesión:", email)
       const response = await authService.login({ email, password })
-      console.log("🔹 Respuesta backend:", response)
 
       if (!response.success) {
         return { success: false, error: response.error || "Credenciales inválidas" }
@@ -97,7 +95,6 @@ useEffect(() => {
 
       return { success: true }
     } catch (error) {
-      console.error("Error en login:", error)
       return { success: false, error: "Error al conectar con el servidor" }
     }
   }
@@ -115,7 +112,6 @@ const register = async (payload: RegisterPayload) => {
     router.push("/");
     return { success: true };
   } else {
-    console.error("Error en registro:", response.error);
     return { success: false, error: response.error || "Error al crear Usuario" };
   }
 };

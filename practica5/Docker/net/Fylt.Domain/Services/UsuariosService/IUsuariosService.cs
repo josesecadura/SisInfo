@@ -21,6 +21,6 @@ namespace Fylt.Domain.Services.UsuariosService
         // Para recuperar un usuario mediante su id
         Task<UsuarioVO> GetUserById(int id);
         Task<bool> ChangePasswordAsync(int id, string oldPassword, string newPassword);
-
+        Task<bool> UserNameExist(String username);
     }
 }

@@ -51,4 +51,8 @@ export const userService = {
   async me() {
     return apiClient.get<User>(API_ENDPOINTS.auth.me)
   },
+
+  async userNameExists(username: string) {
+    return apiClient.get<boolean>(API_ENDPOINTS.users.userNameExists(username))
+  }
 }

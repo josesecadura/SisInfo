@@ -10,16 +10,29 @@ namespace Fylt.Infrastructure.Context.Configurations
         {
             builder.ToTable("actividades");
 
-            builder.HasKey(x => x.IdUser);
+            builder.HasKey(x => x.Id);
+            builder.Property(x => x.Id).HasColumnName("id");
 
-            builder.Property(x => x.IdUser).HasColumnName("id_user");
-            builder.Property(x => x.Genero).HasColumnName("genero");
-            builder.Property(x => x.Actor).HasColumnName("actor");
+            // 2. Mapeo de nuevas columnas de Log
+            builder.Property(x => x.TipoActividad)
+                   .HasColumnName("tipo_actividad")
+                   .IsRequired(); // Asegura NOT NULL
+
+            builder.Property(x => x.FechaAccion)
+                   .HasColumnName("fecha_accion")
+                   .IsRequired(); // Asegura NOT NULL
+
+            builder.Property(x => x.Detalles)
+                   .HasColumnName("detalles");
+
+            builder.Property(x => x.IdUsuario)
+                   .HasColumnName("id_usuario"); // <-- CRÍTICO: Debe ser minúsculas y snake_case
 
             builder.HasOne(x => x.Usuario)
-                .WithOne(x => x.Actividades)
-                .HasForeignKey<Actividad>(x => x.IdUser)
-                .OnDelete(DeleteBehavior.Cascade);
+                   .WithMany(u => u.Actividades)
+                   .HasForeignKey(x => x.IdUsuario) // Le decimos explícitamente que IdUsuario es la FK
+                   .IsRequired(false) // Coincide con el NULLABLE de la base de datos
+                   .OnDelete(DeleteBehavior.SetNull);
         }
     }
 }

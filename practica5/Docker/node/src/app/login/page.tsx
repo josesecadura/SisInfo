@@ -15,6 +15,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog"
+import { ActividadService } from "@/lib/api/services/actividad.service"
 
 export default function LoginPage() {
   const [email, setEmail] = useState("")
@@ -32,6 +33,11 @@ export default function LoginPage() {
     const result = await login(email, password)
 
     if (!result.success) {
+      // Registrar login fallido
+      await ActividadService.registrarActividad({
+        tipoActividad: "LOGIN_FALLIDO",
+        detalles: `Intento con email: ${email}`
+      })
       // Verificar si es un error 401 (credenciales incorrectas)
       const errorMsg = result.error || "Error al iniciar sesión"
       if (errorMsg.includes("401") || errorMsg.includes("Unauthorized") || errorMsg.includes("credenciales")) {
@@ -40,12 +46,14 @@ export default function LoginPage() {
         setError(errorMsg)
       }
       setIsLoading(false)
+    } else {
+      // Registrar login exitoso
+      await ActividadService.registrarActividad({
+        tipoActividad: "LOGIN_EXITOSO",
+        idUsuario: result.user?.id,
+        detalles: "Login correcto"
+      })
     }
-  }
-
-  const handleGoogleLogin = () => {
-    // Mock Google login
-    alert("Google Sign-In no está implementado en esta demo")
   }
 
   return (
@@ -119,7 +127,7 @@ export default function LoginPage() {
               type="button"
               variant="outline"
               className="w-full bg-white text-black hover:bg-gray-100 h-10 md:h-11"
-              onClick={handleGoogleLogin}
+              disabled
             >
               <svg className="mr-2 h-4 w-4" viewBox="0 0 24 24">
                 <path

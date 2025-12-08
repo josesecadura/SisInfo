@@ -1,5 +1,6 @@
 import { apiClient } from "../client"
 import { API_ENDPOINTS } from "../config"
+import { ActividadService } from "./actividad.service"
 
 export interface LoginPayload {
   email: string
@@ -41,24 +42,26 @@ async login(payload: LoginPayload) {
     if (refreshToken) localStorage.setItem("refreshToken", refreshToken);
     if (user) localStorage.setItem("fylt_user", JSON.stringify(user));
 
+    // Registrar login exitoso
+    await ActividadService.registrarActividad({
+      tipoActividad: "LOGIN_EXITOSO",
+      idUsuario: user?.id,
+      detalles: `Login exitoso para usuario: ${user?.username || payload.email}`
+    });
+
     return { success: true, data: authData };
   }
+
+  // Registrar login fallido
+  await ActividadService.registrarActividad({
+    tipoActividad: "LOGIN_FALLIDO",
+    detalles: `Intento fallido de login con email: ${payload.email}`
+  });
 
   return { success: false, error: response.error };
 },
 
-  // Registro
 async register(payload: RegisterPayload) {
-  console.log("📊 Enviando registro con datos:", {
-    username: payload.username,
-    email: payload.email,
-    realName: payload.realName,
-    hasAvatar: !!payload.avatar,
-    avatarSize: payload.avatar ? (payload.avatar.length / 1024).toFixed(2) + "KB" : "N/A",
-    hasBio: !!payload.bio,
-    bioLength: payload.bio ? payload.bio.length : 0
-  });
-  
   const response = await apiClient.post<AuthResponse>(API_ENDPOINTS.auth.register, {
     username: payload.username,
     email: payload.email,
@@ -78,6 +81,13 @@ async register(payload: RegisterPayload) {
     if (token) localStorage.setItem("authToken", token);
     if (refreshToken) localStorage.setItem("refreshToken", refreshToken);
     if (user) localStorage.setItem("fylt_user", JSON.stringify(user));
+
+    // Registrar usuario registrado
+    await ActividadService.registrarActividad({
+      tipoActividad: "USUARIO_REGISTRADO",
+      idUsuario: user?.id,
+      detalles: `Nuevo usuario registrado: ${user?.username || payload.username}`
+    });
 
     return { success: true, data: authData };
   }

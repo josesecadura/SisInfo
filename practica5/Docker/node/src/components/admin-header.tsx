@@ -7,7 +7,7 @@ import { useAuth } from "@/lib/auth-context"
 import { LogOut } from "lucide-react"
 
 interface AdminHeaderProps {
-  currentPage: "peliculas" | "reviews" | "encuestas" | "api-key"
+  currentPage: "peliculas" | "reviews" | "encuestas" | "api-key" | "estadisticas"
 }
 
 export function AdminHeader({ currentPage }: AdminHeaderProps) {
@@ -45,6 +45,14 @@ export function AdminHeader({ currentPage }: AdminHeaderProps) {
                 }`}
               >
                 Api Key
+              </Link>
+              <Link
+                href="/admin/estadisticas"
+                className={`text-xs md:text-sm transition-colors hover:text-foreground ${
+                  currentPage === "estadisticas" ? "font-bold text-foreground" : "text-muted-foreground"
+                }`}
+              >
+                Estadísticas
               </Link>
             </nav>
           </div>

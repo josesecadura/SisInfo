@@ -228,5 +228,28 @@ namespace Fylt.Api.Controllers
                 return StatusCode(500, ApiResponseBase.Fail("Error interno al cambiar la contraseña.", 500));
             }
         }
+
+        [HttpGet("UsernameExists")]
+        public async Task<IActionResult> UsernameExists([FromQuery] string username)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(username))
+                {
+                    return BadRequest("El parámetro 'username' es obligatorio.");
+                }
+
+                // Llamada al método del servicio
+                bool exists = await _usuarioService.UserNameExist(username);
+
+                // Devuelve el estado 200 OK con un valor booleano en el cuerpo
+                return Ok(exists);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error al verificar la existencia del nombre de usuario {Username}: {Message}", username, ex.Message);
+                return StatusCode(500, ApiResponseBase.Fail("Error interno al verificar el nombre de usuario.", 500));
+            }
+        }
     }
 }
