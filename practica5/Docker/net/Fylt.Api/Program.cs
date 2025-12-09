@@ -85,11 +85,6 @@ var follows = builder.Services.BuildServiceProvider()
     .GetRequiredService<FyltContext>()
     .Model.FindEntityType(typeof(UsuarioSeguidor));
 
-Console.WriteLine("=== MAPPING REAL DE EF CORE ===");
-foreach (var p in follows.GetProperties())
-{
-    Console.WriteLine($"Propiedad: {p.Name} - Column: {p.GetColumnName()}");
-}
 // TRABAJAR EN LOCAL ADMIN Y USER
 if (app.Environment.IsDevelopment())
 {
