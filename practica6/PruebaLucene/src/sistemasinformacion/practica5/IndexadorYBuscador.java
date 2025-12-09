@@ -66,7 +66,7 @@ public class IndexadorYBuscador{
 		this.ficherosAIndexar = ficherosAIndexar;
 		this.queries = queries;
 		
-		analizador = new SimpleAnalyzer();
+		//analizador = new SimpleAnalyzer();
 
 /*		try {
 			FileReader reader = new FileReader("./ficheros/stopwords.txt");
@@ -76,7 +76,7 @@ public class IndexadorYBuscador{
 			analizador = new StandardAnalyzer();
 		} 
 */
-		//analizador = new SpanishAnalyzer();
+		analizador = new SpanishAnalyzer();
 
 	
 	}
@@ -202,6 +202,7 @@ public class IndexadorYBuscador{
 		// Establecemos las palabras clave a utilizar en la búsqueda
 		Collection <String> queries = new ArrayList <String>();
 		queries.add("Contaminación");
+		queries.add("Contaminacion");
 		queries.add("cambio climatico");
 		queries.add("cambio climático");
 		queries.add("cambio");
