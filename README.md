@@ -1,4 +1,4 @@
-# Sistemas de Información – Prácticas 1 y 2
+# Sistemas de Información – Prácticas
 
 Repositorio privado para la asignatura **Sistemas de Información**  
 Grado en Ingeniería Informática – Universidad de Zaragoza  
